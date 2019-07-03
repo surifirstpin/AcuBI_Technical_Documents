@@ -174,21 +174,21 @@ To filter data from a view and the respective mapping views, the filter criteria
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  **Number-Based** :**  standard filters which are applicable on numbers.
+-  **Number-Based:**  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   **User-based :** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
+-   **User-based:** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
--   **globalparam**  the name of the global parameter which contains the user based list of values.
--   **ref_field**  the column name in global parameter which contains the filter values.
--   **gp_username_field**  the column name in global parameter which contains the usernames.
+-   **GlobalParam:**  the name of the global parameter which contains the user based list of values.
+-   **Ref_Field**  the column name in global parameter which contains the filter values.
+-   **Gp_Username_Field**  the column name in global parameter which contains the usernames.
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
-**II.**  **Position**  It is the priority to apply the filter “before” or “after”.
+**II.**  **Position**  Assigning  filter “before” or “after”.
 -   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in Report section.
 -   **After**  the filter will be applied to the data after applying them in Report section.
 
@@ -661,7 +661,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjc5NjI1NjMsMTE2MjA0NDc1OSwtMT
-YwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0Nzcz
-NV19
+eyJoaXN0b3J5IjpbLTg4ODgyNjM0NCwxMTYyMDQ0NzU5LC0xNj
+A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
+XX0=
 -->
