@@ -562,9 +562,12 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 
 
 # Maps
+Maps in AcuBI enables users to visualize the geographic data on interact
 
 AcuBi provides map view by covering various number of countries. Also, there are special attributes like colour change for specific range of values.
+Map charts enable users to visualize geographic data on responsive and interactive maps. These maps also provide significant control of the way that map points are plotted.
 
+To create a map chart, your query must include at least one dimension that is based on geographic data. If you include measures in your query, the map will represent that data about your locations. For example:
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
 ```
 {
@@ -658,5 +661,6 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4NDgyNDcsMjA2OTA0NzczNV19
+eyJoaXN0b3J5IjpbMTY4MzAxODg2Myw1Nzg0ODI0NywyMDY5MD
+Q3NzM1XX0=
 -->
