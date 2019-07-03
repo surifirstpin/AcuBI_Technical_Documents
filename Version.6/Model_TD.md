@@ -666,12 +666,13 @@ To view and access the existing projects and views, click on projects on top rig
 
 ## Edit Project
 
+You can rename 
 To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1OD
-YxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNjEzOTY4Nzc1
-LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3OD
-Q4MjQ3LDIwNjkwNDc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTEyNDY4OTQ3MiwxNTMyMTgzMzExLDczNT
+M4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3MDEsNDUxNjMzNzU5
+LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMTYwNzgzMjY2NSwyMT
+I1ODE2NTMsNTc4NDgyNDcsMjA2OTA0NzczNV19
 -->
