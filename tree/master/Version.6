@@ -672,14 +672,14 @@ You can rename the project created, insert more tables into already existing pro
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
 **Image 13**
 
-Insert customers table in to the project by selecting the checkbox for customers then click on update button to save the changes made.
+Insert customers table in to the project by selecting the *checkbox for customer*s then click on *update* button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
 **Image 14**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNT
-MyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3
-MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMT
-YwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0Nzcz
-NV19
+eyJoaXN0b3J5IjpbLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMT
+Q2ODQzNjQ2NSwxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEz
+MTQ1LC04NjMzMzI3MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMT
+E2MjA0NDc1OSwtMTYwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgy
+NDcsMjA2OTA0NzczNV19
 -->
