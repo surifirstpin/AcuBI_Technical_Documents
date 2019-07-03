@@ -562,8 +562,7 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 
 
 # Maps
-Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information the location selected.
-
+Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information about the location selected.
 To carryout maps under visualization you need to derive the field in Model Section first.
 
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
@@ -659,6 +658,6 @@ To carryout maps under visualization you need to derive the field in Model Secti
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDA1MDM1Niw1Nzg0ODI0NywyMDY5MD
-Q3NzM1XX0=
+eyJoaXN0b3J5IjpbMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwND
+c3MzVdfQ==
 -->
