@@ -659,7 +659,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 ## Existing Projects and Views
 
-To View the exist
+To view and access the existing projects and views
 In the top section of the  **LookML Projects**  page, you can see certain existing projects. In Production Mode, you see projects that have been generated and pushed to production. In Development Mode, you see projects that you have pulled from production or generated yourself in your Development Mode.
 
 To see a project, you must have the  [`manage_models`](https://docs.looker.com/admin-options/settings/roles#manage-models)  permission, or have the  [`develop`](https://docs.looker.com/admin-options/settings/roles#develop)permission for at least one model in the project.
@@ -668,7 +668,7 @@ If you have the  [`manage_models`](https://docs.looker.com/admin-options/setting
 
 To specify a new project or a new model for an existing project, see the  [Creating a New LookML Project](https://docs.looker.com/data-modeling/getting-started/create-projects)  documentation page.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDE5NDkxNzIsLTYxMzk2ODc3NSwxMT
-YyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0
-NywyMDY5MDQ3NzM1XX0=
+eyJoaXN0b3J5IjpbMTYxNDExOTgwOCwtNjEzOTY4Nzc1LDExNj
+IwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3
+LDIwNjkwNDc3MzVdfQ==
 -->
