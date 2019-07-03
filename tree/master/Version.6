@@ -666,9 +666,10 @@ To view and access the existing projects and views, click on projects on top rig
 
 ## Edit Project
 
-To edit any existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
+To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MT
-YzMzc1OSwtNjEzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2
-NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzVdfQ==
+eyJoaXN0b3J5IjpbNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2Mz
+MzMjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5
+LC0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MD
+Q3NzM1XX0=
 -->
