@@ -669,10 +669,11 @@ To view and access the existing projects and views, click on projects on top rig
 To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
 You can rename the project created, insert more tables into already existing projects as show in the below image.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3Mz
-UzODI0NTEsLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1
-OSwtNjEzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMj
-EyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1ODcyNTI3NTYsLTE0Njg0MzY0NjUsMT
+UzMjE4MzMxMSw3MzUzODI0NTEsLTk1ODYxMzE0NSwtODYzMzMy
+NzAxLDQ1MTYzMzc1OSwtNjEzOTY4Nzc1LDExNjIwNDQ3NTksLT
+E2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3
+MzVdfQ==
 -->
