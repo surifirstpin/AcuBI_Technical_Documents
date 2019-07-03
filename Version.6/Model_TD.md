@@ -188,9 +188,9 @@ ROOT.BI_Orders.Amount IS NOT NULL
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
-**II.**  **Position**  Assigning  filter “before” or “after”.
--   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in Report section.
--   **After**  the filter will be applied to the data after applying them in Report section.
+**II.**  **Position**  Assigning filter “before” or “after" the data.
+-   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in report section.
+-   **After**  the filter will be applied to the data after applying filters in report section.
 
 **2.B. Join Characteristics**
 
@@ -661,7 +661,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4ODgyNjM0NCwxMTYyMDQ0NzU5LC0xNj
+eyJoaXN0b3J5IjpbMTkzNDg5NDA2NSwxMTYyMDQ0NzU5LC0xNj
 A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
 XX0=
 -->
