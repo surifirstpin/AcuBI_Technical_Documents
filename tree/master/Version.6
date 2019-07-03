@@ -666,8 +666,9 @@ To view and access the existing projects and views, click on projects on top rig
 
 ## Edit Project
 
+To edit any existing projects, navigate to projects screen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MzMzMjcwMSw0NTE2MzM3NTksLTYxMz
-k2ODc3NSwxMTYyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4MTY1
-Myw1Nzg0ODI0NywyMDY5MDQ3NzM1XX0=
+eyJoaXN0b3J5IjpbLTEwMzUyODIzNywtODYzMzMyNzAxLDQ1MT
+YzMzc1OSwtNjEzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2
+NjUsMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzVdfQ==
 -->
