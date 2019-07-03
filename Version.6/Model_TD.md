@@ -678,12 +678,12 @@ Insert customers table in to the project by selecting the *checkbox for customer
 **Image 14**
 
 ## Deleting Project
-Dleting project will 
+Deleting project will permenently removes project from database. To carryout deletion click on delete icon next to project list. it will pop-up a message showing to delete the file permemnantly. Click delete to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5OTc2MjY5Myw4NjY2MDQ1NSwtMTU2ND
-MyMTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2
-NDY1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLT
-g2MzMzMjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0
-NzU5LC0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMD
-Y5MDQ3NzM1XX0=
+eyJoaXN0b3J5IjpbLTE0MDM0ODA5MDQsODY2NjA0NTUsLTE1Nj
+QzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQz
+NjQ2NSwxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC
+04NjMzMzI3MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0
+NDc1OSwtMTYwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMj
+A2OTA0NzczNV19
 -->
