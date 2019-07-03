@@ -196,9 +196,9 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 **Join attributes are defined as follows :**
 
--   **join** the view name to be joined with the primary view.
--   **join_type**  the method of joining two views. Either left or right is similar to “**Join**” functionality.
--   **join_on**  the specific criteria of joining the views with a relation among relevant fields.
+-   **Join** the view name to be joined with the primary view.
+-   **Join_type**  the method of joining two views. Either left or right is similar to “**Join**” functionality.
+-   **Join_on**  the specific criteria of joining the views with a relation among relevant fields.
 
 ```
 {
@@ -221,12 +221,10 @@ Views are independent tables chosen while creating a project. All the columns in
 
 **AcuBi allows various actions to performed in views as follows:**
 
--  Creating a new field ( User Defined Fields ).
+-  Creating a new field (User Defined Fields).
 
 -  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views.
-
 -  Assigning currency & number format for measure fields.
-
 -  Extracting different date formats from the date field permissible formats like hour, day, week, month, quarter, year, date, week_day, date_month, date_quarter, date_hour, year_week.
 -  You can create new custom views.
 -  Assigning drill down fields for a field.
@@ -661,7 +659,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDg5NDA2NSwxMTYyMDQ0NzU5LC0xNj
+eyJoaXN0b3J5IjpbMTQ3MTU3MjQ1NSwxMTYyMDQ0NzU5LC0xNj
 A3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1
 XX0=
 -->
