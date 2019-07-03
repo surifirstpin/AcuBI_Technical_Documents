@@ -677,10 +677,11 @@ Insert customers table in to the project by selecting the *checkbox for customer
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
 **Image 14**
 
+## Delete Project
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDQwNTU4OCwtMTA0NTMzNDMxMCwxNT
-MzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1Mzgy
-NDUxLC05NTg2MTMxNDUsLTg2MzMzMjcwMSw0NTE2MzM3NTksLT
-YxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNjA3ODMyNjY1LDIxMjU4
-MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1XX0=
+eyJoaXN0b3J5IjpbNjc3OTM4Nzc0LC0xMDQ1MzM0MzEwLDE1Mz
+M3Njc0NDgsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0
+NTEsLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNj
+EzOTY4Nzc1LDExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgx
+NjUzLDU3ODQ4MjQ3LDIwNjkwNDc3MzVdfQ==
 -->
