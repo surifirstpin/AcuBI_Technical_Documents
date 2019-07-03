@@ -525,11 +525,11 @@ Click **Save** to Save the View in database.
    - Maximum
    - Minimum
 
-## Drill-down 
+## Drill-Down 
 
 Drill-down is used for exploring the data further with respect to a field value. AcuBi has an ability to define drill option for a field with a set of derivable fields and when clicked on a particular value of an assigned field, the individual records that make up that cell will be displayed by limiting the query with the clicked value.
 
-## Show drill-down measures
+## Show Drill-Down Measures
 
 Sometimes, it may be necessary to bring the current stage measure fields to the next drill stage along with the drill fields.
 
@@ -658,5 +658,5 @@ AcuBi provides map view by covering various number of countries. Also, there are
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTA0NzczNV19
+eyJoaXN0b3J5IjpbNTc4NDgyNDcsMjA2OTA0NzczNV19
 -->
