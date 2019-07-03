@@ -564,7 +564,6 @@ As  **Show drill down measures**  is set  **TRUE**, the associated measures (if 
 # Maps
 Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information the location selected.
 
-To create a map chart, your query must include at least one dimension that is based on geographic data. If you include measures in your query, the map will represent that data about your locations. For example:
  **For Model, Views and for a specific field the map co-ordinates  may be assigned as follows :**
 ```
 {
@@ -658,6 +657,6 @@ To create a map chart, your query must include at least one dimension that is ba
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODgwMTIwMCw1Nzg0ODI0NywyMDY5MD
-Q3NzM1XX0=
+eyJoaXN0b3J5IjpbLTE1MzEzMjUxMjAsNTc4NDgyNDcsMjA2OT
+A0NzczNV19
 -->
