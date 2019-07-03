@@ -461,6 +461,7 @@ Once the view is created, label the database field and derive the custom table u
 - **Database** table is used to retrieve the data fields.
 - **Connection** establish the database connection for deriving new fields.
 ## Save View
+
 Click **Save** to Save the View in database.
 
 ![
@@ -658,6 +659,6 @@ To carryout maps under visualization you need to derive the field in Model Secti
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNTgxNjUzLDU3ODQ4MjQ3LDIwNjkwND
-c3MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3OD
+Q4MjQ3LDIwNjkwNDc3MzVdfQ==
 -->
