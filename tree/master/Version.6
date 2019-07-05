@@ -152,10 +152,10 @@ To filter data from a view and the respective mapping views, the filter criteria
 "name": "View_Name",
 "label": "View_Name",
 "filters": [{
-"name": "filter_name",                                 * filter name *
+"name": "filter_name",                                 *filter name*
 "filter_sql": Filter Expression ",                     * expression or condition to be applied*
 "apply": "all",
-"position": "before"                                   * position of filter*
+"position": "before"                                   *position of filter*
            }],
 "joins":[]
 }
@@ -682,7 +682,7 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4OTk5ODUxNywtMTA5NzA2MTcyNywyNT
+eyJoaXN0b3J5IjpbLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNT
 Q3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1
 LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLT
 E0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1ODYx
