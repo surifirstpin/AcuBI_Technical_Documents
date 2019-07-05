@@ -15,7 +15,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 > **Navigation: Model → Projects → New Project**
 
-### Step 1
+### Step 1:
 
 **1.**  Click **New Project** button, to create a new project in a model.
 
@@ -26,21 +26,21 @@ A model is a customized gateway into the database for accessing data as per busi
 **Enter the following details;**
 
 -   **Project Name:**  Enter the project name.
-### Step 2    
+### Step 2:    
 -   **Connection:**  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
 **Image 2**
 
-###  Step 3
+###  Step 3:
 - **Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
 **Image 3**
 
-### Step 4
+### Step 4:
 - **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
 **2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
@@ -682,11 +682,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0NzAxNjA1LDEyNjM3NTI4NzUsMjU0Nz
-AxNjA1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUs
-LTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNT
-MyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3
-MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMT
-YwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0Nzcz
-NV19
+eyJoaXN0b3J5IjpbLTE2MzEyMzg0NzUsMjU0NzAxNjA1LDEyNj
+M3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5
+NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LD
+E1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2MzMz
+MjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC
+0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3
+NzM1XX0=
 -->
