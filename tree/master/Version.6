@@ -155,7 +155,7 @@ To filter data from a view and the respective mapping views, the filter criteria
 "name": "filter_name",                                 * filter name *
 "filter_sql": Filter Expression ",                     * expression or condition to be applied*
 "apply": "all",
-"position": "before"                                   * position of filter *
+"position": "before"                                   * position of filter*
            }],
 "joins":[]
 }
@@ -682,11 +682,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNj
-M3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5
-NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LD
-E1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2MzMz
-MjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC
-0xNjA3ODMyNjY1LDIxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3
-NzM1XX0=
+eyJoaXN0b3J5IjpbLTM4OTk5ODUxNywtMTA5NzA2MTcyNywyNT
+Q3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1
+LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLT
+E0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1ODYx
+MzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNjEzOTY4Nzc1LD
+ExNjIwNDQ3NTksLTE2MDc4MzI2NjUsMjEyNTgxNjUzLDU3ODQ4
+MjQ3XX0=
 -->
