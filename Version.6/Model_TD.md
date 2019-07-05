@@ -49,7 +49,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
 **Image 4**
 
-### Step 5
+### Step 5:
 -   **Privacy** you can save the project in any one of the following privacy option.
     -   **Private:**  report saved in private section are accessed by the existing user only.
     -   **Public:**  report is saved in public section are accessed by all the users.
@@ -66,7 +66,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ## Edit Project
 
-- Click on Projects, select the desired project and hit the **Edit** button.
+Click Projects, select the desired project and hit the **Edit** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/e535debfb80662d425803114d0399ad21e615cda/images/New_version5/TD_Model_image6.png)
@@ -682,7 +682,7 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzEyMzg0NzUsMjU0NzAxNjA1LDEyNj
+eyJoaXN0b3J5IjpbLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNj
 M3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5
 NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LD
 E1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2MzMz
