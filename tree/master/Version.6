@@ -1,7 +1,7 @@
 <center><h2>MODEL</h2></center>
 
 This section introduces the steps to create a new project and accordingly generates a basic model from the database.
-A model is a customized gateway into the database for accessing data as per business logic . AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
+A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
 **A model can be defined in 3 steps :**
 
@@ -682,10 +682,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mzc1Mjg3NSwyNTQ3MDE2MDUsMTQzMD
-UwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMzNDMx
-MCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNz
-M1MzgyNDUxLC05NTg2MTMxNDUsLTg2MzMzMjcwMSw0NTE2MzM3
-NTksLTYxMzk2ODc3NSwxMTYyMDQ0NzU5LC0xNjA3ODMyNjY1LD
-IxMjU4MTY1Myw1Nzg0ODI0NywyMDY5MDQ3NzM1XX0=
+eyJoaXN0b3J5IjpbMjU0NzAxNjA1LDEyNjM3NTI4NzUsMjU0Nz
+AxNjA1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUs
+LTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNT
+MyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3
+MDEsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMT
+YwNzgzMjY2NSwyMTI1ODE2NTMsNTc4NDgyNDcsMjA2OTA0Nzcz
+NV19
 -->
