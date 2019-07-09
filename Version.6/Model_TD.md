@@ -6,7 +6,8 @@ A model is a customized gateway into the database for accessing data as per busi
 
 **A model can be defined in 3 steps :**
 
--   Creating a Project with required database and respective tables.
+-   Creating a Project with required 
+- database and respective tables.
 
 -   Customize the Model using IDE as per the business requirement.
 
@@ -684,11 +685,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNz
-kzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUy
-ODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLT
-EwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNTMy
-MTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMzMzI3MD
-EsNDUxNjMzNzU5LC02MTM5Njg3NzUsMTE2MjA0NDc1OSwtMTYw
-NzgzMjY2NV19
+eyJoaXN0b3J5IjpbMTEzOTMxNDM1OSwtMTk3MTE0NTI4NCwyMD
+UxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMjU0NzAx
+NjA1LDEyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMT
+U2NDMyMTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4
+NDM2NDY1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxND
+UsLTg2MzMzMjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYy
+MDQ0NzU5XX0=
 -->
