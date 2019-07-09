@@ -62,7 +62,8 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
 **Image 5**
 
-**3.** Once all the entries are made, click on  **Save Project**  to save the project created.
+**3.** Once all the entries are made, click on  **
+Save Project**  to save the project created.
 
 > **Note:** All the saved projects are visible on left hand side under projects.
 
@@ -685,11 +686,11 @@ Deleting project will permanently removes project from database. To carryout del
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTMxNDM1OSwtMTk3MTE0NTI4NCwyMD
-UxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMjU0NzAx
-NjA1LDEyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMT
-U2NDMyMTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4
-NDM2NDY1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxND
-UsLTg2MzMzMjcwMSw0NTE2MzM3NTksLTYxMzk2ODc3NSwxMTYy
-MDQ0NzU5XX0=
+eyJoaXN0b3J5IjpbMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOT
+cxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2
+MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LD
+g2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3
+Njc0NDgsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0NT
+EsLTk1ODYxMzE0NSwtODYzMzMyNzAxLDQ1MTYzMzc1OSwtNjEz
+OTY4Nzc1XX0=
 -->
