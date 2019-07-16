@@ -293,6 +293,7 @@ To calculate Average of bets_usd_sum and amount 2500, derive the following expre
 bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
 ```
 
+The resultant for this expression would average values of above mentioned values.
 
 
 ## Usage of #math#plugin# for Grid View
@@ -435,7 +436,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mjc4MjgzMyw0OTU0MTIzOTEsLTUzMT
+eyJoaXN0b3J5IjpbMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMT
 Y4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4
 MCwxNTE5NTMxNTU2XX0=
 -->
