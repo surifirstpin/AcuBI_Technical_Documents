@@ -290,11 +290,10 @@ Perform Arithmetic operation on desired fields in calculated columns.
 > **For Instance:**
 To calculate Average of bets_usd_sum and amount 2500, derive the following expression in calculated column screen.
  ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
+bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
 ```
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8482aac4e08d59dd60a2b28e6d34302df3357ebd/images/calculated1.png)
+
 
 ## Usage of #math#plugin# for Grid View
 
@@ -436,7 +435,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTc5MzQyMiw0OTU0MTIzOTEsLTUzMT
+eyJoaXN0b3J5IjpbMTk4Mjc4MjgzMyw0OTU0MTIzOTEsLTUzMT
 Y4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4
 MCwxNTE5NTMxNTU2XX0=
 -->
