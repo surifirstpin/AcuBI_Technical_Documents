@@ -58,7 +58,7 @@ Custom made mathematical operations can be added in calculated column section as
  To calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
 
 ```
-bi.days_in_month(${pragmatic.casino_customer.month_startdate}) 
+bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a7e642a0db11012173026655b5352dc4dc1bd223/images/New_version5/TD_CC_Image3.png)
@@ -432,6 +432,6 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk4ODk0MjksNjA5NTk3MTM0LC05Mz
-Q0NzIzODAsMTUxOTUzMTU1Nl19
+eyJoaXN0b3J5IjpbNzkzNDIzMSwtMTE1OTg4OTQyOSw2MDk1OT
+cxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
 -->
