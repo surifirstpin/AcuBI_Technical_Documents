@@ -376,12 +376,9 @@ By enabling the field **Calculate On Raw** the calculation is applied on all the
 >**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 
 ```
-bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE} ,2)
+bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 ```
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/457490d3185941046566d493017e4f95c2b8b18a/images/calculate_on_raw.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dfd8ceeda25a946ba3170730047ce3d8b09d9fa0/images/New_version5/TD_CC_Image7.png)
 ## Calculate column with Pivot Offset
 
 >**For Instance:** To view the order-value sum and average w.r.t each station code, apply pivot to station-code and run the report.
@@ -417,8 +414,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNj
-U5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1
-OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNT
-E5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbOTQ1MDI3MDEwLDc5MTk3NjczNCwyMDMyMz
+Q1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkx
+LC01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05Mz
+Q0NzIzODAsMTUxOTUzMTU1Nl19
 -->
