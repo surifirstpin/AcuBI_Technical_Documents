@@ -301,8 +301,6 @@ The resultant for this expression would average values:
 **Image 6** 
 
 
-```
-
 ## Calculate Custom Functions
 
 It will execute a series of actions on a database record and returns a particular value.
@@ -419,8 +417,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjE1NzA4ODAsMjAzMjM0NTc4MSwtMT
-A2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgw
-NzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLD
-E1MTk1MzE1NTZdfQ==
+eyJoaXN0b3J5IjpbNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNj
+U5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1
+OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNT
+E5NTMxNTU2XX0=
 -->
