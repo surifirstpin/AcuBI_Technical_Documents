@@ -23,8 +23,7 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 Click on **Calculated column** button to enable table calculations as shown in below image,
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/9dd01207f083d272ba2269a4c999dfa8976f1914/images/calculate%20column1.png)
+
 
 After navigating to Calculated Column Window, Enter all the below fields.
 
@@ -48,7 +47,8 @@ After navigating to Calculated Column Window, Enter all the below fields.
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97b3a3853c6c77d37e4e049e95204864161eb785/images/New_version5/TD_CC_Image2.png)
-**Image 
+**Image 3**
+
 ## Mathematical operation 
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
@@ -434,5 +434,5 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTEzMDE3MSwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbMTA0NDc3Mzg1LDE1MTk1MzE1NTZdfQ==
 -->
