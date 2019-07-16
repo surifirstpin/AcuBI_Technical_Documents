@@ -300,28 +300,7 @@ The resultant for this expression would average values:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f447485e9df72be1a5ed91a1bd24c7de54308af/images/New_version5/TD_CC_Image6.png)
 **Image 6** 
 
-## Usage of #math#plugin# for Grid View
 
-Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
-
- **biCalculation.pluginData.raw**  holds the Raw JSON data and can be transformed as per the requirement.
-
-```
-#plugin#
-
-/*START*/
-function localFunction(param1,param2,...ParamN)
-{ 
-                                                                            * update raw data *
-for(var i =0 ; i < _biCalculation.pluginData.raw.length; i++)
-    {
-         var item = biCalculation.pluginData.raw[i];
-         
-    }
-
-return item;
-}
-/*END*/
 ```
 
 ## Calculate Custom Functions
@@ -440,8 +419,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMz
-E1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5ODg5
-NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1MzE1NTZdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMjE1NzA4ODAsMjAzMjM0NTc4MSwtMT
+A2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgw
+NzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLD
+E1MTk1MzE1NTZdfQ==
 -->
