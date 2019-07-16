@@ -43,7 +43,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e460f84e0b5d682248fe9a8b68a3741dbba05bb2/images/New_version5/TD_CC_Image1.png)
-
+**Image 2**
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97b3a3853c6c77d37e4e049e95204864161eb785/images/New_version5/TD_CC_Image2.png)
@@ -62,9 +62,11 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7affb65120b0b17ab3b6a7bb14ec351c58fb27e/images/New_version5/TD_CC_Image4.png)
+ **Image 4**
  
   - The resultant for this calculated column will display number of working days in each month.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92bcc6564c0ad304b4ec4955cc3d43f693c3b9a6/images/New_version5/TD_CC_Image5.png)
+**Image 5**
 
 **AcuBi supports following functionalities in calculated column:**
 
@@ -295,6 +297,9 @@ bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
 
 The resultant for this expression would average values:
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f447485e9df72be1a5ed91a1bd24c7de54308af/images/New_version5/TD_CC_Image6.png)
+**Image 
+
 ## Usage of #math#plugin# for Grid View
 
 Plugin operators provides complete authority on creation,edition and deletion of raw data. It allows customization of data using JavaScript API language  as per the business requirement.
@@ -435,7 +440,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OT
-U0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcx
-MzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbNzUxMTQ1NTQ3LC0xMDY1OTIyMjY1LDEzMT
+UxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0
+MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
 -->
