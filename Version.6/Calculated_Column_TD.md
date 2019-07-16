@@ -61,9 +61,7 @@ Custom made mathematical operations can be added in calculated column section as
 bi.days_in_month(${ROOT.BI_ORDERS.date_month_WHENMADE}) 
 ```
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/e7895f0d4e17c8c8cbdccd25330829252949ae5b/images/cal_example.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a7e642a0db11012173026655b5352dc4dc1bd223/images/New_version5/TD_CC_Image3.png)
 **AcuBi supports following functionalities in calculated column:**
 
 ### General
@@ -434,5 +432,6 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbMTY4MjMxMzU3OCwtOTM0NDcyMzgwLDE1MT
+k1MzE1NTZdfQ==
 -->
