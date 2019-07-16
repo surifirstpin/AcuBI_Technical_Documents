@@ -23,8 +23,8 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 Click on **Calculated column** button to enable table calculations as shown in below image,
 
-
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/485c2058e4be936a828b501dff5ff718fd7b89fb/images/New_version5/TD_CC_Image0.png)
+**Image 1**
 After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
@@ -434,5 +434,5 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NDc3Mzg1LDE1MTk1MzE1NTZdfQ==
+eyJoaXN0b3J5IjpbLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
 -->
