@@ -298,7 +298,7 @@ bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
 The resultant for this expression would average values:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f447485e9df72be1a5ed91a1bd24c7de54308af/images/New_version5/TD_CC_Image6.png)
-**Image 
+**Image 6** 
 
 ## Usage of #math#plugin# for Grid View
 
@@ -440,7 +440,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxMTQ1NTQ3LC0xMDY1OTIyMjY1LDEzMT
-UxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0
-MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
+eyJoaXN0b3J5IjpbMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMz
+E1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5ODg5
+NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1MzE1NTZdfQ
+==
 -->
