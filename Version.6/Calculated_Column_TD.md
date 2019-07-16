@@ -43,13 +43,10 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/f9a2efaca57be8f52d3ff9d6c02291f6be8b2b70/images/calculate%20_expression.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e460f84e0b5d682248fe9a8b68a3741dbba05bb2/images/New_version5/TD_CC_Image1.png)
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image,
+- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/394d53042fd86efdc7a2f16a79e69b6434c9260f/images/calcu+result.png)
 
 
 ## Mathematical operation 
@@ -437,5 +434,5 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxOTUzMTU1Nl19
+eyJoaXN0b3J5IjpbLTEyOTQ2ODkyMCwxNTE5NTMxNTU2XX0=
 -->
