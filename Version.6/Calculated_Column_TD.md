@@ -382,7 +382,7 @@ bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 
 ## Calculate column with Pivot Offset
 
->**For Instance:** To view the order-value sum and average w.r.t each station code, apply pivot to station-code and run the report.
+>**For Instance:** To view the order-value sum and average with respect to each station code, apply pivot to station-code and run the report.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
@@ -415,8 +415,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMj
-M0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5
-MSwtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOT
-M0NDcyMzgwLDE1MTk1MzE1NTZdfQ==
+eyJoaXN0b3J5IjpbLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MT
+k3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYy
+OTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0MjksNj
+A5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
 -->
