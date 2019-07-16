@@ -288,7 +288,7 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 Perform Arithmetic operation on desired fields in calculated columns.
 
 > **For Instance:**
- To add an amount 2000 to the column field **order value sum**, derive the following expression in calculated column screen.
+To calculate Average of bets_usd_sum and amount 2500, derive the following expression in calculated column screen.
  ```
 bi.add(${ROOT.BI_DELIVERYREPORT.sum_ORDERVALUE},2000)
 ```
@@ -436,7 +436,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNT
-k4ODk0MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1
-Nl19
+eyJoaXN0b3J5IjpbMTQ2OTc5MzQyMiw0OTU0MTIzOTEsLTUzMT
+Y4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4
+MCwxNTE5NTMxNTU2XX0=
 -->
