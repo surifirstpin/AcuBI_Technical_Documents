@@ -144,8 +144,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
 
- **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
- 
+ **5.** Choose chart type **Widget** from drop-down list to compare the data using widget chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
 
@@ -494,8 +493,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjE4Nzc5NywtNzM1NzgzNzM4LDQ3Nz
-U1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDks
-LTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MD
-A2OCwxODEzMDcxMDczXX0=
+eyJoaXN0b3J5IjpbLTE4NDM4MjkyMzgsLTczNTc4MzczOCw0Nz
+c1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5
+LC03NzQwOTI2NTIsLTcyMjgyNjg1LDgxMjU1MTAyNCw0NTExNT
+AwNjgsMTgxMzA3MTA3M119
 -->
