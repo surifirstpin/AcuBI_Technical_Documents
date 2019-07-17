@@ -98,15 +98,16 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 - **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
 
 - **Polar Area** On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image6.png)
+**Image 6**
 
 -  **Donut** donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/931940aa7f830b84487e8ea4b873c0857bbfa3e9/images/donut.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image7.png)
+**Image 7**
 
 ## Radar chart 
 
- Radar charts are a great way to compare members of a dimension in a function of several metrics.  
+ Radar charts are great way to compare members of a dimension in a function of several metrics.  
 **For example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
@@ -465,8 +466,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1Nz
-A1NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIs
-LTcyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MT
-A3M119
+eyJoaXN0b3J5IjpbMjEzMTkyNjI2NiwtNzM1NzgzNzM4LDQ3Nz
+U1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDks
+LTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MD
+A2OCwxODEzMDcxMDczXX0=
 -->
