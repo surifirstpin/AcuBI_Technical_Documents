@@ -88,7 +88,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 Pie Chart are divided into slices to illustrate numerical proportions of the data.
 
- **3.**  Choose chart type **PIE** from given drop-down list compare the data using horizontal chart.
+ **3.**  Choose chart type **PIE** from given drop-down list compare the data using Pie chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
 **Image 5**
@@ -110,14 +110,15 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
  Radar charts are great way to compare members of a dimension in a function of several metrics.  
 **For example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Click on **Radar** tab under **General** section  to compare the data in  Radar chart.
+ **4.** Choose chart type **RADAR** from given drop-down list compare the data using Radar chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
 - **Points** on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart. Below are the following point styles available in AcuBi.  
+- **Point style** will specify how the data points will appear on chart.
+ Below are the following point styles available in AcuBi.  
   - Circle
   - Triangle
   - Rectangle
@@ -466,8 +467,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMTkyNjI2NiwtNzM1NzgzNzM4LDQ3Nz
-U1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDks
-LTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MD
-A2OCwxODEzMDcxMDczXX0=
+eyJoaXN0b3J5IjpbODM4OTYyNjkzLC03MzU3ODM3MzgsNDc3NT
+U2MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwt
+Nzc0MDkyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMD
+Y4LDE4MTMwNzEwNzNdfQ==
 -->
