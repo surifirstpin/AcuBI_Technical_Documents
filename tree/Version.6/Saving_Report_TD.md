@@ -3,7 +3,7 @@
 
 <center><h1>Saving Reports</h1></center>
 
-All the work done are save under save explore section this will save all the filter,sort,pivot, visualization and so on.
+All the work done are saved under save explore section, this will save all the filter, sorting, pivot, visualization and so on.
 
 ### Getting Started
 
@@ -64,5 +64,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDUxODk5LC0xMTcyNDgwMzg2XX0=
+eyJoaXN0b3J5IjpbLTE0Njg2NzIzODMsMjA2MDUxODk5LC0xMT
+cyNDgwMzg2XX0=
 -->
