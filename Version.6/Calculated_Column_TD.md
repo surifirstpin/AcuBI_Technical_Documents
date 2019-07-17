@@ -382,10 +382,12 @@ bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 
 ## Calculate column with Pivot Offset
 
-To calculate the sum
+To calculate the sum difference of each customer based on hub, lets apply pivot to hub field initially as shown in below image.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
 
-To view bets_sum difference of each hub for specific customer using Pivot_Offset() function.
+To view bets_sum difference of each hub for specific customer using Pivot_Offset() function. 
+en
 ```
 ${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
 ```
@@ -415,7 +417,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQyMTE3NTMsLTE2MDk0MTk1NTEsLT
+eyJoaXN0b3J5IjpbLTIwNTMzNzY0NjcsLTE2MDk0MTk1NTEsLT
 E0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3
 NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOT
 YsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5
