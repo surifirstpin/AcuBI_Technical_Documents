@@ -14,10 +14,15 @@ Reports fetches an impressive and good looking charts with the data obtained, in
 Click on **Charts** tab to configure visualization option for the result obtained. This will connect you to visualization section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52de5df82ef6986d3c2224728e8100490c41ad22/images/New_version5/TD_Visu_Image1.png)
+**Ima
+
 
 ## Types of Visualization
 
 AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
+
 
 **Let us see them in detail : **
  - Line
@@ -471,6 +476,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjgyNjg1LDgxMjU1MTAyNCw0NTExNT
-AwNjgsMTgxMzA3MTA3M119
+eyJoaXN0b3J5IjpbLTEyMTI0NDE3ODYsLTcyMjgyNjg1LDgxMj
+U1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
 -->
