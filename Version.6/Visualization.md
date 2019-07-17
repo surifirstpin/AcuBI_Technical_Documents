@@ -40,9 +40,9 @@ AcuBi visualization charts are used based on the priority of what specific infor
 
 ## Line Chart
 
- Line chartEmphasize the overall shape of an entire series of values, usually over time.
+ Line chart emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** Click on **line** tab under **General** section  to compare the data in line chart.
+ **1.** Choose chart type **Line** from given drop-down list compare the data using line chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
@@ -473,6 +473,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDgzNTc4MCwtNzIyODI2ODUsODEyNT
-UxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDczXX0=
+eyJoaXN0b3J5IjpbLTE3OTMwOTIxMDcsLTcyMjgyNjg1LDgxMj
+U1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
 -->
