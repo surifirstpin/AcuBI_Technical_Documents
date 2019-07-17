@@ -9,10 +9,7 @@ Both reports and dashboards can be organised via My Spaces and later edited as p
 
 ### Saving a Report
 
-**1.** After creating a report, click **Save** to save the data, it will navigate to Save Explore section.
-
-
-## Save with info message
+**1.** After creating a report, click **Save** to save the data this will connect you to Save Explore section.
 
 Under **Save Explore** page provide all the below information to save a report for further accessing.
 
@@ -62,6 +59,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNz
-I0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbMTg5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNj
+A1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
