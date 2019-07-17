@@ -80,9 +80,8 @@ Bar charts are used to compare data across different categories. You can build a
 
 - **100% Stacked (Data)**  Series of values are presented as percentages stacked on the y-axis, where all values add up to 100%.
 
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/c21c91b0c8f9e243362fbefc44279936c6021d12/images/bar_chart.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e085dae5dd6aec8779a3b86754655b91251ec655/images/New_version5/TD_Visu_Image4.png)
+**Image 4**
 
 ## Pie Chart 
 
@@ -471,7 +470,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTY2OTAwOCwtNzc0MDkyNjUyLC03Mj
+eyJoaXN0b3J5IjpbMTUyNTE0MjQ1MSwtNzc0MDkyNjUyLC03Mj
 I4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNd
 fQ==
 -->
