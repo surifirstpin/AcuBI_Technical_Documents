@@ -11,9 +11,9 @@ Both reports and dashboards can be organised via My Spaces and later edited as p
 
 **1.** After creating a report, click **Save** to save the data this will connect you to Save Explore section.
 
-Under **Save Explore** page provide all the below information to save a report for further accessing.
+Under **Save Report** page provide all the below information to save a report for further accessing.
 
-- **Report Name** Name identifier for a report. ( BiPlus allows  special character but does not  support any spaces )
+- **Report Name** Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
 - **Title** label for the report the way you want it to appear.
 
@@ -59,6 +59,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNj
-A1MTg5OSwtMTE3MjQ4MDM4Nl19
+eyJoaXN0b3J5IjpbMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNj
+M4NTE2NTYsMjA2MDUxODk5LC0xMTcyNDgwMzg2XX0=
 -->
