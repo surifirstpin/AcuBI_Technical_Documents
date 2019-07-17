@@ -3,7 +3,7 @@
 
 <center><h1>Saving Reports</h1></center>
 
-Reports in AcuBi are saved under a specific tag and can be shared team members for better collaboration.
+Reports in AcuBi are saved under specific tag and can be shared team members for better collaboration.
 
 ### Getting Started
 
@@ -64,5 +64,5 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4OTk4NDU3OCwtMTE3MjQ4MDM4Nl19
+eyJoaXN0b3J5IjpbNjUyODg1Mzc3LC0xMTcyNDgwMzg2XX0=
 -->
