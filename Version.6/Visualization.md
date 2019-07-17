@@ -173,8 +173,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/40b704503bb7342aa38ccd68e7c30a0708959f27/images/world.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0a11d77ce71315e6745218acba0d33b1067f5502/images/New_version5/TD_Visu_Image9.png)
  
 - **Title** specify a title for world map.
 
@@ -493,9 +492,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwtNz
-M1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQs
-LTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNT
-UxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDczXX0=
+eyJoaXN0b3J5IjpbLTU5MzkwOTk2NiwtMTQ2ODA3NDc2LC0xOD
+QzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4
+OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03Mj
+I4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNd
+fQ==
 -->
