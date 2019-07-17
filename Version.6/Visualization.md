@@ -115,9 +115,9 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
 
-- **Points** on selecting the checkbox it enables pointers for the data range in line chart.
+- **Points (General)** on selecting the checkbox it enables pointers for the data range in line chart.
 
-- **Point style** will specify how the data points will appear on chart.
+- **Point style(General)** will specify how the data points will appear on chart.
  Below are the following point styles available in AcuBi.  
   - Circle
   - Triangle
@@ -142,7 +142,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 ## Bubble chart 
 
-It is used to display the data in circles. We can define each bubble using any of our Dimension value and size by Measure value.
+It is used to display the data in circles. We can define each bubble using any of the Dimension value and size by Measure value.
  
  **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
  
@@ -467,8 +467,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4OTYyNjkzLC03MzU3ODM3MzgsNDc3NT
-U2MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwt
-Nzc0MDkyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMD
-Y4LDE4MTMwNzEwNzNdfQ==
+eyJoaXN0b3J5IjpbLTcyODkyMDQ1OCwtNzM1NzgzNzM4LDQ3Nz
+U1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDks
+LTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MD
+A2OCwxODEzMDcxMDczXX0=
 -->
