@@ -3,7 +3,7 @@
 
 <center><h1>Saving Reports</h1></center>
 
-In BiPlus you can save the report build for retrieving the data, in specific location under a specific tag or share them with team members for better collaboration.
+Reports in AcuBi are saved in specific location under a specific tag or share them with team members for better collaboration.
 
 **1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
 >Image 1
@@ -62,5 +62,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzI0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbLTIxMTE0Mzk1NzcsLTExNzI0ODAzODZdfQ
+==
 -->
