@@ -90,8 +90,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
  **3.**  Choose chart type **PIE** from given drop-down list compare the data using horizontal chart.
  
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e6b6a7c2ab6d2787f0ea9e1377658c047e382603/images/New_version5/TD_Visu_Image5.png)
 
 ### Editing Options for Line Chart
  
@@ -471,7 +470,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNz
-IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
-XX0=
+eyJoaXN0b3J5IjpbLTMwNzMwNzEyLC0xNTMyOTEwMTA5LC03Nz
+QwOTI2NTIsLTcyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgs
+MTgxMzA3MTA3M119
 -->
