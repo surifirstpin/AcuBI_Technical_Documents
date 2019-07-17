@@ -13,8 +13,7 @@ Reports fetches an impressive and good looking charts with the data obtained, in
 
 **I.** Click on **Charts** tab to configure visualization option for the result obtained.
 
-**II.** Under **General Section** click on type of visualization chart you want to view.
-
+**II.** Select chart type **Line** from drop down list.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4e2e5dabe5d2651381c443fce554ae78e69e007a/images/VISU1.png)
 
@@ -474,5 +473,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
+eyJoaXN0b3J5IjpbLTIxODI1Mjg3MSw0NTExNTAwNjgsMTgxMz
+A3MTA3M119
 -->
