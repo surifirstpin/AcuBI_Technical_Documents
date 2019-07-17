@@ -93,24 +93,9 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
 **Image 5**
 
-
-
-
-
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-
-
-
-
-
 ### Editing Options for Pie Chart
  
 - **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
-
-![
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/6921e2105eb29674d2f727201df80f5be58983d5/images/show_percentage.png)
 
 - **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions field in a pie chart.
 
@@ -482,7 +467,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOT
-M5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4NSw4
-MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
+eyJoaXN0b3J5IjpbNTM3ODE5ODg3LDQ3NzU1NjE5OSwzMjU3MD
+U1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1Miwt
+NzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMD
+czXX0=
 -->
