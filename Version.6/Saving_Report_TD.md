@@ -7,13 +7,9 @@ All the work done are saved under save explore section, this will save all the f
 Both reports and dashboards can be organised via My Spaces and later edited as per requirement.
 
 
-### Getting Started
+### Saving a Report
 
-**1.** After creating a report, click **Save ** in Analysis section to save the report, it will navigate to Save Explore section.
->Image 1
-
-![ 
-  ](https://raw.githubusercontent.com/sv18042016/fp1/cbe0a5ade1657451e97f2a05d4eba5db6eaa2b1d/images/save_report.png)
+**1.** After creating a report, click **Save** to save the data, it will navigate to Save Explore section.
 
 
 ## Save with info message
@@ -66,6 +62,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTA1Nzc3MCwyMDYwNTE4OTksLTExNz
+eyJoaXN0b3J5IjpbLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNz
 I0ODAzODZdfQ==
 -->
