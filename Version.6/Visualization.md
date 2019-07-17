@@ -97,10 +97,8 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
  
 - **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
 
-- **Polar Area** On selecting the polar area **Check Box** it enables the polar view for each dimensions field in a pie chart.
+- **Polar Area** On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ca8620aee571293baafa06532397667001086ceb/images/polar_area.png)
 
 -  **Donut** donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
@@ -467,8 +465,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3ODE5ODg3LDQ3NzU1NjE5OSwzMjU3MD
-U1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1Miwt
-NzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMD
-czXX0=
+eyJoaXN0b3J5IjpbLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1Nz
+A1NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIs
+LTcyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MT
+A3M119
 -->
