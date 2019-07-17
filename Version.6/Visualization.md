@@ -26,12 +26,12 @@ AcuBi visualization charts are used based on the priority of what specific infor
 
 **Let us see them in detail : **
  - Line
- - Bar
+ - Horizontal Bar
  - Pie
  - Radar
+ - Widget
+ - Bar
  - Bubble
- - Funnel
- - Gauge
  - Table 
  - Widget
  - World
@@ -476,6 +476,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMDE3MTU2LC03MjI4MjY4NSw4MTI1NT
-EwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
+eyJoaXN0b3J5IjpbLTQ0MjcwODc5MCwtNzIyODI2ODUsODEyNT
+UxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDczXX0=
 -->
