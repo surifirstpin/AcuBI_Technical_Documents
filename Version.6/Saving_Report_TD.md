@@ -25,8 +25,8 @@ Under **Save Report** page provide all the below information to save a report fo
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cb483402108186bad9c13b5758fb04ec9b96a3e0/images/New_version5/TD_CC_Image11.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_1.png)
+**
 ## Saving under specific tag
 
 All the reports build in analysis section are saved under **my space** tag. ( Refer Image 1)
@@ -37,10 +37,7 @@ Filter are used to extract only specific data you want to view. this function is
  
 - **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
->Image 3
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/0cd869712c2e2db47b176cb6dda6dc83d8b0db1e/images/filter_reports.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
 ## Enable Cache 
 
@@ -51,12 +48,12 @@ Cache saves the data, so the future request for the data is provided faster.
 - **Time frame** Enables a time limit.
 
 - **Repeat every** Enables automatic repeat in specified time range.
->Image 4
+
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk2MjEzOTMsMTQyNzQ0ODg0MywxOD
-kzNzczODQ5LC0xNjM4NTE2NTYsMjA2MDUxODk5LC0xMTcyNDgw
-Mzg2XX0=
+eyJoaXN0b3J5IjpbMTI0NzIyNzgwMCwxNDI3NDQ4ODQzLDE4OT
+M3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNzI0ODAz
+ODZdfQ==
 -->
