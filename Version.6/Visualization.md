@@ -140,12 +140,39 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 - **Curve** it maximum and minimize the surface area in radar chart.
 
+## Widget chart 
+
+It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
+
+ **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
+ 
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
+
+- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+
+- **Format** select the number format for the measure field.
+
+- **Previous value** select the second measure value for widget.
+
+- **Change** specify the conditions for selected measures such as difference, growth, none.
+
+- **Show growth** displays the growth rate of selected measures.
+
+- **Title** specify widget title.
+
+- **Label** specify the widget label.
+
+- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+
+
+
+
 ## Bubble chart 
 
-It is used to display the data in circles. We can define each bubble using any of the Dimension value and size by Measure value.
+It is used to display the data in circles. We can define each bubble using Dimension value and size by Measure value.
  
- **5.** Click on **Bubble** tab under **General** section  to compare the data in Bubble chart.
- 
+ **5.** .Choose chart type **PIE** from given drop-down list compare the data using horizontal chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
 
@@ -467,7 +494,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODkyMDQ1OCwtNzM1NzgzNzM4LDQ3Nz
+eyJoaXN0b3J5IjpbMTIwMjE4Nzc5NywtNzM1NzgzNzM4LDQ3Nz
 U1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDks
 LTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MD
 A2OCwxODEzMDcxMDczXX0=
