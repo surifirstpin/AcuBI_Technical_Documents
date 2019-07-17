@@ -44,9 +44,6 @@ AcuBi visualization charts are used based on the priority of what specific infor
  
  **1.** Choose chart type **Line** from given drop-down list compare the data using line chart.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/6904440c50633ac92f461d7b7f2fd2c2d0e9b7dc/images/line_chart.png)
-
  ### Editing Options for Line Chart
  
  - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
@@ -473,6 +470,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMwOTIxMDcsLTcyMjgyNjg1LDgxMj
-U1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
+eyJoaXN0b3J5IjpbOTk2Mjg0NDg1LC03MjI4MjY4NSw4MTI1NT
+EwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
 -->
