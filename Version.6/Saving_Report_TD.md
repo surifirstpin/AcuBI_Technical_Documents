@@ -24,11 +24,6 @@ Under **Save Report** page provide all the below information to save a report fo
   - **Private ()** report saved in private section and accessed by the user itself.
   - **Public ()** the report is saved in public section and accessed by all the users.
   -  **Share ()** the report saved under share section and accessed by specific set of users.
-  
->Image 2
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/8d50b81c2f7d831fa967d3e3476fbb5eb6d622f9/images/save_tag.png)
 
 ## Saving under specific tag
 
@@ -59,6 +54,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNj
-M4NTE2NTYsMjA2MDUxODk5LC0xMTcyNDgwMzg2XX0=
+eyJoaXN0b3J5IjpbLTI1MTI2ODYxOSwxNDI3NDQ4ODQzLDE4OT
+M3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNzI0ODAz
+ODZdfQ==
 -->
