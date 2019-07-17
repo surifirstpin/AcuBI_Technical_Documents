@@ -387,7 +387,7 @@ bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
 
-We can get quantity_sum difference of each month for specific customer using Pivot_Offset() function.
+To view bets_sum difference of each hub for specific customer using Pivot_Offset() function.
 
 ${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
 
@@ -415,9 +415,9 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTAzODI0LC03MjEzNDY5MDYsMTgyNT
-cwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2
-NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMT
-U5ODg5NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1MzE1
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxOD
+I1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIy
+MjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLT
+ExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUz
+MTU1Nl19
 -->
