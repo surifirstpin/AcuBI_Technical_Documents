@@ -11,9 +11,9 @@ Reports fetches an impressive and good looking charts with the data obtained, in
  
 ## Getting Started With Visualization.
 
-**I.**   Click on **Charts** tab to configure visualization option for the result obtained.
+Click on **Charts** tab to configure visualization option for the result obtained.
 
-**II.** Select chart type **Line** from drop down list.
+Select chart type **Line** from drop down list.
 
 
 ## Types of Visualization
@@ -472,6 +472,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMD
-cxMDczXX0=
+eyJoaXN0b3J5IjpbLTE2Mjk1MTQxOTMsODEyNTUxMDI0LDQ1MT
+E1MDA2OCwxODEzMDcxMDczXX0=
 -->
