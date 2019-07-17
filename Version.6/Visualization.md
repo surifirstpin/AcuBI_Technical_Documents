@@ -112,8 +112,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
  **4.** Choose chart type **RADAR** from given drop-down list compare the data using Radar chart.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/34c8d8bc129b2e32ded89f8d3f9816b6a8fd1624/images/radar_chart.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7482c4048b2b436faf52562e46d69819e6ac9484/images/New_version5/TD_Visu_Image10.png)
 
 - **Points (General)** on selecting the checkbox it enables pointers for the data range in line chart.
 
@@ -494,9 +493,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzkwOTk2NiwtMTQ2ODA3NDc2LC0xOD
-QzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4
-OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03Mj
-I4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNd
-fQ==
+eyJoaXN0b3J5IjpbLTEyOTMwNDIxODQsLTE0NjgwNzQ3NiwtMT
+g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
+ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNz
+IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
+XX0=
 -->
