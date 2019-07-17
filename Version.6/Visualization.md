@@ -74,7 +74,7 @@ Below are the following point styles available in AcuBi.
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
 
- **2.** Click on **Bar** tab under **General** section  to compare the data in Bar chart.
+ **2.** Choose chart type **Horizontal** from given drop-down list compare the data using horizontal chart.
  
 - **Stacked** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
 
@@ -471,6 +471,6 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYwNzUyNzUsLTcyMjgyNjg1LDgxMj
-U1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
+eyJoaXN0b3J5IjpbLTc3NDA5MjY1MiwtNzIyODI2ODUsODEyNT
+UxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDczXX0=
 -->
