@@ -382,16 +382,11 @@ bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 
 ## Calculate column with Pivot Offset
 
->**For Instance:** To view the  sum and average with respect to each station code, apply pivot to station-code and run the report.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5993c1fa2683f7ecb11c313b45e40254e525f625/images/pivot_stationcoed.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
 
 To view bets_sum difference of each hub for specific customer using Pivot_Offset() function.
 
-${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 
 ## Local Function
 
@@ -415,9 +410,9 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxOD
-I1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIy
-MjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLT
-ExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUz
-MTU1Nl19
+eyJoaXN0b3J5IjpbMTc2MTU5OTc0MCwtMTQ4NDUxNjIxNiwtNz
+IxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3
+ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLT
+UzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3
+MjM4MCwxNTE5NTMxNTU2XX0=
 -->
