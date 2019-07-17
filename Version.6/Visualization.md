@@ -42,7 +42,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
 
  Line chart emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** Choose chart type **Line** from given drop-down list compare the data using line chart.
+ **1.** Choose chart type **LINE** from given drop-down list compare the data using line chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a423f24e45a87ceabf95d366b4f659dc468ce1b4/images/New_version5/TD_Visu_Image3.png)
 **Image 3**
@@ -71,11 +71,11 @@ Below are the following point styles available in AcuBi.
   - Line
   - Dash
 
-## Bar Chart 
+## Horizontal Bar Chart 
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
 
- **2.** Choose chart type **Horizontal** from given drop-down list compare the data using horizontal chart.
+ **2.** Choose chart type **HORIZONTAL BAR** from given drop-down list compare the data using horizontal chart.
  
 - **Stacked (Data)** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
 
@@ -88,7 +88,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 Pie Chart are divided into slices to illustrate numerical proportions of the data.
 
- **3.**  Choose chart type **PIE** from given drop-down list compare the data using horizontal chart..
+ **3.**  Choose chart type **PIE** from given drop-down list compare the data using horizontal chart.
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -471,7 +471,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkyMDI5MTg0LC03NzQwOTI2NTIsLTcyMj
-gyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
-
+eyJoaXN0b3J5IjpbLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNz
+IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
+XX0=
 -->
