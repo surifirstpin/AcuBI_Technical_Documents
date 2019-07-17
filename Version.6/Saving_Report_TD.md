@@ -3,8 +3,7 @@
 
 <center><h1>Saving Reports</h1></center>
 
-To save your work by saving Reports, all the filter,so
-
+To the work done are save under save explore section this will save all the filter,sort,pivot, visualisa
 ### Getting Started
 
 **1.** After extracting the data click on **Save button** in Analysis section to save the report, it will navigate to Save Explore section.
@@ -64,5 +63,6 @@ Cache saves the data, so the future request for the data is provided faster.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/c3d6afc87b695179e11d12603ab4e8f72c03c890/images/cache.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDMyNjM3NywtMTE3MjQ4MDM4Nl19
+eyJoaXN0b3J5IjpbLTIwNjEwNDU3MTgsLTExNzI0ODAzODZdfQ
+==
 -->
