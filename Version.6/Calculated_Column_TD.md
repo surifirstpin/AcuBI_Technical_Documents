@@ -387,6 +387,7 @@ bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 
 To view bets_sum difference of each hub for specific customer using Pivot_Offset() function.
 
+${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb64533dd879286986c2b3f4a9f69295ab96da8b/images/pivot_offset2.png)
 
 ## Local Function
 
@@ -410,9 +411,9 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MTU5OTc0MCwtMTQ4NDUxNjIxNiwtNz
-IxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3
-ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLT
-UzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3
-MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
+cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
+NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
+01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
+NzIzODAsMTUxOTUzMTU1Nl19
 -->
