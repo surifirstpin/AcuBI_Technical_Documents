@@ -88,7 +88,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 Pie Chart are divided into slices to illustrate numerical proportions of the data.
 
- **3.**  Click on **Pie** tab under **General** section to compare the data in pie chart.
+ **3.**  Choose chart type **PIE** from given drop-down list compare the data using horizontal chart..
  
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/f52c167aa93a715736ed2800ae5ca56675c54e42/images/pie_chart.png)
@@ -471,7 +471,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzA3MjQzNTEsLTc3NDA5MjY1MiwtNz
-IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
-XX0=
+eyJoaXN0b3J5IjpbNDkyMDI5MTg0LC03NzQwOTI2NTIsLTcyMj
+gyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
+
 -->
