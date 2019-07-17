@@ -93,6 +93,17 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
 **Image 5**
 
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
 ### Editing Options for Pie Chart
  
 - **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
@@ -471,7 +482,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOT
-EwMTA5LC03NzQwOTI2NTIsLTcyMjgyNjg1LDgxMjU1MTAyNCw0
-NTExNTAwNjgsMTgxMzA3MTA3M119
+eyJoaXN0b3J5IjpbNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOT
+M5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4NSw4
+MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
 -->
