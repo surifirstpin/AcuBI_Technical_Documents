@@ -3,6 +3,8 @@
 
 Reports in  **AcuBi**  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
 
+## View Report
+
 - To view existing report in AcuBi click on report name in My Space report list. It displays the report and the filter applied to a report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a6bdd4710bbe48f663d83890c4fb392eb7f79181/images/New_version5/td_view_report_image1.png)
@@ -70,6 +72,6 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxMzQyMzgxLC04NTQ0MjUyNTMsMjMzMz
-IwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMz
+MyMDU1MywtMTE4ODUzODQ0N119
 -->
