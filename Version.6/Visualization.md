@@ -218,10 +218,8 @@ It is used to display the data in circles. We can define each bubble using Dimen
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **8.** Click on **Table** tab under **General** section to compare data in table chart.
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/b6e598ee67160c266bb9d4d30a423f520880bf63/images/table_chart.png)
+ **9.** Choose chart type **Table** from drop-down list.
+  
 
 ### Hide Pivot
 
@@ -508,7 +506,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzE0MTgyMSwtMTI4MjA0MzY1OSwtMT
+eyJoaXN0b3J5IjpbMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMT
 E1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0
 NzYsLTE4NDM4MjkyMzgsLTczNTc4MzczOCw0Nzc1NTYxOTksMz
 I1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2
