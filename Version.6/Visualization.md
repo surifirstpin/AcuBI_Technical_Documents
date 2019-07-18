@@ -202,15 +202,15 @@ Bar charts are used to compare data across different categories. You can build a
 
  **7.** .Choose chart type **BAR** from given drop-down list compare the data using Bar chart.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ba4dbdd16bfef4193c756dfae1a0dbef16d9fb/images/New_version5/TD_Visu_Image11.png)
+**Image 11**
 
 ## Bubble chart 
 
 It is used to display the data in circles. We can define each bubble using Dimension value and size by Measure value.
  
- **5.** .Choose chart type **PIE** from given drop-down list compare the data using horizontal chart.
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/d07e80177a8a6fe04619cfb40058e9789b142e88/images/bubble_chart.png)
+ **8.** .Choose chart type **BUBBLE** from given drop-down list compare the data.
+
 
 ## Funnel chart 
 
@@ -503,9 +503,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMj
-kzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3
-MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMj
-kxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQs
-NDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
+eyJoaXN0b3J5IjpbLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMj
+c4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5
+MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NT
+EwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4
+NSw4MTI1NTEwMjQsNDUxMTUwMDY4LDE4MTMwNzEwNzNdfQ==
 -->
