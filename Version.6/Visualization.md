@@ -236,15 +236,13 @@ pivot_offset(#{biplus.orders.sum_quantity},0,-1)
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b297a288ba4fa4e9db7a19c43c2f2751ad0f1130/images/New_version5/TD_Visu_Image14.png)
 **Image 14**
 
-The resultant for this expression would be seen in green colour;
+The resultant for this expression would be seen in green color;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
 **Image 15**
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/3be153bc7e175559809c6c873dcb281c2a8e5783/images/hide_pivot3.png)
 
 
 ## Funnel chart 
@@ -507,11 +505,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzU1NTUwMjQsNDk5Mzg4MjIsLTIwMT
-k4MTA0NzAsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUx
-MDA0MSwyNzg4MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLT
-E4NDM4MjkyMzgsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1
-NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIsLT
-cyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3
-M119
+eyJoaXN0b3J5IjpbMTE0MzIzMDcxMyw0OTkzODgyMiwtMjAxOT
+gxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEw
+MDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMT
+g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
+ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNz
+IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
+XX0=
 -->
