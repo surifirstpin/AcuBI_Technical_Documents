@@ -263,13 +263,10 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  - **Sort** it enables data in the sorted order in funnel chart.
   
  - **Curved** it enables the curved view for funnel chart.
- 
- -  **Top width**  it adjust the width dimension in top view.
- 
- - **Bottom Width** it adjust the width dimension in bottom view.
- 
- - **Gap** It enables gap between two measure values.
 
+Pinched
+Inverted
+highlight on 
 
 ##  Gauge Chart 
 
@@ -507,7 +504,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNzk1MjU0Miw0OTkzODgyMiwtMjAxOT
+eyJoaXN0b3J5IjpbMTkxMzk5NzUwMSw0OTkzODgyMiwtMjAxOT
 gxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEw
 MDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMT
 g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
