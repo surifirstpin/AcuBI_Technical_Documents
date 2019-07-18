@@ -196,6 +196,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - **Negative colour-from & to** Specify colour for specific range of negative values.
 
+## Bar Chart
+
+Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
 
 
 
@@ -500,9 +503,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDgyMTQyNCw4MjI5Mzk5MzksLTE0Nj
-gwNzQ3NiwtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5
-OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3ND
-A5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwx
-ODEzMDcxMDczXX0=
+eyJoaXN0b3J5IjpbMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2OD
+A3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5
+LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MD
+kyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4LDE4
+MTMwNzEwNzNdfQ==
 -->
