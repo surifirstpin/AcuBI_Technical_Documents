@@ -265,8 +265,10 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  - **Curved** it enables the curved view for funnel chart.
 
 Pinched
-Inverted
-highlight on 
+Inverted 
+highlight on hover : highlights on moving hover on funnel chart.
+Dynamic Height
+Load Animation : Enables animation view to funnel chart
 
 ##  Gauge Chart 
 
@@ -504,7 +506,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzk5NzUwMSw0OTkzODgyMiwtMjAxOT
+eyJoaXN0b3J5IjpbMTkxNzY0ODc2NCw0OTkzODgyMiwtMjAxOT
 gxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEw
 MDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMT
 g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
