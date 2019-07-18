@@ -73,7 +73,7 @@ Below are the following point styles available in AcuBi.
 
 ## Horizontal Bar Chart 
 
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
+Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
 
  **2.** Choose chart type **HORIZONTAL BAR** from given drop-down list compare the data using horizontal chart.
  
@@ -333,7 +333,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Horizontal Bar
 
-Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
+
 
 ## Standard Editing Option in Charts
 
@@ -500,9 +500,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4ND
-M4MjkyMzgsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5
-LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIsLTcyMj
-gyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3M119
-
+eyJoaXN0b3J5IjpbMTQwMDgyMTQyNCw4MjI5Mzk5MzksLTE0Nj
+gwNzQ3NiwtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5
+OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3ND
+A5MjY1MiwtNzIyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwx
+ODEzMDcxMDczXX0=
 -->
