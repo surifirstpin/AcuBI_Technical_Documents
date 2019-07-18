@@ -5,12 +5,11 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 
 - To view existing report in AcuBi click on report name in My Space report list. It displays the report and the filter applied to a report.
 -  To add more filters click on  **Add Filters.**
--  To save the added filters click on  **Save**  Button.
+
 
 **6.**  To apply the newly added filter click on  **Apply**  Button.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
-**Image 3**
+
 
 
 ## Report Filters
@@ -113,5 +112,5 @@ To view the filter panel use  **Right shift operator**  on dashboard report scre
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODg1Mzg0NDddfQ==
+eyJoaXN0b3J5IjpbLTUwMTY2NjU2MiwtMTE4ODUzODQ0N119
 -->
