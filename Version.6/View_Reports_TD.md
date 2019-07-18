@@ -13,33 +13,9 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 **Image 2**
 
 **1.** To apply the newly added filter click on  **Apply**  Button.
-**2.** To Save 
+**2.** To Save the added filter click save.
+**3.** To restore the previously applied filter click default.
 
-
-
-
-## Report Filters
-
-Report filters will narrow the reports results while allowing you to view the specific range of data. The report data is retrieved based on filter applied.
-
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f08f27389d3eadbbe53d61476967b5d898f11920/images/New_version5/td_view_report1.png)
-**Image 1**
-
--  Add the above added filters under filter section of save report and click update.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52171415f7fc10c9894259b837ef759570054d64/images/New_version5/td_view_report2.png)
-
-**4.**  To add more filters click on  **Add Filters.**
-
-**5.**  To save the added filters click on  **Save**  Button.
-
-**6.**  To apply the newly added filter click on  **Apply**  Button.
-
-**Note :**  To restore the previously applied filter click on  **Restore default filter**  icon.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/ff3c3a540e561e24e5ffdc94929079f309b5f3fc/images/filter_reports1.png)
 
 **For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
@@ -118,6 +94,6 @@ To view the filter panel use  **Right shift operator**  on dashboard report scre
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcyNjQwODIwLDIzMzMyMDU1MywtMTE4OD
+eyJoaXN0b3J5IjpbOTc2MzQzMDk4LDIzMzMyMDU1MywtMTE4OD
 UzODQ0N119
 -->
