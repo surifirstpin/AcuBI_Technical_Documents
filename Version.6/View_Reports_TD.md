@@ -47,7 +47,7 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 -   **Image format**  download the dashboard report in image format.
     
 
-## [Lookup Single & Multiple](http://18.196.122.102/documentation/bi_technical_documentation.html#/SReports?id=lookup-single-amp-multiple)
+## Lookup Single & Multiple
 
 Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using  **Add Lookups**  in  **Apply filter**  section of dashboard.
 
@@ -62,16 +62,15 @@ Adding lookup to reports will refer set of query or list of items in filters. Ad
 -   **Referred**  to refer predefined filter for the following filters.
     
 
-
 ## Hide Filters panel
 
 To hide the filter panel click on  **left shift operator**  on dashboard report screen.
 
-## [Show Filters Panel
+## Show Filters Panel
 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU3NDk1ODA1LDIzMzMyMDU1MywtMTE4OD
-UzODQ0N119
+eyJoaXN0b3J5IjpbLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExOD
+g1Mzg0NDddfQ==
 -->
