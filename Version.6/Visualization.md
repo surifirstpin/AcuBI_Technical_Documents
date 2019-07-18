@@ -188,9 +188,9 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - **Data Field** choose the data field to display it on map.	
 
 - **Tip Fields** select numbers of data fields to be displayed on map.
-- **Colour Field** specifies which field to be coloured.
+- **Colour Field** specifies which field to be colored.
 
-- **Colour From & To** specify the colour specific range of values in map region.
+- **Colour From & To** specify the color specific range of values in map region.
 
 - **Negative Cutoff** enabled when negatives values are applicable.
 
@@ -279,7 +279,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 Gauge chart displays current status in the context of goal.
 
  
- **7.** Click on **gauge** tab under **General** section  to compare the data in Gauge chart.
+ **11.** Choose chart type **Guage** from drop-down list.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
@@ -505,11 +505,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMT
-k4MTA0NzAsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUx
-MDA0MSwyNzg4MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLT
-E4NDM4MjkyMzgsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1
-NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIsLT
-cyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3
-M119
+eyJoaXN0b3J5IjpbOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OT
+M4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2
+NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMT
+Q2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2
+MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNz
+c0MDkyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4
+XX0=
 -->
