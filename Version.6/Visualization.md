@@ -289,6 +289,7 @@ Gauge chart displays current status in the context of goal.
 - **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
+**Image 19**
 
 - **Value** select one of the available measure values from the drop down.
 
@@ -307,35 +308,6 @@ Gauge chart displays current status in the context of goal.
 - **Reverse** displays the measure values in reversal direction maximum to minimum.
 
 - **Hide Minmax**  hides min and maximum values in gauge target.
-
-
-
-
-
-## Widget chart 
-
-It displays one or more data series as a data graph. Widget chart is used to display the number of records created today. number of Incidents by status or department.
-
- **9.** Click on **Widget** tab under **General** section to display the total record of the data in widget chart.
- 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/0fffbbc444991a973205bc030a0485bfc9ef592a/images/widget_chart.png)
-
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
-
-- **Format** select the number format for the measure field.
-
-- **Previous value** select the second measure value for widget.
-
-- **Change** specify the conditions for selected measures such as difference, growth, none.
-
-- **Show growth** displays the growth rate of selected measures.
-
-- **Title** specify widget title.
-
-- **Label** specify the widget label.
-
-- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 
 
@@ -504,7 +476,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjkyMTkxNiw5MjQ3MTI5MTQsLTExND
+eyJoaXN0b3J5IjpbMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExND
 MyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1
 NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsOD
 IyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4
