@@ -32,18 +32,10 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
 
-## [Explore Report](http://18.196.122.102/documentation/bi_technical_documentation.html#/SReports?id=explore-report)
+### Explore Report
 
-**7.**  To view the data flow of the report click on the  **Setting icon.**
 
-**8.**  To view the data in a report click on  **Show data.**
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/e936982e20971effbecba83e6088080a4ba6a465/images/show_data1.png)
-
-> Note : Select  **Show Visualization**  to view visualization of the report.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d52bc64c5ef2973d8b81e9a4f8925e0e50686102/images/show_data.png)
 
 ## [Refresh & Hard Refresh](http://18.196.122.102/documentation/bi_technical_documentation.html#/SReports?id=refresh-amp-hard-refresh)
 
@@ -94,6 +86,6 @@ To view the filter panel use  **Right shift operator**  on dashboard report scre
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc2MzQzMDk4LDIzMzMyMDU1MywtMTE4OD
+eyJoaXN0b3J5IjpbNzIxNzIzNzAyLDIzMzMyMDU1MywtMTE4OD
 UzODQ0N119
 -->
