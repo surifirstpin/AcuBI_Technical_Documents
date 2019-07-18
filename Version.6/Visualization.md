@@ -260,12 +260,13 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 ** AcuBi** displays funnel charts in following formats:
 
- - **Sort** it enables data in the sorted order in funnel chart.
+ - **Sort:** it enables data in the sorted order in funnel chart.
   
- - **Curved** it enables the curved view for funnel chart.
+ - **Curved:** it enables the curved view for funnel chart.
 
-Pinched
-Inverted 
+- **Pinched:** : enable compressed view of funnel chart
+
+- **Inverted:**  enables inverted view of Funnel chart
 highlight on hover : highlights on moving hover on funnel chart.
 Dynamic Height
 Load Animation : Enables animation view to funnel chart
@@ -506,7 +507,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNzY0ODc2NCw0OTkzODgyMiwtMjAxOT
+eyJoaXN0b3J5IjpbLTcyNTY1MjM1Nyw0OTkzODgyMiwtMjAxOT
 gxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEw
 MDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMT
 g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
