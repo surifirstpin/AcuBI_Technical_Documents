@@ -243,8 +243,10 @@ The resultant for this expression would be seen in green color;
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
+**Image 16**
 
-
+Si ilar
 ## Funnel chart 
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
@@ -505,11 +507,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MzIzMDcxMyw0OTkzODgyMiwtMjAxOT
-gxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEw
-MDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMT
-g0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1
-ODksNzUxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNz
-IyODI2ODUsODEyNTUxMDI0LDQ1MTE1MDA2OCwxODEzMDcxMDcz
-XX0=
+eyJoaXN0b3J5IjpbLTEyNjY1NzM2NjIsNDk5Mzg4MjIsLTIwMT
+k4MTA0NzAsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUx
+MDA0MSwyNzg4MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLT
+E4NDM4MjkyMzgsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1
+NTg5LDc1MTA5Mzk0LC0xNTMyOTEwMTA5LC03NzQwOTI2NTIsLT
+cyMjgyNjg1LDgxMjU1MTAyNCw0NTExNTAwNjgsMTgxMzA3MTA3
+M119
 -->
