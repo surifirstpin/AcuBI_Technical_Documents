@@ -9,9 +9,11 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 **Image 1**
 
 -  To add more filters click on  **Add Filters.**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/970e317b2fcf1e9fa777b7a05d73c1ca7b122947/images/New_version5/td_view_report_image2.png)
+**Image 2**
 
-
-**6.**  To apply the newly added filter click on  **Apply**  Button.
+**1.** To apply the newly added filter click on  **Apply**  Button.
+**2.** To Save 
 
 
 
@@ -116,5 +118,6 @@ To view the filter panel use  **Right shift operator**  on dashboard report scre
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbNDcyNjQwODIwLDIzMzMyMDU1MywtMTE4OD
+UzODQ0N119
 -->
