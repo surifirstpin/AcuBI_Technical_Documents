@@ -283,13 +283,12 @@ Gauge chart displays current status in the context of goal.
 
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/d48b5330b04434d91eb267dac601af036d2ccb8a/images/guage.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4838dece9a608f6372b8e6e1ad4c52a8955d4ec/images/New_version5/TD_Visu_Image18.png)
+**Image 18**
 
 - **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/274ea8e6aa7a779c79c78d56c4722a5dbdf2a26c/images/guage2.jpg)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
 
 - **Value** select one of the available measure values from the drop down.
 
@@ -505,11 +504,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 ](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OT
-M4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2
-NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMT
-Q2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2
-MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNz
-c0MDkyNjUyLC03MjI4MjY4NSw4MTI1NTEwMjQsNDUxMTUwMDY4
-XX0=
+eyJoaXN0b3J5IjpbLTE1NjkyMTkxNiw5MjQ3MTI5MTQsLTExND
+MyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1
+NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsOD
+IyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4
+MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNT
+MyOTEwMTA5LC03NzQwOTI2NTIsLTcyMjgyNjg1LDgxMjU1MTAy
+NF19
 -->
