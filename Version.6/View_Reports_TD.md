@@ -61,7 +61,6 @@ Adding lookup to reports will refer set of query or list of items in filters. Ad
     
 -   **Referred**  to refer predefined filter for the following filters.
     
-
 ## Hide Filters panel
 
 To hide the filter panel click on  **left shift operator**  on dashboard report screen.
@@ -71,6 +70,6 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExOD
-g1Mzg0NDddfQ==
+eyJoaXN0b3J5IjpbMzMxMzQyMzgxLC04NTQ0MjUyNTMsMjMzMz
+IwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
