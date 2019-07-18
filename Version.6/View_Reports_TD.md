@@ -6,7 +6,8 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 - To view existing report in AcuBi click on report name in My Space report list. It displays the report and the filter applied to a report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a6bdd4710bbe48f663d83890c4fb392eb7f79181/images/New_version5/td_view_report_image1.png)
-**
+**Image 1**
+
 -  To add more filters click on  **Add Filters.**
 
 
@@ -115,5 +116,5 @@ To view the filter panel use  **Right shift operator**  on dashboard report scre
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cecc3454dfca83ec1a68e4fe46c0476a8db61154/images/display%20filter%20panel.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDMzNjUwMywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
