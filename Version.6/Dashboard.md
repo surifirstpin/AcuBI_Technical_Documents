@@ -33,9 +33,9 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
 **Image 3**
 
-## [Step 2: Add Reports](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=step-2-add-reports)
+## [Step 2: Add Reports]
 
-You can add different reports to the layout selected, depending on the requirement.
+Based on requirement multiple reports are added to layout selected.
 
 **4.**  Click  **Update Report**  to add reports to layout. You can add reports to layout in 2 ways.(refer image 4)
 
@@ -154,7 +154,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzQxMjMxMSwzNjI1NjM5MywxNjA2Nj
-UxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
-
+eyJoaXN0b3J5IjpbLTE3NzcyODIxMDAsMzYyNTYzOTMsMTYwNj
+Y1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNd
+fQ==
 -->
