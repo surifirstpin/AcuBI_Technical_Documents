@@ -37,8 +37,9 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
 Based on requirement multiple reports are added to layout selected.
 
-- To add reports to layout select the layout header and click on report name that you would like add, 
-- To add more report laypou
+**1.** To add reports to layout select the layout header and click on report name that you would like add, 
+
+**2.**  To add more report lay out to existing one click add for reports under Work space list.
 
 **4.**  Click  **Update Report**  to add reports to layout. You can add reports to layout in 2 ways.(refer image 4)
 
@@ -157,7 +158,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDQ2MTQ3MywzNjI1NjM5MywxNjA2Nj
-UxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbMTI1MTc4OTE4LDM2MjU2MzkzLDE2MDY2NT
+E5NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 
 -->
