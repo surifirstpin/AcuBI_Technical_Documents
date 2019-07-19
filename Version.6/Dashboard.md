@@ -41,7 +41,7 @@ Based on requirement multiple reports are added to layout selected.
 
 **2.**  To add more report lay out to existing one click add for reports under Work space list.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 
 **Image 4**
 
@@ -151,7 +151,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTMzMTM5MiwzNjI1NjM5MywxNjA2Nj
-UxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
-
+eyJoaXN0b3J5IjpbLTEwNDc3MzQwOTMsMTYzOTMzMTM5MiwzNj
+I1NjM5MywxNjA2NjUxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3
+LDYxMDYwOTE0M119
 -->
