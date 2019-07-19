@@ -6,14 +6,15 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 ## View Dashboard
 
 To view already existing dashboard navigate to dashboard section, then click the dashboard report you want to view.
--   To delete a tag click delete icon.
-  To edit a tag click edit icon.
-  To set Thumbnail for a tag click Thumbnail icon.
- Tags can be saved in Public, Private or Share under sharing status. 
+
+-   To edit a tag click ***edit*** icon.
+  - To set Thumbnail for a tag click ***Thumbnail*** icon.
+ - Tags can be saved in Public, Private or Share under ***sharing status.*** 
+-   To delete a tag click ***delete*** icon.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)**Image 1**
 
-## [Create Dashboard](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=create-dashboard)
+### Create Dashboard
 
 > **Navigation : Dashboard→ New Dashboard**
 
@@ -156,6 +157,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxODAxNzIwLDE4NjUzNzIyNyw2MTA2MD
-kxNDNdfQ==
+eyJoaXN0b3J5IjpbLTQwNzIxNDE3MywxODY1MzcyMjcsNjEwNj
+A5MTQzXX0=
 -->
