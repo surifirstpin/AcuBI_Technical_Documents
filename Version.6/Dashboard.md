@@ -135,7 +135,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 ## Show Field Group
 
-- Irrespective of applied global filter, on selecting checkbox ***Show Field Group***, it displays list of group 
+- Irrespective of applied global filter, on selecting checkbox ***Show Field Group***, it displays list of 
 
 ## Edit / Delete Dashboard
 
@@ -160,10 +160,10 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMz
-MxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5
-MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1NDI5MDM3Ny
-wxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3MzQwOTMsMTYz
-OTMzMTM5MiwzNjI1NjM5MywxNjA2NjUxOTY1LDEyNjY3OTEyNz
-YsMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbLTY1NTgzMjk0OCwtMTE0NTc3NjE3OSwtMz
+YxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0Njcx
+NzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC
+0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0
+NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5Nj
+UsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
