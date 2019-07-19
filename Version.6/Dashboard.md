@@ -28,11 +28,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
     
 -   **Fixed Layout**  defines single fit layout option for reports
     
-    **a.**  To navigate to next page click right arrow.
-    
-
-**b.**  To navigate to previous page click left arrow.
-
+ Here for instance i am selecting Grid Layout(1 x 2) from drop down list 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/df105942aecfbe1db3c5c4504b45a3444323caf9/images/layout.png)**Image 3**
 
@@ -157,7 +153,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjg4NTgyMTgsMzYyNTYzOTMsMTYwNj
-Y1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNd
-fQ==
+eyJoaXN0b3J5IjpbMzA0NjgxNDQ2LDM2MjU2MzkzLDE2MDY2NT
+E5NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
+
 -->
