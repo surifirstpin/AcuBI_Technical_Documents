@@ -22,7 +22,7 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 
 ## Step 1: Customize Layout
 
-AcuBi has ability to create multiple report layouts. Depending on requiremente layout formats are categorized in 2 ways.
+AcuBi has ability to create multiple report layouts. Depending on requirement this layout are categorized in 2 ways.
 
 -   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
     
@@ -157,6 +157,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzQ5MzcwOCwxNjA2NjUxOTY1LDEyNj
-Y3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2Nz
+kxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
