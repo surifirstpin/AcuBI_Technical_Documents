@@ -7,11 +7,6 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 To view already existing dashboard navigate to dashboard section under ***My Space*** list click the dashboard report you want to view.
 
--   To edit a tag click ***edit*** icon.
-  - To set Thumbnail for a tag click ***Thumbnail*** icon.
- - Tags can be saved in Public, Private or Share under ***sharing status.*** 
--   To delete a tag click ***delete*** icon.
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)**Image 1**
 
 ### Create Dashboard
@@ -122,22 +117,18 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
         
 
 ## Edit / Delete Dashboard
-**10.**  Click  **Edit**  Button to make changes to dashboard created.
+
+Click  **Edit**  Button to make changes to dashboard created.
 
 > **Note :**  After editing the dashboard click on  **update**  button to save the changes made.
 
-**11.**  Click on  **Delete icon**  to delete the dashboard created.
+ Click on  **Delete icon**  to delete the dashboard created.
 
-**12.**  To create a new dashboard report click on  **New Dashboard**  icon.
+  To set dashboard to full screen, Choose  **Full screen**  from the list.
 
-**13.**  To set dashboard to full screen, Choose  **Full screen**  from the list.
 
-> **Note :**  You can also edit, delete or create new dashboard using  **Bars icon**
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5b86a054406ca26550a23a1c524c998d71b60505/images/dashboard_fullscreen.png)**Image 7**
-
-## [Dashboard for Mobile Device](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=dashboard-for-mobile-device)
+## [Dashboard for Mobile Device]
 
 AcuBi, makes it easier to view the dashboard list in mobile devices easily and displays the following features;
 
@@ -148,7 +139,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDA1ODg2NiwxMTQxNjQ2NjgyLC0xMD
+eyJoaXN0b3J5IjpbMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMD
 Q3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2
 NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
