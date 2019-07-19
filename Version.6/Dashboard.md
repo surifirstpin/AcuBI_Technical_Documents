@@ -129,6 +129,9 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 - it displays below screen with dashboard reports and applied global filters 
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
+**Image 9**
+
 - **Show Field Group:**   this field is applicable for date types only.      
 
 ## Edit / Delete Dashboard
@@ -154,7 +157,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY5ODk2MCwxNDY0NjcxNzAyLDE3OT
+eyJoaXN0b3J5IjpbLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OT
 MyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0Mjkw
 Mzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0NzczNDA5My
 wxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMTI2Njc5
