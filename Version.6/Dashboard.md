@@ -18,11 +18,11 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 
 > **Navigation : Dashboard→ New Dashboard**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20367797e10c5eabfec8ab65d23699fb34843101/images/dash.png)**Image 2**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)**Image 2**
 
-## [Step 1: Customize Layout](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=step-1-customize-layout)
+## Step 1: Customize Layout
 
-AcuBi has ability to create multiple report layouts, depending on the requirement. There layout formats are categorized in 2 ways.
+AcuBi has ability to create multiple report layouts. Depending on requiremente layout formats are categorized in 2 ways.
 
 -   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
     
@@ -157,6 +157,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4Nj
-UzNzIyNyw2MTA2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTIyMzQ5MzcwOCwxNjA2NjUxOTY1LDEyNj
+Y3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
 -->
