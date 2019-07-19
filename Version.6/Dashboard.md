@@ -133,9 +133,9 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 **Image 9**
 
 
-- **Show Field Group:**   this field is applicable for date types only.      
 ## Show Field Group
 
+- Irrespective of applied global filter, 
 
 ## Edit / Delete Dashboard
 
@@ -160,10 +160,10 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTYwNDg4OCwtMzMxNTUyOTg4LC00ND
-U1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5MjU3LDE2MjU0NjU5
-MCwtMTM4OTEwMTQ2NywtMTI1NDI5MDM3NywxNTQ3NzcyMTEyLD
-ExNDE2NDY2ODIsLTEwNDc3MzQwOTMsMTYzOTMzMTM5MiwzNjI1
-NjM5MywxNjA2NjUxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LD
-YxMDYwOTE0M119
+eyJoaXN0b3J5IjpbMjA1OTQwNTA5OSwtMzYxNjA0ODg4LC0zMz
+E1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjky
+NTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LD
+E1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0NzczNDA5MywxNjM5
+MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMTI2Njc5MTI3Ni
+wxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
