@@ -30,8 +30,8 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
     
  Here for instance i am choosing Grid Layout(1 x 2) from drop down list provided for layout. (Refer Image 2)
  
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/df105942aecfbe1db3c5c4504b45a3444323caf9/images/layout.png)**Image 3**
+
+**Image 3**
 
 ## [Step 2: Add Reports](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=step-2-add-reports)
 
@@ -154,7 +154,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDU3MTc4OCwzNjI1NjM5MywxNjA2Nj
-UxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbMTE2MTE4MjIwLDM2MjU2MzkzLDE2MDY2NT
+E5NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 
 -->
