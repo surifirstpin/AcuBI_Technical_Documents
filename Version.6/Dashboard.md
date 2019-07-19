@@ -42,13 +42,13 @@ Based on requirement multiple reports are added to layout selected.
 **2.**  To add more report lay out to existing one click add for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
-
 **Image 4**
+
 > Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to hide and un-hide the Global filters section.
 
 ## Dashboard Global Filters
 
-**5.**  Click on **Add global filters**  to add global dashboard filterss.  **(Refer image 4)**
+**5.**  Click on **Add global filters**  to add global dashboard filters. 
 
 **6.**  **Dashboard global Filters**  allows user to view limited data by applying filters on dashboard reports.  **(Refer Image 5)**
 
@@ -152,7 +152,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0Mjc0MTY5LC0xMDQ3NzM0MDkzLDE2Mz
-kzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2
-LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbMTE0MTY0NjY4MiwtMTA0NzczNDA5MywxNj
+M5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMTI2Njc5MTI3
+NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
