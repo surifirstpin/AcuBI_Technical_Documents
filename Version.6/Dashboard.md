@@ -132,10 +132,9 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
 **Image 9**
 
-
 ## Show Field Group
 
-- Irrespective of applied global filter, on selecting checkbox ***Show Field Group***, it displays list of 
+- Irrespective of applied global filter, on selecting checkbox ***Show Field Group***, it displays list of grouped value.
 
 ## Edit / Delete Dashboard
 
@@ -160,10 +159,10 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTgzMjk0OCwtMTE0NTc3NjE3OSwtMz
-YxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0Njcx
-NzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC
-0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0
-NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5Nj
-UsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
+eyJoaXN0b3J5IjpbLTEzNDE3MzU0NjMsLTExNDU3NzYxNzksLT
+M2MTYwNDg4OCwtMzMxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3
+MTcwMiwxNzkzMjI5MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2Ny
+wtMTI1NDI5MDM3NywxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEw
+NDc3MzQwOTMsMTYzOTMzMTM5MiwzNjI1NjM5MywxNjA2NjUxOT
+Y1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
 -->
