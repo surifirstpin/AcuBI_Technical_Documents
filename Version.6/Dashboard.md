@@ -70,19 +70,19 @@ Based on requirement multiple reports are added to layout selected.
 -   **Lookup name**  name of the lookup field.
     
 -   **Lookup Type**  refers to item or query type.
+
+- **Connection** Connection established for the query  
     
 -   **Test Lookup**  to test the lookup.
     
--   **Multiple Selections**  enables the selection of list for multiple data.
+-   **Multiple Selections**  enables the selection list for multiple data.
     
-
-## [Dependency Filters](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=dependency-filters)
-
+## Dependency Filters
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way you can extract the data depending on referred lookup field.
 
 -   **Referred**  on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
-**8.**  **Report Listeners**  **( Refer image 5)**
+### **Report Listeners**  **( Refer image 5)**
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -150,7 +150,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYxMDg4OTcsMTE0MTY0NjY4MiwtMT
-A0NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5
-NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
+eyJoaXN0b3J5IjpbMTA1NTcxMzQxOSwxMTQxNjQ2NjgyLC0xMD
+Q3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2
+NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
