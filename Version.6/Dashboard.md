@@ -48,7 +48,7 @@ Based on requirement multiple reports are added to layout selected.
 
 ## Dashboard Global Filters
 
- Click on **Add global filters**  to add global dashboard filters. 
+**3.**  Click on **Add global filters**  to add global dashboard filters. 
 
 -   **Filter Name**  identifier name for the filter applicable.
     
@@ -68,7 +68,7 @@ Based on requirement multiple reports are added to layout selected.
 
   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.
 
-To add new lookup to dashboard click on , Add Lookups
+**4.** To add new lookup to dashboard click on , Add Lookups.
 
 -   **Lookup name**  name of the lookup field.
     
@@ -100,14 +100,12 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
 -   **Add Listener**  adds multiple filters to reports.
     
 
-**9.**  Click  **Save Button**  to save the dashboard  **( Refer image 5).**
+  Click  **Save Button**  to save the dashboard.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ac1da552c0d05c08fa1aad5c0c1d07df190fd388/images/dash_filters.png)**Image 5**
 
-## [Step 4: Privacy & Share option for Dashboards](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=step-4-privacy-amp-share-option-for-dashboards)
+##  Privacy & Share option for Dashboards
 
-Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.**  **(Refer image 6)**
-
+Select the tag in which you want to save  **Dashboard Reports**  and click on  **Save.** 
 -   **Name**  name identifier for dashboard created.
     
 -   **Title**  title to refer the dashboard.
@@ -123,10 +121,7 @@ Select the tag in which you want to save  **Dashboard Reports**  and click on  *
     -   **Share()**  It enable access for specific set of users.
         
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0fb2c0fe9fbc99b6ac2cd3d818fe7533a74872b8/images/2018-02-06_16-09-56.png)**Image 6**
-
-## [Edit / Delete Dashboard](http://18.196.122.102/documentation/bi_technical_documentation.html#/Dashboard?id=edit-delete-dashboard)
-
+## Edit / Delete Dashboard
 **10.**  Click  **Edit**  Button to make changes to dashboard created.
 
 > **Note :**  After editing the dashboard click on  **update**  button to save the changes made.
@@ -153,7 +148,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Njg4NDQxMywxMTQxNjQ2NjgyLC0xMD
+eyJoaXN0b3J5IjpbLTcxMDA1ODg2NiwxMTQxNjQ2NjgyLC0xMD
 Q3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2
 NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
