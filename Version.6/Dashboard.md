@@ -3,9 +3,9 @@
 
 Dashboard provides access to view multiple reports in single dashboard layout, in this way it provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
 
-## [View Dashboard]h
+## View Dashboard
 
-To view already existing dashboard navigate to dashboard section --> dashboards, then click the dashboard report you want to view.
+To view already existing dashboard navigate to dashboard section, then click the dashboard report you want to view.
 
 -   To edit dashboard click on  **Edit**  icon.
     
@@ -159,5 +159,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbLTUwNjE2OTcxNiwxODY1MzcyMjcsNjEwNj
+A5MTQzXX0=
 -->
