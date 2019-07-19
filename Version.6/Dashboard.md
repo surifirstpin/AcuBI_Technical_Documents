@@ -120,7 +120,8 @@ Select tag in which you want to save  **Dashboard Reports**  and click on  **Sav
     -   **Public()**  It enable access for all the users.
         
     -   **Share()**  It enable access for specific set of users.
-        
+
+- **Show Field Group:**        
 
 ## Edit / Delete Dashboard
 
@@ -145,9 +146,9 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzA5NTk2NjgsMTYyNTQ2NTkwLC0xMz
-g5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0
-NjY4MiwtMTA0NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLD
-E2MDY2NTE5NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5
-MTQzXX0=
+eyJoaXN0b3J5IjpbMTc5MzIyOTI1NywxNjI1NDY1OTAsLTEzOD
+kxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMTQxNjQ2
+NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMT
+YwNjY1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkx
+NDNdfQ==
 -->
