@@ -92,9 +92,8 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
     
 -   **Apply to field**  applies filter options to available field list in report.
     
--   **Add Listener**  adds multiple filters to reports.
+**5.** **Add Listener**  adds multiple filters to reports.
     
-
   Click  **Save Button**  to save the dashboard.
 
 
@@ -139,8 +138,8 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMT
-QxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYz
-OTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MT
-A2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTEzODkxMDE0NjcsLTEyNTQyOTAzNzcsMT
+U0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2Mzkz
+MzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LD
+E4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
