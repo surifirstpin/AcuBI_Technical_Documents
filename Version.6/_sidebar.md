@@ -6,7 +6,7 @@
 - [Calculated Column](Calculated_Column_TD.md)
 - [Visualization](Visualization.md)
 - [Saving Reports](Saving_Report_TD.md)
-- [Organize](Organize_Reports_Dashboard.md)
+- [Organize](Organize_Reports_and_Dashboard.md)
 - [Tags](Tag_TD.md)
 - [Dashboard](Dashboard.md)
 - [Admin Settings](Admin_Settings.md)
