@@ -5,7 +5,7 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
-To view already existing dashboard navigate to dashboard section, then click the dashboard report you want to view.
+To view already existing dashboard navigate to dashboard section under ***My Space*** list click the dashboard report you want to view.
 
 -   To edit a tag click ***edit*** icon.
   - To set Thumbnail for a tag click ***Thumbnail*** icon.
@@ -157,6 +157,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzIxNDE3MywxODY1MzcyMjcsNjEwNj
+eyJoaXN0b3J5IjpbMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNj
 A5MTQzXX0=
 -->
