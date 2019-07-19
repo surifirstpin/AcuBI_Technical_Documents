@@ -64,8 +64,11 @@ Based on requirement multiple reports are added to layout selected.
         
     -   **Operator**  filter operation applicable on data.
         
+## LOOKUP
 
-**7.**  **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.**( Refer image 5)**
+  **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.
+
+To add new lookup to dashboard click on , Add Lookups
 
 -   **Lookup name**  name of the lookup field.
     
@@ -82,7 +85,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 -   **Referred**  on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
-### **Report Listeners**  **( Refer image 5)**
+## Report Listeners
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -150,7 +153,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NTcxMzQxOSwxMTQxNjQ2NjgyLC0xMD
+eyJoaXN0b3J5IjpbMjA2Njg4NDQxMywxMTQxNjQ2NjgyLC0xMD
 Q3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2
 NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
