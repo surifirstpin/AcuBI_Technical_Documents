@@ -12,7 +12,7 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
  - Tags can be saved in Public, Private or Share under ***sharing status.*** 
 -   To delete a tag click ***delete*** icon.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b56b16b1de0a7088433221a92efcb565b3baae2e/images/view%20-dash.png)**Image 1**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)**Image 1**
 
 ### Create Dashboard
 
@@ -157,6 +157,6 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNj
-A5MTQzXX0=
+eyJoaXN0b3J5IjpbMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4Nj
+UzNzIyNyw2MTA2MDkxNDNdfQ==
 -->
