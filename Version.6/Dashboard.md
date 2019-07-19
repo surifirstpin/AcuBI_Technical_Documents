@@ -48,9 +48,7 @@ Based on requirement multiple reports are added to layout selected.
 
 ## Dashboard Global Filters
 
-**5.**  Click on **Add global filters**  to add global dashboard filters. 
-
-**6.**  **Dashboard global Filters**  allows user to view limited data by applying filters on dashboard reports.  **(Refer Image 5)**
+ Click on **Add global filters**  to add global dashboard filters. 
 
 -   **Filter Name**  identifier name for the filter applicable.
     
@@ -152,7 +150,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTY0NjY4MiwtMTA0NzczNDA5MywxNj
-M5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMTI2Njc5MTI3
-NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
+eyJoaXN0b3J5IjpbLTEwNjYxMDg4OTcsMTE0MTY0NjY4MiwtMT
+A0NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5
+NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
