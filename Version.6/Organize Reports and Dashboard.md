@@ -1,5 +1,5 @@
 
-<center><h2>Organize</h2></center>
+<center><h2>Organize Reports and Dashboard</h2></center>
 
 This Section explains how to organize the reports and dashboard under specific nested tag structure.
 
