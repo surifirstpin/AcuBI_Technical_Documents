@@ -45,6 +45,8 @@ Based on requirement multiple reports are added to layout selected.
 
 **3.**  Click on **Add global filters**  to add global dashboard filters. 
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
+
 -   **Filter Name**  identifier name for the filter applicable.
     
 -   **Filter Type**  type of filter used (String,date,number).
@@ -62,7 +64,7 @@ Based on requirement multiple reports are added to layout selected.
 ## LOOKUP
 
   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image6.png)
 **4.** To add new lookup to dashboard click on , Add Lookups.
 
 -   **Lookup name**  name of the lookup field.
@@ -82,6 +84,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 ## Report Listeners
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image7.png)
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
 AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
@@ -92,7 +95,7 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
     
 -   **Apply to field**  applies filter options to available field list in report.
     
-**5.** **Add Listener**  adds multiple filters to reports.
+ **Add Listener**  adds multiple filters to reports.
     
   Click  **Save Button**  to save the dashboard.
 
@@ -138,8 +141,8 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODkxMDE0NjcsLTEyNTQyOTAzNzcsMT
-U0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2Mzkz
-MzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LD
-E4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMj
+U0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0Nzcz
+NDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMT
+I2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
