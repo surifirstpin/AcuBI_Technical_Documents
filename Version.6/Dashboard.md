@@ -124,7 +124,11 @@ Select tag in which you want to save  **Dashboard Reports**  and click on  **Sav
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
 **Image 8**
-To view the saved dashboard open it from
+
+To view the saved dashboard open it from dashboard section and click on dashboard report name.
+
+- it displays below screen with dashboard reports and applied global filters 
+
 - **Show Field Group:**   this field is applicable for date types only.      
 
 ## Edit / Delete Dashboard
@@ -150,9 +154,9 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg1MDA4MzUsMTQ2NDY3MTcwMiwxNzkzMj
-I5MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1NDI5MDM3
-NywxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3MzQwOTMsMT
-YzOTMzMTM5MiwzNjI1NjM5MywxNjA2NjUxOTY1LDEyNjY3OTEy
-NzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
+eyJoaXN0b3J5IjpbLTE2MDY5ODk2MCwxNDY0NjcxNzAyLDE3OT
+MyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0Mjkw
+Mzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0NzczNDA5My
+wxNjM5MzMxMzkyLDM2MjU2MzkzLDE2MDY2NTE5NjUsMTI2Njc5
+MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
 -->
