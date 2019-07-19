@@ -41,14 +41,7 @@ Based on requirement multiple reports are added to layout selected.
 
 **2.**  To add more report lay out to existing one click add for reports under Work space list.
 
-**4.**  Click  **Update Report**  to add reports to layout. You can add reports to layout in 2 ways.(refer image 4)
 
-**a.**  Click on report layout section then select the report you want to add in layout.
-
-**b.**  Click  **Add**  to add new layout to existing one.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/dd00678604bb2220939239b3abcd5e2e359936b3/images/dashboard_layout.png)
 
 **Image 4**
 
@@ -158,7 +151,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MTc4OTE4LDM2MjU2MzkzLDE2MDY2NT
-E5NjUsMTI2Njc5MTI3NiwxODY1MzcyMjcsNjEwNjA5MTQzXX0=
+eyJoaXN0b3J5IjpbMTYzOTMzMTM5MiwzNjI1NjM5MywxNjA2Nj
+UxOTY1LDEyNjY3OTEyNzYsMTg2NTM3MjI3LDYxMDYwOTE0M119
 
 -->
