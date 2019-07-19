@@ -15,7 +15,7 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png)**Image 2**
 
-## Step 1: Customize Layout
+## Customize Layout
 
 AcuBi has ability to create multiple report layouts. Depending on requirement this layout are categorized in 2 ways.
 
@@ -28,7 +28,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
 **Image 3**
 
-## [Step 2: Add Reports]
+## Add Reports
 
 Based on requirement multiple reports are added to layout selected.
 
@@ -139,7 +139,8 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMD
-Q3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOTMsMTYwNjY1MTk2
-NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMT
+QxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYz
+OTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MT
+A2MDkxNDNdfQ==
 -->
