@@ -18,7 +18,7 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 
 > **Navigation : Dashboard→ New Dashboard**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)**Image 2**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png)**Image 2**
 
 ## Step 1: Customize Layout
 
@@ -157,6 +157,7 @@ AcuBi, makes it easier to view the dashboard list in mobile devices easily and d
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2Nz
-kxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTEwNjg4NTgyMTgsMzYyNTYzOTMsMTYwNj
+Y1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2MDkxNDNd
+fQ==
 -->
