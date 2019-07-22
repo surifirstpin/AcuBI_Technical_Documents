@@ -14,14 +14,11 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
  > **Note:** make sure the dialects used in SQL runner should match the database dialects.
     
-**II.** Create SQL query in Rep section.
+**II.** Create SQL query in Reports.
     
--   Make use of  **History**  section to pre-run the previous query.
-    
+### Steps to create SQL Query in SQL Runner
 
-## [Create SQL Query in SQL Runner](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=create-sql-query-in-sql-runner)
-
-**1.**  After logging into AcuBi, Click SQL Runner section.
+**1.**  Navigate to SQL runn Click SQL Runner section.
 
 **2.**  Type your SQL command in SQL query area.
 
@@ -127,5 +124,5 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2NDMwNDg0LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbLTE0OTEyOTYxNDEsMTg2MDQ4NDc2XX0=
 -->
