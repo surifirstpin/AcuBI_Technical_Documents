@@ -5,8 +5,8 @@
 
 Using SQL Runner, you can directly access the database and clout it in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema.  **Run**  pre-written SQL queries and view the query run history. at the same time create your customs views here and perform useful task with them in model section.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/532dd8b61e94d1e08fe0b89afa6a5961336e8ad2/images/sql_ru.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f127fd40abc4d77b566dd8186cea91b69a9bfd25/images/New_version5/TD_SQL_Image1.png)
+**Image 1**
 
 **There two ways to create sql queries in AcuBi.**
 
@@ -125,5 +125,5 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbLTE5Njg2OTEzMzQsMTg2MDQ4NDc2XX0=
 -->
