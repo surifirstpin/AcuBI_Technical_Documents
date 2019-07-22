@@ -8,7 +8,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f127fd40abc4d77b566dd8186cea91b69a9bfd25/images/New_version5/TD_SQL_Image1.png)
 **Image 1**
 
-**There two ways to create sql queries in AcuBi.**
+**Ways to create SQL queries in AcuBi.**
 
 -   In AcuBi you can directly write the SQL query from scratch and run the same, make sure the dialects used in SQL runner should match the database dialects.
     
@@ -125,5 +125,5 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg2OTEzMzQsMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbMTk2MTI5OTA1MCwxODYwNDg0NzZdfQ==
 -->
