@@ -48,7 +48,6 @@ Using SQL Runner, you can directly access the database and clout it in variety o
     
 - Hit the **Run** button, You can also customize the text as per your business needs and re-run the new query.
     
-
 ### SQL Runner History
 
 To view the recent run-history and to re-run them, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates query is successful and Red colour indicates unsuccessful query due to the error.
@@ -124,8 +123,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkzMzcyOTUsLTE2OTY5MzYzNywtMj
-k1Njk5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEz
-MTIwLDE1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OC
-wxODYwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbNDg5MTkxMDA3LC0xNjk2OTM2MzcsLTI5NT
+Y5OTkwNywxMzQ2NjU3NDM0LDg2MTQyMDcyMywtMTQ3OTIxMzEy
+MCwxNTc0NDA3MTE4LC0xNjMyMzc2NjUwLC03ODAwMzIzNTgsMT
+g2MDQ4NDc2XX0=
 -->
