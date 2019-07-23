@@ -58,6 +58,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
 **Image 4**
+**1.** Local Sorting can be applied directly to the data header in the result section. To enable this click on the desired field header to enable sorting.
 
 ## # Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
 
@@ -118,9 +119,9 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTgwOTE2MzAsLTExNzM4MTA1MDcsLT
-gwODkwNDAwLDQ4OTE5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5
-MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMT
-U3NDQwNzExOCwtMTYzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0
-ODQ3Nl19
+eyJoaXN0b3J5IjpbMjcwMzcxNjQ4LC0xMTczODEwNTA3LC04MD
+g5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3
+LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1Nz
+Q0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0
+NzZdfQ==
 -->
