@@ -38,7 +38,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 ### Create SQL Query in Reports
 
-- Navigate to Reports section, create desired report and copy sql query from 
+- Navigate to Reports section, create desired report and copy sql query from SQL section.
 - 
 
 -   Select the query from SQL area in Analysis and copy it SQL Runner.
@@ -126,7 +126,7 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2OTEyMDE0NiwtMTQ3OTIxMzEyMCwxNT
-c0NDA3MTE4LC0xNjMyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4
-NDc2XX0=
+eyJoaXN0b3J5IjpbODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1Nz
+Q0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0
+NzZdfQ==
 -->
