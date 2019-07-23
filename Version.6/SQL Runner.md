@@ -46,7 +46,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 -   Copy paste sql query from reports section to SQL Runner.
     
-- Hit the **Run** the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
+- Hit the **Run** button, You can also customize the text as per your business needs and re-run the new query.
     
 
 ![
@@ -129,8 +129,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTY5MzYzNywtMjk1Njk5OTA3LDEzND
-Y2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcx
-MTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ
-==
+eyJoaXN0b3J5IjpbOTI3OTk4NjcsLTE2OTY5MzYzNywtMjk1Nj
+k5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIw
+LDE1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxOD
+YwNDg0NzZdfQ==
 -->
