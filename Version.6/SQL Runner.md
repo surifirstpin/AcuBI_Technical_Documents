@@ -113,7 +113,7 @@ Tagged section is used to save the pre-written query and use it later as per the
 
 All the created tags are visible in tagged section.  **Follow the below steps to create TAG:**
 
-Click on **Tag**  tab, it will pop up create query Tag window :
+**5.** Click on **Tag**  tab, it will pop up create query Tag window :
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/tag1.png)
@@ -135,10 +135,10 @@ Click on **Tag**  tab, it will pop up create query Tag window :
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODIwMjc5MzcsMTQzODk4MDY5NiwtMT
-k3Njc2NTEyLDE2ODQwMjY3MSwtMTE3MzgxMDUwNywtODA4OTA0
-MDAsNDg5MTkxMDA3LC0xNjk2OTM2MzcsLTI5NTY5OTkwNywxMz
-Q2NjU3NDM0LDg2MTQyMDcyMywtMTQ3OTIxMzEyMCwxNTc0NDA3
-MTE4LC0xNjMyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX
-0=
+eyJoaXN0b3J5IjpbMTQwNDE0MDE3MiwtMTE4MjAyNzkzNywxND
+M4OTgwNjk2LC0xOTc2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEw
+NTA3LC04MDg5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMj
+k1Njk5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEz
+MTIwLDE1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OC
+wxODYwNDg0NzZdfQ==
 -->
