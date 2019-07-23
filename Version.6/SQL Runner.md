@@ -120,24 +120,25 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 
 ***Enter Below Information :***
 
-**Tag Name**  Enter tag name
+- **Tag Name**  Enter tag name
 
-**Connection**  displays the connections established for query.
+- **Connection**  displays the connections established for query.
 
-**Query**  displays the query established.
+- **Query**  displays the query established.
 
-**Info**  enter query tag information.
-   Hit  **Create Tag button**.
+- **Info**  enter query tag information.
+ 
+ - Hit  **Create Tag button**.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjE4Mjk0MiwtODQ2NTYyNjIxLC0xMT
-gyMDI3OTM3LDE0Mzg5ODA2OTYsLTE5NzY3NjUxMiwxNjg0MDI2
-NzEsLTExNzM4MTA1MDcsLTgwODkwNDAwLDQ4OTE5MTAwNywtMT
-Y5NjkzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3
-MjMsLTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MC
-wtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbLTE4NjE3MzcyMTksLTg0NjU2MjYyMSwtMT
+E4MjAyNzkzNywxNDM4OTgwNjk2LC0xOTc2NzY1MTIsMTY4NDAy
+NjcxLC0xMTczODEwNTA3LC04MDg5MDQwMCw0ODkxOTEwMDcsLT
+E2OTY5MzYzNywtMjk1Njk5OTA3LDEzNDY2NTc0MzQsODYxNDIw
+NzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcxMTgsLTE2MzIzNzY2NT
+AsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ==
 -->
