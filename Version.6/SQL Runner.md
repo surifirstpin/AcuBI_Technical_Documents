@@ -52,6 +52,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 To view the recent run-history and to re-run them, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates query is successful and Red colour indicates unsuccessful query due to the error.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cc6726e8dbfc000869585b981af2b09437a7e149/images/New_version5/TD_SQL_Image4.png)
 
 ## [Sorting Query Result](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=sorting-query-result)
 
@@ -119,8 +120,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzQ4OTY1NDksNDg5MTkxMDA3LC0xNj
-k2OTM2MzcsLTI5NTY5OTkwNywxMzQ2NjU3NDM0LDg2MTQyMDcy
-MywtMTQ3OTIxMzEyMCwxNTc0NDA3MTE4LC0xNjMyMzc2NjUwLC
-03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbLTgwODkwNDAwLDQ4OTE5MTAwNywtMTY5Nj
+kzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMs
+LTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MCwtNz
+gwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
