@@ -150,11 +150,9 @@ For **Measures**
 
 **7.** Display number of rows fetched while retrieving data.
 
-
 ## Display Totals
 
 **8.**    On selecting  **Check box** for totals, the report is displayed with total sum values of the measure fields obtained.
-
 
  ## Display  Row Limit
 
@@ -345,5 +343,5 @@ Using drill down you can view more deeper insights of the data.
 ](https://raw.githubusercontent.com/sv18042016/fp1/ae2090f2d0635decef08a516ce8833252bee2822/images/drill_down_report.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
