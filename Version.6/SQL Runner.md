@@ -94,9 +94,6 @@ To get started with derived view, Click on list icon and select create derived v
     -   Click on  **Create,**  to create a new custom view.
     
     
-
-
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
 **Image 6**
 
@@ -136,11 +133,11 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 
 -   All created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NzU2NTE3NSw4OTY0NTA1MDIsLTE4Nj
-E3MzcyMTksLTg0NjU2MjYyMSwtMTE4MjAyNzkzNywxNDM4OTgw
-Njk2LC0xOTc2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEwNTA3LC
-04MDg5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5
-OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLD
-E1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYw
-NDg0NzZdfQ==
+eyJoaXN0b3J5IjpbNzE2MDM2OTczLDg5NjQ1MDUwMiwtMTg2MT
+czNzIxOSwtODQ2NTYyNjIxLC0xMTgyMDI3OTM3LDE0Mzg5ODA2
+OTYsLTE5NzY3NjUxMiwxNjg0MDI2NzEsLTExNzM4MTA1MDcsLT
+gwODkwNDAwLDQ4OTE5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5
+MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMT
+U3NDQwNzExOCwtMTYzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0
+ODQ3Nl19
 -->
