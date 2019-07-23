@@ -59,7 +59,17 @@ To view the recent run-history and to re-run them, click on history tab availabl
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
 **Image 4**
 **1.** Local Sorting can be applied directly to the data header in the result section. To enable this click on the desired field header to enable sorting.
+## Find
 
+**13** To find the specific field value from the data extracted click on **Find** in the  field drop down.
+
+## Group / Un-Group
+
+**12.** By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
+
+## Pin or Remove Pin
+
+**11.** To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 ## # Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
@@ -119,7 +129,7 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMzcxNjQ4LC0xMTczODEwNTA3LC04MD
+eyJoaXN0b3J5IjpbMTY4NDAyNjcxLC0xMTczODEwNTA3LC04MD
 g5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3
 LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1Nz
 Q0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0
