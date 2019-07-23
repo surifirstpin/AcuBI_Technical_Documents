@@ -102,10 +102,12 @@ To get started with derived view, Click on list icon and select create derived v
 
 To view the newly created derived view. Navigate to Model section under the view list as shown in below image.
 
-![
-](![https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png](h
 
-## [Tagged](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=tagged)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
+**Image 7**
+
+
+## Tagged
 
 Tagged section is used to save the pre-written query and use it later as per the business requirement.
 
@@ -133,10 +135,10 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDA5Mzg0NiwxNDM4OTgwNjk2LC0xOT
-c2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEwNTA3LC04MDg5MDQw
-MCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3LDEzND
-Y2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcx
-MTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ
-==
+eyJoaXN0b3J5IjpbLTEwMzM3MzQ2NDYsMTQzODk4MDY5NiwtMT
+k3Njc2NTEyLDE2ODQwMjY3MSwtMTE3MzgxMDUwNywtODA4OTA0
+MDAsNDg5MTkxMDA3LC0xNjk2OTM2MzcsLTI5NTY5OTkwNywxMz
+Q2NjU3NDM0LDg2MTQyMDcyMywtMTQ3OTIxMzEyMCwxNTc0NDA3
+MTE4LC0xNjMyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX
+0=
 -->
