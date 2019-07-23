@@ -134,12 +134,13 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 **Image 8**
 
--   All the created tags are visible under  **Tagged Section.**
+-   All created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NDUwNTAyLC0xODYxNzM3MjE5LC04ND
-Y1NjI2MjEsLTExODIwMjc5MzcsMTQzODk4MDY5NiwtMTk3Njc2
-NTEyLDE2ODQwMjY3MSwtMTE3MzgxMDUwNywtODA4OTA0MDAsND
-g5MTkxMDA3LC0xNjk2OTM2MzcsLTI5NTY5OTkwNywxMzQ2NjU3
-NDM0LDg2MTQyMDcyMywtMTQ3OTIxMzEyMCwxNTc0NDA3MTE4LC
-0xNjMyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbMTE4NzU2NTE3NSw4OTY0NTA1MDIsLTE4Nj
+E3MzcyMTksLTg0NjU2MjYyMSwtMTE4MjAyNzkzNywxNDM4OTgw
+Njk2LC0xOTc2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEwNTA3LC
+04MDg5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5
+OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLD
+E1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYw
+NDg0NzZdfQ==
 -->
