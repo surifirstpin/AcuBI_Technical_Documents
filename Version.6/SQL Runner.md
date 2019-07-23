@@ -37,9 +37,10 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 -  A maximum  **Record limit**  of 5000 can be fetched at a time.
 
 ### Create SQL Query in Reports
-You can make use of  **R Section**  to create a query.
 
--   Select the text from SQL area in Analysis and copy it SQL Runner.
+- Navigate to Reports section select **Dimensions** and **Measures**
+
+-   Select the query from SQL area in Analysis and copy it SQL Runner.
     
 -   Once the Text is added to SQL area in SQL Runner,  **Run**  the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
     
@@ -124,6 +125,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTM0MTI1NywxNTc0NDA3MTE4LC0xNj
-MyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbLTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMT
+YzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
