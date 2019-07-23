@@ -24,7 +24,9 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 **3.**  Hit the  **Run** button.
 
-**4.**  The data retrieved below the query area as shown in the image. SQL runner will load up-to limit 5000 records only.
+**4.**  The data retrieved below the query area as shown in the image.
+
+**Note:**  SQL runner will load up-to limit 5000 records only.
 
 **5.**  Click  **Download**  to download the data retrieved.
 
@@ -124,5 +126,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxOD
+YwNDg0NzZdfQ==
 -->
