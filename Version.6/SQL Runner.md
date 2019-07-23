@@ -72,11 +72,11 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 **4.** To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
 
-## # Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
+### Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
 
-To get started with derived view, Click on list icon and select create Derived View.
+To get started with derived view, Click on list icon and select create derived view.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/derived%201.png)
@@ -131,7 +131,7 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDkzMDgzNywxNjg0MDI2NzEsLTExNz
+eyJoaXN0b3J5IjpbLTE5NzY3NjUxMiwxNjg0MDI2NzEsLTExNz
 M4MTA1MDcsLTgwODkwNDAwLDQ4OTE5MTAwNywtMTY5NjkzNjM3
 LC0yOTU2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMsLTE0Nz
 kyMTMxMjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MCwtNzgwMDMy
