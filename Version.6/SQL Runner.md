@@ -56,8 +56,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Sorting Query Result
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
+
 
 ## [Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
 
@@ -118,8 +117,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkzNzYzNjcwLC04MDg5MDQwMCw0ODkxOT
-EwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3LDEzNDY2NTc0MzQs
-ODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcxMTgsLTE2Mz
-IzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbLTExNzM4MTA1MDcsLTgwODkwNDAwLDQ4OT
+E5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQz
+NCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMT
+YzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
