@@ -18,7 +18,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
     
 ### Steps to create SQL Query in SQL Runner
 
-**1.**  Navigate to SQL runner by clicking on SQL Runner section.
+ Navigate to SQL runner by clicking on SQL Runner section.
 
 **2.**  Type  SQL command in SQL query area.
 
@@ -126,6 +126,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxOD
-YwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbLTY1NTkxMjI3MywtMTYzMjM3NjY1MCwtNz
+gwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
