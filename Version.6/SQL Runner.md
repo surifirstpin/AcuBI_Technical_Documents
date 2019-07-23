@@ -43,8 +43,8 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d49ce2fb758653d913874a2b3de20c2d788646fd/images/New_version5/TD_SQL_Image3.png) 
 **Image 3**
-s 
--   Select the query from SQL area in Reportand copy it SQL Runner.
+
+-   Copy paste sql query from reports section to SQL Runner.
     
 -   Once the Text is added to SQL area in SQL Runner,  **Run**  the SQL Runner to Query the database. You can also customize the text as per your business needs and run the new query.
     
@@ -129,7 +129,7 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTIzMjQ4NSwxMzQ2NjU3NDM0LDg2MT
+eyJoaXN0b3J5IjpbLTI5NTY5OTkwNywxMzQ2NjU3NDM0LDg2MT
 QyMDcyMywtMTQ3OTIxMzEyMCwxNTc0NDA3MTE4LC0xNjMyMzc2
 NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
 -->
