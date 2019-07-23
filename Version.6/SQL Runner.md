@@ -34,8 +34,6 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 -  A maximum  **Record limit**  of 5000 can be fetched at a time.
 
-
-
 ### Create SQL Query in Analysis
 
 You can make use of  **Analysis Section**  to create a query.
@@ -125,6 +123,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyOTQzMTg0LDE1NzQ0MDcxMTgsLTE2Mz
-IzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbMTkxNDQ0MzYzNiwxNTc0NDA3MTE4LC0xNj
+MyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
 -->
