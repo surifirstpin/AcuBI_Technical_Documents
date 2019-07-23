@@ -115,8 +115,8 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 
 **5.** Click on **Tag**  tab, it will pop up create query Tag window :
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/tag1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
+**Image 6**
 
 **Enter Below Information :**
 
@@ -135,7 +135,7 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDE0MDE3MiwtMTE4MjAyNzkzNywxND
+eyJoaXN0b3J5IjpbLTg0NjU2MjYyMSwtMTE4MjAyNzkzNywxND
 M4OTgwNjk2LC0xOTc2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEw
 NTA3LC04MDg5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMj
 k1Njk5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEz
