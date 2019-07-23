@@ -54,10 +54,8 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cc6726e8dbfc000869585b981af2b09437a7e149/images/New_version5/TD_SQL_Image4.png)
 
-## [Sorting Query Result](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=sorting-query-result)
-
-In your query result you can view the data in ascending or descending order by applying sorting. To enable sorting click on column header, to reverse the sorting order click on column header for second time.
-
+## Sorting Query Result
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/5f2f6b7d5ed9daf4222fd8da2636ecabbe2cabcd/images/sort_sql.png)
 
@@ -120,8 +118,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwODkwNDAwLDQ4OTE5MTAwNywtMTY5Nj
-kzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMs
-LTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MCwtNz
-gwMDMyMzU4LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbOTkzNzYzNjcwLC04MDg5MDQwMCw0ODkxOT
+EwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3LDEzNDY2NTc0MzQs
+ODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcxMTgsLTE2Mz
+IzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ==
 -->
