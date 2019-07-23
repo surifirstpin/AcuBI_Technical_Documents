@@ -20,17 +20,17 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
  Navigate to SQL runner by clicking on SQL Runner section.
 
-**2.**  Type  SQL command in SQL query area.
+-  Type  SQL command in SQL query area.
 
-**3.**  Hit the  **Run** button.
+-   Hit the  **Run** button.
 
-**4.**  The data retrieved below the query area as shown in the image.
+-   The data retrieved below the query area as shown in the image.
 
 **Note:**  SQL runner will load up-to limit 5000 records only.
 
-**5.**  Click  **Download**  to download the data retrieved.
+-  Click  **Download**  to download the data retrieved.
 
-**6.**  After Running the query it displays the  **Query Time**  taken to run the query and  **Number of rows**  fetched.
+-   After Running the query it displays the  **Query Time**  taken to run the query and  **Number of rows**  fetched.
 
 **7.**  A maximum  **Record limit**  of 5000 can be fetched at a time.
 
@@ -126,6 +126,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NTkxMjI3MywtMTYzMjM3NjY1MCwtNz
-gwMDMyMzU4LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbMzc2NzA3NTY0LC0xNjMyMzc2NjUwLC03OD
+AwMzIzNTgsMTg2MDQ4NDc2XX0=
 -->
