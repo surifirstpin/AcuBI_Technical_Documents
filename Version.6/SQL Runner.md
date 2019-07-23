@@ -19,6 +19,8 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 ### Steps to create SQL Query in SQL Runner
 
  Navigate to SQL runner by clicking on SQL Runner section.
+ 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b39fda27ee8c1b3476ef40b62ec8a3057ff15786/images/New_version5/TD_SQL_Image2.png)
 
 -  Type  SQL command in SQL query area.
 
@@ -34,9 +36,8 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 -  A maximum  **Record limit**  of 5000 can be fetched at a time.
 
-### Create SQL Query in Analysis
-
-You can make use of  **Analysis Section**  to create a query.
+### Create SQL Query in Reports
+You can make use of  **R Section**  to create a query.
 
 -   Select the text from SQL area in Analysis and copy it SQL Runner.
     
@@ -123,6 +124,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDQ0MzYzNiwxNTc0NDA3MTE4LC0xNj
+eyJoaXN0b3J5IjpbMTYxNTM0MTI1NywxNTc0NDA3MTE4LC0xNj
 MyMzc2NjUwLC03ODAwMzIzNTgsMTg2MDQ4NDc2XX0=
 -->
