@@ -92,13 +92,18 @@ To get started with derived view, Click on list icon and select create derived v
    -   **Field List**  On selecting the dialects all the fields used in query are reflected here.
         
     -   Click on  **Create,**  to create a new custom view.
-    -
-       ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
+    
+    
+
+
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/custom_view.png)
+**Image 6**
 
 To view the newly created derived view. Navigate to Model section under the view list as shown in below image.
 
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png)
+](![https://raw.githubusercontent.com/sv18042016/fp1/51255d3dbab14ac3607ff6091c095452be43d238/images/model_derived_view.png](h
 
 ## [Tagged](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=tagged)
 
@@ -128,9 +133,10 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTgxMTYwLDE0Mzg5ODA2OTYsLTE5Nz
-Y3NjUxMiwxNjg0MDI2NzEsLTExNzM4MTA1MDcsLTgwODkwNDAw
-LDQ4OTE5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5MDcsMTM0Nj
-Y1NzQzNCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMTU3NDQwNzEx
-OCwtMTYzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbLTc4NDA5Mzg0NiwxNDM4OTgwNjk2LC0xOT
+c2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEwNTA3LC04MDg5MDQw
+MCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMjk1Njk5OTA3LDEzND
+Y2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIwLDE1NzQ0MDcx
+MTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxODYwNDg0NzZdfQ
+==
 -->
