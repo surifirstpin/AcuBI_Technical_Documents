@@ -55,10 +55,11 @@ To view the recent run-history and to re-run them, click on history tab availabl
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cc6726e8dbfc000869585b981af2b09437a7e149/images/New_version5/TD_SQL_Image4.png)
 
 ## Sorting Query Result
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
+**Image 4**
 
-
-## [Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
+## # Derived View](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=derived-view)
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
 
@@ -117,8 +118,9 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzM4MTA1MDcsLTgwODkwNDAwLDQ4OT
-E5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQz
-NCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMT
-YzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
+eyJoaXN0b3J5IjpbLTE3NTgwOTE2MzAsLTExNzM4MTA1MDcsLT
+gwODkwNDAwLDQ4OTE5MTAwNywtMTY5NjkzNjM3LC0yOTU2OTk5
+MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMsLTE0NzkyMTMxMjAsMT
+U3NDQwNzExOCwtMTYzMjM3NjY1MCwtNzgwMDMyMzU4LDE4NjA0
+ODQ3Nl19
 -->
