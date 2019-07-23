@@ -19,7 +19,7 @@
 
  Login **AcuBi** using following navigation path :
 
-**Link :**  [http://18.196.122.102:8081/acubi/home](http://18.196.122.102:8081/acubi/home)
+**Link :**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
 >**Navigation: Database→ New connection**
 
@@ -101,5 +101,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzI5MDk1OSwtMTE5MDI1MTExM119
+eyJoaXN0b3J5IjpbLTMzOTY1MjY1LDIxMTMyOTA5NTksLTExOT
+AyNTExMTNdfQ==
 -->
