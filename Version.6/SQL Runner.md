@@ -49,14 +49,9 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 - Hit the **Run** button, You can also customize the text as per your business needs and re-run the new query.
     
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/5b49497f917e7ef704bffb142452286fdec45747/images/sql_Analysis.png)
+### SQL Runner History
 
-## [SQL Runner History](http://18.196.122.102/documentation/bi_technical_documentation.html#/SQL%20Runner?id=sql-runner-history)
-
-You have an ability to view all the recent history of all the queries, which have been run in SQL Runner.
-
-To view the recent history, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates query is successful and Red colour indicates unsuccessful query due to the error.
+To view the recent run-history and re-rof all the queries, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. Green colour indicates query is successful and Red colour indicates unsuccessful query due to the error.
 
 Click on  **Run Query**  in history section, to re-run the previous query.
 
@@ -129,8 +124,8 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3OTk4NjcsLTE2OTY5MzYzNywtMjk1Nj
-k5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEzMTIw
-LDE1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OCwxOD
-YwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbMTk1ODg4ODQ2NCwtMTY5NjkzNjM3LC0yOT
+U2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3MjMsLTE0NzkyMTMx
+MjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MCwtNzgwMDMyMzU4LD
+E4NjA0ODQ3Nl19
 -->
