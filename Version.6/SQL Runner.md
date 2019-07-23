@@ -118,7 +118,7 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
 **Image 6**
 
-**Enter Below Information :**
+***Enter Below Information :***
 
 **Tag Name**  Enter tag name
 
@@ -127,18 +127,17 @@ All the created tags are visible in tagged section.  **Follow the below steps to
 **Query**  displays the query established.
 
 **Info**  enter query tag information.
-
--   Hit  **Create Tag button**.
+   Hit  **Create Tag button**.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1a7f8565de46814dd5aab91b5cfe32b61e4252e5/images/Tag2.png)
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NjU2MjYyMSwtMTE4MjAyNzkzNywxND
-M4OTgwNjk2LC0xOTc2NzY1MTIsMTY4NDAyNjcxLC0xMTczODEw
-NTA3LC04MDg5MDQwMCw0ODkxOTEwMDcsLTE2OTY5MzYzNywtMj
-k1Njk5OTA3LDEzNDY2NTc0MzQsODYxNDIwNzIzLC0xNDc5MjEz
-MTIwLDE1NzQ0MDcxMTgsLTE2MzIzNzY2NTAsLTc4MDAzMjM1OC
-wxODYwNDg0NzZdfQ==
+eyJoaXN0b3J5IjpbLTMzNjE4Mjk0MiwtODQ2NTYyNjIxLC0xMT
+gyMDI3OTM3LDE0Mzg5ODA2OTYsLTE5NzY3NjUxMiwxNjg0MDI2
+NzEsLTExNzM4MTA1MDcsLTgwODkwNDAwLDQ4OTE5MTAwNywtMT
+Y5NjkzNjM3LC0yOTU2OTk5MDcsMTM0NjY1NzQzNCw4NjE0MjA3
+MjMsLTE0NzkyMTMxMjAsMTU3NDQwNzExOCwtMTYzMjM3NjY1MC
+wtNzgwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
