@@ -79,7 +79,8 @@ SQL Runner can create a derived view from the query build at the same time you c
 To get started with derived view, Click on list icon and select create derived view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/046dbed3d1d2595b7250ed3e1c4b57ef06d76ae2/images/New_version5/TD_SQL_Image5.png)
-**Image 5
+**Image 5**
+
 **Enter the below fields :**
 
 -   **Derived View Name**  Enter Label for identification of new derived view.
@@ -130,7 +131,7 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzIxNTk5NCwtMTk3Njc2NTEyLDE2OD
+eyJoaXN0b3J5IjpbMTQzODk4MDY5NiwtMTk3Njc2NTEyLDE2OD
 QwMjY3MSwtMTE3MzgxMDUwNywtODA4OTA0MDAsNDg5MTkxMDA3
 LC0xNjk2OTM2MzcsLTI5NTY5OTkwNywxMzQ2NjU3NDM0LDg2MT
 QyMDcyMywtMTQ3OTIxMzEyMCwxNTc0NDA3MTE4LC0xNjMyMzc2
