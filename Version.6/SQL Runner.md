@@ -30,7 +30,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 -  Click  **Download**  to download the data retrieved.
 
-- Total **numbers of rows** fetched is displayed at the bottom of the screen.
+- Total **Numbers of Rows** fetched is displayed at the bottom of the screen.
 
 -  A maximum  **Record limit**  of 5000 can be fetched at a time.
 
@@ -126,6 +126,6 @@ Under query section Click  **Tag**  Button, it will pop up create query Tag wind
 
 -   All the created tags are visible under  **Tagged Section.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNDE1Njk0LC0xNjMyMzc2NjUwLC03OD
-AwMzIzNTgsMTg2MDQ4NDc2XX0=
+eyJoaXN0b3J5IjpbMTU3NDQwNzExOCwtMTYzMjM3NjY1MCwtNz
+gwMDMyMzU4LDE4NjA0ODQ3Nl19
 -->
