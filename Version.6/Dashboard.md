@@ -138,7 +138,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 ## Edit / Delete Dashboard
 
-Click  **Edit**  Button to make changes to dashboard created.
+**6.** Click  **Edit**  Button to make changes to dashboard created.
 
 > **Note :**  After editing the dashboard click on  **update**  button to save the changes made.
 
@@ -148,11 +148,11 @@ Click  **Edit**  Button to make changes to dashboard created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMz
-c0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1
-Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1Ny
-wxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0
-Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMz
-EzOTIsMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4
-NjUzNzIyN119
+eyJoaXN0b3J5IjpbMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNj
+c2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYw
+NDg4OCwtMzMxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMi
+wxNzkzMjI5MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1
+NDI5MDM3NywxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3Mz
+QwOTMsMTYzOTMzMTM5MiwzNjI1NjM5MywxNjA2NjUxOTY1LDEy
+NjY3OTEyNzZdfQ==
 -->
