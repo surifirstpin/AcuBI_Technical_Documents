@@ -142,17 +142,22 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 > **Note :**  After editing the dashboard click on  **update**  button to save the changes made.
 
- Click on  **Delete icon**  to delete the dashboard created.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4f2b3aef801a77d0412cf3812afa235f388e6acf/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
-  To set dashboard to full screen, Choose  **Full screen**  from the list.
+## Delete Dashboard
+
+**7.**  Click on  **Delete icon**  to delete the dashboard created.
+
+  **8.** To set dashboard on home page click **Set Home Page** Icon.
+  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNj
-c2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYw
-NDg4OCwtMzMxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMi
-wxNzkzMjI5MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1
-NDI5MDM3NywxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3Mz
-QwOTMsMTYzOTMzMTM5MiwzNjI1NjM5MywxNjA2NjUxOTY1LDEy
-NjY3OTEyNzZdfQ==
+eyJoaXN0b3J5IjpbLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNz
+g1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3
+NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0Ni
+wxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5
+MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0Nj
+Y4MiwtMTA0NzczNDA5MywxNjM5MzMxMzkyLDM2MjU2MzkzLDE2
+MDY2NTE5NjVdfQ==
 -->
