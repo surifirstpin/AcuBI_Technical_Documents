@@ -146,22 +146,13 @@ Click  **Edit**  Button to make changes to dashboard created.
 
   To set dashboard to full screen, Choose  **Full screen**  from the list.
 
-## Dashboard for Mobile Device
 
-AcuBi, makes it easier to view the dashboard list in mobile devices easily and displays the following features;
-
--   Displays dashboard list.
--   Displays dashboard report data.
--   You can add more filters to report.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/a11e40d845baa1742caa99ef8bec4ed3db8eed14/images/mobile_device.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMT
-Q1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQy
-MzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1NDY1OTAsLT
-EzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMTQx
-NjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMzEzOTIsMzYyNTYzOT
-MsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4NjUzNzIyNyw2MTA2
-MDkxNDNdfQ==
+eyJoaXN0b3J5IjpbLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMz
+c0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1
+Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1Ny
+wxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0
+Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMz
+EzOTIsMzYyNTYzOTMsMTYwNjY1MTk2NSwxMjY2NzkxMjc2LDE4
+NjUzNzIyN119
 -->
