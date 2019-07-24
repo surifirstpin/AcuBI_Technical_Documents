@@ -25,12 +25,12 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fb52c98e4e0d8753ac65f509d5bb179c853b962c/images/New_version5/TD_Organize_Image2.png)
 **Image 2**
 
-Consider the above image;
+Considering image2,
 
 -   **Green colour** indicates dashboard is saved under public section.
 -   **Orange colour** indicates dashboard is saved under shared section.
 -   **Grey colour** indicates dashboard is saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4Nzg1ODI1XX0=
+eyJoaXN0b3J5IjpbMTEzMzA3MjI1Miw3Mjg3ODU4MjVdfQ==
 -->
