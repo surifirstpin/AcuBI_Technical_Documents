@@ -27,10 +27,10 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 
 Considering image2,
 
--   **Green colour** indicates dashboard or reportsaved under public section.
--   **Orange colour** indicates dashboard is saved under shared section.
--   **Grey colour** indicates dashboard is saved under private section.
+-   **Green colour** indicates dashboard or report saved under public section.
+-   **Orange colour** indicates dashboard or report saved under shared section.
+-   **Grey colour** indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDQxODY4Nyw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTk2MzU4OTY1OSw3Mjg3ODU4MjVdfQ==
 -->
