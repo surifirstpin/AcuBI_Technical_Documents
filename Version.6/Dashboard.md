@@ -140,7 +140,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 **6.** Click  **Edit**  Button to make changes to dashboard created.
 
-> **Note :**  After editing the dashboard click on  **update**  button to save the changes made.
+> **Note :**  After editing the dashboard click on  **Save**  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 **Image 10**
@@ -154,7 +154,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMjY1ODAzMiwtMzYyMjQ5NzA5LDIwMj
+eyJoaXN0b3J5IjpbLTk3MzU3MDI2OCwtMzYyMjQ5NzA5LDIwMj
 IxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0
 NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OC
 wtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1
