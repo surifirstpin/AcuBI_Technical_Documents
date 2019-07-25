@@ -1,7 +1,8 @@
 
 
+<h1><center>Global Functions</center></h1>
 
-> Written with [StackEdit](https://stackedit.io/).A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference. All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
+A common set of statements or operations can be defined globally as a function and it can be retrieved and used in any project. One global function shall be referred from another global function, But it should not be in circular reference. All the users have privilege to access global functions in calculated column, but admin and developer has an ability to create, edit and delete a global function.
 
 > **Navigation : Settings → Global functions**
 
@@ -59,5 +60,5 @@ This functions supports all the native java script supported functions and also 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTc0NDUyODQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
 -->
