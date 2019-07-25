@@ -18,6 +18,8 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 ## Customize Layout
 
 AcuBi has ability to create multiple report layouts. Depending on requirement this layout are categorized in 2 ways.
+
+   ## Grid Layout
    
 -   **Grid Layout**  defines single fit layout option for reports
     
@@ -25,7 +27,9 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
 **Image 3**
-## Flow La
+
+## Flow Layout
+
 -   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
 
 ## Add Reports
@@ -34,7 +38,7 @@ Based on requirement multiple reports are added to layout selected.
 
 **1.** To add reports to layout select the layout header and click on report name that you would like add, 
 
-**2.**  To add more report lay out to existing one click add for reports under Work space list.
+**2.**  To add more report layout to existing one click ***add*** for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 **Image 4**
@@ -154,11 +158,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNTIxMjg1Nyw0MjM3NDUzOCwtMzYyMj
-Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
-MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
-MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
-OTI1NywxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNz
-csMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2
-MzkzMzEzOTJdfQ==
+eyJoaXN0b3J5IjpbNTY0MDg0OTgwLDQyMzc0NTM4LC0zNjIyND
+k3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0Njkx
+LC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMz
+MxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5
+MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1NDI5MDM3Ny
+wxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3MzQwOTMsMTYz
+OTMzMTM5Ml19
 -->
