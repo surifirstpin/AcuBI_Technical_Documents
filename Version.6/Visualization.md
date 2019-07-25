@@ -390,6 +390,7 @@ Gauge chart displays current status in the context of goal.
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
+**Image 20**
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -424,6 +425,8 @@ Gauge chart displays current status in the context of goal.
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
+**Image 21**
+
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
@@ -476,12 +479,14 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
+**Image 22**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyND
-cxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3
-MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLD
-I3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0Mzgy
-OTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNz
-UxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNzIyODI2
-ODVdfQ==
+eyJoaXN0b3J5IjpbLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4ND
+MwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIy
+LC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLT
+ExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3
+NDc2LC0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LD
+MyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDky
+NjUyXX0=
 -->
