@@ -88,6 +88,8 @@ Based on requirement multiple reports are added to layout selected.
 -   **Multiple Selections**  enables the selection list for multiple data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
+**Image 8**
+
 ## Dependency Filters
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way you can extract the data depending on referred lookup field.
@@ -97,7 +99,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
-**Image 8**
+**Image 9**
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -111,7 +113,7 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
     
  **Add Listener**  adds multiple filters to reports.
     
-  **5.** Click  **Save Button**  to save the dashboard.(Refer Image 7)
+  **5.** Click  **Save Button**  to save the dashboard.(Refer Image 9)
 
 ##  Privacy & Share option for Dashboards
 
@@ -132,14 +134,14 @@ Select tag in which you want to save  **Dashboard Reports**  and click on  **Sav
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
-**Image 9**
+**Image 10**
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
 
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-**Image 10**
+**Image 11**
 
 ## Show Field Group
 
@@ -152,7 +154,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 > **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
-**Image 11**
+**Image 12**
 
 ## Delete Dashboard
 
@@ -163,11 +165,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDU5NzY1NjksMjg1MzcwMTI4LDE2NT
-MxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1Mzgs
-LTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2Nz
-Y4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0
-ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLD
-E3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0
-MjkwMzc3XX0=
+eyJoaXN0b3J5IjpbMjEyMjg0MDQwOSwyODUzNzAxMjgsMTY1Mz
+E5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwt
+MzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Nj
+g2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4
+ODgsLTMzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMT
+c5MzIyOTI1NywxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQy
+OTAzNzddfQ==
 -->
