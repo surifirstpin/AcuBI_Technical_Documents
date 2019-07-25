@@ -54,13 +54,14 @@ Based on requirement multiple reports are added to layout selected.
 **Image 5**
 
 -   **Filter Name**  identifier name for the filter applicable.
+    > Note : Filter name accepts minimum three Characters
     
 -   **Filter Type**  type of filter used (String,date,number).
     
     -   **String**  For fields that contain letters or special characters.
         
     -   **Number**  For fields that contain numeric values.
-        
+       
     -   **Date**  For fields that contain dates.
         
     -   **Lookup**  to view the lookup in dashboard filters it should be defined in lookup section.  **( Refer point 7)**
@@ -159,11 +160,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMj
-Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
-MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
-MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
-OTI1NywxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNz
-csMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2
-MzkzMzEzOTJdfQ==
+eyJoaXN0b3J5IjpbNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNz
+Q1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcx
+LDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMz
+YxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0Njcx
+NzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC
+0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0
+NzczNDA5M119
 -->
