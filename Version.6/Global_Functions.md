@@ -52,13 +52,12 @@ This functions supports all the native java script supported functions and also 
 
 **4.**  Enable edit key to  **Edit**  the function.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/733be26f2d58ffc41ec83bc979234243c5417a2e/images/edit_func.png)
 
-## [Delete Function](http://18.196.122.102/documentation/bi_technical_documentation.html#/GlobalFunctions?id=delete-function)
+## Delete Function
 
 **5.**  Click delete button to  **Delete**  the function.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3e9f75a909b59664ffe91af0ad16c2c9859586cf/images/del_func.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE1NjExNDI5OTQsLTExNjEyOTA5MzIsNz
+MwOTk4MTE2XX0=
 -->
