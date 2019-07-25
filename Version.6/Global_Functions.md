@@ -45,6 +45,7 @@ function _Addition(param1,param2)
 **3.**  Click on  **Save**  Button to save the function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
+**Image 2**
 
 ## Ability to adopt JavaScript
 
@@ -55,12 +56,14 @@ This functions supports all the native java script supported functions and also 
 **4.**  Enable edit key to  **Edit**  the function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/22605db49d5ca324b621e568ed48fca35508adb0/images/New_version5/TD_Gobal_Functions_Image3.png)
+**Image 3**
 
 ## Delete Function
 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjk1ODk2NiwtMjYxOTYxOTUyLDEyMT
-k1NTkzNzQsLTExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjEwMjE2NDAyNywxNDcyOTU4OTY2LC0yNj
+E5NjE5NTIsMTIxOTU1OTM3NCwtMTE2MTI5MDkzMiw3MzA5OTgx
+MTZdfQ==
 -->
