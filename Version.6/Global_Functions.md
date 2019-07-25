@@ -9,7 +9,7 @@ A common set of statements or operations can be defined globally as a function a
 **1.**  Click on  **Add-Functions**  to create new function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9712e86a6881444e961d60dfc6aab30bf665172/images/func1.png)
-
+**Image 1**
 ```
                                                       * My Custom function *
 /*START*/ 
@@ -61,6 +61,6 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTk2MTk1MiwxMjE5NTU5Mzc0LC0xMT
-YxMjkwOTMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTQ3Mjk1ODk2NiwtMjYxOTYxOTUyLDEyMT
+k1NTkzNzQsLTExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
 -->
