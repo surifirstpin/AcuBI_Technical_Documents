@@ -311,9 +311,9 @@ Gauge chart displays current status in the context of goal.
 
 
 
-## Standard Editing Option in Charts
+# Standard Editing Option in Charts
 
-### General Section 
+## General Section 
 
 - **Title** specify title for the chart selected.
 
@@ -324,14 +324,14 @@ Gauge chart displays current status in the context of goal.
 - **Padding** specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
 - **Tooltips** if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
-- 
+
 - **Grouped Tooltips** if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
 - **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
 - **Position** Align the legend at top,bottom,left and right side of the chart.
 
-**Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts section.
+- **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts section.
 
 - **Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
 
@@ -362,7 +362,7 @@ Gauge chart displays current status in the context of goal.
     
 - **Align Negative** It will enable the negative values to be displayed below range  `0`.
  
- ### Data 
+ ## Data 
 
 - **Row Grouping** displays the grouped value of the duplicate fields.
 
@@ -387,7 +387,7 @@ Gauge chart displays current status in the context of goal.
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
  
-## X-Axis Menu Options
+## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 
@@ -477,11 +477,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4NDUwMTE4LDE4NDMwNTcyNjEsOTI0Nz
-EyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcw
-LDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMj
-c4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5
-MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NT
-EwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4
-NV19
+eyJoaXN0b3J5IjpbLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyND
+cxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3
+MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLD
+I3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0Mzgy
+OTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNz
+UxMDkzOTQsLTE1MzI5MTAxMDksLTc3NDA5MjY1MiwtNzIyODI2
+ODVdfQ==
 -->
