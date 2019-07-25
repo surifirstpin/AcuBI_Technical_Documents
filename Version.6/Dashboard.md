@@ -85,7 +85,7 @@ Based on requirement multiple reports are added to layout selected.
     
 -   **Test Lookup**  to test the lookup.
     
--   **Multiple Selections**  enables the selection list for multiple data.
+-   **Multiple Selections**  enables the selection list for multiple data. If disabled, user can select only single data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
 **Image 8**
@@ -165,7 +165,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjg0MDQwOSwyODUzNzAxMjgsMTY1Mz
+eyJoaXN0b3J5IjpbLTkzNjI0NDExNywyODUzNzAxMjgsMTY1Mz
 E5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwt
 MzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Nj
 g2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4
