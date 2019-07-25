@@ -31,16 +31,18 @@ function myfunction(param1,param2,ParamN)
 /*START*/ 
 function _Addition(param1,param2)
 {
- var add = param1+param2;  
-  return add;
+ var Addition = param1+param2;
+  return Addition;
 }
 /*END*/
-                                           * Returns value 3, if we give 1 and 2 in Test*
+                                        
 ```
 
 > **Note :**  To undo the changes done, click  **Undo**  icon. To redo the changes made, click  **Redo**  icon.
 
-**2.**  Click on  **Test**  Button to run the function.  **3.**  Click on  **Save**  Button to save the function.
+**2.**  Click on  **Test**  Button to run the function.  
+
+**3.**  Click on  **Save**  Button to save the function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
@@ -59,6 +61,6 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzY1NTg0NTYsLTExNjEyOTA5MzIsNz
-MwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTI2OTA2OTEzMCwtMTE2MTI5MDkzMiw3Mz
+A5OTgxMTZdfQ==
 -->
