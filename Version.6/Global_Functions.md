@@ -44,20 +44,21 @@ function _Addition(param1,param2)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2c15dfa03d8ed5eed5cdffdc1335c22ce759300c/images/global_functions.png)
 
-## [Ability to adopt JavaScript](http://18.196.122.102/documentation/bi_technical_documentation.html#/GlobalFunctions?id=ability-to-adopt-javascript)
+## Ability to adopt JavaScript
 
 This functions supports all the native java script supported functions and also refer other global functions using**bi.function_name**  ( param1, param2, paramN).
 
-## [Edit Function](http://18.196.122.102/documentation/bi_technical_documentation.html#/GlobalFunctions?id=edit-function)
+## Edit Function
 
 **4.**  Enable edit key to  **Edit**  the function.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/22605db49d5ca324b621e568ed48fca35508adb0/images/New_version5/TD_Gobal_Functions_Image3.png)
 
 ## Delete Function
 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjExNDI5OTQsLTExNjEyOTA5MzIsNz
+eyJoaXN0b3J5IjpbLTExNzY1NTg0NTYsLTExNjEyOTA5MzIsNz
 MwOTk4MTE2XX0=
 -->
