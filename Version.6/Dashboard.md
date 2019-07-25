@@ -18,15 +18,15 @@ To view already existing dashboard navigate to dashboard section under ***My Spa
 ## Customize Layout
 
 AcuBi has ability to create multiple report layouts. Depending on requirement this layout are categorized in 2 ways.
-
--   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
-    
--   **Fixed Layout**  defines single fit layout option for reports
+   
+-   **Grid Layout**  defines single fit layout option for reports
     
  Here for instance i am choosing Grid Layout(1 x 2) from drop down list provided for layout. (Refer Image 2)
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
 **Image 3**
+## Flow La
+-   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
 
 ## Add Reports
 
@@ -154,11 +154,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMT
-cyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1
-NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLT
-Q0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMTYyNTQ2
-NTkwLC0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3NzIxMT
-IsMTE0MTY0NjY4MiwtMTA0NzczNDA5MywxNjM5MzMxMzkyLDM2
-MjU2MzkzXX0=
+eyJoaXN0b3J5IjpbMTAyNTIxMjg1Nyw0MjM3NDUzOCwtMzYyMj
+Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
+MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
+MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
+OTI1NywxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNz
+csMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2
+MzkzMzEzOTJdfQ==
 -->
