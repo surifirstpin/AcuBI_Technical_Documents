@@ -140,7 +140,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 **6.** Click  **Edit**  Button to make changes to dashboard created.
 
-> **Note :**  After editing the dashboard click on  **Save**  button to save the changes made.
+> **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 **Image 10**
@@ -154,11 +154,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzU3MDI2OCwtMzYyMjQ5NzA5LDIwMj
-IxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0
-NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OC
-wtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1
-NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3Mj
-ExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2MzkzMzEzOTIs
-MzYyNTYzOTNdfQ==
+eyJoaXN0b3J5IjpbNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMT
+cyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1
+NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLT
+Q0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMTYyNTQ2
+NTkwLC0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3NzIxMT
+IsMTE0MTY0NjY4MiwtMTA0NzczNDA5MywxNjM5MzMxMzkyLDM2
+MjU2MzkzXX0=
 -->
