@@ -44,7 +44,7 @@ Based on requirement multiple reports are added to layout selected.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 **Image 4**
 
-> Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to hide and un-hide the Global filters section.
+> Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
 
 ## Dashboard Global Filters
 
@@ -160,11 +160,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNz
-Q1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcx
-LDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMz
-YxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0Njcx
-NzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC
-0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0MTY0NjY4MiwtMTA0
-NzczNDA5M119
+eyJoaXN0b3J5IjpbMTc2NDYzNjk3Miw3MzAwNDQ2MTAsMTQ1ND
+Y3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5Mjks
+LTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMT
+Q1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQy
+MzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1NDY1OTAsLT
+EzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMTQx
+NjQ2NjgyXX0=
 -->
