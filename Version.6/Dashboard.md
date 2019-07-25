@@ -30,7 +30,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
 ## Flow Layout
 
--   **Flow Layout**  defines multiple layout options for reports provided scroll bar.
+-   **Flow Layout**  defines multiple layout options for reports provided scroll bar. It enables drag and drop option for the available layout.
 
 ## Add Reports
 
@@ -158,11 +158,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0MDg0OTgwLDQyMzc0NTM4LC0zNjIyND
-k3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0Njkx
-LC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMz
-MxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5
-MjU3LDE2MjU0NjU5MCwtMTM4OTEwMTQ2NywtMTI1NDI5MDM3Ny
-wxNTQ3NzcyMTEyLDExNDE2NDY2ODIsLTEwNDc3MzQwOTMsMTYz
-OTMzMTM5Ml19
+eyJoaXN0b3J5IjpbLTIwMDc3MTUzNSw0MjM3NDUzOCwtMzYyMj
+Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
+MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
+MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
+OTI1NywxNjI1NDY1OTAsLTEzODkxMDE0NjcsLTEyNTQyOTAzNz
+csMTU0Nzc3MjExMiwxMTQxNjQ2NjgyLC0xMDQ3NzM0MDkzLDE2
+MzkzMzEzOTJdfQ==
 -->
