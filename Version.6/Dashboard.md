@@ -88,6 +88,7 @@ Based on requirement multiple reports are added to layout selected.
 -   **Multiple Selections**  enables the selection list for multiple data.
     
 ## Dependency Filters
+
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way you can extract the data depending on referred lookup field.
 
 -   **Referred**  on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
@@ -161,11 +162,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1ND
-Y3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5Mjks
-LTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMT
-Q1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQy
-MzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1NDY1OTAsLT
-EzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMTQx
-NjQ2NjgyXX0=
+eyJoaXN0b3J5IjpbMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMD
+Q0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwy
+MDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3ND
+g0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5
+ODgsLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMT
+YyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3
+NzIxMTJdfQ==
 -->
