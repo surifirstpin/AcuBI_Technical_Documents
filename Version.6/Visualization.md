@@ -387,7 +387,9 @@ Gauge chart displays current status in the context of goal.
 
 - **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
  
-### X-Axis Menu Options
+## X-Axis Menu Options
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -419,8 +421,9 @@ Gauge chart displays current status in the context of goal.
  
  > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-### Y-Axis
+## Y-Axis
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
@@ -472,15 +475,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 **For Example :** Consider below image, which displays the format section for table chart.
 
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/9bb64e7b3a5912162ec782e349b90edcdaa8fa0c/images/formar.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExND
-MyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1
-NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsOD
-IyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4
-MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNT
-MyOTEwMTA5LC03NzQwOTI2NTIsLTcyMjgyNjg1LDgxMjU1MTAy
-NF19
+eyJoaXN0b3J5IjpbNTg4NDUwMTE4LDE4NDMwNTcyNjEsOTI0Nz
+EyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcw
+LDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMj
+c4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5
+MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NT
+EwOTM5NCwtMTUzMjkxMDEwOSwtNzc0MDkyNjUyLC03MjI4MjY4
+NV19
 -->
