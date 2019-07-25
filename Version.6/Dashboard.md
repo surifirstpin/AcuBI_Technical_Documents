@@ -65,7 +65,7 @@ Based on requirement multiple reports are added to layout selected.
        
     -   **Date**  For fields that contain dates.
         
-    -   **Lookup**  to view the lookup in dashboard filters it should be defined in lookup section.  
+    -   **Lookup**  to view the lookup in dashboard filters it should be defined in lookup section.  (Refer Lookup Section)
         
     -   **Operator**  filter operation applicable on data.
         
@@ -161,11 +161,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjgwMjcxOTYsNzMwMDQ0NjEwLDE0NT
-Q2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5
-LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMT
-E0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0
-MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMTYyNTQ2NTkwLC
-0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3NzIxMTIsMTE0
-MTY0NjY4Ml19
+eyJoaXN0b3J5IjpbMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1ND
+Y3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5Mjks
+LTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMT
+Q1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQy
+MzQ2LDE0NjQ2NzE3MDIsMTc5MzIyOTI1NywxNjI1NDY1OTAsLT
+EzODkxMDE0NjcsLTEyNTQyOTAzNzcsMTU0Nzc3MjExMiwxMTQx
+NjQ2NjgyXX0=
 -->
