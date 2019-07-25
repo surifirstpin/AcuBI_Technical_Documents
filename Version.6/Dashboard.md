@@ -86,7 +86,8 @@ Based on requirement multiple reports are added to layout selected.
 -   **Test Lookup**  to test the lookup.
     
 -   **Multiple Selections**  enables the selection list for multiple data.
-    
+  
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
 ## Dependency Filters
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way you can extract the data depending on referred lookup field.
@@ -162,11 +163,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMD
-Q0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwy
-MDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3ND
-g0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5
-ODgsLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMT
-YyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0MjkwMzc3LDE1NDc3
-NzIxMTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDU5NzY1NjksMjg1MzcwMTI4LDE2NT
+MxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1Mzgs
+LTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2Nz
+Y4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0
+ODg4LC0zMzE1NTI5ODgsLTQ0NTU0MjM0NiwxNDY0NjcxNzAyLD
+E3OTMyMjkyNTcsMTYyNTQ2NTkwLC0xMzg5MTAxNDY3LC0xMjU0
+MjkwMzc3XX0=
 -->
