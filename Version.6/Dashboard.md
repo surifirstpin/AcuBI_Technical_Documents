@@ -33,7 +33,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 -   **Flow Layout**  defines multiple layout options for reports provided scroll bar. It enables drag and drop option for the available layout.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0f86df89a1c0a273e0609cd6731055746e7641c7/images/New_version5/TD_Dashboard_image10.png)
-
+**Image 4**
 ## Add Reports
 
 Based on requirement multiple reports are added to layout selected.
@@ -43,7 +43,7 @@ Based on requirement multiple reports are added to layout selected.
 **2.**  To add more report layout to existing one click ***add*** for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
-**Image 4**
+**Image 5**
 
 > Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
 
@@ -52,7 +52,7 @@ Based on requirement multiple reports are added to layout selected.
 **3.**  Click on **Add global filters**  to add global dashboard filters. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
-**Image 5**
+**Image 6**
 
 -   **Filter Name**  identifier name for the filter applicable.
     > Note : Filter name accepts minimum three Characters
@@ -65,7 +65,7 @@ Based on requirement multiple reports are added to layout selected.
        
     -   **Date**  For fields that contain dates.
         
-    -   **Lookup**  to view the lookup in dashboard filters it should be defined in lookup section.  **( Refer point 7)**
+    -   **Lookup**  to view the lookup in dashboard filters it should be defined in lookup section.  
         
     -   **Operator**  filter operation applicable on data.
         
@@ -73,7 +73,7 @@ Based on requirement multiple reports are added to layout selected.
 
   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image6.png)
-**Image 6**
+**Image 7**
 
 **4.** To add new lookup to dashboard click on , Add Lookups.
 
@@ -95,7 +95,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
-**Image 7**
+**Image 8**
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -130,14 +130,14 @@ Select tag in which you want to save  **Dashboard Reports**  and click on  **Sav
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
-**Image 8**
+**Image 9**
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
 
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-**Image 9**
+**Image 10**
 
 ## Show Field Group
 
@@ -150,7 +150,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 > **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
-**Image 10**
+**Image 11**
 
 ## Delete Dashboard
 
@@ -161,7 +161,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIxMzMxNTEsNzMwMDQ0NjEwLDE0NT
+eyJoaXN0b3J5IjpbLTIwMjgwMjcxOTYsNzMwMDQ0NjEwLDE0NT
 Q2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5
 LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMT
 E0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLTQ0NTU0
