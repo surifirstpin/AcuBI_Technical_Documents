@@ -37,8 +37,8 @@ function _Addition(param1,param2)
 /*END*/
                                         
 ```
-
-> **Note :**  To undo the changes done, click  **Undo**  icon. To redo the changes made, click  **Redo**  icon.
+> **Note :**  To undo the changes done, click  **Undo**  icon. 
+> To redo the changes made, click  **Redo**  icon.
 
 **2.**  Click on  **Test**  Button to run the function.  
 
@@ -61,6 +61,6 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2OTA2OTEzMCwtMTE2MTI5MDkzMiw3Mz
+eyJoaXN0b3J5IjpbMjAzNTQ5NjI1MiwtMTE2MTI5MDkzMiw3Mz
 A5OTgxMTZdfQ==
 -->
