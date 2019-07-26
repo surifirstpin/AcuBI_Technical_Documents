@@ -3,6 +3,7 @@
 
 <h1><center> Global Parameter</center></h1>
 
+
 Global Parameter is a flat file data in JSON format which can be used to manipulate, control and set predefined values. AcuBi allows you to provide additional key values to manipulate the data in calculations column, control data etc.
 
 ## Standard Functionalities
@@ -107,6 +108,6 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk4NDAyNyw0NTY0NTI1MDYsLTIwMj
-k4MzU2MDQsLTExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5OD
+M1NjA0LC0xMTgwMDM3ODI4XX0=
 -->
