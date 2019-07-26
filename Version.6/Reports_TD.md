@@ -337,13 +337,13 @@ Using drill down you can view more deeper insights of the data.
 **For example:** Refer image 17, 
 **a.** On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_2.
 
-* On further expanding Way_used it will display the mode of payment(phone) that falls under the Way_used.
+**b.** On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94965c93059ac41d5783bc7a93d5d898377146ef/images/New_version5/TD_Reports_17.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMzNDk4NDMsODAyMzkyNTI1LDE4MD
-Y5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTg0Nzc0MzYwMCw4MDIzOTI1MjUsMTgwNj
+k4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
