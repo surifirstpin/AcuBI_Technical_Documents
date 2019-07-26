@@ -6,6 +6,7 @@
 - [Calculated Column](Calculated_Column_TD.md)
 - [Visualization](Visualization.md)
 - [Saving Reports](Saving_Report_TD.md)
+- [SQL Runner](SQL Runner.md)
 - [Organize](Organize.md)
 - [Tags](Tag_TD.md)
 - [Dashboard](Dashboard.md)
