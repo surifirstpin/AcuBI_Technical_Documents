@@ -25,6 +25,7 @@ Click on **Calculated column** button to enable table calculations as shown in b
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/485c2058e4be936a828b501dff5ff718fd7b89fb/images/New_version5/TD_CC_Image0.png)
 **Image 1**
+
 After navigating to Calculated Column Window, Enter all the below fields.
 
 - **Field name** unique identifier name to refer calculated column.
@@ -36,9 +37,6 @@ After navigating to Calculated Column Window, Enter all the below fields.
 - **Field type** derives dimension or measure.
 
 - **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/aff2f17d1b5383de542a7b534df7caeb69c03b3d/images/calculated_col_window.png)
 
 - **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
@@ -419,9 +417,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMT
-Q4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2
-NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Ni
-w0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1
-OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbNDQ1MTM0Njc2LC03MDE3NTc4ODIsLTE2MD
+k0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2
+MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LD
+EzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4
+ODk0MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl
+19
 -->
