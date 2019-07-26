@@ -52,6 +52,9 @@
 - **Additional Parameters** Additional JDBC parameter used.
 
 ## SSH 
+- Enable SSH connection by select checkbox for SSH.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
 
 **a)**  To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
@@ -101,6 +104,6 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMT
-kwMjUxMTEzXX0=
+eyJoaXN0b3J5IjpbLTY0Mzk1Mjg2NCwtOTQ0NTY1MDMwLDIxMT
+MyOTA5NTksLTExOTAyNTExMTNdfQ==
 -->
