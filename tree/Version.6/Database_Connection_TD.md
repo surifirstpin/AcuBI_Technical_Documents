@@ -55,6 +55,7 @@
 - Enable SSH connection by select checkbox for SSH.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
+**Image 2**
 
 **a)**  To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
@@ -73,7 +74,7 @@
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
-**Image 2**
+**Image 3**
 
 **3.** **Dialects** select the accurate dialect from the list using drop down option.
 
@@ -90,7 +91,7 @@
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
-**Image 3**
+**Image 4**
 
    **6.** Click **Edit** option to make any changes to connection established.
    
@@ -102,8 +103,9 @@
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
+**Image 5**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mzk1Mjg2NCwtOTQ0NTY1MDMwLDIxMT
-MyOTA5NTksLTExOTAyNTExMTNdfQ==
+eyJoaXN0b3J5IjpbLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMT
+EzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
 -->
