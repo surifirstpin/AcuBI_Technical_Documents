@@ -36,7 +36,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
 
-- It enables drag and drop option for the available layout.
+- **Flow Layout** enables drag and drop option for the available grids, to carryout this function select drag icon and drop to desired available grid.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0f86df89a1c0a273e0609cd6731055746e7641c7/images/New_version5/TD_Dashboard_image10.png)
 **Image 4**
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTIyNzk0NiwxNjQ0NTgyMTM4LC05Mz
-YyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMDQ0NjEw
-LDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMT
-cyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1
-NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5ODgsLT
-Q0NTU0MjM0NiwxNDY0NjcxNzAyLDE3OTMyMjkyNTcsMTYyNTQ2
-NTkwXX0=
+eyJoaXN0b3J5IjpbLTg0ODU4NTk0NywtNjE5MjI3OTQ2LDE2ND
+Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
+Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMj
+Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
+MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
+MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
+OTI1N119
 -->
