@@ -421,12 +421,13 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
 **Image 12**
 
-> **Note :**  it returns value 6.
+> **Note :**  it returns value 13. as shown in image below.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MD
-k0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2
-MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LD
-EzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4
-ODk0MjksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl
-19
+eyJoaXN0b3J5IjpbMTk0MDY4ODgxNywyNTUzNDA3MzUsLTcwMT
+c1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2
+OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLT
+EwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4
+MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4MC
+wxNTE5NTMxNTU2XX0=
 -->
