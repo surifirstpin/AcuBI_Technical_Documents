@@ -42,6 +42,7 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e460f84e0b5d682248fe9a8b68a3741dbba05bb2/images/New_version5/TD_CC_Image1.png)
 **Image 2**
+
 - Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97b3a3853c6c77d37e4e049e95204864161eb785/images/New_version5/TD_CC_Image2.png)
@@ -377,12 +378,14 @@ By enabling the field **Calculate On Raw** the calculation is applied on all the
 bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dfd8ceeda25a946ba3170730047ce3d8b09d9fa0/images/New_version5/TD_CC_Image7.png)
+**Image 7**
 
 ## Calculate column with Pivot Offset
 
 To calculate the sum difference of each customer based on hub, lets apply pivot to hub field initially as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
+**Image 9**
 
 To view bets_sum difference of each hub for specific customer using Pivot_Offset() function. 
 enter the following expression in calculation section.
@@ -390,10 +393,12 @@ enter the following expression in calculation section.
 ${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b5054cc50f00618edbe0852074d0ee37e6eb839b/images/New_version5/TD_CC_Image10.png)
+**Image 10**
 
 The resultant obtained based on calculation applied :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f92cf2c867364b26a590c9012dd41e895931a1bd/images/New_version5/TD_CC_Image9.png)
+**Image 11**
 
 ## Local Function
 
@@ -414,10 +419,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52b7c4357f0c07e4a89b14f018cf3d877a5ba4f3/images/cal_local_fucntion.png)
+**Image 12**
 
 > **Note :**  it returns value 6.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1MTM0Njc2LC03MDE3NTc4ODIsLTE2MD
+eyJoaXN0b3J5IjpbMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MD
 k0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2
 MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LD
 EzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4
