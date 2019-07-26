@@ -35,11 +35,12 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 - To add reports in flow layout, select the grid and click **Add**  available next to report name under Workspace.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
+**Image 4**
 
 - **Flow Layout** enables drag and drop option for the available grids, to carryout this function select drag icon and drop to desired available grid.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0f86df89a1c0a273e0609cd6731055746e7641c7/images/New_version5/TD_Dashboard_image10.png)
-**Image 4**
+**Image 5**
 
 ## Add Reports
 
@@ -50,7 +51,7 @@ Based on requirement multiple reports are added to layout selected.
 **2.**  To add more report layout to existing one click ***add*** for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
-**Image 5**
+**Image 6**
 
 > Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
 
@@ -59,7 +60,7 @@ Based on requirement multiple reports are added to layout selected.
 **3.**  Click on **Add global filters**  to add global dashboard filters. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
-**Image 6**
+**Image 7**
 
 -   **Filter Name**  identifier name for the filter applicable.
     > Note : Filter name accepts minimum three Characters
@@ -80,7 +81,7 @@ Based on requirement multiple reports are added to layout selected.
 
   **Lookup**  Adding lookup to dashboard will refer set of query or list of items in filters.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image6.png)
-**Image 7**
+**Image 8**
 
 **4.** To add new lookup to dashboard click on , Add Lookups.
 
@@ -95,7 +96,7 @@ Based on requirement multiple reports are added to layout selected.
 -   **Multiple Selections**  enables the selection list for multiple data. If disabled, user can select only single data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
-**Image 8**
+**Image 9**
 
 ## Dependency Filters
 
@@ -106,7 +107,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
-**Image 9**
+**Image 10**
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -141,14 +142,14 @@ Select tag in which you want to save  **Dashboard Reports**  and click on  **Sav
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
-**Image 10**
+**Image 11**
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
 
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-**Image 11**
+**Image 12**
 
 ## Show Field Group
 
@@ -161,7 +162,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 > **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
-**Image 12**
+**Image 13**
 
 ## Delete Dashboard
 
@@ -172,11 +173,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0ODU4NTk0NywtNjE5MjI3OTQ2LDE2ND
-Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
-Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMj
-Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
-MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNjE2MDQ4ODgsLT
-MzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3MDIsMTc5MzIy
-OTI1N119
+eyJoaXN0b3J5IjpbLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0ND
+U4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2
+LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyND
+k3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0Njkx
+LC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMz
+MxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5
+MjU3XX0=
 -->
