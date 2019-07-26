@@ -339,12 +339,13 @@ Using drill down you can view more deeper insights of the data.
 
 **b.** On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular area code.
 
-- ***Reset Data Drill:***
+- ***Reset Data Drill:*** To navigate to  previous page click ***Rest Data Drill.***
+
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94965c93059ac41d5783bc7a93d5d898377146ef/images/New_version5/TD_Reports_17.png)
 **Image 17**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzMyOTMwMyw4MDIzOTI1MjUsMTgwNj
-k4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OT
+g1ODU0LC02MTc5NTMxMjZdfQ==
 -->
