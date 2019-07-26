@@ -12,3 +12,4 @@
 - [Dashboard](Dashboard.md)
 - [Admin Settings](Admin_Settings.md)
 - [Global Parameters](Global_Parameters_TD.md)
+-[Global Functions](Global_Functions.md)
