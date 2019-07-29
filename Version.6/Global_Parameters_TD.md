@@ -77,7 +77,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 **7.** **Code view** is used to display JSON format for uploaded file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/30d986cd1364cb534c9f670a6b1f2947c2d39d40/images/New_version5/TD_Gobal_Parameter_Image13.png)
-**Image 10**
+**Image 9**
 
 **Note :**
 -   To undo the changes done for the code established click  **Undo**  icon.
@@ -88,7 +88,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NT
-k4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQs
-LTExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3Mz
+IyNjY5MTMsMTI4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYs
+LTIwMjk4MzU2MDQsLTExODAwMzc4MjhdfQ==
 -->
