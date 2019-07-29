@@ -56,7 +56,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 ## EDIT
 
-**5.**  Select the column name and click on  **Edit**  button to change column name and column type ( change it yo.
+**5.**  Select the column name and click on  **Edit**  button to change column name and column type ( string or number using drop down list).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/855ff834d3525786d6a8240825f529a25d6c95f2/images/New_version5/TD_Gobal_Parameter_Image11.png)
 **Image 7**
@@ -65,10 +65,6 @@ After importing the file, data is reflected in global parameter section. (Refer 
 ## Delete
 
 **6.**   Similarly you can delete the column or row by selecting delete option in drop down list.
-
-
-
-
 
 **Similarly edit column cell value by clicking on specific cell as shown below:**
 
@@ -109,7 +105,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODQ5NjE2NiwxMjg1OTg0MDI3LDkzMz
+eyJoaXN0b3J5IjpbMTI1Mjc1NDczMiwxMjg1OTg0MDI3LDkzMz
 g0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgy
 OF19
 -->
