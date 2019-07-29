@@ -172,11 +172,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 **6.** Choose chart type **World** from drop-down list to compare the data using world chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
- **Image 
+ **Image 10**
+ 
  > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
-
- **Image 10**
+ 
+ **Image 11**
  
 - **Title** specify a title for world map.
 
@@ -204,7 +205,7 @@ Bar charts are used to compare data across different categories. You can build a
  **7.** .Choose chart type **BAR** from given drop-down list compare the data using Bar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ba4dbdd16bfef4193c756dfae1a0dbef16d9fb/images/New_version5/TD_Visu_Image11.png)
-**Image 11**
+**Image 12**
 
 ## Bubble chart 
 
@@ -213,7 +214,7 @@ It is used to display the data in circles. We can define each bubble using Dimen
  **8.** .Choose chart type **BUBBLE** from given drop-down list compare the data.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/91b2a584b941b19f94d1c93e5a856b8de3ebe51c/images/New_version5/TD_Visu_Image12.png)
-**Image 12**
+**Image 13**
 
 ## Table chart 
  
@@ -221,7 +222,7 @@ Table chart displays the data in series making it more feasible for comparing di
  
  **9.** Choose chart type **Table** from drop-down list.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08c494f9fa806d23afe1ace4e408a1f94d08d824/images/New_version5/TD_visu_image13.png)
-**Image 13**
+**Image 14**
 
 ### Hide Pivot
 
@@ -235,16 +236,16 @@ pivot_offset(#{biplus.orders.sum_quantity},0,-1)
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b297a288ba4fa4e9db7a19c43c2f2751ad0f1130/images/New_version5/TD_Visu_Image14.png)
-**Image 14**
+**Image 15**
 
 The resultant for this expression would be seen in green color;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
-**Image 15**
+**Image 16**
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
-**Image 16**
+**Image 17**
 
 Similarly, to hide last column, select check_bob Hide_Last.
 
@@ -257,7 +258,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  **10.** Choose chart type **Funnel** from drop down-list.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2f2fb255d5529d8fd300f252e2ce61aba3985755/images/New_version5/TD_Visu_Image17.png)
-**Image 17**
+**Image 18**
 
 **AcuBi** displays funnel charts in following formats:
 
@@ -285,12 +286,12 @@ Gauge chart displays current status in the context of goal.
 - **Green** colour in gauge chart indicates the value attained is closer to target.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4838dece9a608f6372b8e6e1ad4c52a8955d4ec/images/New_version5/TD_Visu_Image18.png)
-**Image 18**
+**Image 19**
 
 - **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
-**Image 19**
+**Image 20**
 
 - **Value** select one of the available measure values from the drop down.
 
@@ -391,7 +392,7 @@ Gauge chart displays current status in the context of goal.
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
-**Image 20**
+**Image 21**
 
 - **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -426,7 +427,7 @@ Gauge chart displays current status in the context of goal.
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
-**Image 21**
+**Image 22**
 
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -480,10 +481,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-**Image 22**
+**Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0NjI4NzExNSwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbLTc3NDkzMTU1MCwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
