@@ -21,9 +21,8 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 
 **For Example :**  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/9ef51de09e4e5f49959a15ca5cdbf8c130c792b3/images/time.png)
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/40e942e774c02238eb5c6a69120dd5e500e74b95/images/New_version5/td_view_report_image3.png)
+**Image 3**
 -   You can also make use of inclusive, exclusive braces to filter the data.
     
     -   A closed interval [a,b] includes the end points.
@@ -33,7 +32,7 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
-
+**Image 4**
 
 ## [Refresh & Hard Refresh]
 
@@ -72,6 +71,6 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMz
-MyMDU1MywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NT
+Q0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
