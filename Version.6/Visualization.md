@@ -171,9 +171,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  
 **6.** Choose chart type **World** from drop-down list to compare the data using world chart.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
+ **Image 
  > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
 
  **Image 10**
  
@@ -482,7 +483,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 22**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTAwNzMxNSwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbMjE0NjI4NzExNSwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
