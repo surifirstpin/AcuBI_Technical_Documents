@@ -76,7 +76,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 **7.** **Code view** is used to display JSON format for uploaded file.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/30d986cd1364cb534c9f670a6b1f2947c2d39d40/images/New_version5/TD_Gobal_Parameter_Image13.png)
 **Image 10**
 
 **Note :**
@@ -84,29 +84,11 @@ After importing the file, data is reflected in global parameter section. (Refer 
 -   To redo the changes done for the code click  **Redo**  icon.
 -   To format the code according to proper alignment click on  **Format Code**  Icon.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/81d718b1b8f8fb86a5e9e622a08de17b9fde36a9/images/codeview.png)
-**Image 11**
-
 ## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
-
-## Edit Global Parameters
-
-**6.**  To edit global parameters click  **Edit**  button.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/edit_para.png)
-**Image 12**
-
-## Delete Global Parameters
-
-**7.**  To delete global parameter click on  **Delete** Button.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f62789b75b84744ac187a098b61d4fc8fb752053/images/delete_para.png)
-**Image 13**
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMDMxMzIzLDczMjI2NjkxMywxMjg1OT
-g0MDI3LDkzMzg0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwt
-MTE4MDAzNzgyOF19
+eyJoaXN0b3J5IjpbMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NT
+k4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQs
+LTExODAwMzc4MjhdfQ==
 -->
