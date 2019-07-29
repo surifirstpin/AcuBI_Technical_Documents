@@ -56,7 +56,9 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 ## EDIT
 
-**5.**  Select the column name and click on  **Edit**  button to change column name.
+**5.**  Select the column name and click on  **Edit**  button to change column name and column type.
+
+
 
 
 ## Delete
@@ -106,7 +108,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTE2MzQxMSwxMjg1OTg0MDI3LDkzMz
+eyJoaXN0b3J5IjpbLTc1MzAyNDAyOCwxMjg1OTg0MDI3LDkzMz
 g0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgy
 OF19
 -->
