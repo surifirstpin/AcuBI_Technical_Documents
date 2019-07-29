@@ -42,7 +42,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 **3.**  Click on  **Save**  button to save the global parameter.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0d67f9ee78d4ee5a69d2e8b8ae127088b07972f0/images/save_globar.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image9.png)
 **Image 5**
 
 > **Note :**  By default all the columns in uploaded file will be saved as string type.
@@ -51,7 +51,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value as shown in below image.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e2bd3416a3b95a70d6d930540867035049373b02/images/find_gp.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image10.png)
 **Image 6**
 
 ## Change Column Name & Type (String / Number)
@@ -107,6 +107,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NT
-I1MDYsLTIwMjk4MzU2MDQsLTExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbNTQwNzc2NDU2LDEyODU5ODQwMjcsOTMzOD
+QyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4
+XX0=
 -->
