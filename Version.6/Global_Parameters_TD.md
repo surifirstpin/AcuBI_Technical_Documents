@@ -68,6 +68,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 **Similarly edit column cell value by clicking on specific cell as shown below:**
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dd5e83563ad13b4d84c033b7acf9e61709f0b560/images/New_version5/TD_Gobal_Parameter_Image12.png)
 
 **Image 9**
 
@@ -105,7 +106,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzUyNTU0MywxMjg1OTg0MDI3LDkzMz
-g0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgy
-OF19
+eyJoaXN0b3J5IjpbNzMyMjY2OTEzLDEyODU5ODQwMjcsOTMzOD
+QyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4
+XX0=
 -->
