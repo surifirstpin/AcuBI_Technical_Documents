@@ -58,15 +58,14 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 **5.**  Select the column name and click on  **Edit**  button to change column name.
 
+
 ## Delete
 
 **6.**   Similarly you can delete the column or row by selecting delete option in drop down list.
 
 
-**Change the column type as shown in below image :**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para2.png)
-**Image 8**
+
 
 **Similarly edit column cell value by clicking on specific cell as shown below:**
 
@@ -107,7 +106,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDE2MTE2OTYsMTI4NTk4NDAyNyw5Mz
-M4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLTExODAwMzc4
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTUwNTE2MzQxMSwxMjg1OTg0MDI3LDkzMz
+g0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgy
+OF19
 -->
