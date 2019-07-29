@@ -29,9 +29,7 @@ Reports in  **AcuBi**  extract the data effectively and collaborate efficiently,
         
     -   An open interval (a,b) excludes them.
         
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/1f5814f39a56216832c77c94d75e8f9c6a2fb97a/images/date.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
 **Image 4**
 
 ## [Refresh & Hard Refresh]
@@ -71,6 +69,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NT
-Q0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNz
+I0MzkzMjgsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0
+NDddfQ==
 -->
