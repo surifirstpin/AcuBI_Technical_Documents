@@ -68,12 +68,12 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 **Similarly edit column cell value by clicking on specific cell as shown below:**
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/90ce2c5c848ba57722a38cdfb7623b6037e12058/images/para3.png)
+
 **Image 9**
 
 ## Grid & Code Views
 
-**5.** **Code view** is used to display JSON format for uploaded file.
+**7.** **Code view** is used to display JSON format for uploaded file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5659955ae0a86d34a5517837ecf89c730b785eb7/images/New_version5/TD_Gobal_Parameter_Image7.png)
 **Image 10**
@@ -105,7 +105,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1Mjc1NDczMiwxMjg1OTg0MDI3LDkzMz
+eyJoaXN0b3J5IjpbLTQyNzUyNTU0MywxMjg1OTg0MDI3LDkzMz
 g0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgy
 OF19
 -->
