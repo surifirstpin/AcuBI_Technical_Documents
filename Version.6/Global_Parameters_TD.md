@@ -49,19 +49,19 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 ## Find
 
-To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value as shown in below image.
+**4.** To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image10.png)
 **Image 6**
 
-## Change Column Name & Type (String / Number)
+## EDIT
 
-**4.**  Select the column name and click on  **Edit**  button to change column name.
+**5.**  Select the column name and click on  **Edit**  button to change column name.
 
--   Similarly you can delete the column or row by selecting delete option in drop down list.
+## Delete
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9f487e8bcb13f913640bdce2a7030f7b519167a/images/para1.png)
-**Image 7**
+**6.**   Similarly you can delete the column or row by selecting delete option in drop down list.
+
 
 **Change the column type as shown in below image :**
 
@@ -107,7 +107,7 @@ If check case is enabled, global parameters become case sensitive for key mappin
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNzc2NDU2LDEyODU5ODQwMjcsOTMzOD
-QyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4
-XX0=
+eyJoaXN0b3J5IjpbLTE0MDE2MTE2OTYsMTI4NTk4NDAyNyw5Mz
+M4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLTExODAwMzc4
+MjhdfQ==
 -->
