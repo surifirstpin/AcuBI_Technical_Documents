@@ -7,11 +7,12 @@ A model is a customized gateway into the database for accessing data as per busi
 **A model can be defined in 3 steps :**
 
 -   Creating a Project with required 
-- database and respective tables.
 
--   Customize the Model using IDE as per the business requirement.
+-  Database and respective tables.
 
--   Organize the fields in Views with required manipulation.
+-  Customize the Model using IDE as per the business requirement.
+
+-  Organize the fields in Views with required manipulation.
 
 ## Creating a Project 
 
@@ -688,7 +689,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk3MTk2NjAwLDE1MzQ3MjMzMDEsMTEzOT
+eyJoaXN0b3J5IjpbNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
 MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
 NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMT
 QzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMz
