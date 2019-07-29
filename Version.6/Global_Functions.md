@@ -44,6 +44,8 @@ function _Addition(param1,param2)
 
 **3.**  Click on  **Save**  Button to save the function.
 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ad2302fa77bfc83747a0f00223721b9ea23b471/images/New_version5/TD_Gobal_Functions_Image3.png)
 **Image 2**
 
 ## Ability to adopt JavaScript
@@ -54,15 +56,13 @@ This functions supports all the native java script supported functions and also 
 
 **4.**  Enable edit key to  **Edit**  the function.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/22605db49d5ca324b621e568ed48fca35508adb0/images/New_version5/TD_Gobal_Functions_Image3.png)
-**Image 3**
-
 ## Delete Function
 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTI4MTExMywzNTg2Nzg1NzAsLTMxMz
-c5MDA2MywyMTAyMTY0MDI3LDE0NzI5NTg5NjYsLTI2MTk2MTk1
-MiwxMjE5NTU5Mzc0LC0xMTYxMjkwOTMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc5NzY1MDgxMiwxNTM5MjgxMTEzLDM1OD
+Y3ODU3MCwtMzEzNzkwMDYzLDIxMDIxNjQwMjcsMTQ3Mjk1ODk2
+NiwtMjYxOTYxOTUyLDEyMTk1NTkzNzQsLTExNjEyOTA5MzIsNz
+MwOTk4MTE2XX0=
 -->
