@@ -35,7 +35,7 @@ All the reports build in analysis section are saved under **my space** tag. ( Re
 
 ## Defining Filter fields
 
-Filter are used to extract only specific data you want to view. this function is carried out by applying filters to reports.
+Filter are used to extract only specific data you want to view. This function is carried out by applying filters to reports.
  
 - **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
@@ -56,7 +56,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
 **Image 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mz
-g3NjI4OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1
-NiwyMDYwNTE4OTksLTExNzI0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4Nz
+Y3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0
+OSwtMTYzODUxNjU2LDIwNjA1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
