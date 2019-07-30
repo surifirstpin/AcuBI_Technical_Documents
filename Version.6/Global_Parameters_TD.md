@@ -54,7 +54,7 @@ After importing the file, data is reflected in global parameter section. (Refer 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image10.png)
 **Image 6**
 
-## EDIT
+## Edit
 
 **5.**  Select the column name and click on  **Edit**  button to change column name and column type ( string or number using drop down list).
 
@@ -88,8 +88,8 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzI1OTEwNiwtODM2NDIzNDI3LC0xMD
-A3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLDEyODU5ODQw
-MjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMT
-gwMDM3ODI4XX0=
+eyJoaXN0b3J5IjpbLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04Mz
+Y0MjM0MjcsLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5
+MTMsMTI4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMj
+k4MzU2MDQsLTExODAwMzc4MjhdfQ==
 -->
