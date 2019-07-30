@@ -82,13 +82,14 @@ After importing the file, data is reflected in global parameter section. (Refer 
 **Note :**
 -   To undo the changes done for the code established click  **Undo**  icon.
 -   To redo the changes done for the code click  **Redo**  icon.
--   To format the code according to proper alignment click on  **Format Code**  Icon.
+-   To format the code according to proper alignment click **Format Code**  Icon.
 
 ## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjQyMzQyNywtMTAwNzkzNzU5NywyMD
-Y5NTc2NzIxLDczMjI2NjkxMywxMjg1OTg0MDI3LDkzMzg0MjY1
-LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgyOF19
+eyJoaXN0b3J5IjpbLTMyMzI1OTEwNiwtODM2NDIzNDI3LC0xMD
+A3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLDEyODU5ODQw
+MjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMT
+gwMDM3ODI4XX0=
 -->
