@@ -22,8 +22,8 @@ Under **Save Report** page provide all the below information to save a report fo
 - **Privacy** you can save the report in any one of the following privacy option.
 
   - **Private ()** report saved in private section and accessed by the user itself.
-  - **Public ()** the report is saved in public section and accessed by all the users.
-  -  **Share ()** the report saved under share section and accessed by specific set of users.
+  - **Public   ()** the report is saved in public section and accessed by all the users.
+  -  **Share   ()** the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_1.png)
 
@@ -57,7 +57,7 @@ Cache saves the data, so the future request for the data is provided faster.
 
 **Image 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njc5OTkzMiw5NTM4NzYyODgsMTQyNz
-Q0ODg0MywxODkzNzczODQ5LC0xNjM4NTE2NTYsMjA2MDUxODk5
-LC0xMTcyNDgwMzg2XX0=
+eyJoaXN0b3J5IjpbLTQwMTQ2NjkyLDE4NzY3OTk5MzIsOTUzOD
+c2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMTYzODUxNjU2
+LDIwNjA1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
