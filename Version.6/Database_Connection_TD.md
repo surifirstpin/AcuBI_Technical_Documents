@@ -33,21 +33,21 @@
 
 ***Enter the following details in New connection page ;***
 
--  **Name** specify a name to define connection.
+-  **Name:** specify a name to define connection.
  
- - **Dialect** choose appropriate dialect based on  connection being established. 
+ - **Dialect:** choose appropriate dialect based on  connection being established. 
  
-- **Host**  Database host path.
+- **Host:**  Database host path.
 
-- **Database** Name of the database used.
+- **Database:** Name of the database used.
 
-- **Username and Password** Credentials used to connect the database.
+- **Username and Password:** Credentials used to connect the database.
 
-- **Temporary Database**  To get the data path location of local files for user.
+- **Temporary Database:**  To get the data path location of local files for user.
 
-- **Maximum connection** Concurrent connection used by  database.
+- **Maximum connection:** Concurrent connection used by  database.
 
-- **Additional Parameters** Additional JDBC parameter used.
+- **Additional Parameters:** Additional JDBC parameter used.
 
 ## SSH 
 - Enable SSH connection by select checkbox for SSH.
@@ -68,20 +68,20 @@
   - IP address or DNS name of the tunnel server as seen from the public internet.
   - SSH port of the tunnel server as seen from the public internet.
   - Username and Password on the tunnel server for the SSH connection (the standard is looker).
-  - **Browse Key File** upload a private key for secure access.
+  - **Browse Key File:** upload a private key for secure access.
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
 **Image 3**
 
-**3.** **Dialects** select the accurate dialect from the list using drop down option.
+**3.** **Dialects:** select the accurate dialect from the list using drop down option.
 
 ## Test and Save Connection
 
-**4.** **Test Connection** check if the entered information is running accurately.
+**4.** **Test Connection:** check if the entered information is running accurately.
 > on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
-**5.** **Add Connection** establish and save the connection.
+**5.** **Add Connection:** establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
@@ -106,6 +106,6 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLT
-k0NDU2NTAzMCwyMTEzMjkwOTU5XX0=
+eyJoaXN0b3J5IjpbLTE5MjE3MTM3OTEsLTE4Nzg4NjkyMjMsLT
+E0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOTU5XX0=
 -->
