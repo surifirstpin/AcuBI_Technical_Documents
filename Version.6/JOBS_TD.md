@@ -116,9 +116,9 @@ Similarly for task type **Email Reports**
 
 Enter following details in Create job window:;
 
-- Task Type : choose Email report from drop-down list.
+- **Task Type :** choose Email report from drop-down list.
 
-- Select Reports : on selecting report checkbox, it will email the report result to specified email id.
+- **Select Reports :** on selecting report checkbox, it will email the report result to specified email id.
 
 > **Note** : you can select multiple reports at a time.
 
@@ -128,7 +128,7 @@ Enter following details in Create job window:;
 
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
-- **Filter Json:** allows simple JSON-based grammar for selecting hosts.
+- **Filter Json:** 
 
 - **Email Id** Enter email address to whom you would like to send the report.
 
@@ -151,7 +151,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ0ODcyODQsODkzNTM0NDE5LDEzMD
-Q3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3
-NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbNzExOTA5OTgxLDg5MzUzNDQxOSwxMzA0Nz
+kwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYs
+LTEwNzM4Nzk3NDVdfQ==
 -->
