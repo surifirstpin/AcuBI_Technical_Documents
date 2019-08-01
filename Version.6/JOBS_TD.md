@@ -67,13 +67,13 @@ Click on Task button to create multiple Task in Jobs.
 
 Under Schedule Job Window, Enter Below details;
 
-- Start delay: enter time delay to run the file
+- **Start delay:** enter time delay to run the file
 
-- Schedule 
+- **Schedule:**
 
-   - None
-   - Repeat after completion with delay
-   - Cron expression
+   - **None:** Runs immedietly
+   - **Repeat after completion with delay:** schedule run once again with spscified time delay
+   - **Cron expression:**
    
  - Jobs to run after
  - Tasks to run after
@@ -94,6 +94,6 @@ Under Schedule Job Window, Enter Below details;
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTQ5MjE2NSwtMTA1MDc2MzA3NiwtMT
-A3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbLTE5ODczMDA2NzMsLTEwNTA3NjMwNzYsLT
+EwNzM4Nzk3NDVdfQ==
 -->
