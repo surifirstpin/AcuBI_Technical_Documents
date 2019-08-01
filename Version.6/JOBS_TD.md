@@ -80,6 +80,10 @@ Under Schedule Job Window, Enter Below details;
 >**For instance:**
 The string represents a set of times, which are the times that match the CRON expression. For example, ( ' 0 0 0 * * * ' ) is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 8, (' 0 0 0 8 * * * '),  your string represents every day at 8:00 AM.
 
+| Field |Allowed Value  |Allowed Special Character|
+|--|--|--|
+| Seconds |  0-59|, - * /  |
+
  - Jobs to run after
  - Tasks to run after
      - Sequential
@@ -99,6 +103,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY0NTg3MDQsOTY4NzQ4OTY0LC0xMD
-UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbNzc2MzcwNTcsOTY4NzQ4OTY0LC0xMDUwNz
+YzMDc2LC0xMDczODc5NzQ1XX0=
 -->
