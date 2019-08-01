@@ -71,9 +71,11 @@ Under Schedule Job Window, Enter Below details;
 
 - **Schedule:**
 
-   - **None:** Runs immedietly
+   - **None:** Runs immediately
+   
    - **Repeat after completion with delay:** schedule run once again with spscified time delay
-   - **Cron expression:**
+   
+   - **Cron expression:** A string or 
    
  - Jobs to run after
  - Tasks to run after
@@ -94,6 +96,6 @@ Under Schedule Job Window, Enter Below details;
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODczMDA2NzMsLTEwNTA3NjMwNzYsLT
+eyJoaXN0b3J5IjpbLTEyNTMyNDk1OTUsLTEwNTA3NjMwNzYsLT
 EwNzM4Nzk3NDVdfQ==
 -->
