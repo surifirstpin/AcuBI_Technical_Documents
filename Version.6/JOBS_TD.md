@@ -114,10 +114,10 @@ The string represents a set of times, which are the times that match the CRON ex
 
 Similarly for task type **Email Reports**
 
-![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE8.png)
+![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
 **Image 7**
 
-Enter following details in Create job window:;
+***Enter following details in Create job window;***
 
 - **Task Type:** choose Email report from drop-down list.
 
@@ -157,7 +157,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzgxNTQ2MiwzMjYwMDU0NjcsODkzNT
-M0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwt
-MTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbLTEwMDA3MTc4MjEsMzI2MDA1NDY3LDg5Mz
+UzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQs
+LTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
