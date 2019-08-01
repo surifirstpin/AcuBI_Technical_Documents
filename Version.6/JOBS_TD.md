@@ -84,9 +84,10 @@ The string represents a set of times, which are the times that match the CRON ex
 |--|--|--|
 | Seconds |  0-59|, - * /  |
 |minutes|0-59|  , - * /|
-|Hours|0-23|  
-, - * /|
-
+|Hours|0-23|  , - * /|
+|Day of month|0-31|, - * ? / L W|
+|month|1-12 or JAN-DEC|  , - * /|
+|
 
 
 
@@ -109,6 +110,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NTIwMjAyLDk2ODc0ODk2NCwtMTA1MD
-c2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMjA4MTE3Nzc0Miw5Njg3NDg5NjQsLTEwNT
+A3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
