@@ -124,8 +124,13 @@ Enter following details in Create job window:;
 
 - **Select Dashboard:** on selecting dashboard checkbox, it will email the dashboard result to specified email id.
 
-- Report Layout: Select the report layout using drop down list.
-- Report Width: choose report from drop down list ( large,medium and small)
+- **Report Layout**: Select the report layout using drop down list.
+
+- **Report Width:** choose report from drop down list ( large,medium and small)
+
+- **Filter Json:** 
+
+- **Email Id** Enter email address to whom you would like to send the report.
 
 
 
@@ -146,7 +151,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTUzMzUzMSw4OTM1MzQ0MTksMTMwND
-c5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2
-LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbNDA4NTc4NzgxLDg5MzUzNDQxOSwxMzA0Nz
+kwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYs
+LTEwNzM4Nzk3NDVdfQ==
 -->
