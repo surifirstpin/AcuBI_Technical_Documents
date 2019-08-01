@@ -143,7 +143,7 @@ Similarly for task type **Email Reports**
 
 Navigate to settings icon and click Schedule as explained above ( Refer image 5 ) and click run.
 
-Email recipient will receive the mail displaying the result for the report selected.
+**Note:** Email recipient will receive the mail displaying the result for the report selected.
 
 ## Log
 
@@ -160,7 +160,8 @@ Email recipient will receive the mail displaying the result for the report selec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNj
-AwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgs
-OTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOT
+g0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4
+LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNz
+M4Nzk3NDVdfQ==
 -->
