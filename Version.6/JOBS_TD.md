@@ -114,6 +114,11 @@ The string represents a set of times, which are the times that match the CRON ex
 
 Similarly for task type **Email Reports**
 
+Enter following details in Create job window:
+Task Type : choose Email report from drop-down list.
+Select : select checkbox for report, to mail
+
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -129,7 +134,7 @@ Similarly for task type **Email Reports**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyND
-E2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0
-NV19
+eyJoaXN0b3J5IjpbLTIwMzY0NzAwODYsODkzNTM0NDE5LDEzMD
+Q3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3
+NiwtMTA3Mzg3OTc0NV19
 -->
