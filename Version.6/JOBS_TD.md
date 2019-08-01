@@ -113,8 +113,13 @@ The string represents a set of times, which are the times that match the CRON ex
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 
 ## Edit Job
-**5.** Click Edit icon to edit the existing job.
+**5.** Click Edit icon to edit the existing job and click on update button to save the changes.
+
+## Delete Job
+
+**6.** Click Delete icon to delete the job.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU0MjIzNDcsOTY4NzQ4OTY0LC0xMD
-UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MD
+c2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
