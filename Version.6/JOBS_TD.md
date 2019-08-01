@@ -116,9 +116,9 @@ Similarly for task type **Email Reports**
 
 Enter following details in Create job window:;
 
-- **Task Type :** choose Email report from drop-down list.
+- **Task Type:** choose Email report from drop-down list.
 
-- **Select Reports :** on selecting report checkbox, it will email the report result to specified email id.
+- **Select Reports:** on selecting report checkbox, it will email the report result to specified email id.
 
 > **Note** : you can select multiple reports at a time.
 
@@ -151,7 +151,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzExOTA5OTgxLDg5MzUzNDQxOSwxMzA0Nz
+eyJoaXN0b3J5IjpbMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0Nz
 kwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYs
 LTEwNzM4Nzk3NDVdfQ==
 -->
