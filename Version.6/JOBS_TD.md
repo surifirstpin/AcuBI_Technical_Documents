@@ -119,9 +119,8 @@ The string represents a set of times, which are the times that match the CRON ex
 
 **6.** Click Delete icon to delete the job.
 
-## 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTkwNzc4MjYsNTIyNDE2NTk4LDk2OD
-c0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMTU2NDc2Mjc1Niw1MjI0MTY1OTgsOTY4Nz
+Q4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
