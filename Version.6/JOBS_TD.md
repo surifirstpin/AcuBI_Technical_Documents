@@ -139,9 +139,11 @@ Similarly for task type **Email Reports**
 
 - **Email Id** Enter email address to whom you would like to send the report.
 
+- **Save:** Click on save button to save the task created.
+
+Navigate to settings icon and click Schedule as explained above ( iamge ) and click run.
 
 
-## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
 
@@ -156,7 +158,7 @@ Similarly for task type **Email Reports**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAzOTc3ODIsMzI2MDA1NDY3LDg5Mz
+eyJoaXN0b3J5IjpbLTIxMTA1ODk2NzcsMzI2MDA1NDY3LDg5Mz
 UzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQs
 LTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
