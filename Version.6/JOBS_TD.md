@@ -111,7 +111,10 @@ The string represents a set of times, which are the times that match the CRON ex
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
+
+## Edit Job
+**5.** Click Edit icon to edit the existing job.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NzcwOTc4MCw5Njg3NDg5NjQsLTEwNT
-A3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyNzU0MjIzNDcsOTY4NzQ4OTY0LC0xMD
+UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
