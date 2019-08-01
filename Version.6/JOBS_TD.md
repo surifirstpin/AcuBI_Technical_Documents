@@ -116,7 +116,10 @@ Similarly for task type **Email Reports**
 
 Enter following details in Create job window:
 Task Type : choose Email report from drop-down list.
-Select : select checkbox for report, to mail
+Select Reports : on selecting report checkbox, it will email the report result to specified email id.
+> note : you can select multiple reports
+Select Dashboard: on selecting dashboard checkbox, it will email the dashboard result to specified email id.
+
 
 
 ## Log
@@ -134,7 +137,7 @@ Select : select checkbox for report, to mail
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzY0NzAwODYsODkzNTM0NDE5LDEzMD
+eyJoaXN0b3J5IjpbLTE0NDUwNDk4ODMsODkzNTM0NDE5LDEzMD
 Q3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3
 NiwtMTA3Mzg3OTc0NV19
 -->
