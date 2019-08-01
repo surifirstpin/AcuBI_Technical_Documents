@@ -92,9 +92,11 @@ The string represents a set of times, which are the times that match the CRON ex
 
  - **Jobs to run after:** Select the job to run after your scheduled job.
  
- - **Tasks to run after:**
-     - Sequential : sele
-     - parallel
+ - **Tasks to run after():**
+ 
+     - **Sequential:** select sequential to run the jobs one after the other.
+     
+     - **Parallel:** select parallel to run the jobs parallel at the same time.
      
 **2.**  Click run schedule button.
 
@@ -110,6 +112,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2ODQ4Nzc3LDk2ODc0ODk2NCwtMTA1MD
-c2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMTY1NzcwOTc4MCw5Njg3NDg5NjQsLTEwNT
+A3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
