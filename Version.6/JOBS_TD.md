@@ -78,16 +78,19 @@ Under Schedule Job Window, Enter Below details;
  - Tasks to run after
      - Sequential
      - parallel
+     
 **2.**  Click run schedule button.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
+![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
 
 **3.** Click Run button, to run Jobs.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
+![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
 
 ## Log
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
+
+![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ
+==
 -->
