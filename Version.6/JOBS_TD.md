@@ -10,12 +10,12 @@ Jobs schedules a command or script on your server to run automatically at a spec
 
 - You can run jobs as many times as desired.
 
-## Getting Started
+## Getting Started with Job for 
 
 Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
- **Image**
+![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
+ **Image 1**
  
  Enter the following information in Create Job Window;
  
@@ -29,7 +29,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
  
  - **Task Type:** Select task type using drop down list
 
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
+ ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
   
 ***For Instance:*** in this document, i am creating a Job for task type-Query Execute.
 
@@ -106,6 +106,10 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
 
+## Job Email Reports
+
+Similarly
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -121,6 +125,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDc2Mjc1Niw1MjI0MTY1OTgsOTY4Nz
-Q4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbLTE5ODAwNzQ2NDQsNTIyNDE2NTk4LDk2OD
+c0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
