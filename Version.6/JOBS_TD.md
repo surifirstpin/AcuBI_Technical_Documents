@@ -76,8 +76,8 @@ Under Schedule Job Window, Enter Below details;
    - **Repeat after completion with delay:** schedule run once again with spscified time delay
    
    - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
-For instance:
-
+>**For instance:**
+The string represents a set of times, which are the times that match the CRON expression. For example, ' O `0 0 0 * * *` is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 6, `0 0 6 * * *`, your string represents every day at 6:00 AM.
  - Jobs to run after
  - Tasks to run after
      - Sequential
@@ -97,6 +97,6 @@ For instance:
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2NjYyMTk0LDk2ODc0ODk2NCwtMTA1MD
-c2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbLTEwNjM4NzMzNjgsOTY4NzQ4OTY0LC0xMD
+UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
