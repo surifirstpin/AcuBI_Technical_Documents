@@ -65,8 +65,8 @@ Click on Task button to create multiple Task in Jobs.
 
 **1.** Click Settings Icon available next to existing Job name and Navigate to ***Schedule.***
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
-
+![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
+**Image 4**
 Under Schedule Job Window, Enter Below details;
 
 - **Start delay:** enter time delay to run the file
@@ -103,14 +103,16 @@ The string represents a set of times, which are the times that match the CRON ex
 **2.**  Click run schedule button.
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
+**Image 5**
 
 **3.** Click Run button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
+**Image 6**
 
 ## Job Email Reports
 
-Similarly
+Similarly for task type **Email Reports**
 
 ## Log
 
@@ -127,6 +129,7 @@ Similarly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4Nz
-Q4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbODkzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyND
+E2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0
+NV19
 -->
