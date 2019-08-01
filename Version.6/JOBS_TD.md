@@ -75,8 +75,9 @@ Under Schedule Job Window, Enter Below details;
    
    - **Repeat after completion with delay:** schedule run once again with spscified time delay
    
-   - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule
-   s a string consisting of six or seven subexpressions (fields) that describe individual details of the schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
+   - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
+For instance:
+
  - Jobs to run after
  - Tasks to run after
      - Sequential
@@ -96,6 +97,6 @@ Under Schedule Job Window, Enter Below details;
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMD
-czODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbMzg2NjYyMTk0LDk2ODc0ODk2NCwtMTA1MD
+c2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
