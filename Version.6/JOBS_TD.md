@@ -93,6 +93,7 @@ The string represents a set of times, which are the times that match the CRON ex
 
 
  - Jobs to run after
+ 
  - Tasks to run after
      - Sequential
      - parallel
@@ -111,6 +112,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDA4ODkxLDk2ODc0ODk2NCwtMTA1MD
-c2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbLTEwNDA5ODMwMTcsOTY4NzQ4OTY0LC0xMD
+UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
