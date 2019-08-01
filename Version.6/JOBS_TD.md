@@ -114,11 +114,19 @@ The string represents a set of times, which are the times that match the CRON ex
 
 Similarly for task type **Email Reports**
 
-Enter following details in Create job window:
-Task Type : choose Email report from drop-down list.
-Select Reports : on selecting report checkbox, it will email the report result to specified email id.
-> note : you can select multiple reports
-Select Dashboard: on selecting dashboard checkbox, it will email the dashboard result to specified email id.
+Enter following details in Create job window:;
+
+- Task Type : choose Email report from drop-down list.
+
+- Select Reports : on selecting report checkbox, it will email the report result to specified email id.
+
+> **Note** : you can select multiple reports at a time.
+
+- **Select Dashboard:** on selecting dashboard checkbox, it will email the dashboard result to specified email id.
+
+- Report Layout: Select the report layout using drop down list.
+
+
 
 
 
@@ -137,7 +145,7 @@ Select Dashboard: on selecting dashboard checkbox, it will email the dashboard r
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDUwNDk4ODMsODkzNTM0NDE5LDEzMD
-Q3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3
-NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbLTY2MzUwODY3Myw4OTM1MzQ0MTksMTMwND
+c5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2
+LC0xMDczODc5NzQ1XX0=
 -->
