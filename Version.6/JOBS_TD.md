@@ -146,6 +146,7 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 Email recipient will receive the mail displaying the result for the report selected.
 
 ## Log
+
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
@@ -159,7 +160,7 @@ Email recipient will receive the mail displaying the result for the report selec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNT
-M0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwt
-MTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNj
+AwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgs
+OTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
