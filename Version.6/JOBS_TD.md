@@ -114,6 +114,8 @@ The string represents a set of times, which are the times that match the CRON ex
 
 Similarly for task type **Email Reports**
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE8.png)
+
 Enter following details in Create job window:;
 
 - **Task Type:** choose Email report from drop-down list.
@@ -125,7 +127,7 @@ Enter following details in Create job window:;
 - **Select Dashboard:** on selecting dashboard checkbox, it will email the dashboard result to specified email id.
 
 - **Report Layout**: Select the report layout using drop down list.
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
 - **Filter Json:** 
@@ -151,7 +153,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0Nz
-kwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYs
-LTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEwMjU5ODQ3NzIsMzI2MDA1NDY3LDg5Mz
+UzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQs
+LTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
