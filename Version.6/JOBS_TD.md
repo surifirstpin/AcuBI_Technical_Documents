@@ -30,6 +30,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
  - **Task Type:** Select task type using drop down list
 
  ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
+  **Image 2**
   
 ***For Instance:*** in this document, i am creating a Job for task type-Query Execute.
 
@@ -53,7 +54,8 @@ Click Save, to save the Job created.
 
 All the saved jobs are visible under SQL Jobs list.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
+![Image 3](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
+**Image 3**
 
 ## Multiple Task
 
@@ -125,6 +127,6 @@ Similarly
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODAwNzQ2NDQsNTIyNDE2NTk4LDk2OD
-c0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4Nz
+Q4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
