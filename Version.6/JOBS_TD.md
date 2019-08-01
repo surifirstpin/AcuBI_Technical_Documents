@@ -134,11 +134,9 @@ Similarly for task type **Email Reports**
 
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
-- **Filter Json:** 
+<h3><colour Orange>- **Filter Json:** </
 
 - **Email Id** Enter email address to whom you would like to send the report.
-
-
 
 
 
@@ -157,7 +155,7 @@ Similarly for task type **Email Reports**
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA3MTc4MjEsMzI2MDA1NDY3LDg5Mz
-UzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQs
-LTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbNDkwOTg0NDAxLDMyNjAwNTQ2Nyw4OTM1Mz
+Q0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0x
+MDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
