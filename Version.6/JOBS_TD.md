@@ -125,6 +125,7 @@ Enter following details in Create job window:;
 - **Select Dashboard:** on selecting dashboard checkbox, it will email the dashboard result to specified email id.
 
 - Report Layout: Select the report layout using drop down list.
+- Report Width: choose report from drop down list ( large,medium and small)
 
 
 
@@ -145,7 +146,7 @@ Enter following details in Create job window:;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzUwODY3Myw4OTM1MzQ0MTksMTMwND
+eyJoaXN0b3J5IjpbLTY5MTUzMzUzMSw4OTM1MzQ0MTksMTMwND
 c5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2
 LC0xMDczODc5NzQ1XX0=
 -->
