@@ -141,10 +141,11 @@ Similarly for task type **Email Reports**
 
 - **Save:** Click on save button to save the task created.
 
-Navigate to settings icon and click Schedule as explained above ( iamge ) and click run.
+Navigate to settings icon and click Schedule as explained above ( Refer image 5 ) and click run.
 
+receipent will recieve the mail displaying the result for the repor
 
-
+## Log
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
@@ -158,7 +159,7 @@ Navigate to settings icon and click Schedule as explained above ( iamge ) and cl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA1ODk2NzcsMzI2MDA1NDY3LDg5Mz
-UzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQs
-LTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTIyOTA2ODA0LDMyNjAwNTQ2Nyw4OTM1Mz
+Q0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0x
+MDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
