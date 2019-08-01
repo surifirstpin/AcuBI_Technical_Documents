@@ -90,12 +90,10 @@ The string represents a set of times, which are the times that match the CRON ex
 |Day of week|Day of week|, - * ? / L #|
 |Year|1970-2099|  , - * /|
 
-
-
- - Jobs to run after
+ - **Jobs to run after:** Select the job to run after your scheduled job.
  
- - Tasks to run after
-     - Sequential
+ - **Tasks to run after:**
+     - Sequential : sele
      - parallel
      
 **2.**  Click run schedule button.
@@ -112,6 +110,6 @@ The string represents a set of times, which are the times that match the CRON ex
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA5ODMwMTcsOTY4NzQ4OTY0LC0xMD
-UwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbNTQ2ODQ4Nzc3LDk2ODc0ODk2NCwtMTA1MD
+c2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
