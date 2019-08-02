@@ -170,7 +170,7 @@ Enter following details in create Job window;
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
 ```
-
+> **Note:** enabling global block for the query
 
 
 ## Log
@@ -190,7 +190,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2MDk1Nzg3LDExNDgzODYwNTUsLTE5Nz
+eyJoaXN0b3J5IjpbNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5Nz
 EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
 MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
 MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
