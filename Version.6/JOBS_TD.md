@@ -15,6 +15,7 @@ Jobs schedules a command or script on your server to run automatically at a spec
 Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
+
  **Image 1**
  
  Enter the following information in Create Job Window;
@@ -30,7 +31,8 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
  - **Task Type:** Select task type using drop down list
 
  ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
-  **Image 2**
+
+ **Image 2**
   
 ***For Instance:*** in this document, i am creating a Job for task type-Query Execute.
 
@@ -55,6 +57,7 @@ Click Save, to save the Job created.
 All the saved jobs are visible under SQL Jobs list.
 
 ![Image 3](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
+
 **Image 3**
 
 ## Multiple Task
@@ -103,11 +106,13 @@ The string represents a set of times, which are the times that match the CRON ex
 **2.**  Click run schedule button.
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
+
 **Image 5**
 
 **3.** Click Run button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
+
 **Image 6**
 
 ## Job Email Reports
@@ -115,6 +120,7 @@ The string represents a set of times, which are the times that match the CRON ex
 Similarly for task type **Email Reports**
 
 ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
+
 **Image 7**
 
 ***Enter following details in Create job window;***
@@ -130,11 +136,12 @@ Similarly for task type **Email Reports**
 - **Report Layout**: Select the report layout using drop down list.
 
 ![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
+
 **Image 8**
 
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
-**Filter Json:**  
+<font s= orange> **Filter Json:**  
 
 
 - **Email Id** Enter email address to whom you would like to send the report.
@@ -160,8 +167,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOT
-g0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4
-LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNz
-M4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbNjMyNzQ4ODg0LDE0MDYzNDM4ODksMTQ1OD
+E1MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTks
+MTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNz
+YzMDc2LC0xMDczODc5NzQ1XX0=
 -->
