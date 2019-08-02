@@ -173,7 +173,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and
 ```
 Enter following information;
 
-Block type : Select
+**Block type:** 
 
 ## Log
 
@@ -192,7 +192,7 @@ Block type : Select
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4MTkyMDQ1MywxNTUwMjc3NDQ3LDIwNz
+eyJoaXN0b3J5IjpbMTc4NTgzNjM2OSwxNTUwMjc3NDQ3LDIwNz
 U4OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1
 NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLT
 IwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0
