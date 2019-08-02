@@ -154,6 +154,12 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 **Note:** Email recipient will receive the mail displaying the result for the report selected.
 
+## Job task type ( Query Sync Full)
+
+Select task ty
+
+
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -171,9 +177,9 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtND
-AyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1
-MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMT
-MwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYz
-MDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbOTEzMjUyNDk1LC0xOTcxMzE0MTU4LDE1NT
+g5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQz
+ODg5LDE0NTgxNTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsOD
+kzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2
+NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
