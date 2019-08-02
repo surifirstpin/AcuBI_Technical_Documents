@@ -52,7 +52,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
-Click Save, to save the Job created.
+Click **Save**, to save the Job created.
 
 All the saved jobs are visible under SQL Jobs list.
 
@@ -69,7 +69,9 @@ Click on Task button to create multiple Task in Jobs.
 **1.** Click Settings Icon available next to existing Job name and Navigate to ***Schedule.***
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
+
 **Image 4**
+
 Under Schedule Job Window, Enter Below details;
 
 - **Start delay:** enter time delay to run the file
@@ -78,7 +80,7 @@ Under Schedule Job Window, Enter Below details;
 
    - **None:** Runs immediately
    
-   - **Repeat after completion with delay:** schedule run once again with spscified time delay
+   - **Repeat after completion with delay:** schedule run once again with specified time delay
    
    - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
    
@@ -169,9 +171,9 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMD
-c4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYx
-ODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1Mj
-I0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5
-NzQ1XX0=
+eyJoaXN0b3J5IjpbLTE4ODExMzc5NzksMTU1ODk2NzMxNSwtND
+AyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1
+MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMT
+MwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYz
+MDc2LC0xMDczODc5NzQ1XX0=
 -->
