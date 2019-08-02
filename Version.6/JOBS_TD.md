@@ -199,7 +199,7 @@ Enter following information;
   
   - **Delete before insert:**  delete existing data before inserting target data.
 
-  - **Truncate Table before insert**
+  - **Truncate Table before insert:** delete entire table before inserting target data.
 
 ## Log
 
@@ -218,11 +218,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MT
-E1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUz
-ODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMT
-k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
-MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
-UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
-NjU5OF19
+eyJoaXN0b3J5IjpbNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNz
+Y1MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0
+NywyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExND
+gzODYwNTUsLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYy
+NzkxLC0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOS
+wxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5
+MDQwOF19
 -->
