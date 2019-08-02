@@ -48,6 +48,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Block From & To:**  Enter the start and the ending point of the data to be fetched.
 
+
 - **Block Size:** Enter specific run time range.
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
@@ -190,10 +191,10 @@ Block From:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2Nj
-M1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5Njcz
-MTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LD
-E0NTgxNTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNTM0
-NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMT
-A1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
+eyJoaXN0b3J5IjpbMTU1MDI3NzQ0NywyMDc1ODk1Mzg1LDEwMD
+kyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5NzEzMTQx
+NTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1MDA5LD
+E0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNjAw
+NTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOT
+Y4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
