@@ -181,7 +181,7 @@ Enter following information;
 > **Block To** : 2019/03/08 | yyyy/MM/dd
 
 - **Block Size:** Enter specific run time range.
-
+> Block size : 3 ( if 1 runs daily, 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
 Click **Save**, to save the Job created.
@@ -203,11 +203,11 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNz
-U4OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1
-NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLT
-IwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0
-NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LD
-UyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4
-Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbMTIwMjA0NTYwMiwxNzA3MTM3NzQ4LDE1NT
+AyNzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4
+NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLT
+QwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgx
+NTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNTM0NDE5LD
+EzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2
+MzA3Nl19
 -->
