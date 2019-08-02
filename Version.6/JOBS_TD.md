@@ -160,9 +160,7 @@ under this task type data is transmitted from source to target destination, this
 
 **Select task type** : Query sync full from drop-down list.
 
-
-
-Enter following details in create Job window;\
+Enter following details in create Job window;
 
 - **Source Connection:**
 
@@ -185,7 +183,7 @@ Enter following details in create Job window;\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjQ0NjgwNjgsLTE5NzEzMTQxNTgsMT
+eyJoaXN0b3J5IjpbLTIwNDE2ODY0MDAsLTE5NzEzMTQxNTgsMT
 U1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYz
 NDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Ny
 w4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4
