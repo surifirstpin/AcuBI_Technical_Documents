@@ -190,7 +190,9 @@ Enter following information;
 > Block Key To : Block Key: ${key_end}
 
 - **Target Connection:** select target database connection.
-- Schema:
+
+- Schema: select schema from drop down list
+
 - Table:
 
 ## Log
@@ -210,11 +212,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ4OTQ0NjQsMzA3NjUxNjE1LDE5MT
-E1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUz
-ODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMT
-k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
-MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
-UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
-NjU5OF19
+eyJoaXN0b3J5IjpbLTE2MzY2NjE4LDMwNzY1MTYxNSwxOTExNT
+g5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0NywyMDc1ODk1Mzg1
+LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5Nz
+EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
+MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
+MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
+OThdfQ==
 -->
