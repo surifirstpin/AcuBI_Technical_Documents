@@ -42,7 +42,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Query:** Enter your query.
 
-- **Global Block:** on selecti
+- **Global Block:** on selecting the checkbox for global block, the global type condition is applied for multiple tasks available under existing JOb.
 
 - **Block Type:** Choose block type Number,Hour and Date.
 
@@ -190,7 +190,7 @@ Block From:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM5NDY2NywxMDA5MjM0NTcyLDU2Nj
+eyJoaXN0b3J5IjpbMjA2ODIyNzA2OSwxMDA5MjM0NTcyLDU2Nj
 M1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5Njcz
 MTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LD
 E0NTgxNTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNTM0
