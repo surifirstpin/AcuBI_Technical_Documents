@@ -175,8 +175,9 @@ Enter following information;
 
 **Block type:** Select ***Date*** from drop-down list.
 
-- **Block From & To:**  Enter the start date and the ending point of the data to be fetched.
-
+- **Block From & To:**  enter start date and end date till where the data to fetched.
+> Block from : 2019/03/01 | yyyy/MM/dd
+> Block To : 2019/03/08 | yyyy/MM/dd
 
 - **Block Size:** Enter specific run time range.
 
@@ -201,11 +202,11 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMwNzYxMjg2LDE1NTAyNzc0NDcsMjA3NT
-g5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1
-LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMj
-A3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgxNTExMjksMTI5ODQ2
-MTg5NSwzMjYwMDU0NjcsODkzNTM0NDE5LDEzMDQ3OTA0MDgsNT
-IyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3
-OTc0NV19
+eyJoaXN0b3J5IjpbLTEwMDY3MDMxMzAsMTU1MDI3NzQ0NywyMD
+c1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYw
+NTUsLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC
+0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4
+NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOC
+w1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDcz
+ODc5NzQ1XX0=
 -->
