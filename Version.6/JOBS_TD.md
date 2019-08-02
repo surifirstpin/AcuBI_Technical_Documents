@@ -40,7 +40,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Source Connection:** Select database connection used.
 
-- **Query:** write a query for update,insert,delete or truncate records.
+- **Query:** write a query for update, insert, delete or truncate records.
 
 - **Global Block:** it is enabled, to repeat same job for all the task.
 
@@ -169,8 +169,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwxND
-U4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQx
-OSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNT
-A3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwxND
+A2MzQzODg5LDE0NTgxNTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0
+NjcsODkzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2OD
+c0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
