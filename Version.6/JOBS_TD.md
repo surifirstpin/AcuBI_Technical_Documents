@@ -156,6 +156,7 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 ## Job task type ( Query Sync Full)
 
+under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permenently
 **Select task type** : Query sync full from drop-down list.
 
 
@@ -183,7 +184,7 @@ Enter following details in create Job window;\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDY3OTI1NjAsLTE5NzEzMTQxNTgsMT
+eyJoaXN0b3J5IjpbLTE3MTQ5Nzk1NTYsLTE5NzEzMTQxNTgsMT
 U1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYz
 NDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Ny
 w4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4
