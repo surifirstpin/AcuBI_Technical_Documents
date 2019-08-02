@@ -175,6 +175,15 @@ Enter following information;
 
 **Block type:** Select ***Date*** from drop-down list.
 
+- **Block From & To:**  Enter the start date and the ending point of the data to be fetched.
+
+
+- **Block Size:** Enter specific run time range.
+
+- **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
+
+Click **Save**, to save the Job created.
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -192,11 +201,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTgxMDA1OSwxNTUwMjc3NDQ3LDIwNz
-U4OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1
-NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLT
-IwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0
-NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LD
-UyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4
-Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbNTMwNzYxMjg2LDE1NTAyNzc0NDcsMjA3NT
+g5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1
+LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMj
+A3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgxNTExMjksMTI5ODQ2
+MTg5NSwzMjYwMDU0NjcsODkzNTM0NDE5LDEzMDQ3OTA0MDgsNT
+IyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3
+OTc0NV19
 -->
