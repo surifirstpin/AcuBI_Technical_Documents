@@ -164,7 +164,9 @@ Enter following details in create Job window;
 
 - **Source Connection:** select source database connection
 
-- **Query:** Enter the query, in the following query 
+- **Query:** Enter the query, 
+
+**For Instance:** in the following query summary data will be transferred to target destination
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
 ```
@@ -188,10 +190,10 @@ SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTc5OTU3NTYsMTE0ODM4NjA1NSwtMT
-k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
-MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
-UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
-NjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4Nzk3ND
-VdfQ==
+eyJoaXN0b3J5IjpbNTI2MDk1Nzg3LDExNDgzODYwNTUsLTE5Nz
+EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
+MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
+MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
+OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX
+0=
 -->
