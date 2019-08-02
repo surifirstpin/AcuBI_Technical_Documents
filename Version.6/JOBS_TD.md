@@ -182,7 +182,7 @@ Enter following information;
 
 - **Block Size:** Enter specific run time range.
 
-> Block size : 3 ( if 1 runs daily, if 2 runs once in two days and so on)
+> Block size : 3 ( if-1 runs daily, 2 runs once in two days and so on)
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
@@ -205,11 +205,11 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NT
-AyNzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4
-NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLT
-QwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgx
-NTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNTM0NDE5LD
-EzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMTA1MDc2
-MzA3Nl19
+eyJoaXN0b3J5IjpbMjg1NDIzNTcxLDE5MTE1ODkxNjksMTcwNz
+EzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3
+Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNT
+U4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0
+Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LD
+g5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5
+NjRdfQ==
 -->
