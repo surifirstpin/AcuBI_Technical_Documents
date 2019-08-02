@@ -181,7 +181,9 @@ Enter following information;
 > **Block To** : 2019/03/08 | yyyy/MM/dd
 
 - **Block Size:** Enter specific run time range.
-> Block size : 3 ( if 1 runs daily, 
+
+> Block size : 3 ( if 1 runs daily, if 2 runs once in two days and so on)
+
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
 Click **Save**, to save the Job created.
@@ -203,7 +205,7 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMjA0NTYwMiwxNzA3MTM3NzQ4LDE1NT
+eyJoaXN0b3J5IjpbMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NT
 AyNzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4
 NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLT
 QwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgx
