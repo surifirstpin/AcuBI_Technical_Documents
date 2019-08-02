@@ -141,7 +141,7 @@ Similarly for task type **Email Reports**
 
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
-<font s= orange> **Filter Json:**  
+<font color = orange> **Filter Json:**  ?????
 
 
 - **Email Id** Enter email address to whom you would like to send the report.
@@ -158,7 +158,9 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 ![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 
+
 ## Edit Job
+
 **5.** Click Edit icon to edit the existing job and click on update button to save the changes.
 
 ## Delete Job
@@ -167,8 +169,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMyNzQ4ODg0LDE0MDYzNDM4ODksMTQ1OD
-E1MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTks
-MTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNz
-YzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwxND
+U4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQx
+OSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNT
+A3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
 -->
