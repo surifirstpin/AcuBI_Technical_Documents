@@ -186,8 +186,8 @@ Enter following information;
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
-> Block Key: ${key_start}
-> Block Key: ${key_end}
+> Block Key From : Block Key: ${key_start}
+> Block Key To : Block Key: ${key_end}
 
 Click **Save**, to save the Job created.
 
@@ -208,11 +208,11 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3NjUxNjE1LDE5MTE1ODkxNjksMTcwNz
-EzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3
-Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNT
-U4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0
-Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LD
-g5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5
-NjRdfQ==
+eyJoaXN0b3J5IjpbNjcxMDk1NTY4LDMwNzY1MTYxNSwxOTExNT
+g5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0NywyMDc1ODk1Mzg1
+LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5Nz
+EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
+MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
+MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
+OThdfQ==
 -->
