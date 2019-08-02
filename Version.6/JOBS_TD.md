@@ -182,9 +182,12 @@ Enter following information;
 
 - **Block Size:** Enter specific run time range.
 
-> Block size : 3 ( if-1 runs daily, 2 runs once in two days and so on)
+> Block size : 3 ( if-1 runs daily, 2-runs once in two days and so on)
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
+
+> Block Key: ${key_start}
+> Block Key: ${key_end}
 
 Click **Save**, to save the Job created.
 
@@ -205,7 +208,7 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1NDIzNTcxLDE5MTE1ODkxNjksMTcwNz
+eyJoaXN0b3J5IjpbMzA3NjUxNjE1LDE5MTE1ODkxNjksMTcwNz
 EzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3
 Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNT
 U4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0
