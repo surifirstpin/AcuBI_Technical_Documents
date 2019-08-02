@@ -42,7 +42,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Query:** Enter your query.
 
-- **Global Block:** it is enabled, to repeat same job for all the task.
+- **Global Block:** on selecti
 
 - **Block Type:** Choose block type Number,Hour and Date.
 
@@ -190,10 +190,10 @@ Block From:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0OD
-M4NjA1NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3
-OTEsLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LD
-EyOTg0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0Nzkw
-NDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLT
-EwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMjM5NDY2NywxMDA5MjM0NTcyLDU2Nj
+M1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5Njcz
+MTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwxNDA2MzQzODg5LD
+E0NTgxNTExMjksMTI5ODQ2MTg5NSwzMjYwMDU0NjcsODkzNTM0
+NDE5LDEzMDQ3OTA0MDgsNTIyNDE2NTk4LDk2ODc0ODk2NCwtMT
+A1MDc2MzA3NiwtMTA3Mzg3OTc0NV19
 -->
