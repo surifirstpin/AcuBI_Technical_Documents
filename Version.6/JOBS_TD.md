@@ -189,9 +189,9 @@ Enter following information;
 > Block Key From : Block Key: ${key_start}
 > Block Key To : Block Key: ${key_end}
 
-**Target Connection:**
-
-
+- **Target Connection:** select target database connection.
+- Schema:
+- Table:
 
 ## Log
 
@@ -210,7 +210,7 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDU1MTY1MTAsMzA3NjUxNjE1LDE5MT
+eyJoaXN0b3J5IjpbLTE3ODQ4OTQ0NjQsMzA3NjUxNjE1LDE5MT
 E1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUz
 ODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMT
 k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
