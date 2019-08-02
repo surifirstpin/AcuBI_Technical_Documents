@@ -171,7 +171,7 @@ Enter following details in create Job window;
 SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
 ```
 > **Note:** enabling global block for the query
-
+Block From:
 
 ## Log
 
@@ -190,10 +190,10 @@ SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5Nz
-EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
-MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
-MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
-OTgsOTY4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX
-0=
+eyJoaXN0b3J5IjpbMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0OD
+M4NjA1NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3
+OTEsLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LD
+EyOTg0NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0Nzkw
+NDA4LDUyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLT
+EwNzM4Nzk3NDVdfQ==
 -->
