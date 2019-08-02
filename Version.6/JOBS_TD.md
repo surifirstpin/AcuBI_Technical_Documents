@@ -163,7 +163,7 @@ under this task type data is transmitted from source to target destination, this
 Enter following details in create Job window;
 
 - **Source Connection:** select source database connection
-- 
+- **Query:** select the query 
 
 
 
@@ -184,9 +184,10 @@ Enter following details in create Job window;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNT
-U4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0
-Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LD
-g5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5
-NjQsLTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTExMTkzMDM4MDQsMTE0ODM4NjA1NSwtMT
+k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
+MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
+UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
+NjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4Nzk3ND
+VdfQ==
 -->
