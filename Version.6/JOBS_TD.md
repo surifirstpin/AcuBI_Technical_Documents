@@ -212,7 +212,8 @@ Enter following information;
   *   **Value:**
   
 
-<  task2 job name < fonr=t color = green
+ <font color = orange> < task name = job name 
+ 
 - **Field Mapping:**
 
 ## Log
@@ -232,7 +233,7 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk3NjEwMTcsMjEyMjk0OTIwNSw3NT
+eyJoaXN0b3J5IjpbLTIwMjkwODA5ODcsMjEyMjk0OTIwNSw3NT
 I4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MTE1ODkx
 NjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMT
 AwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMx
