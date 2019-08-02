@@ -171,8 +171,9 @@ Enter following details in create Job window;
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
 ```
-> **Note:** enabling global block for the query
-Block From:
+Enter following information;
+
+Block type : Select
 
 ## Log
 
@@ -191,10 +192,11 @@ Block From:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDI3NzQ0NywyMDc1ODk1Mzg1LDEwMD
-kyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5NzEzMTQx
-NTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1MDA5LD
-E0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNjAw
-NTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOT
-Y4NzQ4OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
+eyJoaXN0b3J5IjpbMTE4MTkyMDQ1MywxNTUwMjc3NDQ3LDIwNz
+U4OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1
+NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLT
+IwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0
+NjE4OTUsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LD
+UyMjQxNjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4
+Nzk3NDVdfQ==
 -->
