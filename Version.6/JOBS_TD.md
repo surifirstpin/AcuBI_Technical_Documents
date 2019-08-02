@@ -199,6 +199,8 @@ Enter following information;
   
   - **Delete before insert:**  delete existing data before inserting target data.
 
+  - **Truncate Table before insert**
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -216,11 +218,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NjAyMjczMCwzMDc2NTE2MTUsMTkxMT
-U4OTE2OSwxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4
-NSwxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOT
-cxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODEx
-NTAwOSwxNDA2MzQzODg5LDE0NTgxNTExMjksMTI5ODQ2MTg5NS
-wzMjYwMDU0NjcsODkzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2
-NTk4XX0=
+eyJoaXN0b3J5IjpbLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MT
+E1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUz
+ODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMT
+k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
+MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
+UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
+NjU5OF19
 -->
