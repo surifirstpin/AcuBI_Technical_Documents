@@ -163,7 +163,11 @@ under this task type data is transmitted from source to target destination, this
 Enter following details in create Job window;
 
 - **Source Connection:** select source database connection
-- **Query:** select the query
+
+- **Query:** Enter the query, in the following query 
+```
+SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
+```
 
 
 
@@ -184,10 +188,10 @@ Enter following details in create Job window;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NjQ5OTk4NiwxMTQ4Mzg2MDU1LC0xOT
-cxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODEx
-NTAwOSwxNDA2MzQzODg5LDE0NTgxNTExMjksMTI5ODQ2MTg5NS
-wzMjYwMDU0NjcsODkzNTM0NDE5LDEzMDQ3OTA0MDgsNTIyNDE2
-NTk4LDk2ODc0ODk2NCwtMTA1MDc2MzA3NiwtMTA3Mzg3OTc0NV
-19
+eyJoaXN0b3J5IjpbLTEyOTc5OTU3NTYsMTE0ODM4NjA1NSwtMT
+k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
+MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
+UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
+NjU5OCw5Njg3NDg5NjQsLTEwNTA3NjMwNzYsLTEwNzM4Nzk3ND
+VdfQ==
 -->
