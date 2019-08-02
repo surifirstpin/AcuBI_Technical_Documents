@@ -200,7 +200,12 @@ Enter following information;
   - **Delete before insert:**  delete existing data before inserting target data.
 
   - **Truncate Table before insert:** delete entire table before inserting target data.
-
+- Delete Reference Query
+- Update Reference Fields
+- Custom Filed
+  - Field name :
+  - Value:
+- Field Mapping
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
@@ -218,11 +223,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNz
-Y1MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0
-NywyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExND
-gzODYwNTUsLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYy
-NzkxLC0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOS
-wxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5
-MDQwOF19
+eyJoaXN0b3J5IjpbMTkzMzQ4Mjk4Miw3NTI4MjU3NzQsLTE2Mj
+kzODI5NDksMzA3NjUxNjE1LDE5MTE1ODkxNjksMTcwNzEzNzc0
+OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3Miw1Nj
+YzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNTU4OTY3
+MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0Mzg4OS
+wxNDU4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LDg5MzUz
+NDQxOV19
 -->
