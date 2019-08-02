@@ -191,9 +191,9 @@ Enter following information;
 
 - **Target Connection:** select target database connection.
 
-- **Schema:** select schema from drop down list
+- **Schema:** select schema from drop down list.
 
-- **Table:** select the target table from drop down list
+- **Table:** select the target table from drop down list.
 
 ## Log
 
@@ -212,7 +212,7 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzU3Mjg3MSwzMDc2NTE2MTUsMTkxMT
+eyJoaXN0b3J5IjpbLTE3NTczOTA1OSwzMDc2NTE2MTUsMTkxMT
 U4OTE2OSwxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4
 NSwxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOT
 cxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODEx
