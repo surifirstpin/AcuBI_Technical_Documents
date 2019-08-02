@@ -189,7 +189,9 @@ Enter following information;
 > Block Key From : Block Key: ${key_start}
 > Block Key To : Block Key: ${key_end}
 
-Click **Save**, to save the Job created.
+**Target Connection:**
+
+
 
 ## Log
 
@@ -208,11 +210,11 @@ Click **Save**, to save the Job created.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxMDk1NTY4LDMwNzY1MTYxNSwxOTExNT
-g5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0NywyMDc1ODk1Mzg1
-LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExNDgzODYwNTUsLTE5Nz
-EzMTQxNTgsMTU1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1
-MDA5LDE0MDYzNDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LD
-MyNjAwNTQ2Nyw4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1
-OThdfQ==
+eyJoaXN0b3J5IjpbLTEyNDU1MTY1MTAsMzA3NjUxNjE1LDE5MT
+E1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUz
+ODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMT
+k3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgx
+MTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OT
+UsMzI2MDA1NDY3LDg5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQx
+NjU5OF19
 -->
