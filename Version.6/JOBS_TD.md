@@ -158,6 +158,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 **Select task type** : Query sync full from drop-down list.
 
+
+
 Enter following details in create Job window;\
 
 - **Source Connection:**
@@ -181,9 +183,9 @@ Enter following details in create Job window;\
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMzU2OTMzMiwtMTk3MTMxNDE1OCwxNT
-U4OTY3MzE1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0
-Mzg4OSwxNDU4MTUxMTI5LDEyOTg0NjE4OTUsMzI2MDA1NDY3LD
-g5MzUzNDQxOSwxMzA0NzkwNDA4LDUyMjQxNjU5OCw5Njg3NDg5
-NjQsLTEwNTA3NjMwNzYsLTEwNzM4Nzk3NDVdfQ==
+eyJoaXN0b3J5IjpbLTEzMDY3OTI1NjAsLTE5NzEzMTQxNTgsMT
+U1ODk2NzMxNSwtNDAyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYz
+NDM4ODksMTQ1ODE1MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Ny
+w4OTM1MzQ0MTksMTMwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4
+OTY0LC0xMDUwNzYzMDc2LC0xMDczODc5NzQ1XX0=
 -->
