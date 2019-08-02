@@ -85,7 +85,7 @@ Under Schedule Job Window, Enter Below details;
    - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
    
 >**For instance:**
-The string represents a set of times, which are the times that match the CRON expression. For example, ( ' 0 0 0 * * * ' ) is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 8, (' 0 0 0 8 * * * '),  your string represents every day at 8:00 AM.
+ ( ' 0 0 0 * * * ' ) is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 8, (' 0 0 0 8 * * * '),  your string represents every day at 8:00 AM.
 
 | Field |Allowed Value  |Allowed Special Character|
 |--|--|--|
@@ -171,7 +171,7 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODExMzc5NzksMTU1ODk2NzMxNSwtND
+eyJoaXN0b3J5IjpbLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtND
 AyMjYyNzkxLC0yMDc4MTE1MDA5LDE0MDYzNDM4ODksMTQ1ODE1
 MTEyOSwxMjk4NDYxODk1LDMyNjAwNTQ2Nyw4OTM1MzQ0MTksMT
 MwNDc5MDQwOCw1MjI0MTY1OTgsOTY4NzQ4OTY0LC0xMDUwNzYz
