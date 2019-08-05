@@ -222,11 +222,13 @@ Enter following information;
  
 - **Field Mapping:** enable field mapping for source and target data.
 
+> **Note:** Schedule and Run the Job
+
 ## Log
 
 **4.** Navigate to Log window by clicking on **Log** button to view execution status.
 
-![Image](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
+![Im](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 
 
 ## Edit Job
@@ -239,11 +241,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
-E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
-MDk4NywyMTIyOTQ5MjA1LDc1MjgyNTc3NCwtMTYyOTM4Mjk0OS
-wzMDc2NTE2MTUsMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NTAy
-Nzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4Ny
-wxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLTQw
-MjI2Mjc5MV19
+eyJoaXN0b3J5IjpbLTE5OTc5OTk2NzUsMjEwMjU2MTQwOSwxOD
+M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
+NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1MjgyNTc3NC
+wtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4OTE2OSwxNzA3
+MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NT
+cyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1
+NTg5NjczMTVdfQ==
 -->
