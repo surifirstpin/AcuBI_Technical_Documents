@@ -231,7 +231,13 @@ Enter following information;
 ![Im](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
 
 **Image 11**
-## 
+
+## Job (Query Sync Validate)
+ 
+ Jo
+
+
+
 
 ## Edit Job
 
@@ -243,11 +249,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE3ODQzMjQsMzgzMzIxMjYyLDIxMD
-I1NjE0MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4
-OTcsLTE5MDk5NTc3MjIsLTIwMjkwODA5ODcsMjEyMjk0OTIwNS
-w3NTI4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MTE1
-ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzOD
-UsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3
-MTMxNDE1OF19
+eyJoaXN0b3J5IjpbMTM0NTUzNTgxMiwzODMzMjEyNjIsMjEwMj
+U2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5
+NywtMTkwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LD
+c1MjgyNTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4
+OTE2OSwxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NS
+wxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOTcx
+MzE0MTU4XX0=
 -->
