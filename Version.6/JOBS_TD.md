@@ -159,6 +159,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
 
+
+
 **Select task type** : Query sync full from drop-down list.
 
 Enter following details in create Job window;
@@ -231,11 +233,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOT
-IwMDM4OTcsLTE5MDk5NTc3MjIsLTIwMjkwODA5ODcsMjEyMjk0
-OTIwNSw3NTI4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LD
-E5MTE1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4
-OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NS
-wtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIw
-NzgxMTUwMDldfQ==
+eyJoaXN0b3J5IjpbNTk0NDQ4OTU4LDE4MzkwNDc5NCwyMTE2MT
+czMjE3LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgw
+OTg3LDIxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LD
+MwNzY1MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3
+NzQ0NywyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LD
+ExNDgzODYwNTUsLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtNDAy
+MjYyNzkxXX0=
 -->
