@@ -207,9 +207,9 @@ Enter following information;
 
 - **Custom Field:**  re-writes the give value for specified field
 
-    - **Field name :** enter field name for which you would like to re-write 
+    - **Field name :** enter field name for which you would like to re-write the value.
   
-  *   **Value:**
+  *   **Value:** enter data value to be written.
   
 
  <font color = orange> < task name = job name 
@@ -233,7 +233,7 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMDM3MTA2NSwtMTM5MjAwMzg5NywtMT
+eyJoaXN0b3J5IjpbMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMT
 kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
 NTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4OTE2OS
 wxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NSwxMDA5
