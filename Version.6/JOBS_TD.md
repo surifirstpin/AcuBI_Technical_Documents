@@ -209,12 +209,10 @@ Enter following information;
 
     - **Field name :** enter field name for which you would like to re-write the value.
   
-  *   **Value:** enter data value to be written.
+  *   **Value:** enter field value to be written.
   
-
- <font color = orange> < task name = job name 
  
-- **Field Mapping:**
+- **Field Mapping:** enable field mapping for source and target data.
 
 ## Log
 
@@ -233,11 +231,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMT
-kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
-NTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4OTE2OS
-wxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NSwxMDA5
-MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MT
-U4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwx
-NDA2MzQzODg5XX0=
+eyJoaXN0b3J5IjpbMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOT
+IwMDM4OTcsLTE5MDk5NTc3MjIsLTIwMjkwODA5ODcsMjEyMjk0
+OTIwNSw3NTI4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LD
+E5MTE1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4
+OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NS
+wtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OTEsLTIw
+NzgxMTUwMDldfQ==
 -->
