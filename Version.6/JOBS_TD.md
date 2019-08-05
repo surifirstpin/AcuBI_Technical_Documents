@@ -201,9 +201,9 @@ Enter following information;
 
   - **Truncate Table before insert:** delete entire table before inserting target data.
   
-- **Delete Reference Query:** deletes data from target database and 
+- **Delete Reference Query:** deletes data from target database and used source data.
 
-- **Update Reference Fields:**
+- **Update Reference Fields:** 
 
 - **Custom Filed:**
 
@@ -233,11 +233,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTMxNjM4NCwtMjAyOTA4MDk4NywyMT
-IyOTQ5MjA1LDc1MjgyNTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2
-MTUsMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMj
-A3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2
-MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MS
-wtMjA3ODExNTAwOSwxNDA2MzQzODg5LDE0NTgxNTExMjksMTI5
-ODQ2MTg5NV19
+eyJoaXN0b3J5IjpbLTE5MDk5NTc3MjIsLTIwMjkwODA5ODcsMj
+EyMjk0OTIwNSw3NTI4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUx
+NjE1LDE5MTE1ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LD
+IwNzU4OTUzODUsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4
+NjA1NSwtMTk3MTMxNDE1OCwxNTU4OTY3MzE1LC00MDIyNjI3OT
+EsLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwxNDU4MTUxMTI5LDEy
+OTg0NjE4OTVdfQ==
 -->
