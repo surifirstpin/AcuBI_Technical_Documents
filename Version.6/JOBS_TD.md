@@ -205,9 +205,9 @@ Enter following information;
 
 - **Update Reference Fields:**  it is a primary key based on given combination, data over writes the existing data.
 
-- **Custom Filed:**
+- **Custom Field:**  re-writes the give value for specified field
 
-    - **Field name :**
+    - **Field name :** enter field name for which you would like to re-write 
   
   *   **Value:**
   
@@ -233,11 +233,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
-IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
-ODI5NDksMzA3NjUxNjE1LDE5MTE1ODkxNjksMTcwNzEzNzc0OC
-wxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3Miw1NjYz
-NTQ2ODcsMTE0ODM4NjA1NSwtMTk3MTMxNDE1OCwxNTU4OTY3Mz
-E1LC00MDIyNjI3OTEsLTIwNzgxMTUwMDksMTQwNjM0Mzg4OSwx
-NDU4MTUxMTI5XX0=
+eyJoaXN0b3J5IjpbMTIyMDM3MTA2NSwtMTM5MjAwMzg5NywtMT
+kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
+NTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4OTE2OS
+wxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NSwxMDA5
+MjM0NTcyLDU2NjM1NDY4NywxMTQ4Mzg2MDU1LC0xOTcxMzE0MT
+U4LDE1NTg5NjczMTUsLTQwMjI2Mjc5MSwtMjA3ODExNTAwOSwx
+NDA2MzQzODg5XX0=
 -->
