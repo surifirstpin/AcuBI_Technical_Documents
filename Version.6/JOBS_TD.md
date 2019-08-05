@@ -159,7 +159,8 @@ Navigate to settings icon and click Schedule as explained above ( Refer image 5 
 
 under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE10.png)
+**Image 9**
 
 **Select task type** : Query sync full from drop-down list.
 
@@ -181,6 +182,11 @@ Enter following information;
 
 > **Block from** : 2019/03/01 | yyyy/MM/dd
 > **Block To** : 2019/03/08 | yyyy/MM/dd
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE11.png)
+
+**Image 10**
+
 
 - **Block Size:** Enter specific run time range.
 
@@ -233,11 +239,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0NDQ4OTU4LDE4MzkwNDc5NCwyMTE2MT
-czMjE3LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgw
-OTg3LDIxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LD
-MwNzY1MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3
-NzQ0NywyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LD
-ExNDgzODYwNTUsLTE5NzEzMTQxNTgsMTU1ODk2NzMxNSwtNDAy
-MjYyNzkxXX0=
+eyJoaXN0b3J5IjpbMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
+E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
+MDk4NywyMTIyOTQ5MjA1LDc1MjgyNTc3NCwtMTYyOTM4Mjk0OS
+wzMDc2NTE2MTUsMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NTAy
+Nzc0NDcsMjA3NTg5NTM4NSwxMDA5MjM0NTcyLDU2NjM1NDY4Ny
+wxMTQ4Mzg2MDU1LC0xOTcxMzE0MTU4LDE1NTg5NjczMTUsLTQw
+MjI2Mjc5MV19
 -->
