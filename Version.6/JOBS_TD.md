@@ -2,7 +2,7 @@
 
 <h1><center>Jobs</center></h1>
 
-Jobs schedules a command or script on your server to run automatically at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
+Jobs are used for scheduling tasks to run on the server. they are most commonly used for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
 
 ## Functionalities
 
@@ -277,11 +277,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzOD
-k1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2
-MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3LC0xMz
-kyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgwOTg3LDIxMjI5
-NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNzY1MTYxNS
-wxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0NywyMDc1
-ODk1Mzg1XX0=
+eyJoaXN0b3J5IjpbOTUyMTY5MjY2LDU1NDE0MDk3NCwtMTE2MT
+EzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3
+NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
+E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
+MDk4NywyMTIyOTQ5MjA1LDc1MjgyNTc3NCwtMTYyOTM4Mjk0OS
+wzMDc2NTE2MTUsMTkxMTU4OTE2OSwxNzA3MTM3NzQ4LDE1NTAy
+Nzc0NDddfQ==
 -->
