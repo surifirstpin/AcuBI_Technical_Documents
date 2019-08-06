@@ -244,6 +244,12 @@ Enter below information:
 
 - **Query:**  enter query to be validate in source and target connections.
 
+```
+SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '2019-03-03'
+```
+- **Target Connection:** Select target connection.
+
+- **Field mapping:** Enable field mapping for source and target connection.
 
 
 
@@ -257,7 +263,7 @@ Enter below information:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDI3MDgwNCw0NDk3NjQzNTksLTEyOT
+eyJoaXN0b3J5IjpbMTk0OTM1OTQ1Nyw0NDk3NjQzNTksLTEyOT
 IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
 LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
 IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
