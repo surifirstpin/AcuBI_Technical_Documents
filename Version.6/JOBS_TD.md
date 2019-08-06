@@ -251,6 +251,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 - **Field mapping:** Enable field mapping for source and target connection.
 
+- Click **Save** button to save the Job. 
 
 
 ## Edit Job
@@ -263,7 +264,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0OTM1OTQ1Nyw0NDk3NjQzNTksLTEyOT
+eyJoaXN0b3J5IjpbMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOT
 IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
 LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
 IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
