@@ -2,7 +2,7 @@
 
 <h1><center>Jobs</center></h1>
 
-Jobs are used for scheduling tasks to run on the server. they are most commonly used for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
+Jobs are used for scheduling tasks to run on the server. They are most commonly used for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
 
 ## Functionalities
 
@@ -277,7 +277,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMTY5MjY2LDU1NDE0MDk3NCwtMTE2MT
+eyJoaXN0b3J5IjpbNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MT
 EzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3
 NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
 E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
