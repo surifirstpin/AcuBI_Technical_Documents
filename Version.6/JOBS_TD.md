@@ -236,9 +236,15 @@ Enter following information;
  
  Validate the data in source and target connection, choose task type ***"Query Sync Validate."***
 
-Enter
-**Task Type:** Select Query Sync Validate from drop-down list.
-Source Connection: 
+Enter below information:
+
+- **Task Type:** Select Query Sync Validate from drop-down list.
+
+- **Source Connection:** Select source connection.
+
+- **Query:**  enter query to be validate in source and target connections.
+
+
 
 
 ## Edit Job
@@ -251,11 +257,11 @@ Source Connection:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc1OTM1MjAsNDQ5NzY0MzU5LC0xMj
-kyMjgwNDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5
-NCwyMTE2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC
-0yMDI5MDgwOTg3LDIxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5
-MzgyOTQ5LDMwNzY1MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3ND
-gsMTU1MDI3NzQ0NywyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2
-MzU0Njg3XX0=
+eyJoaXN0b3J5IjpbMTExNDI3MDgwNCw0NDk3NjQzNTksLTEyOT
+IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
+LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
+IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
+ODI5NDksMzA3NjUxNjE1LDE5MTE1ODkxNjksMTcwNzEzNzc0OC
+wxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAwOTIzNDU3Miw1NjYz
+NTQ2ODddfQ==
 -->
