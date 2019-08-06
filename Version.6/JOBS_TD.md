@@ -234,6 +234,8 @@ Enter following information;
 
 ## Job (Query Sync Validate)
  
+ Validate the data in source and target connection, choose task type ***"Query Sync Validate."***
+
 
 **Task Type:** Job with query sync validate wil
 
@@ -248,7 +250,7 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc0ODA5OCw0NDk3NjQzNTksLTEyOT
+eyJoaXN0b3J5IjpbMTU2MTMyNDEwNCw0NDk3NjQzNTksLTEyOT
 IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
 LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
 IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
