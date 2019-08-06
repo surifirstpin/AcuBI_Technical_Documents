@@ -237,8 +237,6 @@ Enter following information;
  Job with query sync validate wil
 
 
-
-
 ## Edit Job
 
 **5.** Click Edit icon to edit the existing job and click on update button to save the changes.
@@ -249,11 +247,11 @@ Enter following information;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMD
-I1NjE0MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4
-OTcsLTE5MDk5NTc3MjIsLTIwMjkwODA5ODcsMjEyMjk0OTIwNS
-w3NTI4MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MTE1
-ODkxNjksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzOD
-UsMTAwOTIzNDU3Miw1NjYzNTQ2ODcsMTE0ODM4NjA1NSwtMTk3
-MTMxNDE1OF19
+eyJoaXN0b3J5IjpbNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4Mz
+MyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3
+LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgwOTg3LD
+IxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNzY1
+MTYxNSwxOTExNTg5MTY5LDE3MDcxMzc3NDgsMTU1MDI3NzQ0Ny
+wyMDc1ODk1Mzg1LDEwMDkyMzQ1NzIsNTY2MzU0Njg3LDExNDgz
+ODYwNTVdfQ==
 -->
