@@ -242,14 +242,17 @@ Enter below information:
 
 - **Source Connection:** Select source connection.
 
-- **Query:**  enter query to be validate in source and target connections.
+- **Query:**  enter query to be validate in source connections.
 
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '2019-03-03'
 ```
 - **Target Connection:** Select target connection.
 
-- **Target Query:**  enter query to be validate in source and target connections.
+- **Target Query:**  enter query to be validate in target connections.
+```
+SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '2019-03-03'
+```
 
 - **Field mapping:** Enable field mapping for source and target connection.
 
@@ -266,11 +269,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTczNDI4NiwxMzg5NTYxODQ5LDQ0OT
-c2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQw
-OSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMT
-kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
-NTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4OTE2OS
-wxNzA3MTM3NzQ4LDE1NTAyNzc0NDcsMjA3NTg5NTM4NSwxMDA5
-MjM0NTcyXX0=
+eyJoaXN0b3J5IjpbLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0ND
+k3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0
+MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLT
+E5MDk5NTc3MjIsLTIwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4
+MjU3NzQsLTE2MjkzODI5NDksMzA3NjUxNjE1LDE5MTE1ODkxNj
+ksMTcwNzEzNzc0OCwxNTUwMjc3NDQ3LDIwNzU4OTUzODUsMTAw
+OTIzNDU3Ml19
 -->
