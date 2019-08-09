@@ -52,7 +52,7 @@ On selecting Query Execute, it display following functionalities;
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
-Click **Save**, to save the Job created.
+Click **Save,** to save the Job created.
 
 All the saved jobs are visible under SQL Jobs list.
 
@@ -276,11 +276,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMD
-EwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5
-LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMj
-U2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5
-NywtMTkwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LD
-c1MjgyNTc3NCwtMTYyOTM4Mjk0OSwzMDc2NTE2MTUsMTkxMTU4
-OTE2OV19
+eyJoaXN0b3J5IjpbLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mz
+g0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4
+LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4Mz
+MyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3
+LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgwOTg3LD
+IxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNzY1
+MTYxNV19
 -->
