@@ -35,7 +35,7 @@
 
 -  <b>Name:</b> specify a name to define connection.
  
- - <b>Dialect:</b> choose appropriate dialect based on  connection being established. 
+- <b>Dialect:</b> choose appropriate dialect based on  connection being established. 
  
 - <b>Host:</b>  Database host path.
 
@@ -108,8 +108,8 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NDI1ODA3MywtMTYwNDU3ODU4MCwtNT
-c0MDE4NDcxLC0xOTIxNzEzNzkxLC0xODc4ODY5MjIzLC0xNDQ3
-NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5MDk1OSwtMTE5MDI1MT
-ExM119
+eyJoaXN0b3J5IjpbMTAyNzIwMzg5MSwtNTU0MjU4MDczLC0xNj
+A0NTc4NTgwLC01NzQwMTg0NzEsLTE5MjE3MTM3OTEsLTE4Nzg4
+NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOT
+U5LC0xMTkwMjUxMTEzXX0=
 -->
