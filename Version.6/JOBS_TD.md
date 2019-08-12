@@ -186,7 +186,7 @@ Enter following information;
 
 - **Block Size:** Enter specific run time range.
 
-> Block size : 3 ( if-1 runs daily, 2-runs once in two days and so on)
+> Block size : 3 ( on selecting 1 runs daily, 2-runs once in two days and so on)
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOT
-E3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0
-LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OT
-c2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQw
-OSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMT
-kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
-NTc3NF19
+eyJoaXN0b3J5IjpbMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OT
+A0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5
+OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzOD
+k1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2
+MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3LC0xMz
+kyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgwOTg3LDIxMjI5
+NDkyMDVdfQ==
 -->
