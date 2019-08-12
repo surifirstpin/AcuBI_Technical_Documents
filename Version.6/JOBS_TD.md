@@ -111,7 +111,7 @@ Under Schedule Job Window, Enter Below details;
 
 **Image 5**
 
-**3.** Click Run button, to run Jobs.
+**3.** Click <b> Run</b> button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
 
@@ -119,15 +119,15 @@ Under Schedule Job Window, Enter Below details;
 
 ## Job Email Reports
 
-Similarly for task type **Email Reports**
+Similarly for task type <b>Email Report.</b>
 
 ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
 
 **Image 7**
 
-***Enter following details in Create job window;***
+<b><i>Enter following details in Create job window;</b></i>
 
-- **Task Type:** choose Email report from drop-down list.
+- *Task Type:** choose Email report from drop-down list.
 
 - **Select Reports:** on selecting report checkbox, it will email the report result to specified email id.
 
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNz
-Y1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEw
-MDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMT
-YxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgw
-NDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMT
-E2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5
-MDgwOTg3XX0=
+eyJoaXN0b3J5IjpbLTM3MTg0MTk5OCwtMTU4MjA3OTM2OSwxOD
+k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
+MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
+QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
+NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
+gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
+NTc3MjJdfQ==
 -->
