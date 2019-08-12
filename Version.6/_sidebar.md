@@ -8,9 +8,10 @@
 - [Visualization](Visualization.md)
 - [Dashboard](Dashboard.md)
 - [SQL Runner](SQL_Runner_TD.md)
+- [JOBS](JOBS_TD.md)
 - [Organize](Organize.md)
 - [Tags](Tag_TD.md)
 - [Admin Settings](Admin_Settings_TD.md)
 - [Global Parameters](Global_Parameters_TD.md)
 - [Global Functions](Global_Functions.md)
-- [JOBS](JOBS_TD.md)
+
