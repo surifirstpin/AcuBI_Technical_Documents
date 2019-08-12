@@ -83,7 +83,7 @@
 <b>4. Test Connection:</b> check if the entered information is running accurately.
 > on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
-**5.** **Add Connection:** establish and save the connection.
+**5.Add Connection:** establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
@@ -108,7 +108,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU5ODU5MzcsLTE2MDQ1Nzg1ODAsLT
+eyJoaXN0b3J5IjpbLTE3OTIyMjI2MjMsLTE2MDQ1Nzg1ODAsLT
 U3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMTg3ODg2OTIyMywtMTQ0
 NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMyOTA5NTksLTExOTAyNT
 ExMTNdfQ==
