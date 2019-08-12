@@ -215,19 +215,18 @@ Enter following information;
 <b>4.</b> Navigate to Log window by clicking on <b>Log</b> button to view execution status.
 
 ![Im](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
- <b><font color = "TEAL" >Image 12</font></b>
+ <b><font color = "TEAL" >Image 11</font></b>
 
 ## Job (Query Sync Validate)
  
- Validate the data in source and target connection, choose task type ***"Query Sync Validate."***
+ Validate the data in source and target connection, choose task type <b>"Query Sync Validate."</b>
 
 Enter below information:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE13.png)
+ <b><font color = "TEAL" >Image 12</font></b>
 
-**Image 12**
-
-- **Task Type:** Select Query Sync Validate from drop-down list.
+- Task Type:** Select Query Sync Validate from drop-down list.
 
 - **Source Connection:** Select source connection.
 
@@ -262,11 +261,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NzEwMTQyLDE3NTMyODA4NjMsLTE1OD
-IwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2
-MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0Mz
-MwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4
-NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMT
-AyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3LC0xMzkyMDAz
-ODk3XX0=
+eyJoaXN0b3J5IjpbMTY3ODM1NjE3OCwxNzUzMjgwODYzLC0xNT
+gyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4
+NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsND
+MzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYx
+ODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMj
+EwMjU2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAw
+Mzg5N119
 -->
