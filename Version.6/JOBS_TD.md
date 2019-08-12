@@ -105,22 +105,19 @@ Under Schedule Job Window, Enter Below details;
 **2.**  Click run schedule button.
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
-
-**Image 5**
+ <b><font color = "TEAL" >Image 5</font></b>
 
 **3.** Click <b> Run</b> button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
-
-**Image 6**
+ <b><font color = "TEAL" >Image 6</font></b>
 
 ## Job Email Reports
 
 Similarly for task type <b>Email Report.</b>
 
 ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
-
-**Image 7**
+ <b><font color = "TEAL" >Image 7</font></b>
 
 <b><i>Enter following details in Create job window;</b></i>
 
@@ -135,8 +132,7 @@ Similarly for task type <b>Email Report.</b>
 - <b>Report Layout</b>: Select the report layout using drop down list.
 
 ![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
-
-**Image 8**
+ <b><font color = "TEAL" >Image 7</font></b>
 
 - <b>Report Width:</b> choose report from drop down list ( large,medium and small)
 
@@ -153,9 +149,9 @@ Similarly for task type <b>Email Report.</b>
 under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE10.png)
-**Image 9**
+ <b><font color = "TEAL" >Image 9</font></b>
 
-**Select task type** : Query sync full from drop-down list.
+<b>Select task type:</b> Query sync full from drop-down list.
 
 Enter following details in create Job window;
 
@@ -270,11 +266,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTU3NzcyNzMsLTE1ODIwNzkzNjksMT
-g5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1
-MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNT
-U0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0
-MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LD
-E4MzkwNDc5NCwyMTE2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5
-OTU3NzIyXX0=
+eyJoaXN0b3J5IjpbOTAwMDA5MjY5LC0xNTgyMDc5MzY5LDE4OT
+g4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEy
+NTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1ND
+E0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1
+OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxOD
+M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
+NzcyMl19
 -->
