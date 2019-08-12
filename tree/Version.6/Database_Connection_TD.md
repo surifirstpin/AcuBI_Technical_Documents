@@ -3,7 +3,7 @@
 
 <center><h2>DATABASE CONNECTION</h2></center>
 
- **Connection** Specifies a database connection from which a model can retrieve the data.
+ <b>Connection** Specifies a database connection from which a model can retrieve the data.
    
  **To set up database connection;**
     
@@ -106,7 +106,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE3MTM3OTEsLTE4Nzg4NjkyMjMsLT
-E0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMTkw
-MjUxMTEzXX0=
+eyJoaXN0b3J5IjpbNjg5MDM4MDE5LC0xOTIxNzEzNzkxLC0xOD
+c4ODY5MjIzLC0xNDQ3NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5
+MDk1OSwtMTE5MDI1MTExM119
 -->
