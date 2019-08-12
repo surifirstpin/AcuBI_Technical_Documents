@@ -102,5 +102,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjk4MzMzLDE2NzM1MDYxMzddfQ==
+eyJoaXN0b3J5IjpbOTEzNjk4MzMzXX0=
 -->
