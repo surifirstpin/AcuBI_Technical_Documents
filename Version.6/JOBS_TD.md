@@ -155,17 +155,17 @@ under this task type data is transmitted from source to target destination, this
 
 Enter following details in create Job window;
 
-- **Source Connection:** select source database connection
+- <b>Source Connection:</b> Select source database connection
 
-- **Query:** Enter the query, 
+- <b>Query:</b> Enter the query, 
 
-**For Instance:** in the following query summary data will be transferred to target destination
+<b><i>For Instance:</i></b> in the following query summary data will be transferred to target destination
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '${key_start}' and '${key_end}'
 ```
 Enter following information;
 
-**Block type:** Select ***Date*** from drop-down list.
+<b>Block type:</b> Select <b>Date</b> from drop-down list.
 
 - **Block From & To:**  enter start date and end date till where the data to fetched.
 
@@ -266,11 +266,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMDA5MjY5LC0xNTgyMDc5MzY5LDE4OT
-g4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEy
-NTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1ND
-E0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1
-OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxOD
-M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
-NzcyMl19
+eyJoaXN0b3J5IjpbLTU2MzQ5NjkxNSwtMTU4MjA3OTM2OSwxOD
+k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
+MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
+QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
+NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
+gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
+NTc3MjJdfQ==
 -->
