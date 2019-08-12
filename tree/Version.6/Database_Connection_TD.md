@@ -23,29 +23,29 @@
 
 <b>Navigation: Database→ New connection</b>
 
- <b>1.</b> Click on <b>Database Section.** It navigates to database connections page.
+ <b>1.</b> Click on <b>Database Section</b> It navigates to database connections page.
 
- <b>2.</b> Click on **New Connection** button  (on top right of the screen) to start setting up the connection to database. In general, specify the below mentioned fields:
+ <b>2.</b> Click on <b>New Connection</b> button  (on top right of the screen) to start setting up the connection to database. In general, specify the below mentioned fields:
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
-**Image 1**
+ <b><font color = "TEAL" >Image 1</font></b>*
 
 ***Enter the following details in New connection page ;***
 
--  **Name:** specify a name to define connection.
+-  <b>Name:</b> specify a name to define connection.
  
- - **Dialect:** choose appropriate dialect based on  connection being established. 
+ - <b>Dialect:</b> choose appropriate dialect based on  connection being established. 
  
-- **Host:**  Database host path.
+- <b>Host:</b>  Database host path.
 
-- **Database:** Name of the database used.
+- <b>Database:</b> Name of the database used.
 
-- **Username and Password:** Credentials used to connect the database.
+- <b>Username and Password:</b> Credentials used to connect the database.
 
-- **Temporary Database:**  To get the data path location of local files for user.
+- <b>Temporary Database:</b>  To get the data path location of local files for user.
 
-- **Maximum connection:** Concurrent connection used by  database.
+- <b>Maximum connection:</b> Concurrent connection used by  database.
 
 - **Additional Parameters:** Additional JDBC parameter used.
 
@@ -106,7 +106,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNjQ1OTMyLC01NzQwMTg0NzEsLTE5Mj
-E3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2
-NTAzMCwyMTEzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
+eyJoaXN0b3J5IjpbMTIxODM0NDU2MSwtNTc0MDE4NDcxLC0xOT
+IxNzEzNzkxLC0xODc4ODY5MjIzLC0xNDQ3NTUxNTY1LC05NDQ1
+NjUwMzAsMjExMzI5MDk1OSwtMTE5MDI1MTExM119
 -->
