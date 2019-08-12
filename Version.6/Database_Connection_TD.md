@@ -47,13 +47,14 @@
 
 - <b>Maximum connection:</b> Concurrent connection used by  database.
 
-- <Additional Parameters:** Additional JDBC parameter used.
+- <b>Additional Parameters:</B> Additional JDBC parameter used.
 
 ## SSH 
+
 - Enable SSH connection by select checkbox for SSH.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
-**Image 2**
+ <b><font color = "TEAL" >Image 2</font></b>
 
 **a)**  To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
@@ -106,7 +107,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ0MjQwMzAzLC01NzQwMTg0NzEsLTE5Mj
-E3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2
-NTAzMCwyMTEzMjkwOTU5XX0=
+eyJoaXN0b3J5IjpbLTE2MDQ1Nzg1ODAsLTU3NDAxODQ3MSwtMT
+kyMTcxMzc5MSwtMTg3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0
+NTY1MDMwLDIxMTMyOTA5NTldfQ==
 -->
