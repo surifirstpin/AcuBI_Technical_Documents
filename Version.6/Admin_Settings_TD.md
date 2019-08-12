@@ -8,10 +8,10 @@ AcuBi admin has an ability to manage all Users, User Groups, Global parameters a
 
 ### Getting Started
 
-After logging into AcuBi, Click on **Settings** icon. It navigates to User Profile Screen. (Refer Image 1)
+After logging into AcuBi, Click on <b>Settings</b> icon. It navigates to User Profile Screen. (Refer Image 1)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/27b6eae2e46df9bf92999bd5c6f3754f217a2b36/images/New_version5/TD_Settings_1.png)
-**Image 1**
+<b><font color = "Black" </font> Image 1 </F
 
 ## Users
 
@@ -100,5 +100,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzUwNjEzN119
+eyJoaXN0b3J5IjpbNjc0MTg3ODkzLDE2NzM1MDYxMzddfQ==
 -->
