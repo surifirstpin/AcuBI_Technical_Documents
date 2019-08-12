@@ -108,5 +108,5 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTIyOTkyMiwtMTYwNDYwMTY5NF19
+eyJoaXN0b3J5IjpbMTIwOTIyOTkyMl19
 -->
