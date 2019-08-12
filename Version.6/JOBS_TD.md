@@ -181,12 +181,12 @@ Enter following information;
 
 - <b>Block Key From & To:</b> it works as reference name ( applicable in case of where conditions)
 
-> **Block Key From:** Block Key: ${key_start}
-> **Block Key To:** Block Key: ${key_end}
+> <b>Block Key From:</b> Block Key: ${key_start}
+> <b>Block Key To:</b> Block Key: ${key_end}
 
-- <b>Target Connection:** select target database connection.
+- <b>Target Connection:</b> select target database connection.
 
-- **Schema:** select schema from drop down list.
+- Schema:** select schema from drop down list.
 
 - **Table:** select the target table from drop down list.
 
@@ -264,11 +264,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDkzNTgyOTEsMTc1MzI4MDg2MywtMT
-U4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQy
-ODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LD
-QzMzAxMDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2
-MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLD
-IxMDI1NjE0MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIw
-MDM4OTddfQ==
+eyJoaXN0b3J5IjpbMTczNzE1MDk1MCwxNzUzMjgwODYzLC0xNT
+gyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4
+NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsND
+MzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYx
+ODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMj
+EwMjU2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAw
+Mzg5N119
 -->
