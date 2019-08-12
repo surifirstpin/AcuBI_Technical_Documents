@@ -48,11 +48,11 @@ On selecting Query Execute, it display following functionalities;
 
 - <b>Block From & To:</b>  Enter the start and the ending point of the data to be fetched.
 
-- **Block Size:** Enter specific run time range.
+- <b>Block Size:</b> Enter specific run time range.
 
-- **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
+- <b>Block Key From & To:</b> it works as reference name ( applicable in case of where conditions)
 
-Click **Save,** to save the Job created.
+Click <b>Save,</b> to save the Job created.
 
 All the saved jobs are visible under SQL Jobs list.
 
@@ -66,7 +66,7 @@ Click on Task button to create multiple Task in Jobs.
 
 ## Schedule Job
 
-**1.** Click Settings Icon available next to existing Job name and Navigate to ***Schedule.***
+**1.** Click Settings Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
 
@@ -74,7 +74,7 @@ Click on Task button to create multiple Task in Jobs.
 
 Under Schedule Job Window, Enter Below details;
 
-- **Start delay:** enter time delay to run the file
+- **Start delay:< enter time delay to run the file
 
 - **Schedule:**
 
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NDc1ODIwNCwxODk4ODg0NTEwLDE3Nj
-U5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAw
-NTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNj
-ExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0
-NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0LDIxMT
-YxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLTIwMjkw
-ODA5ODddfQ==
+eyJoaXN0b3J5IjpbOTQzMjA0NTcxLDE4OTg4ODQ1MTAsMTc2NT
+kxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1
+OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MT
+EzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3
+NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
+E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
+MDk4N119
 -->
