@@ -23,9 +23,9 @@
 
 <b>Navigation: Database→ New connection</b>
 
- <b>1.</b> Click on **Database Section.** It navigates to database connections page.
+ <b>1.</b> Click on <b>Database Section.** It navigates to database connections page.
 
- **2.** Click on **New Connection** button  (on top right of the screen) to start setting up the connection to database. In general, specify the below mentioned fields:
+ <b>2.</b> Click on **New Connection** button  (on top right of the screen) to start setting up the connection to database. In general, specify the below mentioned fields:
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
@@ -106,7 +106,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMT
-g3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMy
-OTA5NTksLTExOTAyNTExMTNdfQ==
+eyJoaXN0b3J5IjpbNzQwNjQ1OTMyLC01NzQwMTg0NzEsLTE5Mj
+E3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2
+NTAzMCwyMTEzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
 -->
