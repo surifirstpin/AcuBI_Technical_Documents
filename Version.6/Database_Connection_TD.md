@@ -56,13 +56,13 @@
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
  <b><font color = "TEAL" >Image 2</font></b>
 
-<b>a)<?b> To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
+<b>a)</b> To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
   - IP address or DNS name of the database server
   - SSH port of the database server
   - Database port number
   
-**b)** If connecting with separate database host, provide following information to AcuBi analyst:
+<b>b)</b> If connecting with separate database host, provide following information to AcuBi analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
   - Database port number as seen from the tunnel server.
@@ -107,7 +107,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDkxNTI5MSwtMTYwNDU3ODU4MCwtNT
-c0MDE4NDcxLC0xOTIxNzEzNzkxLC0xODc4ODY5MjIzLC0xNDQ3
-NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5MDk1OV19
+eyJoaXN0b3J5IjpbNDY5OTgzMDU4LC0xNjA0NTc4NTgwLC01Nz
+QwMTg0NzEsLTE5MjE3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1
+NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOTU5XX0=
 -->
