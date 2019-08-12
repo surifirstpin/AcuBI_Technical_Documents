@@ -98,9 +98,9 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 - Finally, click <b>Update</b> to save new password.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34f271bf782d072db5192b52b67c19f8d364c993/images/New_version5/TD_Settings_6.png)
-**Image  6**
+<b> <font color = "Black">  Image 6 </font> </b>
 
-> **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
+> <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjg1NjYzMjcsMTY3MzUwNjEzN119
+eyJoaXN0b3J5IjpbOTEzNjk4MzMzLDE2NzM1MDYxMzddfQ==
 -->
