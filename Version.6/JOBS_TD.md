@@ -64,7 +64,7 @@ Click on Task button to create multiple Task in Jobs.
 
 ## Schedule Job
 
-**1.** Click Settings Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
+</b>1.</b> Click Settings Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
  <b><font color = "TEAL" >Image 4</font></b>
@@ -102,12 +102,12 @@ Under Schedule Job Window, Enter Below details;
      
      - <b>Parallel:</b> select parallel to run the jobs parallel at the same time.
      
-**2.**  Click run schedule button.
+<b>2.</b>  Click run schedule button.
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
  <b><font color = "TEAL" >Image 5</font></b>
 
-**3.** Click <b> Run</b> button, to run Jobs.
+<b>3.</b> Click <b> Run</b> button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
  <b><font color = "TEAL" >Image 6</font></b>
@@ -215,8 +215,7 @@ Enter following information;
 <b>4.</b> Navigate to Log window by clicking on <b>Log</b> button to view execution status.
 
 ![Im](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
-
-**Image 11**
+ <b><font color = "TEAL" >Image 12</font></b>
 
 ## Job (Query Sync Validate)
  
@@ -263,7 +262,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMzcyNjExLDE3NTMyODA4NjMsLTE1OD
+eyJoaXN0b3J5IjpbNzA4NzEwMTQyLDE3NTMyODA4NjMsLTE1OD
 IwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2
 MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0Mz
 MwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4
