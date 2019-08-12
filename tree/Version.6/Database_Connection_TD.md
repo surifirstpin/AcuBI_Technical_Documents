@@ -17,7 +17,7 @@
 
  ## Set-Up Database Connection
 
- Login <b>AcuBi< using following navigation path :
+ Login <b>AcuBi</b> using following navigation path :
 
 **Link :**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
@@ -106,7 +106,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDQ0OTgzMSwtMTkyMTcxMzc5MSwtMT
-g3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMy
-OTA5NTksLTExOTAyNTExMTNdfQ==
+eyJoaXN0b3J5IjpbLTExNTE0ODkxMDgsLTE5MjE3MTM3OTEsLT
+E4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEz
+MjkwOTU5LC0xMTkwMjUxMTEzXX0=
 -->
