@@ -228,18 +228,17 @@ Enter below information:
 
 - <b>Task Type:</b> Select Query Sync Validate from drop-down list.
 
-- **Source Connection:** Select source connection.
+- <b>Source Connection:</b> Select source connection.
 
-- **Query:**  enter query to be validate in source connections.
+- <b>Query:</b>  enter query to be validate in source connections.
 
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '2019-03-03'
 ```
-- **Target Connection:** Select target connection.
+- <b>Target Connection:</b> Select target connection.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE14.png)
-
-**Image 13**
+  <b><font color = "TEAL" >Image 13</font></b>
 
 - **Target Query:**  enter query to be validate in target connections.
 ```
@@ -261,11 +260,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NT
-MyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTEx
-MDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LD
-k2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2
-ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LD
-M4MzMyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTcz
-MjE3XX0=
+eyJoaXN0b3J5IjpbLTY3NjYxMjc0MCwtOTMzMzQzNTE5LDE2Nz
+gzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3OTM2OSwxODk4ODg0
+NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LD
+E0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5
+NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLT
+EyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0
+Nzk0XX0=
 -->
