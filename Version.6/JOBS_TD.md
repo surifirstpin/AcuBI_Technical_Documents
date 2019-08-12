@@ -16,7 +16,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
 
-<b><font color = "skyblue" >Image 1</font></b>
+<b><font color = "navy blue" >Image 1</font></b>
  
  Enter the following information in Create Job Window;
  
@@ -273,7 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTU0MDYyOCwxODk4ODg0NTEwLDE3Nj
+eyJoaXN0b3J5IjpbMTM3ODczNDk1NSwxODk4ODg0NTEwLDE3Nj
 U5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAw
 NTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNj
 ExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0
