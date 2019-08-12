@@ -21,17 +21,17 @@ After logging into AcuBi, Click on <b>Settings</b> icon. It navigates to User Pr
  
 On selecting Add Users, it navigate to users section. Enter the following details to create a new user.
 
-- <b>Email:</b Enter email address for user.
+- <b>Email:</b> Enter email address for user.
 
-- **Password:** Enter password to access.
+- <b>Password:</b> Enter password to access.
 
-- **First Name:** Enter first-name of the user.
+- <b>First Name:</b> Enter first-name of the user.
 
-- **Last Name:** Enter last-name of the user. 
+- <b>Last Name:</b> Enter last-name of the user. 
 
-- **Company:** Enter name of the company.
+- <b>Company:</b> Enter name of the company.
 
-- **Role** Select the role from the drop down list available ( Admin, Developer, User, Super Admin)
+- <b>Role</b> Select the role from the drop down list available ( Admin, Developer, User, Super Admin)
 
 
 | User Role |  Access|
@@ -41,9 +41,9 @@ On selecting Add Users, it navigate to users section. Enter the following detail
 |User|view reports and can edit them if provided access to the specific model|
 |Manager|view reports and edit them if provided access to the specific model|
 
-- **Enabled:** on selecting **Enabled check box** the user can access the information, or else disabled for login.
+- <b>Enabled:</b> on selecting **Enabled check box** the user can access the information, or else disabled for login.
 
-- Click **Save** button to save the newly created user.
+- Click <b>Save</b> button to save the newly created user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c425904aa43b8e9f13d4ff6b4dd2abce59624d83/images/New_version5/TD_Settings_2.png)
 **Image 2**
@@ -100,5 +100,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE0OTE5NjgsMTY3MzUwNjEzN119
+eyJoaXN0b3J5IjpbLTM3MTExODMyMywxNjczNTA2MTM3XX0=
 -->
