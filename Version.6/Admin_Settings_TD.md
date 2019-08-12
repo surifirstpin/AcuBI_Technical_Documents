@@ -46,23 +46,24 @@ On selecting Add Users, it navigate to users section. Enter the following detail
 - Click <b>Save</b> button to save the newly created user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c425904aa43b8e9f13d4ff6b4dd2abce59624d83/images/New_version5/TD_Settings_2.png)
-**Image 2**
+ <b> <font color = "Black">  Image 2 </font> </b>
 
 ## Edit & Delete User
 
 To edit or delete user, follow the below steps ;
 
-**1.** Click on **Edit Icon** in users section to edit the user.
+<b>1.</b> Click on <b>Edit Icon</b> in users section to edit the user.
 
-**2.** Click on **Delete Icon** in users section to delete the user.
+<b>2.</b> Click on <b>Delete Icon</b> in users section to delete the user.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a787ffdfc5140b0562affeea40792b79603a50c/images/New_version5/TD_Settings_3.png)
-**Image 3**
+ <b> <font color = "Black">  Image 3 </font> </b>
+
 ## Groups
 
 To share the specific content with set of people in the organisation.
 
-**Steps to create a new Group;**
+<b><i>Steps to create a new Group;</i></b>
 
 >**Navigation : Settings → Groups → Add Group**
 
@@ -100,5 +101,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTExODMyMywxNjczNTA2MTM3XX0=
+eyJoaXN0b3J5IjpbLTk5ODY5MjA3LDE2NzM1MDYxMzddfQ==
 -->
