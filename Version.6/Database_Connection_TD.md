@@ -29,7 +29,7 @@
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
- <b><font color = "TEAL" >Image 1</font></b>*
+ <b><font color = "Black" >Image 1</font></b>*
 
 ***Enter the following details in New connection page ;***
 
@@ -54,7 +54,7 @@
 - Enable SSH connection by select checkbox for SSH.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
- <b><font color = "TEAL" >Image 2</font></b>
+ <b><font color = "Black" >Image 2</font></b>
 
 <b>a)</b> To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
@@ -74,7 +74,7 @@
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
-<b><font color = "TEAL" >Image 3</font></b>
+<b><font color = "Black" >Image 3</font></b>
 
 <b>3. Dialects:</b> select the accurate dialect from the list using drop down option.
 
@@ -91,7 +91,7 @@
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
-<b><font color = "TEAL" >Image 4</font></b>
+<b><font color = "Black" >Image 4</font></b>
 
    <b>6.</b> Click <b>Edit</b> option to make any changes to connection established.
    
@@ -103,10 +103,10 @@
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
-  <b><font color = "TEAL" >Image 5</font></b>
+  <b><font color = "Black" >Image 5</font></b>
 
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzIwMzg5MV19
+eyJoaXN0b3J5IjpbMTEyMTI5NzY4NF19
 -->
