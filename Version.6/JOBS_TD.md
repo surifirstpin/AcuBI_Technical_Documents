@@ -143,9 +143,6 @@ Similarly for task type **Email Reports**
 
 - **Report Width:** choose report from drop down list ( large,medium and small)
 
-<font color = orange> **Filter Json:**  ?????
-
-
 - **Email Id** Enter email address to whom you would like to send the report.
 
 - **Save:** Click on save button to save the task created.
@@ -276,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mj
-c1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQs
-LTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOT
-IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
-LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
-IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
-ODI5NDldfQ==
+eyJoaXN0b3J5IjpbMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOT
+E3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0
+LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OT
+c2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQw
+OSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMT
+kwOTk1NzcyMiwtMjAyOTA4MDk4NywyMTIyOTQ5MjA1LDc1Mjgy
+NTc3NF19
 -->
