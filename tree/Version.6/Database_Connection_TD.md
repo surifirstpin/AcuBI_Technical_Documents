@@ -70,7 +70,7 @@
   - SSH port of the tunnel server as seen from the public internet.
   - Username and Password on the tunnel server for the SSH connection (the standard is looker).
   
-  - <b>Browse Key File:** upload a private key for secure access.
+  - <b>Browse Key File:</b> upload a private key for secure access.
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
@@ -108,7 +108,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTAzMjIwNzAsLTE2MDQ1Nzg1ODAsLT
+eyJoaXN0b3J5IjpbLTEzNzI2NzE4MTMsLTE2MDQ1Nzg1ODAsLT
 U3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMTg3ODg2OTIyMywtMTQ0
 NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMyOTA5NTksLTExOTAyNT
 ExMTNdfQ==
