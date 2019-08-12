@@ -74,17 +74,17 @@ Click on Task button to create multiple Task in Jobs.
 
 Under Schedule Job Window, Enter Below details;
 
-- **Start delay:< enter time delay to run the file
+- <b>Start delay:</b> enter time delay to run the file
 
-- **Schedule:**
+- <b>Schedule:</b>
 
-   - **None:** Runs immediately
+   - <b>None:</b> Runs immediately
    
-   - **Repeat after completion with delay:** schedule run once again with specified time delay
+   - <b>Repeat after completion with delay:</b> schedule run once again with specified time delay
    
-   - **Cron expression:** it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
+   - <b>Cron expression:</b> it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
    
->**For instance:**
+><b>For instance:</b>
  ( ' 0 0 0 * * * ' ) is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 8, (' 0 0 0 8 * * * '),  your string represents every day at 8:00 AM.
 
 | Field |Allowed Value  |Allowed Special Character|
@@ -97,7 +97,7 @@ Under Schedule Job Window, Enter Below details;
 |Day of week|Day of week|, - * ? / L #|
 |Year|1970-2099|  , - * /|
 
- - **Jobs to run after:** Select the job to run after your scheduled job.
+ - <b>Jobs to run after: Select the job to run after your scheduled job.
  
  - **Tasks to run after():**
  
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMjA0NTcxLDE4OTg4ODQ1MTAsMTc2NT
-kxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1
-OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MT
-EzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3
-NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
-E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
-MDk4N119
+eyJoaXN0b3J5IjpbLTE2MTUyMjUwNDksMTg5ODg4NDUxMCwxNz
+Y1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEw
+MDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMT
+YxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgw
+NDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMT
+E2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5
+MDgwOTg3XX0=
 -->
