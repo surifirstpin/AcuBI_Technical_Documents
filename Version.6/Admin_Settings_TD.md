@@ -63,21 +63,21 @@ To edit or delete user, follow the below steps ;
 
 To share the specific content with set of people in the organisation.
 
-<b><i>Steps to create a new Group;</i></b>
+<b><i>Steps to create a new Group:</i></b>
 
->**Navigation : Settings → Groups → Add Group**
+><b>Navigation :</b> Settings → Groups → Add Group**
 
-**Enter the below information :**
+<b><i>Enter the below information :</i></b>
 
-- **Group Name** enter a group name.
+- <b>Group Name:</b> enter a group name.
 
-- **Users** Select  users for group.
+- <b>Users:</b> Select  users for group.
 
-- Click on **Save** button to save group.
+- Click on <b>Save</b> button to save group.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/edc96c6183d9b36a9ade3763409cf079ac558b53/images/New_version5/TD_Settings_4.png)
-**Image 4**
+ <b> <font color = "Black">  Image 4</font> </b>
 ## Edit & Delete Group
 
 **3.**  Click **Edit icon** in groups section  to edit the group.
@@ -101,5 +101,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODY5MjA3LDE2NzM1MDYxMzddfQ==
+eyJoaXN0b3J5IjpbLTc3ODQ5MDI0NSwxNjczNTA2MTM3XX0=
 -->
