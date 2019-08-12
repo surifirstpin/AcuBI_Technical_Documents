@@ -16,7 +16,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
 
- **Image 1**
+<b><Image 1**
  
  Enter the following information in Create Job Window;
  
@@ -97,13 +97,13 @@ Under Schedule Job Window, Enter Below details;
 |Day of week|Day of week|, - * ? / L #|
 |Year|1970-2099|  , - * /|
 
- - <b>Jobs to run after: Select the job to run after your scheduled job.
+ - <b>Jobs to run after:</b> Select the job to run after your scheduled job.
  
- - **Tasks to run after():**
+ - <b>Tasks to run after():</b>
  
-     - **Sequential:** select sequential to run the jobs one after the other.
+     - <b>Sequential:</b> select sequential to run the jobs one after the other.
      
-     - **Parallel:** select parallel to run the jobs parallel at the same time.
+     - <b>Parallel:</b> select parallel to run the jobs parallel at the same time.
      
 **2.**  Click run schedule button.
 
@@ -273,7 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUyMjUwNDksMTg5ODg4NDUxMCwxNz
+eyJoaXN0b3J5IjpbLTE1NTIxMTk0ODMsMTg5ODg4NDUxMCwxNz
 Y1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEw
 MDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMT
 YxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgw
