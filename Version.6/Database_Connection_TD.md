@@ -97,19 +97,19 @@
    
 ## Delete a connection
 
-<b>7.</b>Click Delete**  to delete the connection from database.
+<b>7.</b>Click <b> Delete</b>  to delete the connection from database.
 
 
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
-**Image 5**
+  <b><font color = "TEAL" >Image 5</font></b>
 
->**Note:** Based on requirement, more dialects can be introduced in Acubi.
+><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDgzMjY0MjksLTE3OTIyMjI2MjMsLT
-E2MDQ1Nzg1ODAsLTU3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMTg3
-ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMyOT
-A5NTldfQ==
+eyJoaXN0b3J5IjpbLTU1NDI1ODA3MywtMTc5MjIyMjYyMywtMT
+YwNDU3ODU4MCwtNTc0MDE4NDcxLC0xOTIxNzEzNzkxLC0xODc4
+ODY5MjIzLC0xNDQ3NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5MD
+k1OV19
 -->
