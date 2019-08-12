@@ -28,25 +28,25 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
  
  - <b>Task Info:</b> Task description
  
- - <b>Task Type:<?b Select task type using drop down list.
+ - <b>Task Type:</b> Select task type using drop down list.
 
  ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
 
  **Image 2**
   
-***For Instance:*** in this document, i am creating a Job for task type-->Query Execute.
+<b>For Instance:</b> in this document, i am creating a Job for task type-->Query Execute.
 
 On selecting Query Execute, it display following functionalities;
 
-- **Source Connection:** Select database source connection.
+- <b>Source Connection:</b> Select database source connection.
 
-- **Query:** Enter your query.
+- <b>Query:</b> Enter your query.
 
 - **Global Block:** on selecting the checkbox for global block, the global type condition is applied for multiple tasks available under existing Job.
 
-- **Block Type:** Choose block type Number, Hour and Date.
+- <b>Block Type:</b> Choose block type Number, Hour and Date.
 
-- **Block From & To:**  Enter the start and the ending point of the data to be fetched.
+- <b>Block From & To:</b>  Enter the start and the ending point of the data to be fetched.
 
 - **Block Size:** Enter specific run time range.
 
@@ -273,7 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMzQ3ODU1OSwxODk4ODg0NTEwLDE3Nj
+eyJoaXN0b3J5IjpbMTE4NDc1ODIwNCwxODk4ODg0NTEwLDE3Nj
 U5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAw
 NTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNj
 ExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0
