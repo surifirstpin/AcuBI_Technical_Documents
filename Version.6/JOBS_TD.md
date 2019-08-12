@@ -186,17 +186,16 @@ Enter following information;
 
 - <b>Target Connection:</b> select target database connection.
 
-- Schema:** select schema from drop down list.
+- <b>Schema:</b> select schema from drop down list.
 
-- **Table:** select the target table from drop down list.
+- <b>Table:</b> select the target table from drop down list.
 
-  - **Insert/Update:**  insert or update target table.
+  - <b>Insert/Update:</b>  insert or update target table.
   
-  - **Delete before insert:**  delete existing data before inserting target data.
-
-  - **Truncate Table before insert:** delete entire table before inserting target data.
+  - <b>Delete before insert:</b>  delete existing data before inserting target data.
+  - <b>Truncate Table before insert:</b> delete entire table before inserting target data.
   
-- **Delete Reference Query:** deletes previously existing records for blocks and reloads fresh data.
+- <b>Delete Reference Query:</b>deletes previously existing records for blocks and reloads fresh data.
 
 - **Update Reference Fields:**  it is a primary key based on given combination, data over writes the existing data.
 
@@ -264,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzE1MDk1MCwxNzUzMjgwODYzLC0xNT
-gyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4
-NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsND
-MzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYx
-ODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMj
-EwMjU2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAw
-Mzg5N119
+eyJoaXN0b3J5IjpbLTEwMTU5NjczNjgsMTc1MzI4MDg2MywtMT
+U4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQy
+ODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LD
+QzMzAxMDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2
+MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLD
+IxMDI1NjE0MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIw
+MDM4OTddfQ==
 -->
