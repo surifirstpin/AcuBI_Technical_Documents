@@ -78,28 +78,29 @@ To share the specific content with set of people in the organisation.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/edc96c6183d9b36a9ade3763409cf079ac558b53/images/New_version5/TD_Settings_4.png)
  <b> <font color = "Black">  Image 4</font> </b>
+ 
 ## Edit & Delete Group
 
-**3.**  Click **Edit icon** in groups section  to edit the group.
+<b>3.</b> Click <b>Edit icon</b> in groups section  to edit the group.
 
-**4.**  Click  **Delete icon** in groups section to delete the group.
+<b>4.</b>  Click  <b>Delete icon</b> in groups section to delete the group.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b884b6ec9a2cdecab48fde9f3f478141613da7d7/images/New_version5/TD_Settings_5.png)
-**Image 5**
+<b> <font color = "Black">  Image 5 </font> </b>
 
 ## Reset Password
 
 To change the password, Click on *Reset Password*, it will navigate to reset password screen.
 
-- **Enter old Password** enter existing password.
-- **Enter New Password** enter new password to be update.
-- **Re-enter New password** re-enter the new password.
-- Finally, click **Update** to save new password.
+- <b>Enter old Password</b> enter existing password.
+- <b>Enter New Password<b> enter new password to be update.
+- <b>Re-enter New password</b> re-enter the new password.
+- Finally, click <b>Update</b> to save new password.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34f271bf782d072db5192b52b67c19f8d364c993/images/New_version5/TD_Settings_6.png)
 **Image  6**
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODQ5MDI0NSwxNjczNTA2MTM3XX0=
+eyJoaXN0b3J5IjpbLTEzNjg1NjYzMjcsMTY3MzUwNjEzN119
 -->
