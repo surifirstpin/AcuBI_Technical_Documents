@@ -81,6 +81,7 @@
 ## Test and Save Connection
 
 <b>4. Test Connection:</b> check if the entered information is running accurately.
+
 > on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
 <b>5. Add Connection:</b> Establish and save the connection.
@@ -99,7 +100,6 @@
 
 <b>7.</b>Click <b> Delete</b>  to delete the connection from database.
 
-
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
@@ -108,5 +108,5 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
 -->
