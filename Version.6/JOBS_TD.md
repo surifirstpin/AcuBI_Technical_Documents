@@ -10,7 +10,7 @@ Jobs are used for scheduling tasks to run on the server. They are most commonly 
 
 - You can run jobs as many times as desired.
 
-## Getting Started with Job for 
+## Getting Started 
 
 Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
@@ -276,11 +276,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mz
-g0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4
-LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4Mz
-MyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTczMjE3
-LC0xMzkyMDAzODk3LC0xOTA5OTU3NzIyLC0yMDI5MDgwOTg3LD
-IxMjI5NDkyMDUsNzUyODI1Nzc0LC0xNjI5MzgyOTQ5LDMwNzY1
-MTYxNV19
+eyJoaXN0b3J5IjpbMTU3MzAzMTcyMCwtMjkxNzUxMjU0LDE0Mj
+c1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQs
+LTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOT
+IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
+LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLT
+IwMjkwODA5ODcsMjEyMjk0OTIwNSw3NTI4MjU3NzQsLTE2Mjkz
+ODI5NDldfQ==
 -->
