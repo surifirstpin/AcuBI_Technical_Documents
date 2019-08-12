@@ -127,13 +127,13 @@ Similarly for task type <b>Email Report.</b>
 
 <b><i>Enter following details in Create job window;</b></i>
 
-- *Task Type:** choose Email report from drop-down list.
+- <b>Task Type:</b> choose Email report from drop-down list.
 
-- **Select Reports:** on selecting report checkbox, it will email the report result to specified email id.
+- <b>Select Reports:</b> on selecting report checkbox, it will email the report result to specified email id.
 
-> **Note** : you can select multiple reports at a time.
+> <b>Note</b> : you can select multiple reports at a time.
 
-- **Select Dashboard:** on selecting dashboard checkbox, it will email the dashboard result to specified email id.
+- <b>Select Dashboard:</b> on selecting dashboard checkbox, it will email the dashboard result to specified email id.
 
 - **Report Layout**: Select the report layout using drop down list.
 
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTg0MTk5OCwtMTU4MjA3OTM2OSwxOD
-k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
-MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
-QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
-NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
-gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
-NTc3MjJdfQ==
+eyJoaXN0b3J5IjpbODgwMTUwNTc0LC0xNTgyMDc5MzY5LDE4OT
+g4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEy
+NTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1ND
+E0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1
+OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxOD
+M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
+NzcyMl19
 -->
