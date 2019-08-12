@@ -11,17 +11,17 @@ AcuBi admin has an ability to manage all Users, User Groups, Global parameters a
 After logging into AcuBi, Click on <b>Settings</b> icon. It navigates to User Profile Screen. (Refer Image 1)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/27b6eae2e46df9bf92999bd5c6f3754f217a2b36/images/New_version5/TD_Settings_1.png)
-<b><font color = "Black" </font> Image 1 </F
+<b> <font color = "Black">  Image 1 </font> </b>
 
 ## Users
 
- **Admin** has privilege to create, edit and delete the users. Below are the steps followed to create a user;
+ <b>Admin</b> has privilege to create, edit and delete the users. Below are the steps followed to create a user;
  
- > **Navigation : Settings → Users →  Add Users.**
+ > <b>Navigation : Settings → Users →  Add Users.</b>
  
 On selecting Add Users, it navigate to users section. Enter the following details to create a new user.
 
-- **Email:** Enter email address for user.
+- <b>Email:</b Enter email address for user.
 
 - **Password:** Enter password to access.
 
@@ -100,5 +100,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > **Note :** **Global Functions** and **Global parameters** are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTg3ODkzLDE2NzM1MDYxMzddfQ==
+eyJoaXN0b3J5IjpbLTExMTE0OTE5NjgsMTY3MzUwNjEzN119
 -->
