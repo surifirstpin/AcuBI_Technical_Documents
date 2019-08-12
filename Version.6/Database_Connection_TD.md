@@ -68,7 +68,7 @@
   - Database port number as seen from the tunnel server.
   - IP address or DNS name of the tunnel server as seen from the public internet.
   - SSH port of the tunnel server as seen from the public internet.
-  - Username and Password on the tunnel server for the SSH connection (the standard is looker).
+   - Username and Password on the tunnel server for the SSH connection (the standard is looker).
   
   - <b>Browse Key File:</b> upload a private key for secure access.
 
@@ -108,5 +108,5 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMTI5NzY4NF19
+eyJoaXN0b3J5IjpbLTE2MDQ2MDE2OTQsMTEyMTI5NzY4NF19
 -->
