@@ -252,15 +252,15 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 ## Edit Job
 
-**5.** Click Edit icon to edit the existing job and click on update button to save the changes.
+<b>5.</b> Click <b>Edit</b> icon to edit the existing job and click on update button to save the changes.
 
 ## Delete Job
 
-**6.** Click Delete icon to delete the job.
+**6.** Click <b>Delete</b> icon to delete the job.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Njg0NDEzNjEsLTkzMzM0MzUxOSwxNj
+eyJoaXN0b3J5IjpbLTE3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNj
 c4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4
 NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NC
 wxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQw
