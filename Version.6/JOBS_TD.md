@@ -15,7 +15,7 @@ Jobs are used for scheduling tasks to run on the server. They are most commonly 
 Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
-<b><font color = "TEAL" >Image 1</font></b>
+ <b><font color = "TEAL" >Image 1</font></b>
  
  Enter the following information in Create Job Window;
  
@@ -272,11 +272,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczNjQ1ODE1LC0xNTgyMDc5MzY5LDE4OT
-g4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEy
-NTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1ND
-E0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1
-OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxOD
-M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
-NzcyMl19
+eyJoaXN0b3J5IjpbMTgwMDIzOTI2NSwtMTU4MjA3OTM2OSwxOD
+k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
+MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
+QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
+NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
+gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
+NTc3MjJdfQ==
 -->
