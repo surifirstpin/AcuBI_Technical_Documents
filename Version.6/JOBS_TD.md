@@ -16,7 +16,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
 
-<b><font color = "" >Image 1</font></b>
+<b><font color = "skyblue" >Image 1</font></b>
  
  Enter the following information in Create Job Window;
  
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5ODEyNzU5LDE4OTg4ODQ1MTAsMTc2NT
-kxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1
-OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MT
-EzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3
-NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxODM5MDQ3OTQsMjExNj
-E3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1NzcyMiwtMjAyOTA4
-MDk4N119
+eyJoaXN0b3J5IjpbMTY0OTU0MDYyOCwxODk4ODg0NTEwLDE3Nj
+U5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAw
+NTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNj
+ExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0
+NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0LDIxMT
+YxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5NTc3MjIsLTIwMjkw
+ODA5ODddfQ==
 -->
