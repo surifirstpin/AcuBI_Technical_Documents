@@ -167,19 +167,17 @@ Enter following information;
 
 <b>Block type:</b> Select <b>Date</b> from drop-down list.
 
-- **Block From & To:**  enter start date and end date till where the data to fetched.
+- <b>Block From & To:</b>  enter start date and end date till where the data to fetched.
 
-> **Block from** : 2019/03/01 | yyyy/MM/dd
-> **Block To** : 2019/03/08 | yyyy/MM/dd
+> <b>Block From</b> : 2019/03/01 | yyyy/MM/dd
+> <b>Block To</b> : 2019/03/08 | yyyy/MM/dd
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE11.png)
+ <b><font color = "TEAL" >Image10</font></b>
 
-**Image 10**
+- <b>Block Size:</b> Enter specific run time range.
 
-
-- **Block Size:** Enter specific run time range.
-
-> Block size : 3 ( on selecting 1 runs daily, 2-runs once in two days and so on)
+> <b>Block size:</b> 3 ( on selecting 1 runs daily, 2-runs once in two days and so on)
 
 - **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
 
@@ -266,11 +264,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MzQ5NjkxNSwtMTU4MjA3OTM2OSwxOD
-k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
-MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
-QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
-NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
-gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
-NTc3MjJdfQ==
+eyJoaXN0b3J5IjpbNTQxMTM4NzUwLC0xNTgyMDc5MzY5LDE4OT
+g4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEy
+NTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1ND
+E0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1
+OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMjEwMjU2MTQwOSwxOD
+M5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAwMzg5NywtMTkwOTk1
+NzcyMl19
 -->
