@@ -76,14 +76,14 @@
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
 **Image 3**
 
-**3.** **Dialects:** select the accurate dialect from the list using drop down option.
+<b>3. Dialects:</b> select the accurate dialect from the list using drop down option.
 
 ## Test and Save Connection
 
-**4.** **Test Connection:** check if the entered information is running accurately.
+<b>4. Test Connection:</b> check if the entered information is running accurately.
 > on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
-**5.** **Add Connection:** establish and save the connection.
+**5.Add Connection:** establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
@@ -108,7 +108,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzI2NzE4MTMsLTE2MDQ1Nzg1ODAsLT
+eyJoaXN0b3J5IjpbLTE3OTIyMjI2MjMsLTE2MDQ1Nzg1ODAsLT
 U3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMTg3ODg2OTIyMywtMTQ0
 NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMyOTA5NTldfQ==
 -->
