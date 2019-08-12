@@ -20,15 +20,15 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
  
  Enter the following information in Create Job Window;
  
- - **<b>Job Name:</b>** Name identifier for Job
+ - <b>Job Name:</b> Name identifier for Job
  
- - **Info:** Job description
+ - <b>Info:</b> Job description
  
- - **Task Name:** Name identifier for Task
+ - <b>Task Name:</b> Name identifier for Task
  
- - **Task Info:** Task description
+ - <b>Task Info:</b> Task description
  
- - **Task Type:** Select task type using drop down list.
+ - <b>Task Type:<?b Select task type using drop down list.
 
  ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
 
@@ -273,7 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjc0NzUyMSwxODk4ODg0NTEwLDE3Nj
+eyJoaXN0b3J5IjpbLTUwMzQ3ODU1OSwxODk4ODg0NTEwLDE3Nj
 U5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAw
 NTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNj
 ExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0
