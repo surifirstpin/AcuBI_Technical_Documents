@@ -15,7 +15,7 @@ Jobs are used for scheduling tasks to run on the server. They are most commonly 
 Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
- <b><font color = "TEAL" >Image 1</font></b>
+ <b><font color = "Black" >Image 1</font></b>
  
  Enter the following information in Create Job Window;
  
@@ -31,7 +31,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
  ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
 
- <b><font color = "TEAL" >Image 2</font></b>
+ <b><font color = "Black" >Image 2</font></b>
   
 <b>For Instance:</b> in this document, i am creating a Job for task type-->Query Execute.
 
@@ -105,19 +105,19 @@ Under Schedule Job Window, Enter Below details;
 <b>2.</b>  Click run schedule button.
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE5.png)
- <b><font color = "TEAL" >Image 5</font></b>
+ <b><font color = "Black" >Image 5</font></b>
 
 <b>3.</b> Click <b> Run</b> button, to run Jobs.
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
- <b><font color = "TEAL" >Image 6</font></b>
+ <b><font color = "Black" >Image 6</font></b>
 
 ## Job Email Reports
 
 Similarly for task type <b>Email Report.</b>
 
 ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
- <b><font color = "TEAL" >Image 7</font></b>
+ <b><font color = "Black" >Image 7</font></b>
 
 <b><i>Enter following details in Create job window;</b></i>
 
@@ -132,7 +132,7 @@ Similarly for task type <b>Email Report.</b>
 - <b>Report Layout</b>: Select the report layout using drop down list.
 
 ![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
- <b><font color = "TEAL" >Image 7</font></b>
+ <b><font color = "Black" >Image 7</font></b>
 
 - <b>Report Width:</b> choose report from drop down list ( large,medium and small)
 
@@ -149,7 +149,7 @@ Similarly for task type <b>Email Report.</b>
 under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE10.png)
- <b><font color = "TEAL" >Image 9</font></b>
+ <b><font color = "Black" >Image 9</font></b>
 
 <b>Select task type:</b> Query sync full from drop-down list.
 
@@ -173,7 +173,7 @@ Enter following information;
 > <b>Block To</b> : 2019/03/08 | yyyy/MM/dd
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE11.png)
- <b><font color = "TEAL" >Image10</font></b>
+ <b><font color = "Black" >Image10</font></b>
 
 - <b>Block Size:</b> Enter specific run time range.
 
@@ -215,7 +215,7 @@ Enter following information;
 <b>4.</b> Navigate to Log window by clicking on <b>Log</b> button to view execution status.
 
 ![Im](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE7.png)
- <b><font color = "TEAL" >Image 11</font></b>
+ <b><font color = "Black" >Image 11</font></b>
 
 ## Job (Query Sync Validate)
  
@@ -224,7 +224,7 @@ Enter following information;
 Enter below information:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE13.png)
- <b><font color = "TEAL" >Image 12</font></b>
+ <b><font color = "Black" >Image 12</font></b>
 
 - <b>Task Type:</b> Select Query Sync Validate from drop-down list.
 
@@ -238,7 +238,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 - <b>Target Connection:</b> Select target connection.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE14.png)
-  <b><font color = "TEAL" >Image 13</font></b>
+  <b><font color = "Black" >Image 13</font></b>
 
 - <b>Target Query:</b>  enter query to be validate in target connections.
 ```
@@ -260,11 +260,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgzMDQ4MjcsLTE3OTAwNzY3MDIsLT
-kzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIw
-NzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2Mz
-MsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMw
-MTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4ND
-ksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMTAy
-NTYxNDA5XX0=
+eyJoaXN0b3J5IjpbLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOT
+MzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3
+OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMy
+wtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAx
+MDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OS
+w0NDk3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1
+NjE0MDldfQ==
 -->
