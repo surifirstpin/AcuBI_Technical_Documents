@@ -240,14 +240,14 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE14.png)
   <b><font color = "TEAL" >Image 13</font></b>
 
-- **Target Query:**  enter query to be validate in target connections.
+- <b>Target Query:</b>  enter query to be validate in target connections.
 ```
 SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '2019-03-03'
 ```
 
-- **Field mapping:** Enable field mapping for source and target connection.
+- <b>Field mapping:</b> Enable field mapping for source and target connection.
 
-- Click **Save** button to save the Job. 
+- Click <b>Save</b> button to save the Job. 
 
 
 ## Edit Job
@@ -260,11 +260,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjYxMjc0MCwtOTMzMzQzNTE5LDE2Nz
-gzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3OTM2OSwxODk4ODg0
-NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUxMjU0LD
-E0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5
-NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLT
-EyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0
-Nzk0XX0=
+eyJoaXN0b3J5IjpbLTE3Njg0NDEzNjEsLTkzMzM0MzUxOSwxNj
+c4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4
+NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NC
+wxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQw
+OTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC
+0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LDE4Mzkw
+NDc5NF19
 -->
