@@ -149,7 +149,7 @@ Similarly for task type <b>Email Report.</b>
 
 <b> Note 1: </b> Navigate to settings icon and click Schedule as explained above ( Refer image 5 ) and click run.
 
-**Note 2:** Email recipient will receive the mail displaying the result for the report selected.
+<b>Note 2:</b> Email recipient will receive the mail displaying the result for the report selected.
 
 ## Job task type ( Query Sync Full)
 
@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTE2ODI0MCwtMTU4MjA3OTM2OSwxOD
-k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
-MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
-QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
-NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
-gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
-NTc3MjJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDQ5OTk0NTEsLTE1ODIwNzkzNjksMT
+g5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1
+MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNT
+U0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0
+MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LD
+E4MzkwNDc5NCwyMTE2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5
+OTU3NzIyXX0=
 -->
