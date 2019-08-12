@@ -56,8 +56,7 @@ Click <b>Save,</b> to save the Job created.
 All the saved jobs are visible under SQL Jobs list.
 
 ![Image 3](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
-
-**Image 3**
+ <b><font color = "TEAL" >Image 3</font></b>
 
 ## Multiple Task
 
@@ -68,8 +67,7 @@ Click on Task button to create multiple Task in Jobs.
 **1.** Click Settings Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
-
-**Image 4**
+ <b><font color = "TEAL" >Image 4</font></b>
 
 Under Schedule Job Window, Enter Below details;
 
@@ -272,11 +270,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDIzOTI2NSwtMTU4MjA3OTM2OSwxOD
-k4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkxNzUx
-MjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NT
-QxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQz
-NTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMT
-gzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIwMDM4OTcsLTE5MDk5
-NTc3MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTU3NzcyNzMsLTE1ODIwNzkzNjksMT
+g5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1
+MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNT
+U0MTQwOTc0LC0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0
+MzU5LC0xMjkyMjgwNDc3LDM4MzMyMTI2MiwyMTAyNTYxNDA5LD
+E4MzkwNDc5NCwyMTE2MTczMjE3LC0xMzkyMDAzODk3LC0xOTA5
+OTU3NzIyXX0=
 -->
