@@ -3,21 +3,21 @@
 
 <center><h2>DATABASE CONNECTION</h2></center>
 
- <b>Connection** Specifies a database connection from which a model can retrieve the data.
+ <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
- **To set up database connection;**
+ <b>To set up database connection;</b>
     
-**I.**  Get the connection details for database such as Host, Dialects, port, username, password, etc from **Database Administrator.**
+<b>I.</b>  Get the connection details for database such as Host, Dialects, port, username, password, etc from <b>Database Administrator.</b>
 
-**II.** Enable secure access to database, such as :
+<b>II.</b> Enable secure access to database, such as :
   -  Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication.
   
-**III.** Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
+<b> III. </b> Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
 
  ## Set-Up Database Connection
 
- Login **AcuBi** using following navigation path :
+ Login <b>AcuBi< using following navigation path :
 
 **Link :**  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
@@ -106,7 +106,7 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MDM4MDE5LC0xOTIxNzEzNzkxLC0xOD
-c4ODY5MjIzLC0xNDQ3NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5
-MDk1OSwtMTE5MDI1MTExM119
+eyJoaXN0b3J5IjpbMTU2NDQ0OTgzMSwtMTkyMTcxMzc5MSwtMT
+g3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMy
+OTA5NTksLTExOTAyNTExMTNdfQ==
 -->
