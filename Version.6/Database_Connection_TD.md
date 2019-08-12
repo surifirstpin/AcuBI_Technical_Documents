@@ -74,7 +74,7 @@
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
-**Image 3**
+<b><font color = "TEAL" >Image 3</font></b>
 
 <b>3. Dialects:</b> select the accurate dialect from the list using drop down option.
 
@@ -83,7 +83,7 @@
 <b>4. Test Connection:</b> check if the entered information is running accurately.
 > on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
 
-<b> 5.Add Connection:** establish and save the connection.
+<b>5. Add Connection:</b> Establish and save the connection.
 
 >After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
@@ -91,13 +91,13 @@
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
-**Image 4**
+<b><font color = "TEAL" >Image 4</font></b>
 
-   **6.** Click **Edit** option to make any changes to connection established.
+   <b>6.</b> Click <b>Edit</b> option to make any changes to connection established.
    
 ## Delete a connection
 
-**7.** Click **Delete**  to delete the connection from database.
+<b>7.</b>Click Delete**  to delete the connection from database.
 
 
 ##  Dialects supported
@@ -108,8 +108,8 @@
 >**Note:** Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NjM4NTY5LC0xNzkyMjIyNjIzLC0xNj
-A0NTc4NTgwLC01NzQwMTg0NzEsLTE5MjE3MTM3OTEsLTE4Nzg4
-NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwyMTEzMjkwOT
-U5XX0=
+eyJoaXN0b3J5IjpbLTEyNDgzMjY0MjksLTE3OTIyMjI2MjMsLT
+E2MDQ1Nzg1ODAsLTU3NDAxODQ3MSwtMTkyMTcxMzc5MSwtMTg3
+ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIxMTMyOT
+A5NTldfQ==
 -->
