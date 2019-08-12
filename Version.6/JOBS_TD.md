@@ -226,7 +226,7 @@ Enter below information:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f80ff1486a0d724640d4bb1d1eb46f158453767/images/New_version5/TD_JOBS_IMAGE13.png)
  <b><font color = "TEAL" >Image 12</font></b>
 
-- Task Type:** Select Query Sync Validate from drop-down list.
+- <b>Task Type:</b> Select Query Sync Validate from drop-down list.
 
 - **Source Connection:** Select source connection.
 
@@ -261,11 +261,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3ODM1NjE3OCwxNzUzMjgwODYzLC0xNT
-gyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4
-NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsND
-MzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYx
-ODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMj
-EwMjU2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAw
-Mzg5N119
+eyJoaXN0b3J5IjpbLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NT
+MyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTEx
+MDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LD
+k2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYxMTM2
+ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjkyMjgwNDc3LD
+M4MzMyMTI2MiwyMTAyNTYxNDA5LDE4MzkwNDc5NCwyMTE2MTcz
+MjE3XX0=
 -->
