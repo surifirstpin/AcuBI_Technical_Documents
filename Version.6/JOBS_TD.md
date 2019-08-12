@@ -197,16 +197,16 @@ Enter following information;
   
 - <b>Delete Reference Query:</b>deletes previously existing records for blocks and reloads fresh data.
 
-- **Update Reference Fields:**  it is a primary key based on given combination, data over writes the existing data.
+- <b>Update Reference Fields:</b>  it is a primary key based on given combination, data over writes the existing data.
 
-- **Custom Field:**  re-writes the give value for specified field
+- <b>Custom Field:</b>  Re-writes the give value for specified field
 
-    - **Field name :** enter field name for which you would like to re-write the value.
+    - <b>Field name :</b> enter field name for which you would like to re-write the value.
   
-  *   **Value:** enter field value to be written.
+ -  <b>Value:</b> enter field value to be written.
   
  
-- **Field Mapping:** enable field mapping for source and target data.
+- <b>Field Mapping:</b> enable field mapping for source and target data.
 
 > **Note:** Schedule and Run the Job
 
@@ -263,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU5NjczNjgsMTc1MzI4MDg2MywtMT
-U4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQy
-ODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LD
-QzMzAxMDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2
-MTg0OSw0NDk3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLD
-IxMDI1NjE0MDksMTgzOTA0Nzk0LDIxMTYxNzMyMTcsLTEzOTIw
-MDM4OTddfQ==
+eyJoaXN0b3J5IjpbLTI4MTAwNjAzOCwxNzUzMjgwODYzLC0xNT
+gyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4
+NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4NDQxOTgsND
+MzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OCwxMzg5NTYx
+ODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMzMjEyNjIsMj
+EwMjU2MTQwOSwxODM5MDQ3OTQsMjExNjE3MzIxNywtMTM5MjAw
+Mzg5N119
 -->
