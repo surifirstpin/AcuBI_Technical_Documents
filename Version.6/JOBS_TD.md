@@ -34,7 +34,7 @@ Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
 
  **Image 2**
   
-***For Instance:*** in this document, i am creating a Job for task type-Query Execute.
+***For Instance:*** in this document, i am creating a Job for task type-->Query Execute.
 
 On selecting Query Execute, it display following functionalities;
 
@@ -276,7 +276,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzAzMTcyMCwtMjkxNzUxMjU0LDE0Mj
+eyJoaXN0b3J5IjpbMTg5MDQyODYzMywtMjkxNzUxMjU0LDE0Mj
 c1MTAwNTgsOTYzODQ0MTk4LDQzMzAxMDUxNCw1NTQxNDA5NzQs
 LTExNjExMzY4NDgsMTM4OTU2MTg0OSw0NDk3NjQzNTksLTEyOT
 IyODA0NzcsMzgzMzIxMjYyLDIxMDI1NjE0MDksMTgzOTA0Nzk0
