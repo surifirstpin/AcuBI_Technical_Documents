@@ -106,7 +106,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 ## Report Listeners
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
-**Image 10**
+ <B><font color = " Black"> Image 10 </font></b>
 
 The Listeners option allows to register callbacks to be notified when an event is detected on a specific label.
 
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyNDA0MzAsLTIxNTk3MjIwMSwtNzQwMz
-QxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3
-LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNj
-I0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAs
-MTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNz
-I5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3
-XX0=
+eyJoaXN0b3J5IjpbMTg5NjQxMTE0NSwtMjE1OTcyMjAxLC03ND
+AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
+MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
+M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
+MCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMj
+E3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0NjkxLC0zNzQ4NDQ2
+NTddfQ==
 -->
