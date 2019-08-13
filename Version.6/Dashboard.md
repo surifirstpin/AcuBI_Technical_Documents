@@ -105,9 +105,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 ## Report Listeners
 
-<b>Listeners</b> enables to register callbacks to be notified when an event is detected on a specific label.
-
-AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
+<b>Listeners</b> enables to register callbacks to be notified when an event is detected on a specific label. AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
@@ -173,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk0NjM5MDEsODgwMjMxNTk0LDEyNT
-AwNzUwNjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQx
-MjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNj
-E5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyODUzNzAx
-MjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0Mj
-M3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMw
-NzFdfQ==
+eyJoaXN0b3J5IjpbLTkxNTM1Njk1Nyw4ODAyMzE1OTQsMTI1MD
+A3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEy
+NywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MT
+kyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEy
+OCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMz
+c0NTM4LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3
+MV19
 -->
