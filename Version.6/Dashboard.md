@@ -161,17 +161,18 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 > <b>Note :</b>  After editing the dashboard click on  <b><i>Save</b></i>  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
-**Image 13
+ <B><font color = " Black"> Image 13 </font></b>
+ 
 ## Delete Dashboard
 
-**7.**  Click on  **Delete icon**  to delete the dashboard created.
+<b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
 
-  **8.** To set dashboard on home page click **Set Home Page** Icon.
+  <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTM5Mjc1LDEyNTAwNzUwNjQsLTIxNT
+eyJoaXN0b3J5IjpbODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNT
 k3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4
 OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2ND
 Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
