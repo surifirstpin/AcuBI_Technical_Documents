@@ -9,7 +9,7 @@ A common set of statements or operations can be defined globally as a function a
 <b>1.</b>  Click on  <b>Add-Functions</b>  to create new function.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5dbf9359490d4be550bbcf60addd600b5bde14ba/images/New_version5/TD_Gobal_Functions_Image4.png)
-  < b> <fonr color = "Black"> <
+  <b><font color = "Black"> Image 1</font></b>
 ```
                                                       * My Custom function *
 /*START*/ 
@@ -61,8 +61,8 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5NTk0MTM3LC03OTc2NTA4MTIsMTUzOT
-I4MTExMywzNTg2Nzg1NzAsLTMxMzc5MDA2MywyMTAyMTY0MDI3
-LDE0NzI5NTg5NjYsLTI2MTk2MTk1MiwxMjE5NTU5Mzc0LC0xMT
-YxMjkwOTMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0MDU2MDQ5ODgsLTc5NzY1MDgxMiwxNT
+M5MjgxMTEzLDM1ODY3ODU3MCwtMzEzNzkwMDYzLDIxMDIxNjQw
+MjcsMTQ3Mjk1ODk2NiwtMjYxOTYxOTUyLDEyMTk1NTkzNzQsLT
+ExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
 -->
