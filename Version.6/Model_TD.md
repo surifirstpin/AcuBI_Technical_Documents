@@ -89,21 +89,21 @@ Click Projects, select the desired project and hit the <b>Edit</b> button.
 
 ## Delete Project
 
-To delete the project created hit the **Delete** icon, on far right of the project list.
+To delete the project created hit the  <b>Delete </b> icon, on far right of the project list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
-**Image 7**
+ <b><Font color = " black">Image 7</font></b>
 
 ## Model and Customization
 
-After saving a project, AcuBi will display the views and relevant information of the project as a **Model**, which can be further customized as per the business requirement. 
+After saving a project, AcuBi will display the views and relevant information of the project as a <b>Model</b>, which can be further customized as per the business requirement. 
 Once the project is saved, model screen is triggered.(Refer Image 8)
-Depending on the table joins applied the code is retrieved in JSON format. To refresh the data, hit the refresh icon of model, project and tables.
+Depending on the table joins applied the code is retrieved in <b>JSON</b> format. To refresh the data, hit the refresh icon of model, project and tables.
 
-**4.**  To undo the changes done click **Undo**.
+<b>4.</b>  To undo the changes done click <b>Undo</b>.
 
-**5.**  To redo the changes click  **Redo**.
+<b>5.</b>  To redo the changes click  **Redo**.
 
 **6.** To format the code, for a proper alignment, click **Format Code**.
 
@@ -697,7 +697,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNzM5NjgyLC0xMTYxMjk4MzcxLDUxMD
+eyJoaXN0b3J5IjpbNTE3ODEzNzIxLC0xMTYxMjk4MzcxLDUxMD
 c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
 ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
 I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
