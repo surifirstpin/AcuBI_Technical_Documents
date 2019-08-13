@@ -112,13 +112,13 @@ The Listeners option allows to register callbacks to be notified when an event i
 
 AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
 
--   **Dashboard Report**  selects reports to add filters.
+-   <b>Dashboard Report:</b>  selects reports to add filters.
     
--   **Listen Filter**  refers to filter option available.
+-   <b>Listen Filter:</b>  refers to filter option available.
     
--   **Apply to field**  applies filter options to available field list in report.
+-   <b>Apply to field:</b>  applies filter options to available field list in report.
     
- **Add Listener**  adds multiple filters to reports.
+ Add Listener**  adds multiple filters to reports.
     
   **5.** Click  **Save Button**  to save the dashboard.(Refer Image 9)
 
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3ODYzNDUyNiwtMjE1OTcyMjAxLC03ND
-AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
-MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
-M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
-MCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMj
-E3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0NjkxLC0zNzQ4NDQ2
-NTddfQ==
+eyJoaXN0b3J5IjpbLTIxNDYwMjQyMDcsLTIxNTk3MjIwMSwtNz
+QwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgx
+MzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLT
+kzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2
+MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMj
+IxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0
+NjU3XX0=
 -->
