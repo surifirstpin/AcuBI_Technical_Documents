@@ -12,7 +12,7 @@ Jobs are used for scheduling tasks to run on the server. They are most commonly 
 
 ## Getting Started 
 
-Navigate to ***SQL Runner Section***-->Jobs-->Click ***Create Job***
+Navigate to <b><i>SQL Runner Section</i></b>-->Jobs-->Click <b><i>Create Job</b></i>
 
 ![Image 1](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_JOBS_IMAGE1.png)
  <b><font color = "Black" >Image 1</font></b>
@@ -256,15 +256,15 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 ## Delete Job
 
-**6.** Click <b>Delete</b> icon to delete the job.
+<b>6.</b> Click <b>Delete</b> icon to delete the job.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOT
-MzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3
-OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMy
-wtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MTk4LDQzMzAx
-MDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4OTU2MTg0OS
-w0NDk3NjQzNTksLTEyOTIyODA0NzcsMzgzMzIxMjYyLDIxMDI1
-NjE0MDldfQ==
+eyJoaXN0b3J5IjpbMTczOTM4MzYwNSwtMzQ4ODg5NzMwLC0xNz
+kwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1NjE3OCwxNzUzMjgw
+ODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MS
+wxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4
+NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OC
+wxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMz
+MjEyNjJdfQ==
 -->
