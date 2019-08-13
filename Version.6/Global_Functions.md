@@ -22,9 +22,9 @@ function myfunction(param1,param2,ParamN)
 /*END*/
 ```
 
-> **Note :**  You can add your code in function body only.
+> <b>Note :</b>  You can add your code in function body only.
 
-**For Instance**  Create a custom function for adding 2 parameters
+<b>For Instance</b>  Create a custom function for adding 2 parameters
 
 ```
                                                        * My Custom function *
@@ -37,8 +37,8 @@ function _Addition(param1,param2)
 /*END*/
                                      
 ```
-> **Note :**  To undo the changes done, click  **Undo**  icon. 
-> To redo the changes made, click  **Redo**  icon.
+> <b>Note :</b>  To undo the changes done, click  <b>Undo</b>  icon. 
+> To <b>redo</b> the changes made, click  *Redo**  icon.
 
 **2.**  Click on  **Test**  Button to run the function.  
 
@@ -61,8 +61,8 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDU2MDQ5ODgsLTc5NzY1MDgxMiwxNT
-M5MjgxMTEzLDM1ODY3ODU3MCwtMzEzNzkwMDYzLDIxMDIxNjQw
-MjcsMTQ3Mjk1ODk2NiwtMjYxOTYxOTUyLDEyMTk1NTkzNzQsLT
-ExNjEyOTA5MzIsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjYxNTEwNDE1LC03OTc2NTA4MTIsMTUzOT
+I4MTExMywzNTg2Nzg1NzAsLTMxMzc5MDA2MywyMTAyMTY0MDI3
+LDE0NzI5NTg5NjYsLTI2MTk2MTk1MiwxMjE5NTU5Mzc0LC0xMT
+YxMjkwOTMyLDczMDk5ODExNl19
 -->
