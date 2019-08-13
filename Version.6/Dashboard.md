@@ -60,14 +60,14 @@ Based on requirement multiple reports are added to layout selected.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
   <B><font color = " Black"> Image 7 </font></b>
 
--   <b>Filter Name</B>  identifier name for the filter applicable.
-    > <B>Note:</> Filter name accepts minimum three Characters
+-   <b>Filter Name:</B>  identifier name for the filter applicable.
+    > <B>Note:</b> Filter name accepts minimum three Characters
     
--   **Filter Type**  type of filter used (String,date,number).
+-   <b>Filter Type:</b> type of filter used (String,date,number).
     
-    -   **String**  For fields that contain letters or special characters.
+    -   <b>String -</B>  For fields that contain letters or special characters.
         
-    -   **Number**  For fields that contain numeric values.
+    -   <b>Number -</b>  For fields that contain numeric values.
        
     -   **Date**  For fields that contain dates.
         
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDIzNzY5MCwtNzQwMzQxOTYxLDE1NT
-A1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5
-MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyOD
-UzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQz
-OCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3OD
-U4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2
-MTc5XX0=
+eyJoaXN0b3J5IjpbLTEyOTAyNzgxNjcsLTc0MDM0MTk2MSwxNT
+UwNTQ0MTI3LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIz
+OTIsLTYxOTIyNzk0NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMj
+g1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0
+MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNz
+g1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3
+NjE3OV19
 -->
