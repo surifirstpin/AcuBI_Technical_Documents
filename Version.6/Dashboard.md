@@ -21,9 +21,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
    ## Grid Layout
    
--   <b>Grid Layout</b>  defines single fit layout option for reports
-    
- Here for instance i am choosing Grid Layout(1 x 2) from drop down list provided for layout. (Refer Image 2)
+ <b>Grid Layout</b>  defines single fit layout option for reports. <b> For instance : </b> i am choosing Grid Layout(1 x 2) from drop down list provided for layout. (Refer Image 2)
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
 **Image 3**
@@ -173,7 +171,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU0NDU2NTIsNDY5NDgxMzM3LC04ND
+eyJoaXN0b3J5IjpbLTEyMzIwODcwOTAsNDY5NDgxMzM3LC04ND
 MxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDEx
 NywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1ND
 Y3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5Mjks
