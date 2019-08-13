@@ -186,21 +186,21 @@ To filter data from a view and the respective mapping views, the filter criteria
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  **Number-Based:**  standard filters which are applicable on numbers.
+-  <b>Number-Based:</b>  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   **User-based:** AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
+-   <b>User-based:</b> AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
--   **GlobalParam:**  the name of the global parameter which contains the user based list of values.
--   **Ref_Field**  the column name in global parameter which contains the filter values.
--   **Gp_Username_Field**  the column name in global parameter which contains the usernames.
+-   <b>GlobalParam:</b> the name of the global parameter which contains the user based list of values.
+-   <b>Ref_Field</b>  the column name in global parameter which contains the filter values.
+-   <b>Gp_Username_Field</b>  the column name in global parameter which contains the usernames.
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
-**II.**  **Position**  Assigning filter “before” or “after" the data.
+<b>II.</b> <b>Position</b>  Assigning filter “before” or “after" the data.
 -   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in report section.
 -   **After**  the filter will be applied to the data after applying filters in report section.
 
@@ -697,7 +697,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyOTgzODE2MCwtMTE2MTI5ODM3MSw1MT
+eyJoaXN0b3J5IjpbMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MT
 A3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1
 Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNy
 wyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYw
