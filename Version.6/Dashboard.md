@@ -11,9 +11,9 @@ To view already existing dashboard navigate to dashboard section under <b><i> My
  <B><font color = " Black"> Image 1 </font></b>
 ### Create Dashboard
 
-> </b>Navigation : Dashboard→ New Dashboard</b>
+> <b> Navigation : Dashboard→ New Dashboard</b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png)**Image 2**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png) <B><font color = " Black"> Image 2 </font></b>
 
 ## Customize Layout
 
@@ -173,11 +173,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5Mj
-I3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgs
-MTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3ND
-UzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEs
-MTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNj
-E2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3
-MDJdfQ==
+eyJoaXN0b3J5IjpbMjE0MzM4MzM0Myw0Njk0ODEzMzcsLTg0Mz
+EyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3
+LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Nj
+c2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwt
+MTc4NTgzMzA3MSwxNjc2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExND
+U3NzYxNzksLTM2MTYwNDg4OCwtMzMxNTUyOTg4LC00NDU1NDIz
+NDZdfQ==
 -->
