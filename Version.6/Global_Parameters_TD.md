@@ -29,18 +29,19 @@ Global Parameter is a flat file data in JSON format which can be used to manipul
 
 -   Click on  <b>Add column</b>  to add table data ( strings or Numbers).
     
--   Click on  **Add Row**  to increase the table rows.
-   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cff8a30a919544c66b3de1e567ed807c04e49ace/images/New_version5/TD_Gobal_Parameter_Image6.png)
-**Image 3**
+-   Click on  <b>Add Row</b>  to increase the table rows.
 
-**2.**  Click on Browse button to import the file.
+   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cff8a30a919544c66b3de1e567ed807c04e49ace/images/New_version5/TD_Gobal_Parameter_Image6.png)
+ <b><font color = "black">Image 3</font></b>
+
+<b>2.</b>  Click on <b>Browse Button</b> to import the file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/74c4003c8e1e7bdf8c8b99468ba07dcfaf0596a8/images/New_version5/TD_Gobal_Parameter_Image4.png)
-**Image 4**
+ <b><font color = "black">Image 4</font></b>
 
-After importing the file, data is reflected in global parameter section. (Refer Image 5)
+After importing the file, data is reflected in global parameter section. <b>(Refer Image 5)</b>
 
-**3.**  Click on  **Save**  button to save the global parameter.
+<b>3.**  Click on  **Save**  button to save the global parameter.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image9.png)
 **Image 5**
@@ -88,9 +89,9 @@ After importing the file, data is reflected in global parameter section. (Refer 
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MzAzNTg0NywxNTU5MjE3NTk5LC00ND
-U1Nzg3MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0
-MjcsLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMT
-I4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2
-MDQsLTExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbNTQwNDE3NDc5LDE1NTkyMTc1OTksLTQ0NT
+U3ODcwMCwtOTMxODczNTM4LC0zMjMyNTkxMDYsLTgzNjQyMzQy
+NywtMTAwNzkzNzU5NywyMDY5NTc2NzIxLDczMjI2NjkxMywxMj
+g1OTg0MDI3LDkzMzg0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYw
+NCwtMTE4MDAzNzgyOF19
 -->
