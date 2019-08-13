@@ -287,12 +287,13 @@ operator:"",                        **Single operator**
 ```
 operator:multiple.                  **Multiple operator**
 ```
-<II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
+<b>II. Number_format & currency</b>  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
 
--   **Number_format**  There are various formats designed based on the common business usage.
+-   <b>Number_format</b> There are various formats designed based on the common business usage.
 
-**The permissible list are :**
-> **For Instance:**
+<b><i>The permissible list are :</i></b>
+
+> <b>For Instance:</b>
 Consider Number = 12345679
 
 |  S. No. | Number format | Example |
@@ -703,7 +704,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTY5MDcyMywxNTQ5MTM3MzEsLTcyNT
+eyJoaXN0b3J5IjpbMTQ5ODQwMjE3MCwxNTQ5MTM3MzEsLTcyNT
 g1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAy
 MiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMj
 A1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcw
