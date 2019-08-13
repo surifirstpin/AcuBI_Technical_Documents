@@ -101,7 +101,7 @@ Based on requirement multiple reports are added to layout selected.
 
 You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way you can extract the data depending on referred lookup field.
 
--   <b>Referred:</b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+-   <b> Referred: </b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
 ## Report Listeners
 
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM1NjgwNzIzLDg4MDIzMTU5NCwxMjUwMD
-c1MDY0LC0yMTU5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3
-LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOT
-IyNzk0NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4
-LDE2NTMxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNz
-Q1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcx
-XX0=
+eyJoaXN0b3J5IjpbMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMz
+E1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEs
+MTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0Mz
+EyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3
+LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Nj
+c2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMjE3MjkyOV19
+
 -->
