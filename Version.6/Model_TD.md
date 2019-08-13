@@ -249,8 +249,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 <b><i>The Associated keywords with the views are flowing :</i></b>
 
-|  <b>S.No | Name | Identifier of a custom field </b
-> |
+|  <b>S.No | Name | Identifier of a custom field </b> |
 |  :------ | :------: | :------: |
 |  1 | label | allows to customize the display name of the view in AcuBi |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
@@ -266,7 +265,7 @@ Views are independent tables chosen while creating a project. All the columns in
 |  12 | number_format | to define a number format for the field. the list of valid formats are described as Amexure 1 |
 |  13 | currency | it defines the currency for the field.For instance “$”, “€”, “£”, “₹”. |
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
-| 15 | always_filter | to directly define desired filters values in model itself. **for example** define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
+| 15 | always_filter | to directly define desired filters values in model itself. <b>for example</b> define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
 
 **Among the above stated list, the following are the special attributes for user convenience :**
 
@@ -704,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDc3NTA3NywtNzI1ODU3MDk3LDEyNT
-kwMDI2ODUsLTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMz
-MDEsMTEzOTMxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC
-03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3
-NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NS
-wtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2NDY1LDE1
-MzIxODMzMTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MDAwMDk1MDYsLTcyNTg1NzA5NywxMj
+U5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIz
+MzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2Ni
+wtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYz
+NzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OT
+UsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwx
+NTMyMTgzMzExXX0=
 -->
