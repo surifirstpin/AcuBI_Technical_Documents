@@ -103,17 +103,17 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 <b>4.</b>  To undo the changes done click <b>Undo</b>.
 
-<b>5.</b>  To redo the changes click  **Redo**.
+<b>5.</b>  To redo the changes click  <b>Redo.</b>
 
-**6.** To format the code, for a proper alignment, click **Format Code**.
+<b>6.</b> To format the code, for a proper alignment, click <b>Format Code</b>.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
-**Image 8**
+ <b><Font color = " black">Image 8</font></b>
 
-**7.**  To hide and unhide model and views list click on **Angle double left** and **Angle double right** Icon.
+<b>7.</b>  To hide and un-hide model and views list click on <b>Angle double left</b> and <b>Angle double right</b> Icon.
 
-**8.** To save the model click on **Save** button.
+<b>8.</b> To save the model click on <b>Save** button.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
@@ -697,11 +697,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3ODEzNzIxLC0xMTYxMjk4MzcxLDUxMD
-c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
-ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
-I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
-NTUsLTE1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OC
-wtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4
-NjEzMTQ1XX0=
+eyJoaXN0b3J5IjpbMjE4MjI2NzAsLTExNjEyOTgzNzEsNTEwNz
+Q3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1OSwtMTk3MTE0NTI4
+NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMj
+U0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1
+NSwtMTU2NDMyMTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC
+0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2
+MTMxNDVdfQ==
 -->
