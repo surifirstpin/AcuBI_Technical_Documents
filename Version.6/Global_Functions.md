@@ -50,19 +50,19 @@ function _Addition(param1,param2)
 
 ## Ability to adopt JavaScript
 
-This functions supports all the native java script supported functions and also refer other global functions using <b>bi.function_name** ( param1, param2,....paramN).
+This functions supports all the native java script supported functions and also refer other global functions using <b>bi.function_name</b> ( param1, param2,....paramN).
 
 ## Edit Function
 
-**4.**  Enable edit key to  **Edit**  the function.
+**4.**  Enable edit key to  <b>Edit</b>  the function.
 
 ## Delete Function
 
-**5.**  Click delete button to  **Delete**  the function.
+<b>5.</b>  Click delete button to  <b>Delete</b>  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg0MjM3NSwtNzk3NjUwODEyLDE1Mz
-kyODExMTMsMzU4Njc4NTcwLC0zMTM3OTAwNjMsMjEwMjE2NDAy
-NywxNDcyOTU4OTY2LC0yNjE5NjE5NTIsMTIxOTU1OTM3NCwtMT
-E2MTI5MDkzMiw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNDM5NzU1NjI3LC03OTc2NTA4MTIsMTUzOT
+I4MTExMywzNTg2Nzg1NzAsLTMxMzc5MDA2MywyMTAyMTY0MDI3
+LDE0NzI5NTg5NjYsLTI2MTk2MTk1MiwxMjE5NTU5Mzc0LC0xMT
+YxMjkwOTMyLDczMDk5ODExNl19
 -->
