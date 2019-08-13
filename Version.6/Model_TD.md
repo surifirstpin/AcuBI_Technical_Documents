@@ -201,15 +201,15 @@ ROOT.BI_Orders.Amount IS NOT NULL
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
 <b>II.</b> <b>Position</b>  Assigning filter “before” or “after" the data.
--   **Before**  the filter will be applied first to the data, before any alternate filters on data are applied in report section.
--   **After**  the filter will be applied to the data after applying filters in report section.
+-   <b>Before</b>  the filter will be applied first to the data, before any alternate filters on data are applied in report section.
+-   <b>After</b>  the filter will be applied to the data after applying filters in report section.
 
-**2.B. Join Characteristics**
+<b>2.B. Join Characteristics</b>
 
-**Join attributes are defined as follows :**
+<b>Join attributes are defined as follows :</b>
 
--   **Join** the view name to be joined with the primary view.
--   **Join_type**  the method of joining two views. Either left or right is similar to “**Join**” functionality.
+-   <b>Join</b> the view name to be joined with the primary view.
+-   <b>Join_type</b>  the method of joining two views. Either left or right is similar to <b>Join**” functionality.
 -   **Join_on**  the specific criteria of joining the views with a relation among relevant fields.
 
 ```
@@ -697,11 +697,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MT
-A3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1
-Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNy
-wyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYw
-NDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3Njc0ND
-gsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1
-ODYxMzE0NV19
+eyJoaXN0b3J5IjpbLTEzNDc1MTM1NjUsMTI1OTAwMjY4NSwtMT
+E2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0
+MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NS
+wtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMw
+NTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0Mz
+EwLDE1MzM3Njc0NDgsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3
+MzUzODI0NTFdfQ==
 -->
