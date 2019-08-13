@@ -120,14 +120,14 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
     
  <b>Add Listener</b> adds multiple filters to reports.
     
-  <b>5.</b> Click  </b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)
+  <b>5.</b> Click  </b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
 
 ##  Privacy & Share option for Dashboards
 
-Select tag in which you want to save  **Dashboard Reports**  and click on  **Save.** 
--   **Name**  name identifier for dashboard created.
+Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
+-   <b>Name:</b> name identifier for dashboard created.
     
--   **Title**  title to refer the dashboard.
+-   <b>Title**  title to refer the dashboard.
     
 -   **Info**  summary information of the dashboard created.
     
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNjQ5ODQ2LC0yMTU5NzIyMDEsLTc0MD
-M0MTk2MSwxNTUwNTQ0MTI3LC0xMzQyNDU4ODk2LDQ2OTQ4MTMz
-NywtODQzMTIzOTIsLTYxOTIyNzk0NiwxNjQ0NTgyMTM4LC05Mz
-YyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMDQ0NjEw
-LDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwyMDIyMT
-cyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3NDg0NDY1
-N119
+eyJoaXN0b3J5IjpbLTExMjU3NTY5ODgsLTIxNTk3MjIwMSwtNz
+QwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgx
+MzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLT
+kzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2
+MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMj
+IxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0
+NjU3XX0=
 -->
