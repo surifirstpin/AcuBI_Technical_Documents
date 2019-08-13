@@ -274,12 +274,12 @@ Views are independent tables chosen while creating a project. All the columns in
 ```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 ```
--   **Items**  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
+-   <b>Items</b>  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
 
-> **For Instance** :
+> <b>For Instance</b> :
  “lookup” : “Antonio, Bessanio, Portia”
 
--   **Operator**  Sometimes, data to be retrieved from multiple filter values. AcuBi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as **“multiple”** or else leave it empty.
+-   <b>Operator</b>  Sometimes, data to be retrieved from multiple filter values. AcuBi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as <b>“multiple”</b> or else leave it empty.
 
 ```
 operator:"",                        **Single operator**
@@ -287,7 +287,7 @@ operator:"",                        **Single operator**
 ```
 operator:multiple.                  **Multiple operator**
 ```
-**II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
+<II.**  **Number_format & currency**  for reports convenience, a particular number format and currency can be assigned to a particular field so that whenever the report is created using this field, the number_format and currency will automatically displayed.
 
 -   **Number_format**  There are various formats designed based on the common business usage.
 
@@ -703,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
-AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
-MSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLT
-c5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1
-Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC
-0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLTE0Njg0MzY0NjUsMTUz
-MjE4MzMxMV19
+eyJoaXN0b3J5IjpbMTE1OTY5MDcyMywxNTQ5MTM3MzEsLTcyNT
+g1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAy
+MiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMj
+A1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcw
+MTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLT
+E1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2
+ODQzNjQ2NV19
 -->
