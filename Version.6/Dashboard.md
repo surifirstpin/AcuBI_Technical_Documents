@@ -99,9 +99,9 @@ Based on requirement multiple reports are added to layout selected.
 
 ## Dependency Filters
 
-You can refer the existing lookup, based on which a new lookup is created to retrieve the data based of the referred lookup. In this way you can extract the data depending on referred lookup field.
+You can refer the existing lookup, based on which a new lookup is created to retrieve the data based on referred lookup. In this way you can extract the data depending on referred lookup field.
 
--   <b>Referred</b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
+-   <b>Referred:</b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
 ## Report Listeners
 
@@ -172,7 +172,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NjQxMTE0NSwtMjE1OTcyMjAxLC03ND
+eyJoaXN0b3J5IjpbMTk3ODYzNDUyNiwtMjE1OTcyMjAxLC03ND
 AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
 MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
 M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
