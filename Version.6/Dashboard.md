@@ -156,13 +156,12 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 ## Edit / Delete Dashboard
 
-<b>6.** Click  **Edit**  Button to make changes to dashboard created.
+<b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
-> **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
+> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</b></i>  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
-**Image 13**
-
+**Image 13
 ## Delete Dashboard
 
 **7.**  Click on  **Delete icon**  to delete the dashboard created.
@@ -172,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODU2NzkxNiwxMjUwMDc1MDY0LC0yMT
-U5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMzQyNDU4
-ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0NiwxNj
-Q0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1
-NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2Mj
-I0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2
-OTFdfQ==
+eyJoaXN0b3J5IjpbLTY2NTM5Mjc1LDEyNTAwNzUwNjQsLTIxNT
+k3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4
+OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2ND
+Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
+Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMj
+Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
+MV19
 -->
