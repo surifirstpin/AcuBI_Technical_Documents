@@ -267,10 +267,10 @@ Views are independent tables chosen while creating a project. All the columns in
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
 | 15 | always_filter | to directly define desired filters values in model itself. <b>for example</b> define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
 
-**Among the above stated list, the following are the special attributes for user convenience :**
+<b><i>Among the above stated list, the following are the special attributes for user convenience :</i></b>
 
-**I.**  **lookup and operator :**  Using “lookup” feature, AcuBi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
--   **Query**  an sql query returning a set of values can be written in **“lookup”** for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
+<b>I.  lookup and operator :</b>  Using “lookup” feature, AcuBi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
+-   <b>Query</b>  an sql query returning a set of values can be written in <b>“lookup”</b> for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
 ```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 ```
@@ -703,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDAwMDk1MDYsLTcyNTg1NzA5NywxMj
-U5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIz
-MzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2Ni
-wtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYz
-NzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OT
-UsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwx
-NTMyMTgzMzExXX0=
+eyJoaXN0b3J5IjpbMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
+AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
+MSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLT
+c5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1
+Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC
+0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLTE0Njg0MzY0NjUsMTUz
+MjE4MzMxMV19
 -->
