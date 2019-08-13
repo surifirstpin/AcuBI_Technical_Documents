@@ -28,9 +28,9 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
 ## Flow Layout
 
- **Flow Layout**  defines multiple layout options for reports provided scroll bar. 
+ <b>Flow Layout</b>  defines multiple layout options for reports provided scroll bar. 
 
-- To add reports in flow layout, select the grid and click **Add**  available next to report name under Workspace.
+- To add reports in flow layout, select the grid and click <b>Add</b>  available next to report name under Workspace.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
 **Image 4**
@@ -51,7 +51,7 @@ Based on requirement multiple reports are added to layout selected.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 **Image 6**
 
-> Note: Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
+> <b>Note:</b> Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
 
 ## Dashboard Global Filters
 
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04ND
-MxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDEx
-NywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1ND
-Y3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5Mjks
-LTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMT
-Q1Nzc2MTc5LC0zNjE2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQy
-MzQ2XX0=
+eyJoaXN0b3J5IjpbNjI4OTQ4NzkxLC0xMzQyNDU4ODk2LDQ2OT
+Q4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0NiwxNjQ0NTgyMTM4
+LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMD
+Q0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOSwy
+MDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2OTEsLTM3ND
+g0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0ODg4LC0zMzE1NTI5
+ODhdfQ==
 -->
