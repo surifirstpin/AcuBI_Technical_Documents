@@ -118,7 +118,7 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
     
 -   <b>Apply to field:</b>  applies filter options to available field list in report.
     
- <b>Add Listener</b> adds multiple filters to reports.
+- <b>Add Listener</b> adds multiple filters to reports.
     
   <b>5.</b> Click  </b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
 
@@ -148,15 +148,15 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-**Image 12**
+  <B><font color = " Black"> Image 12 </font></b>
 
 ## Show Field Group
 
-- Irrespective of applied global filter, on selecting checkbox ***Show Field Group***, it displays list of grouped value.
+ Irrespective of applied global filter, on selecting checkbox <b><i>Show Field Group</i></b>, it displays list of grouped value.
 
 ## Edit / Delete Dashboard
 
-**6.** Click  **Edit**  Button to make changes to dashboard created.
+<b>6.** Click  **Edit**  Button to make changes to dashboard created.
 
 > **Note :**  After editing the dashboard click on  ***Save***  button to save the changes made.
 
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2Mzc3MTcxLDEyNTAwNzUwNjQsLTIxNT
-k3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4
-OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2ND
-Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
-Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMj
-Q5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5
-MV19
+eyJoaXN0b3J5IjpbLTM4ODU2NzkxNiwxMjUwMDc1MDY0LC0yMT
+U5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMzQyNDU4
+ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0NiwxNj
+Q0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1
+NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2Mj
+I0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2NzY4NjQ2
+OTFdfQ==
 -->
