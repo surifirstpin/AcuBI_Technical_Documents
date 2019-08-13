@@ -84,7 +84,8 @@ Click Projects, select the desired project and hit the <b>Edit</b> button.
  
 - After making necessary changes hit the <b>Update</b> button to save the changes made.
 
-- To cancel the changes made to a project hit <b>Cancel</b> button.
+- To cancel the changes made to a project hit <b>Cancel</b>
+-  button.
 
 ## Delete Project
 
@@ -696,11 +697,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1Mz
-Q3MjMzMDEsMTEzOTMxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1
-OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LD
-EyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMy
-MTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2ND
-Y1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2
-MzMzMjcwMV19
+eyJoaXN0b3J5IjpbOTYzNzM5NjgyLC0xMTYxMjk4MzcxLDUxMD
+c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
+ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
+I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
+NTUsLTE1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OC
+wtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4
+NjEzMTQ1XX0=
 -->
