@@ -50,24 +50,26 @@ A model is a customized gateway into the database for accessing data as per busi
 
 - <b>Tables</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
 
-<b>2.</b> <b>Auto Build Joins (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
+<b>2.</b> <b>Auto Build Joins: (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
-**Image 4**
-
+ <b><Font color = " black">Image 4</font></b>
+ 
 ### Step 5:
--   **Privacy** you can save the project in any one of the following privacy option.
-    -   **Private:**  report saved in private section are accessed by the existing user only.
-    -   **Public:**  report is saved in public section are accessed by all the users.
+
+-   <b>Privacy</b> you can save the project in any one of the following privacy option.
+    -   <b>Private:</b>  report saved in private section are accessed by the existing user only.
+    -   <b>Public:</b>  report is saved in public section are accessed by all the users.
    
-    -   **Share:**  report saved under share section are accessed by specific set of users.
+    -   <b>Share:</b>  report saved under share section are accessed by specific set of users.
     
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
-**Image 5**
+ <b><Font color = " black">Image 5</font></b>
+ 
 
-**3.** Once all the entries are made, click on  **
+<b>3.</b> Once all the entries are made, click on  **
 Save Project**  to save the project created.
 
 > **Note:** All the saved projects are visible on left hand side under projects.
@@ -693,11 +695,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MjgyMDM0LDUxMDc0NzAyMiwxNTM0Nz
-IzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2
-NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMj
-YzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4
-OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NS
-wxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMz
-MzI3MDFdfQ==
+eyJoaXN0b3J5IjpbLTEzNDQzMjIzNTEsNTEwNzQ3MDIyLDE1Mz
+Q3MjMzMDEsMTEzOTMxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1
+OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LD
+EyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMy
+MTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3NDQ4LC0xNDY4NDM2ND
+Y1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05NTg2MTMxNDUsLTg2
+MzMzMjcwMV19
 -->
