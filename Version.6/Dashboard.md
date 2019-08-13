@@ -95,7 +95,7 @@ Based on requirement multiple reports are added to layout selected.
 -   <b>Multiple Selections:</b>  Enables the selection list for multiple data. If disabled, user can select only single data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
- <B><font color = " Black"> Image 9 </font></b>
+ <b><font color = " Black" > Image 9 </font></b>
 
 ## Dependency Filters
 
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTM1Njk1Nyw4ODAyMzE1OTQsMTI1MD
-A3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEy
-NywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MT
-kyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEy
-OCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMz
-c0NTM4LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3
-MV19
+eyJoaXN0b3J5IjpbODM1NjgwNzIzLDg4MDIzMTU5NCwxMjUwMD
+c1MDY0LC0yMTU5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3
+LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOT
+IyNzk0NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4
+LDE2NTMxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNz
+Q1MzgsLTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcx
+XX0=
 -->
