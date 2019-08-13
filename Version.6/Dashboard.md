@@ -35,18 +35,18 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
  <B><font color = " Black"> Image 4 </font></b>
 
-- **Flow Layout** enables drag and drop option for the available grids, to carryout this function select drag icon and drop to desired available grid.
+- **Flow Layout** enables drag and drop option for the available grids, to carryout this function select <b>Drag Icon</b> and drop to desired available grid.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0f86df89a1c0a273e0609cd6731055746e7641c7/images/New_version5/TD_Dashboard_image10.png)
-**Image 5**
+  <B><font color = " Black"> Image 5 </font></b>
 
 ## Add Reports
 
 Based on requirement multiple reports are added to layout selected.
 
-**1.** To add reports to layout select the layout header and click on report name that you would like add, 
+<b>1.</b> To add reports to layout select the layout header and click on report name that you would like add, 
 
-**2.**  To add more report layout to existing one click ***add*** for reports under Work space list.
+<b>2.  To add more report layout to existing one click ***add*** for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 **Image 6**
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Nj
-k0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEz
-OCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMD
-A0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDks
-MjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0NjkxLC0zNz
-Q4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMzMxNTUy
-OTg4XX0=
+eyJoaXN0b3J5IjpbLTIxMTg0MDMyODgsMTU1MDU0NDEyNywtMT
+M0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5
+NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNj
+UzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4
+LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNj
+c2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYw
+NDg4OF19
 -->
