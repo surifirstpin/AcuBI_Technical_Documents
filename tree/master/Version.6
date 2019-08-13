@@ -274,12 +274,12 @@ Views are independent tables chosen while creating a project. All the columns in
 ```
  “lookup” : “SELECT DISTINCT Name FROM ROOT.Employees”
 ```
--   **Items**  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
+-   <b>Items</b>  known set of values can be given with comma separation. It may be useful if the list is small and the items are known exactly to the user.
 
-> **For Instance** :
+> <b>For Instance</b> :
  “lookup” : “Antonio, Bessanio, Portia”
 
--   **Operator**  Sometimes, data to be retrieved from multiple filter values. AcuBi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as **“multiple”** or else leave it empty.
+-   <b>Operator</b>  Sometimes, data to be retrieved from multiple filter values. AcuBi provides an option associated with lookup which can be defined to select single or multiple filter values. For selecting more than one filter value, operator should be defined as <b>“multiple”</b> or else leave it empty.
 
 ```
 operator:"",                        **Single operator**
@@ -703,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
-AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
-MSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLT
-c5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1
-Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC
-0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLTE0Njg0MzY0NjUsMTUz
-MjE4MzMxMV19
+eyJoaXN0b3J5IjpbLTE0ODA2Nzk0NTksMTU0OTEzNzMxLC03Mj
+U4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcw
+MjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LD
+IwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3
+MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC
+0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLTE0
+Njg0MzY0NjVdfQ==
 -->
