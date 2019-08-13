@@ -209,8 +209,8 @@ ROOT.BI_Orders.Amount IS NOT NULL
 <b>Join attributes are defined as follows :</b>
 
 -   <b>Join</b> the view name to be joined with the primary view.
--   <b>Join_type</b>  the method of joining two views. Either left or right is similar to <b>Join**” functionality.
--   **Join_on**  the specific criteria of joining the views with a relation among relevant fields.
+-   <b>Join_type</b>  the method of joining two views. Either left or right is similar to <b>Join</b> functionality.
+-   <b>Join_on</b>  the specific criteria of joining the views with a relation among relevant fields.
 
 ```
 {
@@ -231,19 +231,25 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-**AcuBi allows various actions to performed in views as follows:**
+<b><i>AcuBi allows various actions to performed in views as follows:</i></b>
 
 -  Creating a new field (User Defined Fields).
+
 -  Defining the output in a new field as resultant of arithmetical or logical operations among the database fields of the self view or from mapped views.
+
 -  Assigning currency & number format for measure fields.
+
 -  Extracting different date formats from the date field permissible formats like hour, day, week, month, quarter, year, date, week_day, date_month, date_quarter, date_hour, year_week.
+
 -  You can create new custom views.
+
 -  Assigning drill down fields for a field.
+
 -  Defining values for different map co-ordinates.
 
-The Associated keywords with the views are flowing :
+<b><i>The Associated keywords with the views are flowing :</i></b>
 
-|  **S.No** | **Name** | **Identifier of a custom field** |
+|  <b>S.No** | **Name** | **Identifier of a custom field** |
 |  :------ | :------: | :------: |
 |  1 | label | allows to customize the display name of the view in AcuBi |
 |  2 | data_type | the outcome of the field from database it can be string, date or number |
@@ -697,11 +703,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc1MTM1NjUsMTI1OTAwMjY4NSwtMT
-E2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0
-MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NS
-wtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMw
-NTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0Mz
-EwLDE1MzM3Njc0NDgsLTE0Njg0MzY0NjUsMTUzMjE4MzMxMSw3
-MzUzODI0NTFdfQ==
+eyJoaXN0b3J5IjpbLTk4MDMzOTg2OCwxMjU5MDAyNjg1LC0xMT
+YxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQz
+NTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC
+0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1
+MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUzMzQzMT
+AsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDcz
+NTM4MjQ1MV19
 -->
