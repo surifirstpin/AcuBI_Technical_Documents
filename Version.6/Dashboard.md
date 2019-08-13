@@ -77,15 +77,16 @@ Based on requirement multiple reports are added to layout selected.
         
 ## LOOKUP
 
-  <b>Lookup<  Adding lookup to dashboard will refer set of query or list of items in filters.
+  <b>Lookup</b>  Adding lookup to dashboard will refer set of query or list of items in filters.
+  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image6.png)
-**Image 8**
+ <B><font color = " Black"> Image 8 </font></b>
 
-**4.** To add new lookup to dashboard click on , Add Lookups.
+<b>4.</b> To add new lookup to dashboard click on , Add Lookups.
 
--   **Lookup name**  name of the lookup field.
+-   <b>Lookup name:</b>  name of the lookup field.
     
--   **Lookup Type**  refers to item or query type.
+-   <b>Lookup Type:<b>  refers to item or query type.
 
 - **Connection** Connection established for the query  
     
@@ -171,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MzUzMzAzLC03NDAzNDE5NjEsMTU1MD
-U0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzky
-LC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NT
-M3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4
-LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwtMTc4NT
-gzMzA3MSwxNjc2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExNDU3NzYx
-NzldfQ==
+eyJoaXN0b3J5IjpbMTMzOTk1NTg4NSwtNzQwMzQxOTYxLDE1NT
+A1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5
+MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyOD
+UzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQz
+OCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3OD
+U4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2
+MTc5XX0=
 -->
