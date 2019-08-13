@@ -94,9 +94,9 @@ Based on requirement multiple reports are added to layout selected.
     
 -   <b>Multiple Selections:</b>  Enables the selection list for multiple data. If disabled, user can select only single data.
   
-  
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
- <b><font color = " Black" > Image 9 </font></b>
+  <b><font color = " Black" > Image 9 </font></b>
+
 
 ## Dependency Filters
 
@@ -111,6 +111,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
  <B><font color = " Black"> Image 10 </font></b>
+
 
 -   <b>Dashboard Report:</b>  selects reports to add filters.
     
@@ -172,11 +173,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MTY4MzQzLDM5MjI2MzIzNyw4MzU2OD
-A3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwt
-NzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5ND
-gxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgs
-LTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwND
-Q2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5XX0=
+eyJoaXN0b3J5IjpbMTUwOTY1MDgyMSwzOTIyNjMyMzcsODM1Nj
+gwNzIzLDg4MDIzMTU5NCwxMjUwMDc1MDY0LC0yMTU5NzIyMDEs
+LTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMzQyNDU4ODk2LDQ2OT
+Q4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0NiwxNjQ0NTgyMTM4
+LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOTI1NDYsNzMwMD
+Q0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzgsLTM2MjI0OTcwOV19
 
 -->
