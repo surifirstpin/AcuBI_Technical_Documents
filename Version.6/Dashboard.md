@@ -127,17 +127,17 @@ AcuBi has an ability to assign a defined filters to report column (fields of vie
 Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
 -   <b>Name:</b> name identifier for dashboard created.
     
--   <b>Title**  title to refer the dashboard.
+-   <b>Title:</b> title to refer the dashboard.
     
--   **Info**  summary information of the dashboard created.
+-   <b>Info:</b>  summary information of the dashboard created.
     
--   **Privacy**  you can save the report in any one of the following privacy option.
+-   <b>Privacy:</b>  you can save the report in any one of the following privacy option.
     
-    -   **Private()**  It enable access for user itself.
+    -   <b>Private()</b>  It enable access for user itself.
         
-    -   **Public()**  It enable access for all the users.
+    -   <b>Public()</b>  It enable access for all the users.
         
-    -   **Share()**  It enable access for specific set of users.
+    -   <b>Share()</b>  It enable access for specific set of users.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
@@ -172,11 +172,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjU3NTY5ODgsLTIxNTk3MjIwMSwtNz
-QwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgx
-MzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLT
-kzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2
-MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMj
-IxNzI5MjksLTE3ODU4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0
-NjU3XX0=
+eyJoaXN0b3J5IjpbMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03ND
+AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
+MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
+M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
+MCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyNDk3MDksMjAyMj
+E3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0NjkxLC0zNzQ4NDQ2
+NTddfQ==
 -->
