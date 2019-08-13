@@ -65,31 +65,31 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 ## Delete
 
-<6.</b>   Similarly you can delete the column or row by selecting delete option in drop down list.
+<b>6.</b>   Similarly you can delete the column or row by selecting delete option in drop down list.
 
-**Similarly edit column cell value by clicking on specific cell as shown below:**
+<b><i>Similarly edit column cell value by clicking on specific cell as shown below:</i></b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6d8887dfd4a991b567c8c23b558446081c24e50f/images/New_version5/TD_Gobal_Parameter_Image12.png)
-**Image 8**
+ <b><font color = "black">Image 8</font></b>
 
 
 ## Grid & Code Views
 
-**7.** **Code view** is used to display JSON format for uploaded file.
+<b>7.</b> <b>Code view</b> is used to display JSON format for uploaded file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/30d986cd1364cb534c9f670a6b1f2947c2d39d40/images/New_version5/TD_Gobal_Parameter_Image13.png)
-**Image 9**
+ <b><font color = "black">Image 9</font></b>
 
-**Note :**
--   To undo the changes done for the code established click  **Undo**  icon.
--   To redo the changes done for the code click  **Redo**  icon.
+<b>Note :</b>
+-   To undo the changes done for the code established click  <b>Undo</b>  icon.
+-   To redo the changes done for the code click  <Redo**  icon.
 -   To format the code according to proper alignment click **Format Code**  Icon.
 
 ## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzg1NDUzMSwxNTU5MjE3NTk5LC00ND
+eyJoaXN0b3J5IjpbMTI3MzMzMzY2MywxNTU5MjE3NTk5LC00ND
 U1Nzg3MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0
 MjcsLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMT
 I4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2
