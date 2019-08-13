@@ -294,6 +294,7 @@ operator:multiple.                  **Multiple operator**
 <b><i>The permissible list are :</i></b>
 
 > <b>For Instance:</b>
+
 Consider Number = 12345679
 
 |  S. No. | Number format | Example |
@@ -321,14 +322,14 @@ Consider Number = 12345679
 |  21 | #K | 12345 678566999999k |
 |  22 | #M | 12.345678567IM |
 
--   **Currency**  AcuBi supports following currency formats “$”, “€”, “£”, “₹”.
+-   <b>Currency</b>  AcuBi supports following currency formats “$”, “€”, “£”, “₹”.
 
 ```
 currency : currency_symbol
 ```
- **Example** : “currency” : “$”
+ <b>Example:</b> currency” : “$”
 
-**III.**  **Time_frame:** AcuBi provides an option to extract different components associated with time stamp for user convenience.
+*III.**  **Time_frame:** AcuBi provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -704,7 +705,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODQwMjE3MCwxNTQ5MTM3MzEsLTcyNT
+eyJoaXN0b3J5IjpbLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNT
 g1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAy
 MiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMj
 A1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcw
