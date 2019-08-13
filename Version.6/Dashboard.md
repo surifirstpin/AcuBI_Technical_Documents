@@ -5,9 +5,10 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 
 ## View Dashboard
 
-To view already existing dashboard navigate to dashboard section under ***My Space*** list click the dashboard report you want to view.
+To view already existing dashboard navigate to dashboard section under <b><i> My Space</i></b> list click the dashboard report you want to view.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)**Image 1**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)
+ <B><fon
 
 ### Create Dashboard
 
@@ -173,11 +174,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0ND
-U4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2
-LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4LC0zNjIyND
-k3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNjc2ODY0Njkx
-LC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYwNDg4OCwtMz
-MxNTUyOTg4LC00NDU1NDIzNDYsMTQ2NDY3MTcwMiwxNzkzMjI5
-MjU3XX0=
+eyJoaXN0b3J5IjpbLTQ2MDk0MTg1LC04NDMxMjM5MiwtNjE5Mj
+I3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgs
+MTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3ND
+UzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEs
+MTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2MTc5LC0zNj
+E2MDQ4ODgsLTMzMTU1Mjk4OCwtNDQ1NTQyMzQ2LDE0NjQ2NzE3
+MDJdfQ==
 -->
