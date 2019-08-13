@@ -22,7 +22,7 @@ Global Parameter is a flat file data in JSON format which can be used to manipul
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/46f96dc3b59ecd850ed2e7bfd6bbc0e114adc902/images/New_version5/TD_Gobal_Parameter_Image1.png)
  <b><font color = "black">Image 1</font></b>
 
--   Enter  <b>key name</b>  as shown in the pop-up screen below, then Click on  **OK**  button.
+-   Enter  <b>key name</b>  as shown in the pop-up screen below, then Click on  <b>OK</b>  button.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cff8a30a919544c66b3de1e567ed807c04e49ace/images/New_version5/TD_Gobal_Parameter_Image14.png)
  <b><font color = "black">Image 2</font></b>
@@ -89,9 +89,9 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTE1MzQ3MDIsMTU1OTIxNzU5OSwtND
-Q1NTc4NzAwLC05MzE4NzM1MzgsLTMyMzI1OTEwNiwtODM2NDIz
-NDI3LC0xMDA3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLD
-EyODU5ODQwMjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1
-NjA0LC0xMTgwMDM3ODI4XX0=
+eyJoaXN0b3J5IjpbLTEyMDg1MzIzMTEsLTE5NTE1MzQ3MDIsMT
+U1OTIxNzU5OSwtNDQ1NTc4NzAwLC05MzE4NzM1MzgsLTMyMzI1
+OTEwNiwtODM2NDIzNDI3LC0xMDA3OTM3NTk3LDIwNjk1NzY3Mj
+EsNzMyMjY2OTEzLDEyODU5ODQwMjcsOTMzODQyNjUsNDU2NDUy
+NTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4XX0=
 -->
