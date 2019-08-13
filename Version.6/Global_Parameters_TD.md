@@ -41,31 +41,31 @@ Global Parameter is a flat file data in JSON format which can be used to manipul
 
 After importing the file, data is reflected in global parameter section. <b>(Refer Image 5)</b>
 
-<b>3.**  Click on  **Save**  button to save the global parameter.
+<b>3.</b>  Click on  <b>Save</b>  button to save the global parameter.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image9.png)
-**Image 5**
+ <b><font color = "black">Image 5</font></b>
 
-> **Note :**  By default all the columns in uploaded file will be saved as string type.
+> <b>Note :</b>  By default all the columns in uploaded file will be saved as string type.
 
 ## Find
 
-**4.** To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value.
+<b>4.</b> To find specific cell value in global parameter click on field column header drop-down and select find. Then enter the desired cell value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8b7bd890c01292d127bb19bab0e64287df164c35/images/New_version5/TD_Gobal_Parameter_Image10.png)
-**Image 6**
+ <b><font color = "black">Image 6</font></b>
 
 ## Edit
 
-**5.**  Select the column name and click on  **Edit**  button to change column name and column type ( string or number using drop down list).
+<b>5.</b>  Select the column name and click on  <b>Edit</b>  button to change column name and column type ( string or number using drop down list).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/855ff834d3525786d6a8240825f529a25d6c95f2/images/New_version5/TD_Gobal_Parameter_Image11.png)
-**Image 7**
+ <b><font color = "black">Image 7</font></b>
 
 
 ## Delete
 
-**6.**   Similarly you can delete the column or row by selecting delete option in drop down list.
+<6.</b>   Similarly you can delete the column or row by selecting delete option in drop down list.
 
 **Similarly edit column cell value by clicking on specific cell as shown below:**
 
@@ -89,9 +89,9 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNDE3NDc5LDE1NTkyMTc1OTksLTQ0NT
-U3ODcwMCwtOTMxODczNTM4LC0zMjMyNTkxMDYsLTgzNjQyMzQy
-NywtMTAwNzkzNzU5NywyMDY5NTc2NzIxLDczMjI2NjkxMywxMj
-g1OTg0MDI3LDkzMzg0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYw
-NCwtMTE4MDAzNzgyOF19
+eyJoaXN0b3J5IjpbMTAyNzg1NDUzMSwxNTU5MjE3NTk5LC00ND
+U1Nzg3MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0
+MjcsLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMT
+I4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2
+MDQsLTExODAwMzc4MjhdfQ==
 -->
