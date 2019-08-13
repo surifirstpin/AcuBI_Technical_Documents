@@ -46,22 +46,22 @@ Based on requirement multiple reports are added to layout selected.
 
 <b>1.</b> To add reports to layout select the layout header and click on report name that you would like add, 
 
-<b>2.</b>  To add more report layout to existing one click ***add*** for reports under Work space list.
+<b>2.</b>  To add more report layout to existing one click <b>add</b> for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
-**Image 6**
+ <B><font color = " Black"> Image 6 </font></b>
 
 > <b>Note:</b> Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
 
 ## Dashboard Global Filters
 
-**3.**  Click on **Add global filters**  to add global dashboard filters. 
+<b>3.</b>  Click on <b>Add global filters</b>  to add global dashboard filters. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
-**Image 7**
+  <B><font color = " Black"> Image 7 </font></b>
 
--   **Filter Name**  identifier name for the filter applicable.
-    > Note : Filter name accepts minimum three Characters
+-   <b>Filter Name</B>  identifier name for the filter applicable.
+    > <B>Note:</> Filter name accepts minimum three Characters
     
 -   **Filter Type**  type of filter used (String,date,number).
     
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMz
-QyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0
-NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NT
-MxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1Mzgs
-LTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2Nz
-Y4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0
-ODg4XX0=
+eyJoaXN0b3J5IjpbMjA2NDIzNzY5MCwtNzQwMzQxOTYxLDE1NT
+A1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5
+MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyOD
+UzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQz
+OCw0MjM3NDUzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3OD
+U4MzMwNzEsMTY3Njg2NDY5MSwtMzc0ODQ0NjU3LC0xMTQ1Nzc2
+MTc5XX0=
 -->
