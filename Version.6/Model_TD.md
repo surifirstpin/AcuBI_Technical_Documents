@@ -24,20 +24,23 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/00615483357376318b721b9cf15a41579b9461ea/images/New_version5/TD_Model_image1.png)
-<b><Font color = " mage 1**
+<b><Font color = " black">Image 1</font></b>
 
 **Enter the following details;**
 
--   **Project Name:**  Enter the project name.
+-   <b>Project Name:</b>  Enter the project name.
+
 ### Step 2:    
--   **Connection:**  Choose the database connection from the drop-down list provided.
+
+-   <b>Connection:</b>  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
-**Image 2**
-
+ <b><Font color = " black">Image 2</font></b>
+ 
 ###  Step 3:
-- **Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
+
+- <b>Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
@@ -689,7 +692,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDczMzkwMyw1MTA3NDcwMjIsMTUzND
+eyJoaXN0b3J5IjpbMTUwMDQ0Njc1NSw1MTA3NDcwMjIsMTUzND
 cyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5
 NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMT
 I2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIx
