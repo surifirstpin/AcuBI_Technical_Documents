@@ -46,7 +46,7 @@ Based on requirement multiple reports are added to layout selected.
 
 <b>1.</b> To add reports to layout select the layout header and click on report name that you would like add, 
 
-<b>2.  To add more report layout to existing one click ***add*** for reports under Work space list.
+<b>2.</b>  To add more report layout to existing one click ***add*** for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
 **Image 6**
@@ -171,11 +171,11 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTg0MDMyODgsMTU1MDU0NDEyNywtMT
-M0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5
-NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNj
-UzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4
-LC0zNjIyNDk3MDksMjAyMjE3MjkyOSwtMTc4NTgzMzA3MSwxNj
-c2ODY0NjkxLC0zNzQ4NDQ2NTcsLTExNDU3NzYxNzksLTM2MTYw
-NDg4OF19
+eyJoaXN0b3J5IjpbLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMz
+QyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0
+NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NT
+MxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1Mzgs
+LTM2MjI0OTcwOSwyMDIyMTcyOTI5LC0xNzg1ODMzMDcxLDE2Nz
+Y4NjQ2OTEsLTM3NDg0NDY1NywtMTE0NTc3NjE3OSwtMzYxNjA0
+ODg4XX0=
 -->
