@@ -75,23 +75,23 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 ## Grid & Code Views
 
-<b>7.</b> <b>Code view</b> is used to display JSON format for uploaded file.
+<b>7.</b> <b>Code view</b> is used to display <b>JSON</b> format for uploaded file.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/30d986cd1364cb534c9f670a6b1f2947c2d39d40/images/New_version5/TD_Gobal_Parameter_Image13.png)
  <b><font color = "black">Image 9</font></b>
 
 <b>Note :</b>
 -   To undo the changes done for the code established click  <b>Undo</b>  icon.
--   To redo the changes done for the code click  <Redo**  icon.
--   To format the code according to proper alignment click **Format Code**  Icon.
+-   To redo the changes done for the code click  <b>Redo</b>  icon.
+-   To format the code according to proper alignment click <b>Format Code</b>  Icon.
 
 ## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MzMzMzY2MywxNTU5MjE3NTk5LC00ND
-U1Nzg3MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0
-MjcsLTEwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMT
-I4NTk4NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2
-MDQsLTExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbLTE5NTE1MzQ3MDIsMTU1OTIxNzU5OSwtND
+Q1NTc4NzAwLC05MzE4NzM1MzgsLTMyMzI1OTEwNiwtODM2NDIz
+NDI3LC0xMDA3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLD
+EyODU5ODQwMjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1
+NjA0LC0xMTgwMDM3ODI4XX0=
 -->
