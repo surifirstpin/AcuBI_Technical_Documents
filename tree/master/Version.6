@@ -132,17 +132,17 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 |  <b>Serial No.</b> | <b>Keyword</b> | <b>Description</b> |
 |  ------ | ------| ------ |
-|  1 | <b>For Model< |  |
+|  1 | <b>For Model</b> |  |
 |   | project | displays the project name |
 |   | info | allows to describe the project with meaning full information |
 |   | connections | displays the connection name with the selected project |
 |   | explore | displays the views (the tables selected in the project) with the selected characteristics |
-|  2 | **For View** |  |
+|  2 | <b>For View</b> |  |
 |   | name | name of the table used in database |
 |   | label | allows you to customize the display name of the view in AcuBi|
 |   | filters | the list of filters to be applied on the data from the view and respective mapped views defined in the 'joins"section |
 |   | joins | specifies the list of associated views which are mapped with the current view & mention the mapping criteria |
-|  2A | **Filter characteristics** | Filters can be date-based, string-based, value-based & user-based |
+|  2A | <b>Filter characteristics</b> | Filters can be date-based, string-based, value-based & user-based |
 |   | name | name of the filter |
 |   | Filter_sql | the query phrase which acts as a filter, eg: col name = “Employee Name’ |
 |   | Apply | to specify the applicability |
@@ -150,12 +150,12 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 | |Bindkey|it is a string applied to a query in order to reduce the execution time of a custom query|
 | |filterViewName| Name of the custom view in which the bindkey is used|
 | |filterKey_mapping|The column mapping for a field against which the bindkey is used|
-|  2B | **Joins characteristics** |  |
+|  2B | <b>Joins characteristics</b> |  |
 |   | join | derive the relationship between 2 views based on the condition. |
 |   | join_type | derives type of join condition to be applied (Left,Right,inner join) |
 |   | join_on | defines the relationship between views by associated fields. |
 
-**2.A Filters in Model :**
+<b>2.A Filters in Model :</b>
 
 To filter data from a view and the respective mapping views, the filter criteria can be defined in “filters” section.
 
@@ -174,15 +174,15 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 ```
 
-**Filter can be derived with two specific attributes such as;**
+<b><i>Filter can be derived with two specific attributes such as;</i></b>
 
-**I.**  **Filter_Sql :**  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
+<b>I.</b>  <b>Filter_Sql :</b>  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
--  **Date-Based:** standard filters which are applicable on dates.
+-  <b>Date-Based:</b> standard filters which are applicable on dates.
 ```
  ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 ```
--  **String-Based:** standard filters which are applicable on strings.
+-  <b>String-Based:</b standard filters which are applicable on strings.
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
@@ -697,11 +697,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYyNzc3OTMsLTExNjEyOTgzNzEsNT
-EwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1OSwtMTk3MTE0
-NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcwNjE3Mj
-csMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUwOTM4OSw4NjY2
-MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMzNDMxMCwxNTMzNzY3ND
-Q4LC0xNDY4NDM2NDY1LDE1MzIxODMzMTEsNzM1MzgyNDUxLC05
-NTg2MTMxNDVdfQ==
+eyJoaXN0b3J5IjpbMjk1MDU1MzA4LC0xMTYxMjk4MzcxLDUxMD
+c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
+ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
+I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
+NTUsLTE1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OC
+wtMTQ2ODQzNjQ2NSwxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4
+NjEzMTQ1XX0=
 -->
