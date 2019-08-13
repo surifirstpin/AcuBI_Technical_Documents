@@ -88,14 +88,14 @@ Based on requirement multiple reports are added to layout selected.
     
 -   <b>Lookup Type:<b>  refers to item or query type.
 
-- **Connection** Connection established for the query  
+- <b>Connection:</b> Connection established for the query  
     
--   **Test Lookup**  to test the lookup.
+-   <b>Test Lookup:</b>  To test the lookup.
     
--   **Multiple Selections**  enables the selection list for multiple data. If disabled, user can select only single data.
+-   <b>Multiple Selections:</b>  Enables the selection list for multiple data. If disabled, user can select only single data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
-**Image 9**
+ <B><font color = " Black"> Image 9 </font></b>
 
 ## Dependency Filters
 
@@ -172,7 +172,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzOTk1NTg4NSwtNzQwMzQxOTYxLDE1NT
+eyJoaXN0b3J5IjpbLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NT
 A1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5
 MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyOD
 UzNzAxMjgsMTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQz
