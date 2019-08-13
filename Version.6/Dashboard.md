@@ -8,11 +8,10 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 To view already existing dashboard navigate to dashboard section under <b><i> My Space</i></b> list click the dashboard report you want to view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)
- <B><fon
-
+ <B><font color = " Black"> Image 1 </font></b>
 ### Create Dashboard
 
-> **Navigation : Dashboard→ New Dashboard**
+> </b>Navigation : Dashboard→ New Dashboard</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png)**Image 2**
 
@@ -174,7 +173,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDk0MTg1LC04NDMxMjM5MiwtNjE5Mj
+eyJoaXN0b3J5IjpbNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5Mj
 I3OTQ2LDE2NDQ1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgs
 MTY1MzE5MjU0Niw3MzAwNDQ2MTAsMTQ1NDY3NjQzOCw0MjM3ND
 UzOCwtMzYyMjQ5NzA5LDIwMjIxNzI5MjksLTE3ODU4MzMwNzEs
