@@ -38,19 +38,19 @@ function _Addition(param1,param2)
                                      
 ```
 > <b>Note :</b>  To undo the changes done, click  <b>Undo</b>  icon. 
-> To <b>redo</b> the changes made, click  *Redo**  icon.
+> To <b>redo</b> the changes made, click  <b>Redo</b>  icon.
 
-**2.**  Click on  **Test**  Button to run the function.  
+<b>2.</b>  Click on  <b>Test</b>  Button to run the function.  
 
-**3.**  Click on  **Save**  Button to save the function.
+<b>3.</b>  Click on  <b>Save</b>  Button to save the function.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ad2302fa77bfc83747a0f00223721b9ea23b471/images/New_version5/TD_Gobal_Functions_Image3.png)
-**Image 2**
+  <b><font color = "Black"> Image 2</font></b>
 
 ## Ability to adopt JavaScript
 
-This functions supports all the native java script supported functions and also refer other global functions using **bi.function_name**  ( param1, param2,....paramN).
+This functions supports all the native java script supported functions and also refer other global functions using <b>bi.function_name** ( param1, param2,....paramN).
 
 ## Edit Function
 
@@ -61,8 +61,8 @@ This functions supports all the native java script supported functions and also 
 **5.**  Click delete button to  **Delete**  the function.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxNTEwNDE1LC03OTc2NTA4MTIsMTUzOT
-I4MTExMywzNTg2Nzg1NzAsLTMxMzc5MDA2MywyMTAyMTY0MDI3
-LDE0NzI5NTg5NjYsLTI2MTk2MTk1MiwxMjE5NTU5Mzc0LC0xMT
-YxMjkwOTMyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEwOTg0MjM3NSwtNzk3NjUwODEyLDE1Mz
+kyODExMTMsMzU4Njc4NTcwLC0zMTM3OTAwNjMsMjEwMjE2NDAy
+NywxNDcyOTU4OTY2LC0yNjE5NjE5NTIsMTIxOTU1OTM3NCwtMT
+E2MTI5MDkzMiw3MzA5OTgxMTZdfQ==
 -->
