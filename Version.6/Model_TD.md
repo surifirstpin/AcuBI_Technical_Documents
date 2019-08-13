@@ -40,16 +40,17 @@ A model is a customized gateway into the database for accessing data as per busi
  
 ###  Step 3:
 
-- <b>Database:** Choose the database for configuration. All the selected databases are visible under **Selected Databases** section.
+- <b>Database:</b> Choose the database for configuration. All the selected databases are visible under <b>Selected Databases section.</b> 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
-**Image 3**
-
+ <b><Font color = " black">Image 3</font></b>
+ 
 ### Step 4:
-- **Tables** Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under **Selected Tables** section.
 
-**2.** **Auto Build Joins (check box)** On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
+- <b>Tables</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
+
+<b>2.</b> <b>Auto Build Joins (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
@@ -692,11 +693,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDQ0Njc1NSw1MTA3NDcwMjIsMTUzND
-cyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5
-NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMT
-I2Mzc1Mjg3NSwxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIx
-ODk1LC0xMDQ1MzM0MzEwLDE1MzM3Njc0NDgsLTE0Njg0MzY0Nj
-UsMTUzMjE4MzMxMSw3MzUzODI0NTEsLTk1ODYxMzE0NSwtODYz
-MzMyNzAxXX0=
+eyJoaXN0b3J5IjpbNTI0MjgyMDM0LDUxMDc0NzAyMiwxNTM0Nz
+IzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2
+NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMj
+YzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4
+OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2ODQzNjQ2NS
+wxNTMyMTgzMzExLDczNTM4MjQ1MSwtOTU4NjEzMTQ1LC04NjMz
+MzI3MDFdfQ==
 -->
