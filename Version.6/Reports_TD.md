@@ -8,14 +8,15 @@
 <b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and </b>Model</b> based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
-**Image 1**
-- To create a new report click on **Reset Visualization** ( refresh icon).
+ <b><Font color = " black">Image 1</font></b>
+
+- To create a new report click on <b>Reset Visualization</b> ( refresh icon).
 
 ## Adding Dimension and Measure
 
 A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
-> **For Instance :** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+> <b>For Instance : **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
  
  **To retrieve the data in report section follow the below steps,**
  
@@ -347,7 +348,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MT
-MzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQs
-LTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTEwNDQyMzg4MiwxNTQyNjQwMzkyLC05Nz
+AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
+MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
