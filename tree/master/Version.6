@@ -395,26 +395,26 @@ Where condition is an expression defined on the fields of self view or mapped vi
 > <b>For Instance:</b> 
   “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
 
-**5.**  As a resultant of database function operated on fields.
+<b>5.</b>  As a resultant of database function operated on fields.
 
 ```
    "sql": "(${TABLE}.Field * ${DB}.function_name(parameters)) "
 ```
 
-> **Example**  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}. CurrencyID))”
+> <b>Example</b>  “sql” : “(${TABLE}.Amount  KaTeX parse error: Expected 'EOF', got '​' at position 51: …te(DB.exchanger​̲ate({TABLE}.OrderDate,${TABLE}. CurrencyID))”
 
-**6.**  As a resultant of string, date, number based sql functions on fields
+<b>6.</b>  As a resultant of string, date, number based sql functions on fields
 
 ```
   "sql" : "sql_function(${TABLE}.Field)"
 ```
 
-> **For Instance:** 
+> <b>For Instance:</b>
 Number → “sql” : “SUM($ {TABLE}.Amount)”,  
 Date → “sql” : "TO_CHAR ( $ { TABLE}.OrderDate,‘Mon-YYYY’)"  
 String → “sql” : “CONCAT('Date : ',${TABLE}.OrderDate)”
 
-**7.**  As a resultant of single value returning sql query
+<b>7.**  As a resultant of single value returning sql query
 
 ```
    "sql" : "(select Expression from Database.Table)"
@@ -710,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODY4NzM1NSw4MzExMDc1MDYsLTc3Mj
-MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
-LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
-kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
-NjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LD
-E0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUz
-MzQzMTBdfQ==
+eyJoaXN0b3J5IjpbLTE1ODk4MjI5MzUsODMxMTA3NTA2LC03Nz
+IzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4
+NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMT
+M5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5Mzky
+MDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NS
+wxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1
+MzM0MzEwXX0=
 -->
