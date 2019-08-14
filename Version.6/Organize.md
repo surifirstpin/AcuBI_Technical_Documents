@@ -14,11 +14,11 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 
  > Note : Dashboard or Report which are set to homepage indicates orange color.
 
-<b>2.</b> To delete a dashboard, report  click  <b>delete icon</b>.
+<b>2.</b> To delete a dashboard, report  click  <b>Delete Icon</b>.
 
-<b>3.</b>  To edit a Dashboard or Report click on <b>edit icon.
+<b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>.
 
-**4.** To set Thumbnail for a report or dashboard, click ***Thumbnail icon.***
+<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.
 
 **5.** All the reports and dashboards can be saved in Public, private or share under share status. 
 
@@ -32,6 +32,6 @@ Considering image2,
 -   **Grey colour** indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwOTc1NDQ5LC04Mzc2MzIxOTIsLTk2Mz
-U4OTY1OSw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbMTMwMTU2OTk5MywtODM3NjMyMTkyLC05Nj
+M1ODk2NTksNzI4Nzg1ODI1XX0=
 -->
