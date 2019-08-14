@@ -357,7 +357,7 @@ currency : currency_symbol
 
 AcuBi has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
-<b>1.<  As a resultant of arithmetical operations done on fields of the same view.
+<b>1.</b>  As a resultant of arithmetical operations done on fields of the same view.
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${TABLE}.Field2)"
 ```
@@ -365,26 +365,26 @@ AcuBi has an ability to create new fields in a view with all attributes that are
 >**For Instance:** 
 “sql”: “(${TABLE}.Amount + ${TABLE}.Discount)”
 
-**2.**  As a resultant of arithmetical operations done on fields of a mapped view.
+<b>2.</b>  As a resultant of arithmetical operations done on fields of a mapped view.
 
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${Mapped_View.Field})"
 ```
 
->**For Instance:** 
+><b>For Instance:</b>
 “sql”: “(${TABLE}.Amount) / ${Customers.Total_number})”
 
-**3.**  As a resultant of logical operations ( like case statement ) done on fields of the same view.
+<b>3.</b>  As a resultant of logical operations ( like case statement ) done on fields of the same view.
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
 ```
 
 Where condition is an expression on the fields of self view and Expression_1, Expression_2 are expressions which include fields of self view.
 
-> **For Instance:** 
+> <b>For Instance:</b>
  “sql”: “(CASE WHEN (${TABLE}.Name is not null) THEN ${TABLE}.Salary ELSE 0 END)”
 
-**4.**  As a resultant of logical operations ( like case statement ) done on fields of a mapped view.
+<b>4.</b>  As a resultant of logical operations ( like case statement ) done on fields of a mapped view.
 
 ```
  "sql": "(case when (condition) then Expression_1 else Expression_2 end) "
@@ -392,7 +392,7 @@ Where condition is an expression on the fields of self view and Expression_1, Ex
 
 Where condition is an expression defined on the fields of self view or mapped view and Expression_1, Expression_2 are expressions which include fields of self view or mapped view.
 
-> **For Instance:** 
+> <b>For Instance:</b> 
   “sql”: “(CASE WHEN (${[Customers.ID](http://customers.id/)} is not null) THEN ${TABLE}.Amount ELSE 0 END)”
 
 **5.**  As a resultant of database function operated on fields.
@@ -710,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkzNDc0MDgsODMxMTA3NTA2LC03Nz
-IzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4
-NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMT
-M5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5Mzky
-MDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NS
-wxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1
-MzM0MzEwXX0=
+eyJoaXN0b3J5IjpbMTAwODY4NzM1NSw4MzExMDc1MDYsLTc3Mj
+MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
+LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
+kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
+NjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LD
+E0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUz
+MzQzMTBdfQ==
 -->
