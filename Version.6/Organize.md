@@ -20,18 +20,17 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 
 <b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.
 
-**5.** All the reports and dashboards can be saved in Public, private or share under share status. 
+<b>5.</b> All the reports and dashboards can be saved in Public, private or share under share status. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fb52c98e4e0d8753ac65f509d5bb179c853b962c/images/New_version5/TD_Organize_Image2.png)
-**Image 2**
-
+ <b><Font color = " black">Image 2</font></b>
 Considering image2,
 
--   **Green colour** indicates dashboard or report saved under public section.
--   **Orange colour** indicates dashboard or report saved under shared section.
--   **Grey colour** indicates dashboard or report saved under private section.
+-   <b>Green color</b> indicates dashboard or report saved under public section.
+-   <b>Orange color</b> indicates dashboard or report saved under shared section.
+-   <b>Grey color</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTU2OTk5MywtODM3NjMyMTkyLC05Nj
+eyJoaXN0b3J5IjpbLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05Nj
 M1ODk2NTksNzI4Nzg1ODI1XX0=
 -->
