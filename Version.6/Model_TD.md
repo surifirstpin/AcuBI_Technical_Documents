@@ -65,7 +65,8 @@ A model is a customized gateway into the database for accessing data as per busi
     -   <b>Share:</b>  report saved under share section are accessed by specific set of users.
     
 ![
-](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
+]
+(https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
  <b><Font color = " black">Image 5</font></b>
  
 
@@ -709,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMz
-E4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUs
-LTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
-MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
-NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMT
-QzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMz
-NDMxMF19
+eyJoaXN0b3J5IjpbMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMD
+c1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5Nywx
+MjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0Nz
+IzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2
+NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMj
+YzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4
+OTVdfQ==
 -->
