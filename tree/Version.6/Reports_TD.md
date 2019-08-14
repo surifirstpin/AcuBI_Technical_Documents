@@ -121,11 +121,11 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 - To hide the <b>Filter</b> or <b>Order</b> section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
-**5.** Hit the **Run** button to display the data based on applied filters.
+<b>5.</b> Hit the <b>Run</b> button to display the data based on applied filters.
 
 ## Order  (Ascending / Descending)
 
-To view the column data in ascending or descending orders, Click **Order** and choose the fields with desired combination, resulting on which the result in data section is displayed.
+To view the column data in ascending or descending orders, Click <b>Order< and choose the fields with desired combination, resulting on which the result in data section is displayed.
 as shown In the below image, descending order is applied to bets_usd (sum), the resultant for this is shown in descending order.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
@@ -353,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05Nz
+eyJoaXN0b3J5IjpbLTQ5ODY3MDMyMSwxNTQyNjQwMzkyLC05Nz
 AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
 MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
