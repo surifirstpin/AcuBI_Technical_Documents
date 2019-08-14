@@ -529,18 +529,18 @@ Click <b>Save</b> to Save the View in database.
 
 - <b>Name</b> identifier for the field in custom table.
 - <b>label</b>  the way derived field should display in custom table.
-- Data_type** define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
-   - **String** for measures that contain letters or special characters.
-  - **Date** measures that contain dates.
-  - **Time_frame** is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month, date_quarter, date_hour, year_week.
-  - **Number** for the measure that contain number.
-  - **Int** for the measure that contains integers.
-  - **Type** can be used as part of dimension or measure.
+- <b>Data_type</b> define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
+   - <b>String</b> for measures that contain letters or special characters.
+  - <b>Date</b> measures that contain dates.
+  - <b>Time_frame</b> is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month, date_quarter, date_hour, year_week.
+  - <b>Number</b> for the measure that contain number.
+  - <b>Int</b> for the measure that contains integers.
+  - <b>Type</b> can be used as part of dimension or measure.
 
 ## Lookups
 
-- **lookup** retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
-- **Operator** is used to retrieve single or multiple values in the filter section while using lookup.
+- <b>lookup</b> retrieve list of values for a specific field either from database using a query or from an item list (it is listed in the filter section during visualization).
+- <b>Operator</b> is used to retrieve single or multiple values in the filter section while using lookup.
  - **SQL** parameter is used to define a valid SQL expression that results in a field value.
  - **Summary** is used to retrieve the aggregate field values of the measures using the following options,
    - Sum 
@@ -711,7 +711,7 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTk1MjQ3OSw4MzExMDc1MDYsLTc3Mj
+eyJoaXN0b3J5IjpbMjAwOTUyMTQ2Miw4MzExMDc1MDYsLTc3Mj
 MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
 LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
 kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
