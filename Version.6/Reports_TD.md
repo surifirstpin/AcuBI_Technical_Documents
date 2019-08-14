@@ -239,23 +239,24 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ## Field Visualization On / Off
 
-<b>14.</b> To hide the specific field in the visualization charts click on <b>Hide Visualization</b> in the drop down of field  and to display the same click on **Show visualization**
+<b>14.</b> To hide the specific field in the visualization charts click on <b>Hide Visualization</b> in the drop down of field  and to display the same click on <b>Show visualization.</b>
 
 ## Remove
 
-**15.** To remove a specific field column from the extracted list click on **Remove** in drop down list of the field.
+<b>15.</b> To remove a specific field column from the extracted list click on <b>Remove</b> in drop down list of the field.
 
 ## Calculated Column 
 
-Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green colour in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
+Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green color in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
-- Click on **Calculated Column** button to enable table calculations as shown in image below,
+- Click on <b>Calculated Column</b> button to enable table calculations as shown in image below,
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/96a6c4d7d9cd243bc1742d6a45a3372d87704877/images/New_version5/TD_Reports_11.png)
-**Image 11** 
+ <b><Font color = " black">Image 11</font></b>
 
-- **Field name** unique identifier name to refer calculated column.
+- <b>Field name</b> unique identifier name to refer calculated column.
 
-- **Label** labeling the calculated column.
+- <b>Label< labeling the calculated column.
 
 - **Data type** data type used (string,number).
 
@@ -355,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDIxNDAwNywxMTI2MzMyMDYyLC0xNj
-I2NzE3ODU3LC0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5
-MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MD
-Y5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMzQ1ODYzODEyLDExMjYzMzIwNjIsLTE2Mj
+Y3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkz
+MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
+k4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
