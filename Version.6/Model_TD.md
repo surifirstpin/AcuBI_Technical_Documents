@@ -583,15 +583,13 @@ In the above example, Drill down option is defined over field “<b>State Name</
 
 As  <b>Show drill down measures</b>  is set  <b>TRUE</b>, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
-
-
 # Maps
 
 Maps enables users to visualize the geographic data on reactive and interactive maps. To carry out maps  in AcuBi,Your query should include at least one dimension based on geographic data. On including measure in your query it will display the information about the location selected.
 
 To carryout maps under visualization you need to derive the data fields in Model Section initially.
 
- **For Model, Views and for a specific field the map co-ordinates may be assigned as follows :**
+ <b>For Model, Views and for a specific field the map co-ordinates may be assigned as follows :</b>
 ```
 {
 "name": "Field",
@@ -688,7 +686,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 To view and access the existing projects and views, click on projects on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/012237765b77a1b359ea238573128f5aa046f33b/images/New_version5/TD_Model_image13.png)
-**Image 12**
+  <b><Font color = " black">Image 12</font></b>
 
 ## Edit Project
 
@@ -696,12 +694,12 @@ To edit existing projects, navigate to projects screen. Select the project you w
 You can rename the project created, insert more tables into already existing projects as show in the below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
-**Image 13**
+  <b><Font color = " black">Image 13</font></b>
 
 Insert customers table in to the project by selecting the *checkbox for customer*s then click on *update* button to save the changes made. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
-**Image 14**
+ <b><Font color = " black">Image 9</font></b>
 
 ## Deleting Project
 
@@ -711,11 +709,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDE3NjM5Nyw4MzExMDc1MDYsLTc3Mj
-MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
-LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMz
-kzMTQzNTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIw
-NjQ1LC0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LD
-E0MzA1MDkzODksODY2NjA0NTUsLTE1NjQzMjE4OTUsLTEwNDUz
-MzQzMTBdfQ==
+eyJoaXN0b3J5IjpbLTEwNjkzNTI1LDgzMTEwNzUwNiwtNzcyMz
+E4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUs
+LTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
+MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
+NDUsLTEwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMT
+QzMDUwOTM4OSw4NjY2MDQ1NSwtMTU2NDMyMTg5NSwtMTA0NTMz
+NDMxMF19
 -->
