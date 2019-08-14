@@ -135,36 +135,36 @@ as shown In the below image, descending order is applied to bets_usd (sum), the 
 
 Local Sorting can be applied directly to the data obtained for dimension and measure fields in the data section. To enable this click on the desired field header to enable sorting.
 
-For **Dimensions**
+For <b>Dimensions</b>
 
 - Click Upwards pointing arrow, to enable  ascending order.
 - Click Downwards pointing arrow, to enable descending order.  
 
-For **Measures**
+For <b>Measures</b>
 
 - Click Upwards Pointing Arrow,  to enable descending order.
 - Click Downwards Pointing Arrow, to enable ascending order.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/87a73aeac27bf279f1b6a9d87a473785644d363f/images/New_version5/TD_Reports_5.png)
-**Image 5**
+ <b><Font color = " black">Image 5</font></b>
 
 ## Query Time
 
-**6.** Display total time taken to build the query of a report.
+<b>6.</b> Display total time taken to build the query of a report.
 
 ## Display number of rows
 
-**7.** Display number of rows fetched while retrieving data.
+<b>7.</b> Display number of rows fetched while retrieving data.
 
 ## Display Totals
 
-**8.**    On selecting  **Check box** for totals, the report is displayed with total sum values of the measure fields obtained.
+<b>8.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
 
  ## Display  Row Limit
 
-**9.**  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
+<b>9.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
-**10.** To download the data in csv format, click ***download data***.
+<b>10.</ To download the data in csv format, click ***download data***.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1877afffe878ada04f7e66846fc1f74161830c79/images/New_version5/TD_Reports_6.png)
 **Image 6**
@@ -353,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1MzYyMjAyLC0xMDA5MTQzMjMsMTU0Mj
-Y0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcs
-ODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTc5MTUzMzc1NywtMTAwOTE0MzIzLDE1ND
+I2NDAzOTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3
+LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
