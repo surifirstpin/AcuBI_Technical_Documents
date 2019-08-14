@@ -195,13 +195,16 @@ ROOT.BI_Orders.Amount IS NOT NULL
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
 -   <b>GlobalParam:</b> the name of the global parameter which contains the user based list of values.
+
 -   <b>Ref_Field</b>  the column name in global parameter which contains the filter values.
+
 -   <b>Gp_Username_Field</b>  the column name in global parameter which contains the usernames.
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
 <b>II.</b> <b>Position</b>  Assigning filter “before” or “after" the data.
 -   <b>Before</b>  the filter will be applied first to the data, before any alternate filters on data are applied in report section.
+
 -   <b>After</b>  the filter will be applied to the data after applying filters in report section.
 
 <b>2.B. Join Characteristics</b>
@@ -209,7 +212,9 @@ ROOT.BI_Orders.Amount IS NOT NULL
 <b>Join attributes are defined as follows :</b>
 
 -   <b>Join</b> the view name to be joined with the primary view.
+
 -   <b>Join_type</b>  the method of joining two views. Either left or right is similar to <b>Join</b> functionality.
+
 -   <b>Join_on</b>  the specific criteria of joining the views with a relation among relevant fields.
 
 ```
@@ -705,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNT
-g1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAy
-MiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMj
-A1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcw
-MTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0NTUsLT
-E1NjQzMjE4OTUsLTEwNDUzMzQzMTAsMTUzMzc2NzQ0OCwtMTQ2
-ODQzNjQ2NV19
+eyJoaXN0b3J5IjpbODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OT
+EzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3
+MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOT
+cxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2
+MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LD
+g2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3
+Njc0NDhdfQ==
 -->
