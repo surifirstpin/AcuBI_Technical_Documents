@@ -16,15 +16,15 @@
 
 A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
 
-> <b>For Instance :** **Name of the Employee** is defined as dimension and **Salary of the Employee** is defined as Measure.
+> <b>For Instance :</b> <b>Name of the Employee</b> is defined as dimension and <b>Salary of the Employee</b> is defined as Measure.
  
- **To retrieve the data in report section follow the below steps,**
+ <b><i>To retrieve the data in report section follow the below steps,</i></b>
  
-**2.**  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
+<b>2.</b>  Select one or more dimension fields ( Grey fields) to access the data. It supports strings and date types.
 
-**3.** Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. (Refer Image 1)
+<b>3.</b> Select one or more measure fields (Orange fields) to access numeric values, such as Sum, Count, Max, Min and  Avg etc. (Refer Image 1)
 
-  > **Note :** To hide Explore/Visualize sections  click on  **angle double left** icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
+  > <b>Note :</b> To hide Explore/Visualize sections  click on  <b>angle double left</b> icon. To display the same click **angle double right  (»)** icon available above dimensions and measure field list.
 
                                                                                                                                                                                                                     
 ## Filters 
@@ -348,7 +348,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzY0NDg3NCwxNTQyNjQwMzkyLC05Nz
-AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
-MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbOTU3MjY3NjcsMTU0MjY0MDM5MiwtOTcwMT
+c5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4
+MDY5ODU4NTQsLTYxNzk1MzEyNl19
 -->
