@@ -334,17 +334,17 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ## SQL Query 
 
-To View the SQL query built on retrieving data in report, click on <b>SQL</b> section.
+To View the SQL query built on retrieving data in report, click on <b>SQL section.
 
-9 eg: area code, wayused and![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
-**Image 16**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
+ <b><Font color = " black">Image 16</font></b>
 
 ## Drill Down Display
 
 Using drill down you can view more deeper insights of the data.
 
-**For example:** Refer image 17, 
-**a.** On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_2.
+<b>For example:</b><b>(Consider Image 17)</b>
+<b>a.</b> On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_2.
 
 **b.** On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular area code.
 
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODA1NTYwMCwxOTM3Mzc3MjEsMTEyNj
-MzMjA2MiwtMTYyNjcxNzg1NywxNTQyNjQwMzkyLC05NzAxNzkz
-MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
-k4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTE5NDYzNDAzNDMsMTkzNzM3NzIxLDExMj
+YzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5MiwtOTcwMTc5
+MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MD
+Y5ODU4NTQsLTYxNzk1MzEyNl19
 -->
