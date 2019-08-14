@@ -93,18 +93,18 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |is not null                   |data which is not equal to null
 |is null                       |data which is equal to null
 
-> <b>Note :</b> For more details on <b>Timeline Filters,** Refer timeline filters document.
+> <b>Note :</b> For more details on <b>Timeline Filters,</b> Refer timeline filters document.
 
-**4.** Navigate to **Filter section,** then extract data based on filters applied.
+<b>4.</b> Navigate to <b>Filter section</b>, then extract data based on filters applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb353d0308368c774c84058005a471ff667e7125/images/New_version5/TD_Reports_2.png)
-**Image 2**
+ <b><Font color = " black">Image 2</font></b>
 
 ## Hidden Filters
 
 The data is retrieved based on hidden filters applied, this applied hidden filter fields are not visible in data section they are only visible under filter expression list.
 
-**To carry out this function, follow the below steps:**
+<b><i>To carry out this function, follow the below steps:</i></b>
 
 **a.**  Apply hidden filters to dimension.(Start_date_month)
 **b.** Fields to which hidden filters applied are visible in filter expression of filter section.
@@ -348,7 +348,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjIxOTA4OSwxNTQyNjQwMzkyLC05Nz
+eyJoaXN0b3J5IjpbLTExNDgyNjI3MSwxNTQyNjQwMzkyLC05Nz
 AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
 MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
