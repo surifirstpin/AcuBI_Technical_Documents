@@ -106,41 +106,39 @@ To view the newly created derived view. Navigate to Model section under the view
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b52a0977e50ba9bf53688b5eec4c52bd9ee25087/images/New_version5/TD_SQL_IMAGE11.png)
 
-**Image 8**
+ <b><Font color = " black">Image 8</font></b>
 
 ## Tagged
 
 Tagged section is used to save the pre-written query and use it later as per the business requirement.
 
-All the created tags are visible in tagged section.  **Follow the below steps to create TAG:**
+All the created tags are visible in tagged section.  <b>Follow the below steps to create TAG:</b>
 
-**5.** Click on **Tag**  tab, it will pop up create query Tag window :
+<b>5.</b> Click on <b>Tag</b>  tab, it will pop up create query Tag window :
 
 ![Image 9](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
+ <b><Font color = " black">Image 9</font></b>
 
-**Image 9**
+<b><i>Enter Below Information :</i></b>
 
-***Enter Below Information :***
+- <b>Tag Name</B>  Enter tag name
 
-- **Tag Name**  Enter tag name
+- <b>Connection<b>  displays the connections established for query.
 
-- **Connection**  displays the connections established for query.
+- <b>Query</b>  displays the query established.
 
-- **Query**  displays the query established.
+- <b>Info</b>  enter query tag information.
 
-- **Info**  enter query tag information.
-
--    Hit  **Create Tag button.**
+-    Hit  <b>Create Tag button.</b>
  
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
+ <b><Font color = " black">Image 10</font></b>
 
-**Image 10**
-
--   All created tags are visible under  **Tagged Section.**
+-   All created tags are visible under  <b>Tagged Section.</b>
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
 
-**Image 11**
+ <b><Font color = " black">Image 11</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MjcwMDk5Nl19
+eyJoaXN0b3J5IjpbODU3OTA2NTg4XX0=
 -->
