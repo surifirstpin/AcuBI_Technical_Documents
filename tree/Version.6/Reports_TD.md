@@ -119,7 +119,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 - To delete the filter applied click <b>Cross Icon.</b>
 
-- To hide the <b>Filter</b> or <b>Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
+- To hide the <b>Filter</b> or <b>Order</b> section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
 **5.** Hit the **Run** button to display the data based on applied filters.
 
@@ -353,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgzNzI4MzQsMTU0MjY0MDM5MiwtOT
-cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
-LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05Nz
+AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
+MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
