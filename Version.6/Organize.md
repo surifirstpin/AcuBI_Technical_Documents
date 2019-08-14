@@ -5,12 +5,12 @@ This Section explains how to organize the reports and dashboard under specific n
 
 To get started navigate to dashboard section.
 
-All the existing reports and dashboards are visible under *My Space* and can be viewed either in **Folder** or **List** view.
+All the existing reports and dashboards are visible under *My Space* and can be viewed either in <b>Folder</b> or <b>List</b> view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7cf68f6c7bf54d8d9a4a70104087c9f1618ace6e/images/New_version5/TD_Organize_Image1.png)
-**Image 1**
-
-**1.**  Click on  **Set Home page**  Icon, to set dashboard on Home page. 
+  <b><Font color = " black">Image 1</font></b>
+  
+<b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page. 
 
  > Note : Dashboard or Report which are set to homepage indicates orange color.
 
@@ -32,5 +32,6 @@ Considering image2,
 -   **Grey colour** indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MzU4OTY1OSw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTgzNzYzMjE5MiwtOTYzNTg5NjU5LDcyOD
+c4NTgyNV19
 -->
