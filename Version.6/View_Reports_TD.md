@@ -1,7 +1,7 @@
 
 <center><h2>View Reports</h2></center>
 
-Reports in  <b>AcuBi**  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
+Reports in  <b>AcuBi<b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
 
 ## View Report
 
@@ -69,7 +69,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2ODg5MDIxOSwtMzQ0NjcyNTMxLC04OD
+eyJoaXN0b3J5IjpbLTIyMzA2NTY3OSwtMzQ0NjcyNTMxLC04OD
 QyMzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1
 MywtMTE4ODUzODQ0N119
 -->
