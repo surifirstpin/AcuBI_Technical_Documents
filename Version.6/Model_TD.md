@@ -334,7 +334,7 @@ currency : currency_symbol
 ```
  <b>Example:</b> currency” : “$”
 
-*III.**  **Time_frame:** AcuBi provides an option to extract different components associated with time stamp for user convenience.
+<b>III.</b>  <b>Time_frame:</b> AcuBi provides an option to extract different components associated with time stamp for user convenience.
 
 **Below are the formats adopted by default :**
 
@@ -357,7 +357,7 @@ currency : currency_symbol
 
 AcuBi has an ability to create new fields in a view with all attributes that are applicable to a database field and with return value (“sql” section of the field) as any of the following options:
 
-**1.**  As a resultant of arithmetical operations done on fields of the same view.
+<b>1.</b>  As a resultant of arithmetical operations done on fields of the same view.
 ```
 "sql": "(${TABLE}.Field1 arithmetical operation ${TABLE}.Field2)"
 ```
@@ -710,11 +710,11 @@ Deleting project will permanently removes project from database. To carryout del
 **Image 15**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OT
-EzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3
-MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOT
-cxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2
-MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5Mzg5LD
-g2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1MzM0MzEwLDE1MzM3
-Njc0NDhdfQ==
+eyJoaXN0b3J5IjpbLTEwMTc2MDcwMjMsODMxMTA3NTA2LC03Nz
+IzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4
+NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMT
+M5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5Mzky
+MDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NS
+wxNDMwNTA5Mzg5LDg2NjYwNDU1LC0xNTY0MzIxODk1LC0xMDQ1
+MzM0MzEwXX0=
 -->
