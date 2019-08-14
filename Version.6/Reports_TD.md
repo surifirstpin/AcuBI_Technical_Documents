@@ -272,13 +272,13 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 - Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
-**Image 13**
+  <b><Font color = " black">Image 13</font></b>
 
 ## Data 
 
 Data section under visualization is enabled based on the data retrieved for fields.
 
- **Below are the parameters applicable on the data retrieved;**
+ <b><i>Below are the parameters applicable on the data retrieved;</i></b>
 
 - **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
 
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzU1NjMzNiwxMTI2MzMyMDYyLC0xNj
-I2NzE3ODU3LC0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5
-MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MD
-Y5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2Mj
+Y3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkz
+MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
+k4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
