@@ -346,9 +346,9 @@ Using drill down you can view more deeper insights of the data.
 <b>For example:</b><b>(Consider Image 17)</b>
 <b>a.</b> On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_2.
 
-**b.** On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular area code.
+<b>b.</b> On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular area code.
 
-- ***Reset Data Drill:*** To navigate to  previous page click ***Rest Data Drill.***
+- <b>Reset Data Drill:</b> To navigate to  previous page click <b>Rest Data Drill.</b>
 
 > **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
 
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDYzNDAzNDMsMTkzNzM3NzIxLDExMj
-YzMzIwNjIsLTE2MjY3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQw
-MzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MD
-IzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbNzA3NTEwMiwxOTM3Mzc3MjEsMTEyNjMzMj
+A2MiwtMTYyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAzOTIs
+LTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5Mj
+UyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
