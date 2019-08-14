@@ -194,14 +194,14 @@ To <b>Pivot</b> a dimension click on pivot for dimension before or after running
 |North|south|east|west|
 |john|Steve|bob|Mecker|
 
- **You can apply pivot to fields in 2 ways :**
+ <b>You can apply pivot to fields in 2 ways :</b>
  
-**a.** Apply pivot **After Retrieving** the data by selecting the pivot in drop down of the field.
+<b>a.</b> Apply pivot <b>After Retrieving</b> the data by selecting the pivot in drop down of the field.
  
-**b.** Apply pivot **Before Retrieving** the data while selecting the fields by clicking on pivot icon.
+<b>b.</b> Apply pivot <b>Before Retrieving</b> the data while selecting the fields by clicking on pivot icon.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eed95c0e5c6888ef680626c8f9e22a7ad38c9125/images/New_version5/TD_Reports_7.png)
-**Image 7**
+ <b><Font color = " black">Image 9</font></b>
 
 ## Hide data in pivot 
 
@@ -353,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgzMTU3NiwxNTQyNjQwMzkyLC05Nz
-AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
-MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTE1NDc0ODkwMzIsMTU0MjY0MDM5MiwtOT
+cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
+LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
 -->
