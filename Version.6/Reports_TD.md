@@ -256,20 +256,20 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 
 - <b>Field name</b> unique identifier name to refer calculated column.
 
-- <b>Label< labeling the calculated column.
+- <b>Label</b> labeling the calculated column.
 
-- **Data type** data type used (string,number).
+- <b>Data type</b> data type used (string,number).
 
-- **Field type** derives dimension or measure.
+- <b>Field type</b> derives dimension or measure.
 
-- **Calculation** derive arithmetical & logical expressions.
+- <b>Calculation</b> derive arithmetical & logical expressions.
 
-- **Calculate on the raw data** if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
+- <b>Calculate on the raw data</b> if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
-**Image 12**
+  <b><Font color = " black">Image 12</font></b>
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green colour as shown in below image:
+- Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
 **Image 13**
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1ODYzODEyLDExMjYzMzIwNjIsLTE2Mj
-Y3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkz
-MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
-k4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTQ3MzU1NjMzNiwxMTI2MzMyMDYyLC0xNj
+I2NzE3ODU3LC0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5
+MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MD
+Y5ODU4NTQsLTYxNzk1MzEyNl19
 -->
