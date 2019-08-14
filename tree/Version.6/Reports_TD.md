@@ -280,7 +280,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
  <b><i>Below are the parameters applicable on the data retrieved;</i></b>
 
-- **Row Grouping** enables row grouping for fields values based on the field selected as shown in the below image.
+- <b>Row Grouping<. enables row grouping for fields values based on the field selected as shown in the below image.
 
 - **Explore Enabled** to explore the data which are grouped select the check box **Explore Enabled.**
 
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2Mj
-Y3MTc4NTcsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDcz
-MSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNz
-k1MzEyNl19
+eyJoaXN0b3J5IjpbMTA4NzE2NTcwOSwxOTM3Mzc3MjEsMTEyNj
+MzMjA2MiwtMTYyNjcxNzg1NywxNTQyNjQwMzkyLC05NzAxNzkz
+MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
+k4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
