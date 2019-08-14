@@ -106,15 +106,20 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 <b><i>To carry out this function, follow the below steps:</i></b>
 
-**a.**  Apply hidden filters to dimension.(Start_date_month)
-**b.** Fields to which hidden filters applied are visible in filter expression of filter section.
-**c.** The data is retrieved, based on the applied hidden filters.
+<b>a.</b>  Apply hidden filters to dimension.(Start_date_month)
+
+<b>b.</b> Fields to which hidden filters applied are visible in filter expression of filter section.
+
+<b>c.</b> The data is retrieved, based on the applied hidden filters.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f4b77c16dbb8f5b7ff70eb159ddb35c6445236c/images/New_version5/TD_Reports_3.png)
-**Image 3**
-- To add more filters click **Add Rule**.
-- To delete the filter applied click **Cross Icon**.
-- To hide the **Filter** or **Order** section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
+ <b><Font color = " black">Image 3</font></b>
+
+- To add more filters click <b>Add Rule.</b>
+
+- To delete the filter applied click <b>Cross Icon.</b>
+
+- To hide the <b>Filter</b> or <b>Order</b> section Click on angle-double-up icon on to far right of the order section. To un-hide click on angle-double-down icon at same location.
 
 **5.** Hit the **Run** button to display the data based on applied filters.
 
@@ -348,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgyNjI3MSwxNTQyNjQwMzkyLC05Nz
+eyJoaXN0b3J5IjpbLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05Nz
 AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
 MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
