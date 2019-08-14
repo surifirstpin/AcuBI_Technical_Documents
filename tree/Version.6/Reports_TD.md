@@ -235,7 +235,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ## Find
 
-**13** To find the specific field value from the data extracted click on **Find** in the  field drop down.
+<b>13 To find the specific field value from the data extracted click on **Find** in the  field drop down.
 
 ## Field Visualization On / Off
 
@@ -355,7 +355,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjY3MTc4NTcsMTU0MjY0MDM5MiwtOT
-cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
-LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTg1NTk0NzI1OSwtMTYyNjcxNzg1NywxNT
+QyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMz
+Nyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
