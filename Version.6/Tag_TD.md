@@ -10,17 +10,17 @@ Navigate to Dashboard section in order to create a new Tag.
 
 Choose  New Tag from drop-down list.
  
-Click on  **Add Tag**  in dashboard section to create a  **New Tag.**
+Click on  <b>Add Tag</b> in dashboard section to create a  <b>New Tag.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e259d71617b5bb38a9b8ae6697c3471f5ac5f3a9/images/New_version5/td_tag_image1.png)
-**Image 1**
+ <b><Font color = " black">Image 1</font></b>
 
 Navigate to New Tag Page and enter below details;
- -   **Tag Name:**  identifier for the new tag.
--   **Share Status:**  select privacy options for newly created tag.
-    -   **Private()**  It enable access for user itself.
-    -   **Public()**  It enable access for all the users.
-    -   **Share()**  It enable access for specific set of users.
+ -   <b>Tag Name:</b>  identifier for the new tag.
+-   <b>Share Status:</b>  select privacy options for newly created tag.
+    -   <b>Private()</b> It enable access for user itself.
+    -   <b>Public()</b>  It enable access for all the users.
+    -   <b>Share()</n> It enable access for specific set of users.
     > **Note:** Animated is enabled for Display Boards in AcuBi.
 - Click **Add Tag** to save tag.
     
@@ -38,5 +38,5 @@ All the saved tags are visible under *My Space* list.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbLTE4MjMwOTQ3NiwtNTk4ODU2MzEyXX0=
 -->
