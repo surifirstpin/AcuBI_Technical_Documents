@@ -350,14 +350,13 @@ Using drill down you can view more deeper insights of the data.
 
 - <b>Reset Data Drill:</b> To navigate to  previous page click <b>Rest Data Drill.</b>
 
-> **Note :** to attain drill down features it need to be specified in model section, Refer **Model Documentation** for more information about drill down feature.
+> <b>Note :</b> to attain drill down features it need to be specified in model section, Refer <b>Model Documentation</b> for more information about drill down feature.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
-**Image 17**
-
+  <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA3NTEwMiwxOTM3Mzc3MjEsMTEyNjMzMj
-A2MiwtMTYyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAzOTIs
-LTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5Mj
-UyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNj
+MzMjA2MiwtMTYyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAz
+OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
+M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
