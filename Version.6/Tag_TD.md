@@ -21,22 +21,22 @@ Navigate to New Tag Page and enter below details;
     -   <b>Private()</b> It enable access for user itself.
     -   <b>Public()</b>  It enable access for all the users.
     -   <b>Share()</n> It enable access for specific set of users.
-    > **Note:** Animated is enabled for Display Boards in AcuBi.
-- Click **Add Tag** to save tag.
+    > <b>Note:</b> Animated is enabled for Display Boards in AcuBi.
+
+- Click <b>Add Tag</b> to save tag.
     
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2e6348e6143a7ab1ab62a6877134a83e403f3f29/images/New_version5/td_tag_image2.png)
-**Image 2**       
+ <b><Font color = " black">Image 2</font></b>       
 
-All the saved tags are visible under *My Space* list.
-**1.** To delete a tag click delete icon.
-**2.**  To edit a tag click edit icon.
-**3.** To set Thumbnail for a tag click Thumbnail icon.
-**4.** Tags can be saved in Public, Private or Share under sharing status. 
+All the saved tags are visible under <b><i>My Space</i></b> list.
+<b>1.</b> To delete a tag click delete icon.
+<b>2.</b>  To edit a tag click edit icon.
+<b>3.</b>To set Thumbnail for a tag click Thumbnail icon.
+<b>4.</b>Tags can be saved in Public, Private or Share under sharing status. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
-**Image 3**
-
+ <b><Font color = " black">Image 9</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjMwOTQ3NiwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTEwOTY2MTUwMjYsLTU5ODg1NjMxMl19
 -->
