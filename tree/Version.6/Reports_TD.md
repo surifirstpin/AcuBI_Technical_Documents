@@ -201,26 +201,28 @@ To <b>Pivot</b> a dimension click on pivot for dimension before or after running
 <b>b.</b> Apply pivot <b>Before Retrieving</b> the data while selecting the fields by clicking on pivot icon.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eed95c0e5c6888ef680626c8f9e22a7ad38c9125/images/New_version5/TD_Reports_7.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 7</font></b>
 
 ## Hide data in pivot 
 
-To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under datasets.
+To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
 
 
 ## Pin or Remove Pin
 
-**11.** To freeze the column field values while scrolling the data, click **Pin** in field drop down provided and to release the same click **Remove Pin.**
+<b>11.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/994f3e816fcd104d81eeee8656b39dae9e854092/images/New_version5/TD_Reports_8.png)
+ <b><Font color = " black">Image 8</font></b>
+
 ## Group / Un-Group
 
-**12.** By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on **Group** in field drop down and **To release** the same click on **Un-Group**. 
+<b>12.</b> By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on <b>Group</b> in field drop down and <b>To release</b> the same click on <b>Un-Group.</b>
 
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bc9bcd938189cd95f72d69d632d643df0746e9af/images/New_version5/TD_Reports_9.png)
-**Image 9**
+ <b><Font color = " black">Image 9</font></b>
 
 ## Multi-Level grouping
 
@@ -353,7 +355,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc0ODkwMzIsMTU0MjY0MDM5MiwtOT
-cwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1
-LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbLTI5MjAzNTU0OCwxNTQyNjQwMzkyLC05Nz
+AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
+MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
