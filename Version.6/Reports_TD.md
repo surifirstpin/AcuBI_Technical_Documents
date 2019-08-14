@@ -288,17 +288,17 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 - <b>Datasets</b> this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
 
-- <b>Legend** it will enable the user to name a measure field value under the datasets of visualization charts as shown in image below.
+- <b>Legend</b> it will enable the user to name a measure field value under the data sets of visualization charts as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5172b5cf71819a0e92ccc38247af5660d863bdf2/images/New_version5/TD_Reports_14.png)
-**Image 14**
+ <b><Font color = " black">Image 14</font></b>
 
 ##  Format
 
-  - **Format** enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
+  - <b>Format</b> enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4b71a76877a20fa60858be7fbb514e421c9a435/images/New_version5/TD_Reports_16.png)  
-**Image 15**
+ <b><Font color = " black">Image 15</font></b>
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -329,12 +329,12 @@ Data section under visualization is enabled based on the data retrieved for fiel
 |  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
 
 
-- **Currency**  AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
+- <b>Currency</b>  AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
 
-To View the SQL query built on retrieving data in report, click on **SQL** section.
+To View the SQL query built on retrieving data in report, click on <nSQL** section.
 
 9 eg: area code, wayused and![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
 **Image 16**
@@ -356,8 +356,8 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTEwNDIzNTQsMTkzNzM3NzIxLDExMj
-YzMzIwNjIsLTE2MjY3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQw
-MzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MD
-IzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTc0MDI3MzgxOSwxOTM3Mzc3MjEsMTEyNj
+MzMjA2MiwtMTYyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAz
+OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
+M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
