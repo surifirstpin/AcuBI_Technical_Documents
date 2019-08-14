@@ -164,19 +164,19 @@ For <b>Measures</b>
 
 <b>9.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
-<b>10.** To download the data in csv format, click ***download data***.
+<b>10.</b> To download the data in csv format, click <b>download data</b>.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1877afffe878ada04f7e66846fc1f74161830c79/images/New_version5/TD_Reports_6.png)
-**Image 6**
+ <b><Font color = " black">Image 6</font></b>
 
 ## Pivot table
 
 Multiple dimensions in report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
-To **Pivot** a dimension click on pivot for dimension before or after running the query.
+To <b>Pivot</b> a dimension click on pivot for dimension before or after running the query.
 
-> **Note :** you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
+> <b>Note :</b> you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
->**For instance,** To view number of orders received based on the month it displays in following way:
+><b>For instance,</b> To view number of orders received based on the month it displays in following way:
 
 | Order Received  |year  |month|Region|Name|
 |--|--|--|--|--|
@@ -353,7 +353,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzU1ODkyMiwxNTQyNjQwMzkyLC05Nz
+eyJoaXN0b3J5IjpbLTE3MzgzMTU3NiwxNTQyNjQwMzkyLC05Nz
 AxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUs
 MTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
