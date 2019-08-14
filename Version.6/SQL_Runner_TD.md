@@ -123,7 +123,7 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 
 - <b>Tag Name</B>  Enter tag name
 
-- <b>Connection<b>  displays the connections established for query.
+- <b> Connection</b>  displays the connections established for query.
 
 - <b>Query</b>  displays the query established.
 
@@ -134,10 +134,12 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
  <b><Font color = " black">Image 10</font></b>
 
--   All created tags are visible under  <b>Tagged Section.</b>
+
+-   All created tags are visible under <b>Tagged Section.</b>
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
 <b><Font color = " black">Image 11</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2MzA4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbMTcyMTg2MTk2MywyNTYzMDg5MzQsODU3OT
+A2NTg4XX0=
 -->
