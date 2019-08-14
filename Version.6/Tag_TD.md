@@ -35,8 +35,8 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 <b>4.</b>Tags can be saved in Public, Private or Share under sharing status. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 3</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY2MTUwMjYsLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
