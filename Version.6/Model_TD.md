@@ -704,17 +704,17 @@ Insert customers table in to the project by selecting the <b>checkbox for custom
 
 ## Deleting Project
 
-Deleting project will permanently removes project from database. To carryout deletion click on <b>Delete Icon</b>  available next to project list. It will pop-up a message showing to delete the file permanently Click <b>Delete</b> or else click *NO*.
+Deleting project will permanently removes project from database. To carryout deletion click on <b>Delete Icon</b>  available next to project list. It will pop-up a message showing to delete the file permanently Click <b>Delete</b> or else click <b>NO*.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMT
-I1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEs
-LTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMD
-c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
-ODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LD
-I1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1MDkzODksODY2NjA0
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTczMTU1NzgxNiwtMTA0Nzk5NDE1MCwzND
+Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
+LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
+EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
+OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
+EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
+OTM4OV19
 -->
