@@ -699,17 +699,17 @@ You can rename the project created, insert more tables into already existing pro
 Insert customers table in to the project by selecting the *checkbox for customer*s then click on *update* button to save the changes made. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 14</font></b>
 
 ## Deleting Project
 
 Deleting project will permanently removes project from database. To carryout deletion click on *Delete Icon*  available next to project list. It will pop-up a message showing to delete the file permanently Click *Delete* or else click *NO*.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
-**Image 15**
+ <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjkzNTI1LDgzMTEwNzUwNiwtNzcyMz
+eyJoaXN0b3J5IjpbMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMz
 E4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUs
 LTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOT
 MxNDM1OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2
