@@ -5,7 +5,7 @@
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i><b>
  
-<b>1.</b> Click on <b>Reports Section</b> and select the desired **Project** and **Model** based on which the data is retrieved.
+<b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project** and **Model** based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
 **Image 1**
@@ -347,7 +347,7 @@ Using drill down you can view more deeper insights of the data.
 **Image 17**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1OD
-Q0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZd
-fQ==
+eyJoaXN0b3J5IjpbNzg2OTAwMTE5LC05NzAxNzkzMTMsNDcxMz
+M0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwt
+NjE3OTUzMTI2XX0=
 -->
