@@ -407,32 +407,32 @@ Gauge chart displays current status in the context of goal.
   
   - <b>Timeseries</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
--  <b>X-Grid Color** display specific color on X-axis.
+-  <b>X-Grid Color</b> display specific color on X-axis.
 
-- **X-Axis Font Color** Enables different color option for the values on X-axis.
+- <b>X-Axis Font Color</b> Enables different color option for the values on X-axis.
 
-- **X-Axis**  specify a dimension or a measure( Horizontal Bar) field on X-axis.
+- <b>X-Axis</b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
 
-- **Show Grid** enables the grid display for dimension fields on x-axis.
+- <b>Show Grid</b> enables the grid display for dimension fields on x-axis.
 
-- **Axis label** Label text  for x-axis.
+- <b>Axis label</b> Label text  for x-axis.
 
-**Reference Lines** enables the creation of reference lines in a chart.
+- <b>Reference Lines</b> enables the creation of reference lines in a chart.
 
- - **Reference** specify a indicator name. 
+ - <b>Reference</b> specify a indicator name. 
   
- - **Type** specify reference type as line or  area.
+ - <b>Type</b> specify reference type as line or  area.
   
- -  **From & to** specify the reference line for specific range of dimensions.
+ -  <b>From & to</b> specify the reference line for specific range of dimensions.
 
- - **Theme** enables colour for reference line.
+ - <b>Theme</b> enables color for reference line.
  
- > **Note:**  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ > <b>Note:</b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
-**Image 22**
+<b><font color = "Black"> Image 1</b>
 
 - **Axis** select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUyODQ1OTEsMTY0MTA2NDQ4MywyMD
-E1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3
-MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMj
-AxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUz
-NTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3Ni
-wtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3
-MDU1ODldfQ==
+eyJoaXN0b3J5IjpbMjA3Mjk5NTk0NCwxNjQxMDY0NDgzLDIwMT
+UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
+NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
+E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
+MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC
+0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcw
+NTU4OV19
 -->
