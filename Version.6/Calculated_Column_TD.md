@@ -34,40 +34,40 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - <b>Data Type</b> data type used (string,number).
 
-- <b>Field type< /b>derives dimension or measure.
+- <b>Field Type </b>derives dimension or measure.
 
-- **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
+- <B>Calculation</b> To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
-- **Calculate on the raw data** this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
+- <b>Calculate on the raw data</b> this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e460f84e0b5d682248fe9a8b68a3741dbba05bb2/images/New_version5/TD_CC_Image1.png)
-**Image 2**
+<b><font color = "Black"> Image 2</b>
 
-- Click **OK** after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
+- Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97b3a3853c6c77d37e4e049e95204864161eb785/images/New_version5/TD_CC_Image2.png)
-**Image 3**
+<b><font color = "Black"> Image 3</b>
 
 ## Mathematical operation 
 
 Custom made mathematical operations can be added in calculated column section as shown in below Image;
 
-**Example 1 :**
+<b>Example 1 :</b>
 
- To calculate **Number of working days** in each month, use the below expression in calculation field window as shown in below image; 
+ To calculate <b>Number of working days</b> in each month, use the below expression in calculation field window as shown in below image; 
 
 ```
 bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7affb65120b0b17ab3b6a7bb14ec351c58fb27e/images/New_version5/TD_CC_Image4.png)
- **Image 4**
+ <b><font color = "Black"> Image 4</b>
  
   - The resultant for this calculated column will display number of working days in each month.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92bcc6564c0ad304b4ec4955cc3d43f693c3b9a6/images/New_version5/TD_CC_Image5.png)
-**Image 5**
+<b><font color = "Black"> Image 5</b>
 
-**AcuBi supports following functionalities in calculated column:**
+<b><i>AcuBi supports following functionalities in calculated column:**
 
 ### General
 | **Name**| **Description**  | **Usage and  Example**|
@@ -427,10 +427,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODI5NzMxMCw2NTAyODc0OTYsMTc1OT
-M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
-MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
-kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
-NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOS
-w2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbLTE2MzM2NDE1MDYsNjUwMjg3NDk2LDE3NT
+kzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1
+NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLD
+c5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUx
+OTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0Mj
+ksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
 -->
