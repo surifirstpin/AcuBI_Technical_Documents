@@ -352,14 +352,14 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Rotation</b> This option controls the clockwise rotation angle (in degrees) of the label, the rotation center point being the label center. The default value is 0 (no rotation).
 
--  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
+-  <b>Align</b>   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
-   -   **Start** the label is positioned before the anchor point, following the same direction
-   -   **End** the label is positioned after the anchor point, following the same direction
-   -   **Center (default)** the label is centered on the anchor point
-   -   **Right** the label is positioned to the right of the anchor point (0°)
-   -   **Bottom** the label is positioned to the bottom of the anchor point (90°)
-      -   **Left** the label is positioned to the left of the anchor point (180°)
+   -   <b>Start</b> the label is positioned before the anchor point, following the same direction
+   -   <b>End</b> the label is positioned after the anchor point, following the same direction
+   -   <b>Center (default)</b> the label is centered on the anchor point
+   -   <b>Right</b> the label is positioned to the right of the anchor point (0°)
+   -   <b>Bottom </b>the label is positioned to the bottom of the anchor point (90°)
+      -   <b>Left</b> the label is positioned to the left of the anchor point (180°)
    -   **Top** the label is positioned to the top of the anchor point (270°)
   - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC03MT
-YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
-NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
-M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
-NDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOC
-wtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkz
-OTRdfQ==
+eyJoaXN0b3J5IjpbLTY2MDg1MzE5NCwxNjQxMDY0NDgzLDIwMT
+UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
+NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
+E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
+MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC
+0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcw
+NTU4OV19
 -->
