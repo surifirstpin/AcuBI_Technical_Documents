@@ -344,13 +344,13 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Background Enabled</b>  it enables background colour for labels.
 
-- **Font Weight**  Set the label font to normal ( default) or Bold text.
+- <b>Font Weight</b>  Set the label font to normal ( default) or Bold text.
 
-- **Font Size** Enable font size for label.
+- <b>Font Size</b> Enable font size for label.
 
-- **Border radius** Set the label border radius to a given range.
+- <b>Border radius</b> Set the label border radius to a given range.
 
-- **Rotation** This option controls the clockwise rotation angle (in degrees) of the label, the rotation center point being the label center. The default value is 0 (no rotation).
+- <b>Rotation</b> This option controls the clockwise rotation angle (in degrees) of the label, the rotation center point being the label center. The default value is 0 (no rotation).
 
 -  **Align**   it defines the position of the label relative to the anchor point position and direction. Its value can be expressed by one of the following string presets:
 
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NDQzNTQzOSwyMDE1MzkwMTY0LC03MT
+eyJoaXN0b3J5IjpbMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC03MT
 YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
 NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
 M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
