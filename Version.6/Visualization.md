@@ -451,27 +451,27 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Include Zero</b> displays measure values starting from zero.
 
-- <b>Position you can can align the y-axis to left or right side of the chart.
+- <b>Position</b> you can can align the y-axis to left or right side of the chart.
 
-**Reference Lines** enables the creation of reference lines in a chart.
+- <b>Reference Lines</b> enables the creation of reference lines in a chart.
 
-- **Name** specify a reference name for specific information on y-axis.
+- <b>Name</b> specify a reference name for specific information on y-axis.
   
- - **Type** specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+ - <b>Type</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
- -  **From & to** specify the reference line for specific range of measure values.
+ -  <b>From & to</b> specify the reference line for specific range of measure values.
 
- - **Theme** enables colour for reference line.
+ - <b>Theme</b> enables color for reference line.
  
- > **Note:**  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
 ## Format   
       
-- **Condition** Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
+- <b>Condition</b> Specify any of the following condition types Greater than, Less than, Between, Not Between, equal to, duplicates values, Top 10 Items, Bottom 10 Items, Above Average, Below Average for the fields.
 
-- **Format on** Specify a measure field on which you want to apply format.
+- <b>Format on</b> Specify a measure field on which you want to apply format.
 
-- **Value** Specify a value to measure the condition.
+- <b>Value** Specify a value to measure the condition.
 
 - **BG (background colour)** Select the background colour for the data which is retrieved using condition.
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNzA4Mjc0MywxNjQxMDY0NDgzLDIwMT
-UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
-NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
-E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
-MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC
-0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcw
-NTU4OV19
+eyJoaXN0b3J5IjpbLTE1Mjc1MDk1NTYsMTY0MTA2NDQ4MywyMD
+E1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3
+MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMj
+AxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUz
+NTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3Ni
+wtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3
+MDU1ODldfQ==
 -->
