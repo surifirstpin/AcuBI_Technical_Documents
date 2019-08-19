@@ -209,45 +209,45 @@ Bar charts are used to compare data across different categories. You can build a
  <b>7.</b>Choose chart type <b>BAR</b> from given drop-down list compare the data using Bar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ba4dbdd16bfef4193c756dfae1a0dbef16d9fb/images/New_version5/TD_Visu_Image11.png)
-**Image 12**
+<b><font color = "Black"> Image 12</b>
 
 ## Bubble chart 
 
 It is used to display the data in circles. We can define each bubble using Dimension value and size by Measure value.
  
- **8.** .Choose chart type **BUBBLE** from given drop-down list compare the data.
+ <b>8.</b> Choose chart type <b>BUBBLE</b> from given drop-down list compare the data.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/91b2a584b941b19f94d1c93e5a856b8de3ebe51c/images/New_version5/TD_Visu_Image12.png)
-**Image 13**
+<b><font color = "Black"> Image 13</b>
 
 ## Table chart 
  
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
- **9.** Choose chart type **Table** from drop-down list.
+ <b>9.</b> Choose chart type <b>Table</b> from drop-down list.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08c494f9fa806d23afe1ace4e408a1f94d08d824/images/New_version5/TD_visu_image13.png)
-**Image 14**
+<b><font color = "Black"> Image 14</b>
 
 ### Hide Pivot
 
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
-**For Example** : Apply subtraction for Quantity_Sum and derive the expression in calculated column as follow;
+<b>For Example</b> : Apply subtraction for Quantity_Sum and derive the expression in calculated column as follow;
 
 ```
 pivot_offset(#{biplus.orders.sum_quantity},0,-1)
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b297a288ba4fa4e9db7a19c43c2f2751ad0f1130/images/New_version5/TD_Visu_Image14.png)
-**Image 15**
+<b><font color = "Black"> Image 15</b>
 
 The resultant for this expression would be seen in green color;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
-**Image 16**
+<b><font color = "Black"> Image 17</b>
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox **pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
 **Image 17**
 
@@ -488,11 +488,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1NjkzNzgsMjAxNTM5MDE2NCwtNzE2Mz
-M2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQs
-LTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNj
-M2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQx
-ODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLT
-czNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0
-XX0=
+eyJoaXN0b3J5IjpbNTA3ODI1MDI3LDIwMTUzOTAxNjQsLTcxNj
+MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
+LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
+YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
+MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC
+03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5
+NF19
 -->
