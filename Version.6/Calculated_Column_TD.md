@@ -13,7 +13,7 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 - It controls or access the data with user wise calculations.
 
--  Optimize and transform the data using  **#plugin#**  functionality.
+-  Optimize and transform the data using  <b>#plugin#</b>  functionality.
 
 - Define a function or use a global function to be applied on the required data fields.
  
@@ -427,10 +427,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMT
-c1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2
-OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLT
-EwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4
-MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4MC
-wxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1Mz
+QwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYy
+MTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMD
+MyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEy
+MzkxLC01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC
+05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
 -->
