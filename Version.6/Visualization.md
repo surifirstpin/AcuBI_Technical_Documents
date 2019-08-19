@@ -193,6 +193,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - <b>Data Field:</b> choose the data field to display it on map.	
 
 - <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
+
 - <b>Color Field</b> specifies which field to be colored.
 
 - **Colour From & To** specify the color specific range of values in map region.
@@ -487,11 +488,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTM5MDE2NCwtNzE2MzM2OTc2LC04ND
-Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
-NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
-I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
-OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4MzczOC
-w0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEw
-MTA5XX0=
+eyJoaXN0b3J5IjpbMTU3NDI5Nzc5NCwyMDE1MzkwMTY0LC03MT
+YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
+NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
+M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
+NDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOC
+wtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkz
+OTRdfQ==
 -->
