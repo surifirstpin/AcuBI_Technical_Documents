@@ -19,11 +19,11 @@ To view existing report in AcuBi click on report name in My Space report list. I
 <b>2.</b> To Save the added filter click save.
 <b>3.</b> To restore the previously applied filter click default.
 
-
 <b>For Example :</b>  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/40e942e774c02238eb5c6a69120dd5e500e74b95/images/New_version5/td_view_report_image3.png)
-**Image 3**
+<b><font color = "Black"> Image 3</b>
+
 -   You can also make use of inclusive, exclusive braces to filter the data.
     
     -   A closed interval [a,b] includes the end points.
@@ -31,11 +31,11 @@ To view existing report in AcuBi click on report name in My Space report list. I
     -   An open interval (a,b) excludes them.
         
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
-**Image 4**
+<b><font color = "Black"> Image 4</b>
 
 ## [Refresh & Hard Refresh]
 
--   **Refresh**  displays the most recent data information of the report.
+-   <Refresh**  displays the most recent data information of the report.
     
 -   **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
     
@@ -70,7 +70,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzgyNjYwLDMyNTU0NTExNiwtOTc0NT
-Q1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4
-LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbLTgyMTA2Mjc0OCwzMjU1NDUxMTYsLTk3ND
+U0NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMy
+OCwtODU0NDI1MjUzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
 -->
