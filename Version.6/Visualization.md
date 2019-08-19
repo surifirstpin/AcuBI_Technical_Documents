@@ -432,26 +432,26 @@ Gauge chart displays current status in the context of goal.
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 22</b>
 
-- **Axis** select the measures values on y-axis  to enable
+- <b>Axis</b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
-- **Axis label** Text label for x-axis.
+- <b>Axis label</b> Text label for x-axis.
 
-- **Format** it enables number format for numeric values.
+- <b>Format</b> it enables number format for numeric values.
 
--  **Y-Grid Color** display different color on Y-axis.
+-  <b>Y-Grid Color</b> display different color on Y-axis.
 
-- **Y-Axis Font Color** Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
+- <b>Y-Axis Font Color</b> Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
 
-- **Y-Axis** display dimensions or measures ( Horizontal bar) values on Y-axis. 
+- <b>Y-Axis</b> display dimensions or measures ( Horizontal bar) values on Y-axis. 
 
-- **Show Grid** enables the grid display on y-axis.
+- <b>Show Grid</b> enables the grid display on y-axis.
 
-- **Include Zero** displays measure values starting from zero.
+- <b>Include Zero</b> displays measure values starting from zero.
 
-- **Position** you can can align the y-axis to left or right side of the chart.
+- <b>Position you can can align the y-axis to left or right side of the chart.
 
 **Reference Lines** enables the creation of reference lines in a chart.
 
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjk5NTk0NCwxNjQxMDY0NDgzLDIwMT
+eyJoaXN0b3J5IjpbLTIzNzA4Mjc0MywxNjQxMDY0NDgzLDIwMT
 UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
 NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
 E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
