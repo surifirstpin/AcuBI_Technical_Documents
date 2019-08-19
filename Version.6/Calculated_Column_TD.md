@@ -426,10 +426,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
  **Note :**  it returns value 13. As shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzgxMjQxMyw2NTAyODc0OTYsMTc1OT
+eyJoaXN0b3J5IjpbMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OT
 M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
 MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
 kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
