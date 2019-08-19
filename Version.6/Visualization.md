@@ -401,13 +401,13 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Axis type</b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
-  - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
+  - <b>Indexed</b> specifies the data to be plotted in numeric values starting from zero on x-axis.
    
-  - **Category** specifies the data to be plotted as category group on x-axis.
+  - <b>Category</b> specifies the data to be plotted as category group on x-axis.
   
-  - **Timeseries** specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+  - <b>Timeseries</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
--  **X-Grid Color** display specific color on X-axis.
+-  <b>X-Grid Color** display specific color on X-axis.
 
 - **X-Axis Font Color** Enables different color option for the values on X-axis.
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3ODY2NjgwOCwxNjQxMDY0NDgzLDIwMT
-UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
-NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
-E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
-MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC
-0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcw
-NTU4OV19
+eyJoaXN0b3J5IjpbLTE4NzUyODQ1OTEsMTY0MTA2NDQ4MywyMD
+E1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3
+MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMj
+AxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUz
+NTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3Ni
+wtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3
+MDU1ODldfQ==
 -->
