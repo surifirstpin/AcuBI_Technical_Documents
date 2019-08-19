@@ -60,7 +60,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
     
 - <b>Points</b>  will display the data by specifying the points on the chart.
 
-- **Point style** will specify how the data points will appear on chart. 
+- <b>Point style</b> will specify how the data points will appear on chart. 
 Below are the following point styles available in AcuBi. 
   - Circle
   - Triangle
@@ -76,20 +76,20 @@ Below are the following point styles available in AcuBi.
 
 Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
 
- **2.** Choose chart type **HORIZONTAL BAR** from given drop-down list compare the data using horizontal chart.
+ <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from given drop-down list compare the data using horizontal chart.
  
-- **Stacked (Data)** Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
+- <b>Stacked (Data)</b> Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
 
-- **100% Stacked (Data)**  Series of values are presented as percentages stacked on the y-axis, where all values add up to 100%.
+- <b>100% Stacked (Data)</b>  Series of values are presented as percentages stacked on the y-axis, where all values add up to 100%.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e085dae5dd6aec8779a3b86754655b91251ec655/images/New_version5/TD_Visu_Image4.png)
-**Image 4**
+<b><font color = "Black"> Image 4</b>
 
 ## Pie Chart 
 
 Pie Chart are divided into slices to illustrate numerical proportions of the data.
 
- **3.**  Choose chart type **PIE** from given drop-down list compare the data using Pie chart.
+ <b>3.</b>  Choose chart type <b>PIE</b> from given drop-down list compare the data using Pie chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
 **Image 5**
@@ -485,11 +485,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTczNDE2OSwtNzE2MzM2OTc2LC04ND
-Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
-NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
-I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
-OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4MzczOC
-w0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEw
-MTA5XX0=
+eyJoaXN0b3J5IjpbLTE2NjAzMzY5MzEsLTcxNjMzNjk3NiwtOD
+Q0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4
+Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLT
+EyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkz
+OTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3Mz
+gsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkx
+MDEwOV19
 -->
