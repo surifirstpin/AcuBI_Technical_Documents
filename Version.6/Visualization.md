@@ -92,19 +92,21 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
  <b>3.</b>  Choose chart type <b>PIE</b> from given drop-down list compare the data using Pie chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
-**Image 5**
+<b><font color = "Black"> Image 5</b>
 
 ### Editing Options for Pie Chart
  
-- **Show percentage**  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
+- <b>Show percentage:</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
 
-- **Polar Area** On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
+- <b>Polar Area:</b> On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image6.png)
-**Image 6**
+<b><font color = "Black"> Image 6</b>
 
--  **Donut** donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  <b>Donut:</b> donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image7.png)
-**Image 7**
+<b><font color = "Black"> Image 7</b>
 
 ## Radar chart 
 
@@ -485,11 +487,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjAzMzY5MzEsLTcxNjMzNjk3NiwtOD
-Q0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4
-Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLT
-EyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkz
-OTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3Mz
-gsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5NCwtMTUzMjkx
-MDEwOV19
+eyJoaXN0b3J5IjpbMTQ2NjEyNDYwOSwtNzE2MzM2OTc2LC04ND
+Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
+NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
+I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
+OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4MzczOC
+w0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEw
+MTA5XX0=
 -->
