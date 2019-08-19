@@ -10,7 +10,7 @@ To view existing report in AcuBi click on report name in My Space report list. I
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ccc66f6bc28c68e3c17becce4f804f2e6f2845f/images/New_version5/td_view_report_image1.png)
 <b><font color = "Black"> Image 1</b>
 
--  To add more filters click  **Add Filters.**
+-  To add more filters click  <b>Add Filters.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/970e317b2fcf1e9fa777b7a05d73c1ca7b122947/images/New_version5/td_view_report_image2.png)
 **Image 2**
@@ -70,7 +70,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5MTkyNDYzLDMyNTU0NTExNiwtOTc0NT
-Q1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4
-LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbMTQyOTg0OTY4OCwzMjU1NDUxMTYsLTk3ND
+U0NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMy
+OCwtODU0NDI1MjUzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
 -->
