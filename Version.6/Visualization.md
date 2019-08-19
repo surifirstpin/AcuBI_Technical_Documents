@@ -184,16 +184,16 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  
 - <b>Title:</b> specify a title for world map.
 
-- <b>Flat Map** displays a flat view or "2D" vision of the map.
+- <b>Flat Map:</b> displays a flat view or "2D" vision of the map.
 
-- **Default** set default colour to display specific countries.
+- <b>Default:</b> set default color to display specific countries.
 
-- **Over Border** colour the border of a map region.
+- <b>Over Border:</b> color the border of a map region.
 
-- **Data Field** choose the data field to display it on map.	
+- <b>Data Field:</b> choose the data field to display it on map.	
 
-- **Tip Fields** select numbers of data fields to be displayed on map.
-- **Colour Field** specifies which field to be colored.
+- <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
+- <b>Color Field</b> specifies which field to be colored.
 
 - **Colour From & To** specify the color specific range of values in map region.
 
@@ -487,7 +487,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDk1NjgxOSwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbMjAxNTM5MDE2NCwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
