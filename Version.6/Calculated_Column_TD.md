@@ -67,10 +67,11 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92bcc6564c0ad304b4ec4955cc3d43f693c3b9a6/images/New_version5/TD_CC_Image5.png)
 <b><font color = "Black"> Image 5</b>
 
-<b><i>AcuBi supports following functionalities in calculated column:**
+<b><i>AcuBi supports following functionalities in calculated column;</i></b>
 
 ### General
-| **Name**| **Description**  | **Usage and  Example**|
+
+| Name| Description  | Usage and  Example|
 |--|--|--|
 |Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
 |pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for instance: m is row number & n is column number|
@@ -86,6 +87,7 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 |col_running_avg|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
 
 ### Statistics
+
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
 |  unequal | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
@@ -294,10 +296,10 @@ To calculate Average of bets_usd_sum and amount 2500, derive the following expre
 bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
 ```
 
-The resultant for this expression would average values:
+<b><i>The resultant for this expression would average values;</i></b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f447485e9df72be1a5ed91a1bd24c7de54308af/images/New_version5/TD_CC_Image6.png)
-**Image 6** 
+<b><font color = "Black"> Image 6</b>
 
 
 ## Calculate Custom Functions
@@ -427,10 +429,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM2NDE1MDYsNjUwMjg3NDk2LDE3NT
-kzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1
-NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLD
-c5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUx
-OTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4ODk0Mj
-ksNjA5NTk3MTM0LC05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
+eyJoaXN0b3J5IjpbLTI2MjgxMzMwMCw2NTAyODc0OTYsMTc1OT
+M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
+MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
+kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
+NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOS
+w2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
 -->
