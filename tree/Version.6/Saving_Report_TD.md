@@ -36,28 +36,26 @@ All the reports build in analysis section are saved under <b>my space</b> tag. (
 
 Filter are used to extract only specific data you want to view. This function is carried out by applying filters to reports.
  
-- **Filter**  filters added in this section is automatically reflected in the filter section of dashboard reports.
+- <b>Filter</b>  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
-
-**Image 2**
+<b><font color = "Black"> Image 2</b>
 
 ## Enable Cache 
 
 Cache saves the data, so the future request for the data is provided faster.
 
-- **Enable cache** multiple users can pull the report from the cache in given time frame.
+- <b>Enable cache</b> multiple users can pull the report from the cache in given time frame.
 
-- **Time frame** Enables a time limit.
+- <b>Time frame</b> Enables a time limit.
 
-- **Repeat every** Enables automatic repeat in specified time range.
+- <b>Repeat every</b> Enables automatic repeat in specified time range.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
-
-**Image 3**
+<b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODg4MzMxMCwxMDEzNTY5NzM4LC00OD
-YwNjE4NDYsMTg3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0
-MywxODkzNzczODQ5LC0xNjM4NTE2NTYsMjA2MDUxODk5LC0xMT
-cyNDgwMzg2XX0=
+eyJoaXN0b3J5IjpbNTA3ODE1NjAwLDEwMTM1Njk3MzgsLTQ4Nj
+A2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4ODQz
+LDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNz
+I0ODAzODZdfQ==
 -->
