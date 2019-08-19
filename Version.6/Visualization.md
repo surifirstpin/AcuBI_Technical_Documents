@@ -379,27 +379,27 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Format</b> Choose the number format for measure value.
 
-- <b>Currency  Cheese the currency format for  measure value.
+- <b>Currency</b>  Cheese the currency format for  measure value.
 
-- **Y Axis** Choose the measure values to be displayed on chart.
+- <b>Y Axis</b> Choose the measure values to be displayed on chart.
 
-- **Column Aggregate ( Table View)** Type of aggregate value to be displayed for a measure.
+- <b>Column Aggregate ( Table View):</b> Type of aggregate value to be displayed for a measure.
 
-- **Custom Tooltip** on moving the hover on the column it displays the customized new value. 
+- <b>Custom Tooltips</b> on moving the hover on the column it displays the customized new value. 
 
-> **Example** : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
+> <b>Example</b> : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- **Custom Label** Using this option you can display your own label for the column field values. 
+- <b>Custom Label</b> Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
-- **Bubble Size( Bubble Chart)** Depending on measure values, it varies in size.
+- <b>Bubble Size( Bubble Chart)</b> Depending on measure values, it varies in size.
  
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
-**Image 21**
+<b><font color = "Black"> Image 21</b>
 
-- **Axis type** specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
+- <b>Axis type</b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
   - **Indexed** specifies the data to be plotted in numeric values starting from zero on x-axis.
    
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTI3NjQwMCwxNjQxMDY0NDgzLDIwMT
+eyJoaXN0b3J5IjpbMTE3ODY2NjgwOCwxNjQxMDY0NDgzLDIwMT
 UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
 NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
 E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
