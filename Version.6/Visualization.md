@@ -247,9 +247,10 @@ The resultant for this expression would be seen in green color;
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
 <b><font color = "Black"> Image 17</b>
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox pivot hide first** in **Data Section** to hide it in visualization charts. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. ( Applicable only for table chart). 
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
-**Image 17**
+<b><font color = "Black"> Image 17</b>
 
 Similarly, to hide last column, select check_bob Hide_Last.
 
@@ -257,14 +258,14 @@ Similarly, to hide last column, select check_bob Hide_Last.
 
 Funnels helps to visualize a process that has stages and items flow sequentially from one stage to the next. Use a funnel when there is a sequential flow between stages, such as a sales process that starts with inquiry and ends with billing.
 
-**The following section describes the editing option for bubble chart in visualization;**
+<b><i>The following section describes the editing option for bubble chart in visualization;</i></b>
  
- **10.** Choose chart type **Funnel** from drop down-list.
+ <b>10.</b> Choose chart type <b>Funnel</b> from drop down-list.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2f2fb255d5529d8fd300f252e2ce61aba3985755/images/New_version5/TD_Visu_Image17.png)
-**Image 18**
+<b><font color = "Black"> Image 18</b>
 
-**AcuBi** displays funnel charts in following formats:
+<b>AcuBi</b> displays funnel charts in following formats:
 
  - **Sort:** it enables data in the sorted order in funnel chart.
  
@@ -488,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3ODI1MDI3LDIwMTUzOTAxNjQsLTcxNj
-MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
-LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
-YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
-MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC
-03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5
-NF19
+eyJoaXN0b3J5IjpbMTE3NjMyNDk1MCwyMDE1MzkwMTY0LC03MT
+YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
+NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
+M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
+NDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOC
+wtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkz
+OTRdfQ==
 -->
