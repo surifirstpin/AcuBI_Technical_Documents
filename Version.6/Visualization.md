@@ -166,25 +166,25 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Label:</b> specify the widget label.
 
-- **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+- <b>Style:</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
 ##  World chart 
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
-**6.** Choose chart type **World** from drop-down list to compare the data using world chart.
+<b>6.</b> Choose chart type <b>World</b> from drop-down list to compare the data using world chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
- **Image 10**
+<b><font color = "Black"> Image 10</b>
  
- > **Note :** The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
- 
- **Image 11**
- 
-- **Title** specify a title for world map.
+ > <b>Note :</b> The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
 
-- **Flat Map** displays a flat view or "2D" vision of the map.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
+ <b><font color = "Black"> Image 11</b>
+ 
+- <b>Title:</b> specify a title for world map.
+
+- <b>Flat Map** displays a flat view or "2D" vision of the map.
 
 - **Default** set default colour to display specific countries.
 
@@ -487,7 +487,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MDE1MjkwNiwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbLTE3MDk1NjgxOSwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
