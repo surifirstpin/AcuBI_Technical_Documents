@@ -1,13 +1,13 @@
 
 <center><h2>View Reports</h2></center>
 
-Reports in  <b>AcuBi<b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
+Reports in  <b> AcuBi</b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
 
 ## View Report
 
 - To view existing report in AcuBi click on report name in My Space report list. It displays the report and the filter applied to a report.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a6bdd4710bbe48f663d83890c4fb392eb7f79181/images/New_version5/td_view_report_image1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ccc66f6bc28c68e3c17becce4f804f2e6f2845f/images/New_version5/td_view_report_image1.png)
 
 
 -  To add more filters click on  **Add Filters.**
@@ -69,7 +69,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC04OD
-QyMzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1
-MywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbMzI1NTQ1MTE2LC05NzQ1NDUzODcsLTM0ND
+Y3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMjgsLTg1NDQyNTI1
+MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
 -->
