@@ -265,7 +265,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2f2fb255d5529d8fd300f252e2ce61aba3985755/images/New_version5/TD_Visu_Image17.png)
 <b><font color = "Black"> Image 18</b>
 
-You can view the funnel charts in following formats by enabling checkbox for t
+<b><i> You can view the funnel charts in following formats by enabling checkbox for below mentioned fields;</i></b>
 
  - **Sort:** it enables data in the sorted order in funnel chart.
  
@@ -286,14 +286,14 @@ You can view the funnel charts in following formats by enabling checkbox for t
 Gauge chart displays current status in the context of goal.
 
  
- **11.** Choose chart type **Guage** from drop-down list.
+ <b>11.</b> Choose chart type <b>Guage</b> from drop-down list.
 
-- **Green** colour in gauge chart indicates the value attained is closer to target.
+- <b>Green</b> color in gauge chart indicates the value attained is closer to target.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4838dece9a608f6372b8e6e1ad4c52a8955d4ec/images/New_version5/TD_Visu_Image18.png)
-**Image 19**
+<b><font color = "Black"> Image 19</b>
 
-- **Orange** colour indicates the maximum value attained is half the way to target and **Red** colour indicates the maximum value attained is at initial state or lower side of the target. 
+- <b>Orange</b> color indicates the maximum value attained is half the way to target and <b>Red</b> color indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
 **Image 20**
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAxMjU1NTc4LDIwMTUzOTAxNjQsLTcxNj
-MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
-LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
-YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
-MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC
-03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5
-NF19
+eyJoaXN0b3J5IjpbLTE4Njc4MDQ2MjksMjAxNTM5MDE2NCwtNz
+E2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5
+MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMT
+AzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4
+MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMz
+gsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5
+Mzk0XX0=
 -->
