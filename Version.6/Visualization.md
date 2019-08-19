@@ -150,21 +150,21 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  <b>5.</b> Choose chart type <b>Widget</b> from drop-down list to compare the data using widget chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d5097c9535f891900b489566548ee000d4ae5204/images/New_version5/TD_Visu_Image8.png)
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 9</b>
 
-- **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+- <b>Value</b> select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
-- **Format** select the number format for the measure field.
+- <b>Format:</b> select the number format for the measure field.
 
-- **Previous value** select the second measure value for widget.
+- <b>Previous value:</b> select the second measure value for widget.
 
-- **Change** specify the conditions for selected measures such as difference, growth, none.
+- <b>Change:</b> specify the conditions for selected measures such as difference, growth, none.
 
-- **Show growth** displays the growth rate of selected measures.
+- <b>Show growth:</b> displays the growth rate of selected measures.
 
-- **Title** specify widget title.
+- <b>Title:</b> specify widget title.
 
-- **Label** specify the widget label.
+- <b>Label:</b> specify the widget label.
 
 - **Style** specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
@@ -487,11 +487,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTk5ODc5LC03MTYzMzY5NzYsLTg0ND
-Y4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3
-OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMj
-gyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5
-MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LD
-Q3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkzOTQsLTE1MzI5MTAx
-MDldfQ==
+eyJoaXN0b3J5IjpbMTU1MDE1MjkwNiwtNzE2MzM2OTc2LC04ND
+Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
+NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
+I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
+OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTczNTc4MzczOC
+w0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0LC0xNTMyOTEw
+MTA5XX0=
 -->
