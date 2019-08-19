@@ -360,26 +360,26 @@ Gauge chart displays current status in the context of goal.
    -   <b>Right</b> the label is positioned to the right of the anchor point (0°)
    -   <b>Bottom </b>the label is positioned to the bottom of the anchor point (90°)
       -   <b>Left</b> the label is positioned to the left of the anchor point (180°)
-   -   **Top** the label is positioned to the top of the anchor point (270°)
-  - **Anchor** The label position is calculated based on the anchor option. AcuBi supports Following positioning.
+   -   <b>Top</b> the label is positioned to the top of the anchor point (270°)
+  - <b>Anchor</b> The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
-    -   **Center  (default)** aligns the Label in center.
-    -   **Start** aligns the the label at lowest boundary.
-    -   **End** aligns the label at highest boundary.
+    -   <b>Center  (default)</b> aligns the Label in center.
+    -   <b>Start</b> aligns the the label at lowest boundary.
+    -   <b>End</b> aligns the label at highest boundary.
     
-- **Align Negative** It will enable the negative values to be displayed below range  `0`.
+- <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
  ## Data 
 
-- **Row Grouping** displays the grouped value of the duplicate fields.
+- <b>Row Grouping</b> displays the grouped value of the duplicate fields.
 
-- **Explore Enabled** on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
+- <b>Explore Enabled</b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
 
-- **Legend** displays the measure.
+- <b>Legend</b> displays the measure.
 
-- **Format** Choose the number format for measure value.
+- <b>Format</b> Choose the number format for measure value.
 
-- **Currency**  Cheese the currency format for  measure value.
+- <b>Currency  Cheese the currency format for  measure value.
 
 - **Y Axis** Choose the measure values to be displayed on chart.
 
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDg1MzE5NCwxNjQxMDY0NDgzLDIwMT
+eyJoaXN0b3J5IjpbLTYzNTI3NjQwMCwxNjQxMDY0NDgzLDIwMT
 UzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcy
 NjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMD
 E5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1
