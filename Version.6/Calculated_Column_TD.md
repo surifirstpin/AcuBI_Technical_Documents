@@ -21,20 +21,20 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 ### Deriving Expression
 
-Click on **Calculated column** button to enable table calculations as shown in below image,
+Click on <b>Calculated column</b> button to enable table calculations as shown in below image,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/485c2058e4be936a828b501dff5ff718fd7b89fb/images/New_version5/TD_CC_Image0.png)
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
 After navigating to Calculated Column Window, Enter all the below fields.
 
-- **Field name** unique identifier name to refer calculated column.
+- <b>Field name</b> unique identifier name to refer calculated column.
 
-- **Label** labeling the calculated column.
+- <b>Label</b> labeling the calculated column.
 
-- **Data type** data type used (string,number).
+- <b>Data Type</b> data type used (string,number).
 
-- **Field type** derives dimension or measure.
+- <b>Field type< /b>derives dimension or measure.
 
 - **Calculation** To derive a expressions, enter $ symbol in calculation window, it will display list of functions and fields available for executing arithmetical & logical expressions in calculated column section or else you can choose your functionality manually by selecting the suitable functions available on right side of the screen.
 
@@ -427,10 +427,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1Mz
-QwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYy
-MTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMD
-MyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEy
-MzkxLC01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC
-05MzQ0NzIzODAsMTUxOTUzMTU1Nl19
+eyJoaXN0b3J5IjpbMTM5ODI5NzMxMCw2NTAyODc0OTYsMTc1OT
+M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
+MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
+kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
+NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOS
+w2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
 -->
