@@ -3,18 +3,18 @@
 <center><h1>Visualization</h1></center>
 
 
-AcuBi has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data.
+<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data.
 
-**Let us see in details how to configure visualization;**
+<b>Let us see in details how to configure visualization;</b>
 
 Reports fetches an impressive and good looking charts with the data obtained, in fraction of seconds.
  
 ## Getting Started With Visualization.
 
-Click on **Charts** tab to configure visualization option for the result obtained. This will connect you to visualization section.
+Click on <b>Charts</b> tab to configure visualization option for the result obtained. This will connect you to visualization section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52de5df82ef6986d3c2224728e8100490c41ad22/images/New_version5/TD_Visu_Image1.png)
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
 
 ## Types of Visualization
@@ -22,9 +22,9 @@ Click on **Charts** tab to configure visualization option for the result obtaine
 AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
-**Image 2**
+<b><font color = "Black"> Image 2</b>
 
-**Let us see them in detail : **
+<b><i> Let us see them in detail : </i
  - Line
  - Horizontal Bar
  - Pie
@@ -484,7 +484,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDkzMTU1MCwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbLTY4MjY3MDY1NiwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
