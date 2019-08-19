@@ -314,7 +314,7 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Reverse:</b> displays the measure values in reversal direction maximum to minimum.
 
-- <b>Hide Minmax**  hides min and maximum values in gauge target.
+- <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
 
 
 
@@ -322,15 +322,15 @@ Gauge chart displays current status in the context of goal.
 
 ## General Section 
 
-- **Title** specify title for the chart selected.
+- <b>Title</b> specify title for the chart selected.
 
-- **Position** align title to top,bottom,left,right position.
+- <b>Position</b> align title to top,bottom,left,right position.
 
-- **Label** Specify label text.
+- <b>Label</b> Specify label text.
 
-- **Padding** specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
+- <b>Padding</b> Specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
-- **Tooltips** if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
+-<b>Tooltips** if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
 
 - **Grouped Tooltips** if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDg3MTQwLDIwMTUzOTAxNjQsLTcxNj
+eyJoaXN0b3J5IjpbNzM2MDg3NDExLDIwMTUzOTAxNjQsLTcxNj
 MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
 LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
 YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
