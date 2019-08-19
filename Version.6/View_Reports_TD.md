@@ -35,25 +35,25 @@ To view existing report in AcuBi click on report name in My Space report list. I
 
 ## [Refresh & Hard Refresh]
 
--   <Refresh**  displays the most recent data information of the report.
+-   <b>Refresh</b>  displays the most recent data information of the report.
     
--   **Hard Refresh**  displays the most recent data information by clearing the cache for specific dashboard or report.
+-   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 
 ## [Download CSV & Image Formats]
 
--   **Download CSV**  download the dashboard report in CSV format.
+-   <b>Download CSV</b>  download the dashboard report in CSV format.
     
--   **Image format**  download the dashboard report in image format.
+-   <b>Image format</b>  download the dashboard report in image format.
     
 
 ## Lookup Single & Multiple
 
-Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using  **Add Lookups**  in  **Apply filter**  section of dashboard.
+Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using  <b>Add Lookups</b>  in  <b>Apply filter</b>  section of dashboard.
 
--   **Lookup name**  name of the lookup field.
+-   <b>Lookup name</b>  name of the lookup field.
     
--   **Lookup Type**  refers to item or query type.
+-   <b>Lookup Type</b>  refers to item or query type.
     
 -   **Test Lookup**  to test the lookup.
     
@@ -70,7 +70,7 @@ To hide the filter panel click on  **left shift operator**  on dashboard report 
 To view the filter panel use  **Right shift operator**  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTA2Mjc0OCwzMjU1NDUxMTYsLTk3ND
-U0NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMy
-OCwtODU0NDI1MjUzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTU5MzUyOTc0LDMyNTU0NTExNiwtOTc0NT
+Q1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4
+LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
