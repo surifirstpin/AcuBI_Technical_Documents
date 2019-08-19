@@ -194,19 +194,19 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
 
-- <b>Color Field</b> specifies which field to be colored.
+- <b>Color Field:</b> specifies which field to be colored.
 
-- **Colour From & To** specify the color specific range of values in map region.
+- <b>Color From & To:</b> specify the color specific range of values in map region.
 
-- **Negative Cutoff** enabled when negatives values are applicable.
+- <b>Negative Cutoff:</b> enabled when negatives values are applicable.
 
-- **Negative colour-from & to** Specify colour for specific range of negative values.
+- <b>Negative color-from & to:</b> Specify color for specific range of negative values.
 
 ## Bar Chart
 
 Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
 
- **7.** .Choose chart type **BAR** from given drop-down list compare the data using Bar chart.
+ <b>7.</b>Choose chart type <b>BAR</b> from given drop-down list compare the data using Bar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ba4dbdd16bfef4193c756dfae1a0dbef16d9fb/images/New_version5/TD_Visu_Image11.png)
 **Image 12**
@@ -488,11 +488,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NDI5Nzc5NCwyMDE1MzkwMTY0LC03MT
-YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
-NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
-M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
-NDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOC
-wtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkz
-OTRdfQ==
+eyJoaXN0b3J5IjpbNzE1NjkzNzgsMjAxNTM5MDE2NCwtNzE2Mz
+M2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQs
+LTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNj
+M2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQx
+ODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLT
+czNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5Mzk0
+XX0=
 -->
