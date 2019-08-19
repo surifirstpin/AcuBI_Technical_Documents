@@ -170,14 +170,15 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
   <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
+## List View
 
-
+To view the list of re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2OD
-A3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwt
-NzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5ND
-gxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIxMzgs
-LTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0Niw3MzAwND
-Q2MTAsMTQ1NDY3NjQzOCw0MjM3NDUzOCwtMzYyMjQ5NzA5XX0=
+eyJoaXN0b3J5IjpbMTA2MTk4MDAxMyw5ODg1MjE4MjksMzkyMj
+YzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwt
+MjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEyNywtMTM0Mj
+Q1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5NDYs
+MTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMT
+kyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4XX0=
 
 -->
