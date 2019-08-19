@@ -133,11 +133,11 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
   - Dash
   
 - <b>Reverse scale:</b>  it displays the inverse values.
-<bFor Instance :** if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
+<b>For Instance :</b> if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
 
-- **Show ticklabels** it enables measure values on y-axis.
+- <b>Show Tick-labels</b> it enables measure values on y-axis.
 
-- **Show arc lines** it points the dimension fields in radar chart.
+- <b>Show arc lines:</b> it points the dimension fields in radar chart.
 
 - **Arc field** select the dimension field to apply arc lines.
 
@@ -487,7 +487,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTY4NjMwMiwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbLTg5NTU3MjI0OCwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
