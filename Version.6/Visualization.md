@@ -471,25 +471,25 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Format on</b> Specify a measure field on which you want to apply format.
 
-- <b>Value** Specify a value to measure the condition.
+- <b>Value</b> Specify a value to measure the condition.
 
-- **BG (background colour)** Select the background colour for the data which is retrieved using condition.
+- <b>BG (background color)</b> Select the background color for the data which is retrieved using condition.
 
-- **Font** Select the font colour for the data retrieved based on condition.
+- <b>Font</b> Select the font color for the data retrieved based on condition.
 
-- **Icon** Select a icon for the data retrieved based on condition.
+- <b>Icon</B> Select a icon for the data retrieved based on condition.
 
-- **Before number** Align the icon before or after the data.
+- <b>Before number</b> Align the icon before or after the data.
 
 
-**For Example :** Consider below image, which displays the format section for table chart.
+<b>For Example :</b> Consider below image, which displays the format section for table chart.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-**Image 23**
+<b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjc1MDk1NTYsMTY0MTA2NDQ4MywyMD
+eyJoaXN0b3J5IjpbLTExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMD
 E1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3
 MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMj
 AxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUz
