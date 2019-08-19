@@ -174,17 +174,21 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 To view the list of reports and dashboards in List View click on <b>List View.</b>
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
+ <B><font color = " Black"> Image 14 </font></b>
 
 ## Folder View
 
 To view the list of reports and dashboards in Folder View click <b> Folder View</b>.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
+ <B><font color = " Black"> Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MDY3MjY2NiwxNDEyOTM3NzA4LDk4OD
-UyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLDg4MDIzMTU5NCwx
-MjUwMDc1MDY0LC0yMTU5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNT
-Q0MTI3LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIs
-LTYxOTIyNzk0NiwxNjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1Mz
-cwMTI4LDE2NTMxOTI1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0Mzhd
-fQ==
+eyJoaXN0b3J5IjpbLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5OD
+g1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQs
+MTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MD
+U0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzky
+LC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NT
+M3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4
+XX0=
 -->
