@@ -330,35 +330,35 @@ bi._Fname(input_param1, input_param2,..input_paramN)
  bi.in_global_keys(["ParameterColumnName"] ["DatabaseValue"],"ParameterName.Field"])
 ```
 
-- **Parameter Column Name** Refer the key name from global parameter.
+- <b>Parameter Column Name</b> Refer the key name from global parameter.
 
--  **Database Value** Refers database value.
+-  <b>Database Value</b> Refers database value.
 
-- **Parameter Name Field** Returns the field from global parameter it is applicable in 3 different ways ;
+- <b>Parameter Name Field</b> Returns the field from global parameter it is applicable in 3 different ways ;
 
- **1.**  **Static value** Global parameters refers to a static value.
+ <b>1.</b> <b>Static value</b> Global parameters refers to a static value.
 
  ```
   bi.in_global_keys( ["Parameter_Column_Name "],["Reference string" ],"Global_parameter.field")
 ```
 
->**For Instance:**
+><b>For Instance:</b>
 ``` 
 bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 ```
 
-**2.** **Reference value** Global parameters refers to reference value.
+<b>2.</b> <b>Reference value</b> Global parameters refers to reference value.
 
 ```
   bi.in_global_keys( ["Parameter_Column_Name "],["database column" ],"Global_parameter.field")
 ```
 
->**For Instance:** 
+><b>For Instance:</b>
 ```
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
-**3. Login Name(User Id)** Provide Access based on Login ID.
+<b>3. Login Name(User Id)</b> Provide Access based on Login ID.
 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
@@ -429,10 +429,10 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 **Image 13**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MjgxMzMwMCw2NTAyODc0OTYsMTc1OT
-M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
-MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
-kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
-NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOS
-w2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbNzUwMDk0NzA0LDY1MDI4NzQ5NiwxNzU5Mz
+UwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUx
+LC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OT
+E5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2
+Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LD
+YwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1MzE1NTZdfQ==
 -->
