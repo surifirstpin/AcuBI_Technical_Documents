@@ -9,21 +9,21 @@ Both reports and dashboards can be organised via My Spaces and later edited as p
 
 ### Saving a Report
 
-**1.** After creating a report, click **Save** to save the data this will connect you to Save Explore section.
+<b>1.</b> After creating a report, click <b>Save</b> to save the data this will connect you to Save Explore section.
 
-Under **Save Report** page provide all the below information to save a report for further accessing.
+Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
 
-- **Report Name** Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
+- <b>Report Name</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
-- **Title** label for the report the way you want it to appear.
+- <b>Title</b> label for the report the way you want it to appear.
 
-- **Info** displays any specific information about the report.
+- <b>Info</B> displays any specific information about the report.
 
-- **Privacy** you can save the report in any one of the following privacy option.
+- <b>Privacy</b> you can save the report in any one of the following privacy option.
 
-  - **Private ()** report saved in private section and accessed by the user itself.
-  - **Public   ()** the report is saved in public section and accessed by all the users.
-  -  **Share   ()** the report saved under share section and accessed by specific set of users.
+  - <b>Private ()</b> report saved in private section and accessed by the user itself.
+  - <b>Public   ()</b> the report is saved in public section and accessed by all the users.
+  -  Share   ()** the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_1.png)
 
@@ -57,8 +57,8 @@ Cache saves the data, so the future request for the data is provided faster.
 
 **Image 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtND
-g2MDYxODQ2LDE4NzY3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4
-NDMsMTg5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNjA1MTg5OSwtMT
-E3MjQ4MDM4Nl19
+eyJoaXN0b3J5IjpbMjM0MTYxNjAxLC0yMDAzMjA1OTI0LDEwMT
+M1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4
+OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMD
+YwNTE4OTksLTExNzI0ODAzODZdfQ==
 -->
