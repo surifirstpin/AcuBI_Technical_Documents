@@ -296,11 +296,11 @@ Gauge chart displays current status in the context of goal.
 - <b>Orange</b> color indicates the maximum value attained is half the way to target and <b>Red</b> color indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
-**Image 20**
+<b><font color = "Black"> Image 20</b>
 
-- **Value** select one of the available measure values from the drop down.
+- <b>Value:</b> select one of the available measure values from the drop down.
 
-- **Min** specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
+- Min** specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
 - **Max**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Njc4MDQ2MjksMjAxNTM5MDE2NCwtNz
-E2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5
-MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMT
-AzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4
-MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMz
-gsLTczNTc4MzczOCw0Nzc1NTYxOTksMzI1NzA1NTg5LDc1MTA5
-Mzk0XX0=
+eyJoaXN0b3J5IjpbMzE0MDQxMzkxLDIwMTUzOTAxNjQsLTcxNj
+MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
+LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
+YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
+MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC
+03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5
+NF19
 -->
