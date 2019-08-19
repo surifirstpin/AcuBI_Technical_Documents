@@ -358,13 +358,13 @@ bi.in_global_keys( ["Station_Name"],["Station_1" ],"Calc_ONRAW.value")
 bi.in_global_keys( ["Station_Name"],[${ROOT.AUTOTEST_ORDERS.STATIONCODE_724} ],"Calc_ONRAW.value")
 ```
 
-<b>3. Login Name(User Id)</b> Provide Access based on Login ID.
+<b>3. Login Name(User Id):</b> Provide Access based on Login ID.
 
 ```
 bi.in_global_keys(["ParameterColumnName","ParameterUserID"],["DatabaseField","bi._globals("#userid#")"],"ParameterName.Field"])
 ```
 
->**For Instance:** 
+><b>For Instance:</b>
 ```
 bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661} 
 ,bi._globals("#userid#")],"CalcCol_Stage2.SeizeLimit)
@@ -372,22 +372,22 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 ## Calculate on Raw functionality
 
-By enabling the field **Calculate On Raw** the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
+By enabling the field <b>Calculate On Raw</b> the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
->**For Instance:**  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
+><b>For Instance:</b>  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
 
 ```
 bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dfd8ceeda25a946ba3170730047ce3d8b09d9fa0/images/New_version5/TD_CC_Image7.png)
-**Image 7**
+<b><font color = "Black"> Image 7</b>
 
 ## Calculate column with Pivot Offset
 
 To calculate the sum difference of each customer based on hub, lets apply pivot to hub field initially as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
-**Image 9**
+<b><font color = "Black"> Image 8</b>
 
 To view bets_sum difference of each hub for specific customer using Pivot_Offset() function. 
 enter the following expression in calculation section.
@@ -395,12 +395,12 @@ enter the following expression in calculation section.
 ${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b5054cc50f00618edbe0852074d0ee37e6eb839b/images/New_version5/TD_CC_Image10.png)
-**Image 10**
+<b><font color = "Black"> Image 9</b>
 
 The resultant obtained based on calculation applied :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f92cf2c867364b26a590c9012dd41e895931a1bd/images/New_version5/TD_CC_Image9.png)
-**Image 11**
+<b><font color = "Black"> Image 10</b>
 
 ## Local Function
 
@@ -421,18 +421,18 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
-**Image 12**
+<b><font color = "Black"> Image 11</b>
 
  **Note :**  it returns value 13. As shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
-**Image 13**
+<b><font color = "Black"> Image 1</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMDk0NzA0LDY1MDI4NzQ5NiwxNzU5Mz
-UwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUx
-LC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OT
-E5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2
-Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LD
-YwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1MzE1NTZdfQ==
+eyJoaXN0b3J5IjpbMTA4MzgxMjQxMyw2NTAyODc0OTYsMTc1OT
+M1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1
+MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNz
+kxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5
+NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOS
+w2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5NTMxNTU2XX0=
 -->
