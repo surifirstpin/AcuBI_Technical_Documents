@@ -300,21 +300,21 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Value:</b> select one of the available measure values from the drop down.
 
-- Min** specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
+- <b>Minimum</b> specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- **Max**  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+- <b>Maximum:</b>  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
-- **Title** specify a title.
+- <b>Title:</b> specify a title.
 
-- **Label** specify a identifier name to display in the chart.
+- <b>Label:</b> specify a identifier name to display in the chart.
 
-- **Donut** displays total measure value.
+- <b>Donut</b> displays total measure value.
 
-- **Counter** displays minimum and maximum values of the measure.
+- <b>Counter:</b> displays minimum and maximum values of the measure.
 
-- **Reverse** displays the measure values in reversal direction maximum to minimum.
+- <b>Reverse:</b> displays the measure values in reversal direction maximum to minimum.
 
-- **Hide Minmax**  hides min and maximum values in gauge target.
+- <b>Hide Minmax**  hides min and maximum values in gauge target.
 
 
 
@@ -489,7 +489,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE0MDQxMzkxLDIwMTUzOTAxNjQsLTcxNj
+eyJoaXN0b3J5IjpbMTAxMDg3MTQwLDIwMTUzOTAxNjQsLTcxNj
 MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
 LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
 YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
