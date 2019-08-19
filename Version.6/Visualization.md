@@ -111,14 +111,14 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ## Radar chart 
 
  Radar charts are great way to compare members of a dimension in a function of several metrics.  
-**For example:** when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+<b>For example:</b> when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
- **4.** Choose chart type **RADAR** from given drop-down list compare the data using Radar chart.
+ <b>4.</b> Choose chart type <b>RADAR</b> from given drop-down list compare the data using Radar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7482c4048b2b436faf52562e46d69819e6ac9484/images/New_version5/TD_Visu_Image10.png)
-**Image 8**
+<b><font color = "Black"> Image 8</b>
 
-- **Points (General)** on selecting the checkbox it enables pointers for the data range in line chart.
+- <b>Points (General)** on selecting the checkbox it enables pointers for the data range in line chart.
 
 - **Point style(General)** will specify how the data points will appear on chart.
  Below are the following point styles available in AcuBi.  
@@ -487,7 +487,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjEyNDYwOSwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbLTY1NTI0ODcyNywtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
