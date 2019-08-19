@@ -24,7 +24,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
 <b><font color = "Black"> Image 2</b>
 
-<b><i> Let us see them in detail : </i
+<b><i> Let us see them in detail : </i></b>
  - Line
  - Horizontal Bar
  - Pie
@@ -36,19 +36,20 @@ AcuBi visualization charts are used based on the priority of what specific infor
  - Funnel
  - World
 
-**Let us see in detail how this charts works.**
+<b><i>Let us see in detail how this charts works;</i></b>
 
 ## Line Chart
 
  Line chart emphasize the overall shape of an entire series of values, usually over time.
  
- **1.** Choose chart type **LINE** from given drop-down list compare the data using line chart.
+ <b>1.</b> Choose chart type <b>LINE</b> from given drop-down list compare the data using line chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a423f24e45a87ceabf95d366b4f659dc468ce1b4/images/New_version5/TD_Visu_Image3.png)
-**Image 3**
+<b><font color = "Black"> Image 3</b>
+
  ### General Editing Options Specific to Line Chart
  
- - **Line type** displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
+ - <b>Line type</b> displays the information as a series of data points called markers. Below are the list of markers used in line chart ( spline acts as  default line type), 
    - Line
    - Spline 
    - Step
@@ -57,7 +58,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
    - Area-Step
    - Scatter
     
-- **Points**  will display the data by specifying the points on the chart.
+- <b>Points</b>  will display the data by specifying the points on the chart.
 
 - **Point style** will specify how the data points will appear on chart. 
 Below are the following point styles available in AcuBi. 
@@ -484,7 +485,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjY3MDY1NiwtNzE2MzM2OTc2LC04ND
+eyJoaXN0b3J5IjpbMjAyNTczNDE2OSwtNzE2MzM2OTc2LC04ND
 Q2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMyNzg2
 NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1NywtMT
 I4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxODIsODIyOTM5
