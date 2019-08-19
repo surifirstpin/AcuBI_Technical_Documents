@@ -22,16 +22,15 @@ Under <b>Save Report</b> page provide all the below information to save a report
 - <b>Privacy</b> you can save the report in any one of the following privacy option.
 
   - <b>Private ()</b> report saved in private section and accessed by the user itself.
-  - <b>Public   ()</b> the report is saved in public section and accessed by all the users.
-  -  Share   ()** the report saved under share section and accessed by specific set of users.
+  - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
+  -  <b>Share ()</b> the report saved under share section and accessed by specific set of users.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_1.png)
-
-**Image 1**
+<b><font color = "Black"> Image 1</b>
 
 ## Saving under specific tag
 
-All the reports build in analysis section are saved under **my space** tag. ( Refer Image 1)
+All the reports build in analysis section are saved under <b>my space</b> tag. ( Refer Image 1)
 
 ## Defining Filter fields
 
@@ -57,8 +56,8 @@ Cache saves the data, so the future request for the data is provided faster.
 
 **Image 3**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM0MTYxNjAxLC0yMDAzMjA1OTI0LDEwMT
-M1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4
-OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMD
-YwNTE4OTksLTExNzI0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbLTk1ODg4MzMxMCwtMjAwMzIwNTkyNCwxMD
+EzNTY5NzM4LC00ODYwNjE4NDYsMTg3Njc5OTkzMiw5NTM4NzYy
+ODgsMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNjM4NTE2NTYsMj
+A2MDUxODk5LC0xMTcyNDgwMzg2XX0=
 -->
