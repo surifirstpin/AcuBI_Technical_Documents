@@ -172,16 +172,18 @@ To view the saved dashboard open it from dashboard section and click on dashboar
   
 ## List View
 
-To View the list of reports and dashboards in List View click on <b>List View.</b>
-## 
+To view the list of reports and dashboards in List View click on <b>List View.</b>
 
-To view the list of reports and dashsboards in
+## Folder View
+
+To view the list of reports and dashboards in Folder View click <b> Folder View</b>.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjQ2MjYzLDk4ODUyMTgyOSwzOTIyNj
-MyMzcsODM1NjgwNzIzLDg4MDIzMTU5NCwxMjUwMDc1MDY0LC0y
-MTU5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMzQyND
-U4ODk2LDQ2OTQ4MTMzNywtODQzMTIzOTIsLTYxOTIyNzk0Niwx
-NjQ0NTgyMTM4LC05MzYyNDQxMTcsMjg1MzcwMTI4LDE2NTMxOT
-I1NDYsNzMwMDQ0NjEwLDE0NTQ2NzY0MzgsNDIzNzQ1MzhdfQ==
+eyJoaXN0b3J5IjpbMTQxMjkzNzcwOCw5ODg1MjE4MjksMzkyMj
+YzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwt
+MjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEyNywtMTM0Mj
+Q1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5NDYs
+MTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMT
+kyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4LDQyMzc0NTM4XX0=
 
 -->
