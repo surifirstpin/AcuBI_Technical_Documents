@@ -330,19 +330,19 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Padding</b> Specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
--<b>Tooltips** if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
+- <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
 
-- **Grouped Tooltips** if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
+- <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
-- **Show legend** on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
+- <b>Show legend</b> on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
 
-- **Position** Align the legend at top,bottom,left and right side of the chart.
+- <b>Position</b> Align the legend at top,bottom,left and right side of the chart.
 
-- **Include Nulls** on selecting this checkbox it displays **Null Values** retrieved in Charts section.
+- <b>Include Nulls</b> on selecting this checkbox it displays <b>Null Values</b> retrieved in Charts section.
 
-- **Display Labels** on selecting this checkbox, it displays the data value obtained for the fields.
+- <b>Display Labels</b> on selecting this checkbox, it displays the data value obtained for the fields.
 
-- **Background Enabled**  it enables background colour for labels.
+- <b>Background Enabled</b>  it enables background colour for labels.
 
 - **Font Weight**  Set the label font to normal ( default) or Bold text.
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 **Image 23**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MDg3NDExLDIwMTUzOTAxNjQsLTcxNj
-MzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0
-LC0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMz
-YzNjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0
-MTgyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC
-03MzU3ODM3MzgsNDc3NTU2MTk5LDMyNTcwNTU4OSw3NTEwOTM5
-NF19
+eyJoaXN0b3J5IjpbLTc2NDQzNTQzOSwyMDE1MzkwMTY0LC03MT
+YzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkx
+NCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMD
+M2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgy
+NDE4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOC
+wtNzM1NzgzNzM4LDQ3NzU1NjE5OSwzMjU3MDU1ODksNzUxMDkz
+OTRdfQ==
 -->
