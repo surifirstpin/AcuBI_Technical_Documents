@@ -55,22 +55,23 @@ Adding lookup to reports will refer set of query or list of items in filters. Ad
     
 -   <b>Lookup Type</b>  refers to item or query type.
     
--   **Test Lookup**  to test the lookup.
+-   <b>Test Lookup</b>  to test the lookup.
     
--   **Multiple Selections**  refers to selection of list of multiple data.
+-   <b>Multiple Selections</b>  refers to selection of list of multiple data.
     
--   **Referred**  to refer predefined filter for the following filters.
+-   <b>Referred</b>  to refer predefined filter for the following filters.
     
 ## Hide Filters panel
 
-To hide the filter panel click on  **left shift operator**  on dashboard report screen.
+To hide the filter panel click on  <b>left shift operator</b>  on dashboard report screen.
 
 ## Show Filters Panel
 
-To view the filter panel use  **Right shift operator**  on dashboard report screen.
+To view the filter panel use  <b>Right shift operator</b>  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MzUyOTc0LDMyNTU0NTExNiwtOTc0NT
-Q1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4
-LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05Nz
+Q1NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0Mzkz
+MjgsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ
+==
 -->
