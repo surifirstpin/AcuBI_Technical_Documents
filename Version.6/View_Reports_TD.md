@@ -15,8 +15,10 @@ To view existing report in AcuBi click on report name in My Space report list. I
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/970e317b2fcf1e9fa777b7a05d73c1ca7b122947/images/New_version5/td_view_report_image2.png)
 <b><font color = "Black"> Image 2</b>
 
-<b>1.</b> To apply the newly added filter click on  <b>Apply</b>  Button.
+<b>1.</b> To apply the newly added filter click on <b>Apply</b>  Button.
+
 <b>2.</b> To Save the added filter click save.
+
 <b>3.</b> To restore the previously applied filter click default.
 
 <b>For Example :</b>  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
@@ -70,8 +72,8 @@ To hide the filter panel click on  <b>left shift operator</b>  on dashboard repo
 To view the filter panel use  <b>Right shift operator</b>  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05Nz
-Q1NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0Mzkz
-MjgsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ
-==
+eyJoaXN0b3J5IjpbMTYwMjkzMzU2OSwtMjAwMjMxNzA2MywzMj
+U1NDUxMTYsLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAx
+MDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1MywtMT
+E4ODUzODQ0N119
 -->
