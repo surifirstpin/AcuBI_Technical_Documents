@@ -228,7 +228,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> <b>For instance:</b>  In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
+> <b><i>For instance:</i></b>  In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
  <b><Font color = " black">Image 10</font></b>
@@ -249,7 +249,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green color in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
 
-- Click on <b>Calculated Column</b> button to enable table calculations as shown in image below,
+Click on <b>Calculated Column</b> button to enable table calculations as shown in image below,
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/96a6c4d7d9cd243bc1742d6a45a3372d87704877/images/New_version5/TD_Reports_11.png)
  <b><Font color = " black">Image 11</font></b>
@@ -269,7 +269,7 @@ Table calculations enable you to easily create on-the-fly metrics, which are sim
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
   <b><Font color = " black">Image 12</font></b>
 
-- Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image:
+Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color (Refeas shown in below image:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
   <b><Font color = " black">Image 13</font></b>
@@ -355,9 +355,9 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM1NTAxNjIsLTQ2MTAzMjAzMywxOT
-M3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1NywtMTAwOTE0
-MzIzLDE1NDI2NDAzOTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNT
-U1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMx
-MjZdfQ==
+eyJoaXN0b3J5IjpbLTY0OTUyMjk1NywtNDYxMDMyMDMzLDE5Mz
+czNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC0xMDA5MTQz
+MjMsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NT
+U4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEy
+Nl19
 -->
