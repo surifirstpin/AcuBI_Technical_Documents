@@ -240,10 +240,10 @@ The resultant for this calculated column will display number of working days in 
 |  <b>atan2</b> | Returns the inverse tangent function with two arguments, y/x. | bi.atan2(value)<br/>Ex:  |
 |  <b>asinh</b> | Returns the hyperbolic arcsine of a value, <br/>Defined as asinh(x) = ln(x + sqrt(x^2 + 1)). | bi.asinh(value)<br/>Ex: bi.asinh(0.5) = 0.48121182505960347 |
 |  <b>acosh</b> | Returns the hyperbolic arccos of a value, <br/>Defined as acosh(x) = ln(sqrt(x^2 - 1) + x). | bi.acosh(value)<br/>Ex: bi.acosh(1.5) = 0.9624236501192069 |
-|  asech | Returns the hyperbolic arcsecant of a value, <br/>Defined as asech(x) = acosh(1/x) = ln(sqrt(1/x^2 - 1) + 1/x). | bi.asech(value)<br/>Ex: bi.asech(0.5) = 1.3169578969248166 |
-|  acsch | Returns the hyperbolic arccosecant of a value, <br/>Defined as acsch(x) = asinh(1/x) = ln(1/x + sqrt(1/x^2 + 1)). | bi.acsch(value)<br/>Ex: bi.acsch(0.5) = 1.4436354751788103 |
-|  atanh | Returns the hyperbolic arctangent of a value, <br/>Defined as atanh(x) = ln((1 + x)/(1 - x)) / 2. | bi.atanh(value)<br/>Ex: bi.atanh(0.5) = 0.5493061443340549 |
-|  acoth | Returns  the hyperbolic arccotangent of a value, <br/>Defined as acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2. | bi.acoth(value)<br/>Ex: bi.acoth(0.5) = 0.8047189562170503 |
+|  <b>asech</b> | Returns the hyperbolic arcsecant of a value, <br/>Defined as asech(x) = acosh(1/x) = ln(sqrt(1/x^2 - 1) + 1/x). | bi.asech(value)<br/>Ex: bi.asech(0.5) = 1.3169578969248166 |
+|  <b>acsch</b> | Returns the hyperbolic arccosecant of a value, <br/>Defined as acsch(x) = asinh(1/x) = ln(1/x + sqrt(1/x^2 + 1)). | bi.acsch(value)<br/>Ex: bi.acsch(0.5) = 1.4436354751788103 |
+|  <b>atanh</b> | Returns the hyperbolic arctangent of a value, <br/>Defined as atanh(x) = ln((1 + x)/(1 - x)) / 2. | bi.atanh(value)<br/>Ex: bi.atanh(0.5) = 0.5493061443340549 |
+|  <b>acoth</b> | Returns  the hyperbolic arccotangent of a value, <br/>Defined as acoth(x) = atanh(1/x) = (ln((x+1)/x) + ln(x/(x-1))) / 2. | bi.acoth(value)<br/>Ex: bi.acoth(0.5) = 0.8047189562170503 |
 
 
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMDQ3NDQ3NywtNTY2MjM1MjA3LDEwOD
-Y2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5
-NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNj
-A5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcw
-NjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NS
-wxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5
-ODg5NDI5XX0=
+eyJoaXN0b3J5IjpbLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMD
+g2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0
+OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMT
+YwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3
+MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNj
+UsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1
+OTg4OTQyOV19
 -->
