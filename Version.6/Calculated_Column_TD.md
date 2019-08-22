@@ -249,7 +249,7 @@ The resultant for this calculated column will display number of working days in 
 
 ### Constant
 
-|  **Name** | **Description** | **Example** |
+|  Name | **Description** | **Example** |
 |  :------: | :------: | :------: |
 |  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
 |  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMD
-g2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0
-OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMT
-YwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3
-MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNj
-UsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1
-OTg4OTQyOV19
+eyJoaXN0b3J5IjpbMTAzMDM3NzE4NSwtMTQzNTc0NDczNSwtNT
+Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
+NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
+AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
+NDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MS
+wtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMx
+NjgwNzU4XX0=
 -->
