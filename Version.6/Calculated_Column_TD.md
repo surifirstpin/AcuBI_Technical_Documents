@@ -279,11 +279,11 @@ The resultant for this calculated column will display number of working days in 
 |  <b>isInteger</b> | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
 |  <b>isNaN</b> | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
 |  <b>isPositive</b> | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
-|  <b>isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
-|  isNumeric | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/> Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
-|  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/> Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
-|  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
-|  typeof | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
+|  <b>isNegative</b> | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
+|  <b>isNumeric</b> | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/> Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
+|  <b>isPrime</b> | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/> Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
+|  <b>isZero</b> | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
+|  <b>typeof<b> | Determine the type of a variable. | bi.typeof(3.5) = number, <br/>bi.typeof(math.complex('2-4i')) = complex,<br/>bi.typeof('hello world') = string |
 
 
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NTQ2NDM4LC05Mzk0NDQ2NjQsLTE0Mz
-U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
-NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
-UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
-NjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LD
-IwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0
-MTIzOTFdfQ==
+eyJoaXN0b3J5IjpbLTgwOTY5MjQ4MCwtOTM5NDQ0NjY0LC0xND
+M1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYzOTAxNCwtNDQwODc0
+ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMj
+U1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1
+MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNC
+wyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1
+NDEyMzkxXX0=
 -->
