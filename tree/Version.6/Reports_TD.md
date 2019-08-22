@@ -42,7 +42,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 ## Filters characteristics applicable :
 
-### String :
+### String:
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
 |is not null                   | should not be equal to null                               |
@@ -79,7 +79,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |between                       | data in between the specified range                        |
 |not between                   | data not in between the specified range                    |
 
-### Date :
+### Date:
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -104,7 +104,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 The data is retrieved based on hidden filters applied, this applied hidden filter fields are not visible in data section they are only visible under filter expression list.
 
-<b><i>To carry out this function, follow the below steps:</i></b>
+<b><i><u>To carry out this function, follow the below steps:</u></i></b>
 
 <b>a.</b>  Apply hidden filters to dimension.(Start_date_month)
 
@@ -355,8 +355,8 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNj
-MzMjA2MiwtMTYyNjcxNzg1NywxNTQyNjQwMzkyLC05NzAxNzkz
-MTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNj
-k4NTg1NCwtNjE3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTU3ODExODE3NCwtNDYxMDMyMDMzLDE5Mz
+czNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAz
+OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
+M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
