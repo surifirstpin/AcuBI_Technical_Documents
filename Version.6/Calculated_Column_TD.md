@@ -90,7 +90,7 @@ The resultant for this calculated column will display number of working days in 
 
 ### Statistics
 
-|  **Name** | **Description** | **Usage & Example** |
+|  Name | Description | Usage & Example|
 |  :------: | :------: | :------: |
 |  <b>unequal</b> | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
 |  <b>mad</b> | Returns the Median Absolute Deviation for the inputs | bi.mad(p1,p2,p3,......)<br/>Ex: bi.mad(100,200) = 50 |
@@ -106,7 +106,7 @@ The resultant for this calculated column will display number of working days in 
 
 ### Date
 
-|  **Name** | **Description** | **Usage & Example** |
+|  Name | Description | Usage & Example |
 |  :------: | :------: | :------: |
 |  <b>date_to_week</b> | Returns the week number in the year for the date given | bi.date_to_week(${col_name})<br/>Ex: bi.date_to_week(“2018-02-11”) = 7 |
 |  <b>date_to_month</b> | Returns the month number in the year for the date given | bi.date_to_month(${col_name})<br/>Ex: bi.date_to_month(“2018-02-11”) = 2 |
@@ -131,7 +131,7 @@ The resultant for this calculated column will display number of working days in 
 
 ### Arithmetic
 
-|  **Name** | **Description** | **Example** |
+|  Name | Description | Example |
 |  :------: | :------: | :------: |
 |  <b>abs</b> | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
 |  <b>add</b> | Returns the value which obtained by adding the given list of values | bi.add(p1,p2,p3,.....)<br/>Ex: bi.add(3,4) = 7 |
@@ -166,7 +166,7 @@ The resultant for this calculated column will display number of working days in 
 
 ### Matrix
 
-|  **Name** | **Description** | **Example** |
+|  Name | Description | Example |
 |  :------: | :------: | :------: |
 |  <b>concat</b> | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
 |  <b>Cross</b> | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NTI1MTkyLC05Mzk0NDQ2NjQsLTE0Mz
-U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
-NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
-UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
-NjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LD
-IwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0
-MTIzOTFdfQ==
+eyJoaXN0b3J5IjpbLTE5MjUxMTc2NDIsLTkzOTQ0NDY2NCwtMT
+QzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3
+NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLD
+I1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0
+NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3Mz
+QsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5
+NTQxMjM5MV19
 -->
