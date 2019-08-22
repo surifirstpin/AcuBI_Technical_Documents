@@ -176,7 +176,7 @@ To <b>Pivot</b> a dimension click on pivot for dimension before or after running
 
 > <b>Note :</b> you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
-><b>For instance,</b> To view number of orders received based on the month it displays in following way:
+<b>For instance,</b> To view number of orders received based on the month it displays in following way:
 
 | Order Received  |year  |month|Region|Name|
 |--|--|--|--|--|
@@ -185,10 +185,10 @@ To <b>Pivot</b> a dimension click on pivot for dimension before or after running
 |300|2002 |march|east|Bob|
 |400|2003|April|west|Mecker|
 
->On Applying pivot on month, it displays;
+On Applying pivot on month, it displays;
   
-  |January|February|March|April|
-  |--|--|--|--|
+|January|February|March|April|
+|--|--|--|--|
 |100|200|300|400|
 |2000|2001|2002|2003|
 |North|south|east|west|
@@ -228,7 +228,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
-> <b>For instance</b> : In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
+> <b>For instance:</b>  In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
  <b><Font color = " black">Image 10</font></b>
@@ -355,8 +355,8 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODExODE3NCwtNDYxMDMyMDMzLDE5Mz
-czNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAz
-OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
-M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMTM1NTAxNjIsLTQ2MTAzMjAzMywxOT
+M3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1NywxNTQyNjQw
+MzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MD
+IzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2XX0=
 -->
