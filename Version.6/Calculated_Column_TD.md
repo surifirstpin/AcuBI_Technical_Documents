@@ -249,19 +249,19 @@ The resultant for this calculated column will display number of working days in 
 
 ### Constant
 
-|  Name | **Description** | **Example** |
+|  Name | Description | Example |
 |  :------: | :------: | :------: |
-|  e, E | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
-|  i | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
-|  Infinity | Returns Infinity, a number which is larger than the maximum number that can be handled by a floating point number. | Infinity |
-|  LN2 | Returns the natural logarithm of 2. | 0.6931471805599451 |
-|  LN10 | Returns the natural logarithm of 10. | 2.30258509299404 |
-|  LOG2E | Returns the base-2 logarithm of E | 1.44269504088896 |
-|  LOG10E | Returns the base-10 logarithm of E. | 0.43429448190325104 |
-|  NaN | Not a number. | NaN |
-|  null | Value null. | null |
-|  phi | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
-|  pi, PI | Returns the value of pi which is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
+|  <b>e, E</b> | Returns the Euler’s number, the base of the natural logarithm | 2.71828182845904 |
+|  <b>i</b> | Returns Imaginary unit, defined as i*i = -1. A complex number is described as a + bi, where a is the real part, and b is the imaginary part. | sqrt(-1) |
+|  <b>Infinity</b> | Returns Infinity, a number which is larger than the maximum number that can be handled by a floating point number. | Infinity |
+|  <b>LN2</b> | Returns the natural logarithm of 2. | 0.6931471805599451 |
+|  <b>LN10</b> | Returns the natural logarithm of 10. | 2.30258509299404 |
+|  <b>LOG2E</b> | Returns the base-2 logarithm of E | 1.44269504088896 |
+|  <b>LOG10E</b> | Returns the base-10 logarithm of E. | 0.43429448190325104 |
+|  <b>NaN</b> | Not a number. | NaN |
+|  <b>null</b> | Value null. | null |
+|  <b>phi</b> | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
+|  <b>pi, PI</b> | Returns the value of pi which is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
 |  SQRT1_2 | Returns the square root of 1/2. | 0.707106781186547 |
 |  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
 |  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
@@ -431,7 +431,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDM3NzE4NSwtMTQzNTc0NDczNSwtNT
+eyJoaXN0b3J5IjpbMjA3ODAzMTc1MCwtMTQzNTc0NDczNSwtNT
 Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
 NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
 AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
