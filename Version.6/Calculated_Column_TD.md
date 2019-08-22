@@ -75,9 +75,9 @@ The resultant for this calculated column will display number of working days in 
 
 | Name| Description  | Usage and  Example|
 |--|--|--|
-|Offset  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
-|pivot_offset|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for instance: m is row number & n is column number|
-|Contains|Returns true/ false after validating expression given inside|bi.contains(expression)|
+|<b>Offset</b>  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
+|<b>pivot_offset</b>|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for instance: m is row number & n is column number|
+|<b>Contains<b>|Returns true/ false after validating expression given inside|bi.contains(expression)|
 |row_total|Returns the total value in the row for the preceding measures (before the present column) |bi.row_total ( )|
 |col_total|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
 |number|Returns the object argument to a number that represents the object's value.The object may be static or a column name|bi.number(“static”) or bi.number(${col_name}) Ex: bi.number("1234567") returns  1234567|
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MD
-I4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgy
-LC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMT
-gyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTky
-MjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC
-0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1
-MzE1NTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNjc2NDQ3ODMsLTQ0MDg3NDg2NSwxNT
+A4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDcz
+NSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC
+03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0
+NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MS
+wtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0
+NDcyMzgwXX0=
 -->
