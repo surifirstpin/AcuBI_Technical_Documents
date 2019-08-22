@@ -68,15 +68,15 @@
   
 - IP address or DNS name of the database server as seen from the tunnel server.
   
-  - Database port number as seen from the tunnel server.
+- Database port number as seen from the tunnel server.
 
- - IP address or DNS name of the tunnel server as seen from the public internet.
+- IP address or DNS name of the tunnel server as seen from the public internet.
 
- - SSH port of the tunnel server as seen from the public internet.
+- SSH port of the tunnel server as seen from the public internet.
 
- - Username and Password on the tunnel server for the SSH connection (the standard is looker).
+- Username and Password on the tunnel server for the SSH connection (the standard is looker).
   
-  - <b>Browse Key File:</b> upload a private key for secure access.
+ - <b>Browse Key File:</b> upload a private key for secure access.
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
@@ -94,7 +94,7 @@
 
 >After establishing the connection you can see the list of connections names on left side toolbar of database section.
 
-## Edit a connection
+## Edit Connection
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/bb8fa15c4665b7b50dbfaa9191605b04a70bfdf0/images/New_version5/TD_Database_Connection_image3.png)
@@ -114,6 +114,6 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTQ3ODQ3MSw3MDUwNDQ5NjEsMzk1NT
-k3MTIzLDE2Mjk3Nzc5NTQsMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbNjQ4MDAyNDU0LDcwNTA0NDk2MSwzOTU1OT
+cxMjMsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
 -->
