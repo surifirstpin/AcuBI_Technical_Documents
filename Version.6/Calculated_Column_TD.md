@@ -182,7 +182,7 @@ The resultant for this calculated column will display number of working days in 
 |  <b>ones</b> | Create a matrix filled with ones. | Ex: ones(3) = [1, 1, 1], <br/>       Ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
 |  <b>partitionSelect</b> | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); <br/>returns 'Langdon' |
 |  <b>range</b> | Create an array from a range. | bi.range(m,n)<br/>Ex: bi.range(2, 6) = [2, 3, 4, 5], <br/>      bi.range(2, -3, -1) = [2, 1, 0, -1, -2] |
-|  <b>reshape<b> | Reshape a multi dimensional array to fit the specified dimensions. | bi.reshape(x, sizes)<br/>Ex: For var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>       bi.reshape(x, [2, 2, 2])  = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
+|  <b>reshape</b> | Reshape a multi dimensional array to fit the specified dimensions. | bi.reshape(x, sizes)<br/>Ex: For var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>       bi.reshape(x, [2, 2, 2])  = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
 |  <b>resize</b> | Resize a matrix | bi.resize(x, size, defaultValue) <br/>Ex: bi.resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       bi.resize("hello", [8], "!") = 'hello!!!' |
 |  <b>size</b> | Calculate the size of a matrix or scalar. | bi.size(x) <br/>Ex: size('hello world') = [11], <br/>For var A = [[1, 2, 3], [4, 5, 6]] then size(A) = [2, 3] |
 |  <b>sort</b> | Sort the items in a matrix. | bi.sort(x, compare) <br/>Ex:  function sortByLength (a, b) {<br/>        return a.length – b.length;<br/>        } <br/>bi.sort(['Langdon', 'Tom', 'Sara'], sortByLength);<br/>Returns  ['Tom', 'Sara', 'Langdon'] |
@@ -431,7 +431,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDUzMjk4MSwtNTY2MjM1MjA3LDEwOD
+eyJoaXN0b3J5IjpbMTUzMjE5MzA4MCwtNTY2MjM1MjA3LDEwOD
 Y2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5
 NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNj
 A5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcw
