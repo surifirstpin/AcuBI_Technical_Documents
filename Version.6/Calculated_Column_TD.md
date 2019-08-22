@@ -193,13 +193,13 @@ The resultant for this calculated column will display number of working days in 
 |  <b>zeros</b> | Create a matrix filled with zeros. | Ex:var A = [[1, 2, 3], [4, 5, 6]];<br/>      bi.zeros(size(A)) returns  [[0, 0, 0], [0, 0, 0]] |
 
 ### Geometry
-|  **Name** | **Description** | **Example** |
+|  Name | Description | Example |
 |  :------: | :------: | :------: |
-|  distance | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
+|  <b>distance</b> | Results the eucledian distance between two points in 2 and 3 dimensional spaces. | distance([x1, y1], [x2, y2]) = distance([0,0], [4,4]) = 5.6569. |
 
 ### String
 
-|  **Name** | **Description** | **Example** |
+|  Name | Description | Example* |
 |  :------: | :------: | :------: |
 |  format | Returns string format a value of any type, | bi.format(value) = 'value',<br/>Ex: bi.format(6.4)=’6.4’ & bi.format(21385, 2) = '21000' |
 |  print | Return the results after interpolating a value into a string template | bi.print(“String $Value String”,{Value : number})<br/>Ex: bi.print('John is $age years old', {age: 8}) returns<br/> 'John mark is 8 years old' |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMjE5MzA4MCwtNTY2MjM1MjA3LDEwOD
-Y2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5
-NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNj
-A5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcw
-NjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NS
-wxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5
-ODg5NDI5XX0=
+eyJoaXN0b3J5IjpbNzc2NDk4MjQ3LC01NjYyMzUyMDcsMTA4Nj
+YzOTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2
+LDE3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MD
+k0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2
+MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LD
+EzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4
+ODk0MjldfQ==
 -->
