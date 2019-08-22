@@ -168,26 +168,26 @@ The resultant for this calculated column will display number of working days in 
 
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
-|  <b>concat<b> | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
-|  <b>Cross<b> | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
-|  <b>det<b> | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
-|  <b>dot<b> | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
-|  <b>eye<b> | Create a 2-dimensional identity matrix with size m x n or n x n. | Ex: bi.eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], <br/>       bi.eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
-|  <b>filter<b> | Filter the items in an array or one dimensional matrix. | Ex: bi.filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>       bi.Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
-|  <b>flatten<b> | Flatten a multi dimensional matrix into a single dimensional matrix. | Ex: bi.flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
-|  <b>forEach<b> | Iterate over all elements of a matrix/array, and executes the given callback function. | Ex: bi.forEach([1, 2, 3],  function(value) { console.log(value);})<br/>Return 1,2,3 |
-|  <b>inv<b> | Calculate the inverse of a square matrix. | bi.inv(value)<br/>Ex: inv(x) = inv(4) = 1/4 = 0.25 |
-|  <b>kron<b> | Calculates the kronecker product of 2 matrices or vectors. | bi.kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
-|  <b>map<b> | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | Ex: bi.map([1, 2, 3], function(value) { return value * value;})<br/>      Returns [1,4,9] |
-|  <b>ones<b> | Create a matrix filled with ones. | Ex: ones(3) = [1, 1, 1], <br/>       Ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
-|  <b>partitionSelect<b> | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); <br/>returns 'Langdon' |
-|  <b>range<b> | Create an array from a range. | bi.range(m,n)<br/>Ex: bi.range(2, 6) = [2, 3, 4, 5], <br/>      bi.range(2, -3, -1) = [2, 1, 0, -1, -2] |
+|  <b>concat</b> | Returns the array or text after concatenating two or more texts or matrices. | bi.concat(a,b)<br/>Ex: bi.concat(“Hello” ,”  World”) = “Hello  World”<br/>For  A = [[1, 2], [5, 6]] & B = [[3, 4], [7, 8]] <br/>bi.concat(A, B) = [[1, 2, 3, 4], [5, 6, 7, 8]] |
+|  <b>Cross</b> | Returns the cross product for two vectors in three dimensional space. | Ex:bi.cross(A, B) = [ a2 b3 - a3 b2, a3 b1 - a1 b3, a1 b2 - a2b1 ]  |
+|  <b>det</b> | Returns the determinant of a matrix. | bi.det([[1, 2], [3, 4]]) = -2 |
+|  <b>dot</b> | Returns the dot product of two vectors. | bi.dot(A, B) = a1 b1 + a2 b2 + a3 b3 + … + an bn, <br/>Ex: bi.dot([2, 4, 1], [2, 2, 3]) = 15 |
+|  <b>eye</b> | Create a 2-dimensional identity matrix with size m x n or n x n. | Ex: bi.eye(3) = [[1, 0, 0], [0, 1, 0], [0, 0, 1]], <br/>       bi.eye(3, 2) = [[1, 0], [0, 1], [0, 0]] |
+|  <b>filter</b> | Filter the items in an array or one dimensional matrix. | Ex: bi.filter([6, -2, -1, 4, 3], isPositive) = [6, 4, 3], <br/>       bi.Filter(["23", "foo", "100", "55", "bar"], /[0-9]+/) = ["23", "100", "55"] |
+|  <b>flatten</b> | Flatten a multi dimensional matrix into a single dimensional matrix. | Ex: bi.flatten([[1,2], [3,4]]) = [1, 2, 3, 4] |
+|  <b>forEach</b> | Iterate over all elements of a matrix/array, and executes the given callback function. | Ex: bi.forEach([1, 2, 3],  function(value) { console.log(value);})<br/>Return 1,2,3 |
+|  <b>inv</b> | Calculate the inverse of a square matrix. | bi.inv(value)<br/>Ex: inv(x) = inv(4) = 1/4 = 0.25 |
+|  <b>kron</b> | Calculates the kronecker product of 2 matrices or vectors. | bi.kron([1,1], [2,3,4]) = [ [ 2, 3, 4, 2, 3, 4 ] ] |
+|  <b>map</b> | Create a new matrix or array with the results of the callback function executed on each entry of the matrix/array. | Ex: bi.map([1, 2, 3], function(value) { return value * value;})<br/>      Returns [1,4,9] |
+|  <b>ones</b> | Create a matrix filled with ones. | Ex: ones(3) = [1, 1, 1], <br/>       Ones(3, 2) = [[1, 1], [1, 1], [1, 1]] |
+|  <b>partitionSelect</b> | Partition-based selection of an array or 1D matrix. | Ex: function sortByLength (a, b) { <br/>       return a.length – b.length;<br/>       } <br/>bi.partitionSelect(['Langdon', 'Tom', 'Sara'], 2, sortByLength); <br/>returns 'Langdon' |
+|  <b>range</b> | Create an array from a range. | bi.range(m,n)<br/>Ex: bi.range(2, 6) = [2, 3, 4, 5], <br/>      bi.range(2, -3, -1) = [2, 1, 0, -1, -2] |
 |  <b>reshape<b> | Reshape a multi dimensional array to fit the specified dimensions. | bi.reshape(x, sizes)<br/>Ex: For var x = matrix([1, 2, 3, 4, 5, 6, 7, 8]);<br/>       bi.reshape(x, [2, 2, 2])  = [[[1, 2], [3, 4]], [[5, 6], [7, 8]]] |
-|  <b>resize<b> | Resize a matrix | bi.resize(x, size, defaultValue) <br/>Ex: bi.resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       bi.resize("hello", [8], "!") = 'hello!!!' |
-|  <b>size<b> | Calculate the size of a matrix or scalar. | bi.size(x) <br/>Ex: size('hello world') = [11], <br/>For var A = [[1, 2, 3], [4, 5, 6]] then size(A) = [2, 3] |
-|  <b>sort<b> | Sort the items in a matrix. | bi.sort(x, compare) <br/>Ex:  function sortByLength (a, b) {<br/>        return a.length – b.length;<br/>        } <br/>bi.sort(['Langdon', 'Tom', 'Sara'], sortByLength);<br/>Returns  ['Tom', 'Sara', 'Langdon'] |
-|  <b>squeeze<b> | Squeeze a matrix, remove inner and outer singleton dimensions from a matrix. | bi.squeeze(x) <br/>Ex: For var A = zeros(3, 1); = [[0], [0], [0]] (size 3x1)<br/>       bi.squeeze(A);  returns  [0, 0, 0] (size 3) |
-|  <b>subset<b> | Get or set a subset of a matrix or string. | bi.subset(value, index, replacement [, defaultValue])<br/>Ex: For var e = [];<br/>var f = subset(e, index(0, [0, 2]), [5, 6]) then  f = [[5, 6]]<br/>var g = subset(f, index(1, 1), 7, 0) then g = [[5, 6], [0, 7]] |
+|  <b>resize</b> | Resize a matrix | bi.resize(x, size, defaultValue) <br/>Ex: bi.resize([1, 2, 3, 4, 5], [3]) = [1,2,3], <br/>       bi.resize("hello", [8], "!") = 'hello!!!' |
+|  <b>size</b> | Calculate the size of a matrix or scalar. | bi.size(x) <br/>Ex: size('hello world') = [11], <br/>For var A = [[1, 2, 3], [4, 5, 6]] then size(A) = [2, 3] |
+|  <b>sort</b> | Sort the items in a matrix. | bi.sort(x, compare) <br/>Ex:  function sortByLength (a, b) {<br/>        return a.length – b.length;<br/>        } <br/>bi.sort(['Langdon', 'Tom', 'Sara'], sortByLength);<br/>Returns  ['Tom', 'Sara', 'Langdon'] |
+|  <b>squeeze</b> | Squeeze a matrix, remove inner and outer singleton dimensions from a matrix. | bi.squeeze(x) <br/>Ex: For var A = zeros(3, 1); = [[0], [0], [0]] (size 3x1)<br/>       bi.squeeze(A);  returns  [0, 0, 0] (size 3) |
+|  <b>subset</b> | Get or set a subset of a matrix or string. | bi.subset(value, index, replacement [, defaultValue])<br/>Ex: For var e = [];<br/>var f = subset(e, index(0, [0, 2]), [5, 6]) then  f = [[5, 6]]<br/>var g = subset(f, index(1, 1), 7, 0) then g = [[5, 6], [0, 7]] |
 |  <b>trace</b> | Calculate the trace of a matrix: the sum of the elements on the main diagonal of a square matrix. | bi.trace(x)<br/>Ex: bi.trace([[1, 2], [3, 4]]) returns 5 |
 |  <b>transpose</b> | Transpose a matrix. | bi.transpose(x)<br/>Ex: For  var A = [[1, 2, 3], [4, 5, 6]] then <br/>       bi.transpose(A); = [[1, 4], [2, 5], [3, 6]] |
 |  <b>zeros</b> | Create a matrix filled with zeros. | Ex:var A = [[1, 2, 3], [4, 5, 6]];<br/>      bi.zeros(size(A)) returns  [[0, 0, 0], [0, 0, 0]] |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY3NjY0NTg0LC01NjYyMzUyMDcsMTA4Nj
-YzOTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2
-LDE3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MD
-k0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2
-MjYwLDc5MTk3NjczNCwyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LD
-EzMTUxOTYyOTYsNDk1NDEyMzkxLC01MzE2ODA3NTgsLTExNTk4
-ODk0MjldfQ==
+eyJoaXN0b3J5IjpbMTczNDUzMjk4MSwtNTY2MjM1MjA3LDEwOD
+Y2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5
+NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNj
+A5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcw
+NjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NS
+wxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5
+ODg5NDI5XX0=
 -->
