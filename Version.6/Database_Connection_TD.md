@@ -21,7 +21,7 @@
 
 <b>Link :</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
-<b>Navigation: Database→ New connection</b>
+<b>Navigation: Database → New connection</b>
 
  <b>1.</b> Click on <b>Database Section</b> It navigates to database connections page.
 
@@ -114,6 +114,6 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOT
-IyOTkyMl19
+eyJoaXN0b3J5IjpbNzA1MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nz
+c3OTU0LDEyMDkyMjk5MjJdfQ==
 -->
