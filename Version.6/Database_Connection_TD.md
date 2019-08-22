@@ -3,7 +3,7 @@
 
 <center><h2>DATABASE CONNECTION</h2></center>
 
- <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
+<b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
  <b>To set up database connection;</b>
     
@@ -114,7 +114,7 @@ Enable SSH connection by select checkbox for SSH.
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTExNjU2NCwtMTM2MjQxMTU5LDY0OD
+eyJoaXN0b3J5IjpbMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0OD
 AwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NTQs
 MTIwOTIyOTkyMl19
 -->
