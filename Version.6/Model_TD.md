@@ -1,14 +1,12 @@
 
 <center><h2>MODEL</h2></center>
 
-This section introduces the steps to create a new project and accordingly generates a basic model from the database.
+This section introduces steps to create a new project and accordingly generates a basic model from the database.
 A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
 
-<b><i>A model can be defined in 3 steps :</i></b>
+<b><i><u>A model can be defined in 3 steps :</u></i></b>
 
--   Creating a Project with required 
-
--  Database and respective tables.
+-   Creating a Project with required Database and respective Tables.
 
 -  Customize the Model using IDE as per the business requirement.
 
@@ -710,11 +708,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkyNzE0NjUxLC0xMDQ3OTk0MTUwLDM0Nj
-Y2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03NzIzMTg1MzIs
-MTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MT
-I5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5
-LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMT
-A5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5
-Mzg5XX0=
+eyJoaXN0b3J5IjpbLTk5MzUxNjM0MCwtMTA0Nzk5NDE1MCwzND
+Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
+LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
+EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
+OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
+EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
+OTM4OV19
 -->
