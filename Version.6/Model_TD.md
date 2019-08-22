@@ -528,7 +528,7 @@ Click <b>Save</b> to Save the View in database.
 - <b>Name</b> identifier for the field in custom table.
 - <b>label</b>  the way derived field should display in custom table.
 - <b>Data_type</b> define supporting parameters and string is used as  default parameter while deriving the fields for custom table.
-   - <b>String</b> for measures that contain letters or special characters.
+  - <b>String</b> for measures that contain letters or special characters.
   - <b>Date</b> measures that contain dates.
   - <b>Time_frame</b> is a derived list of formats from time stamps for instance the following are the available formats hour, day, week,month,quarter, year,date,week_day, date_month, date_quarter, date_hour, year_week.
   - <b>Number</b> for the measure that contain number.
@@ -707,11 +707,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDQ4OTU5NCwtMTA0Nzk5NDE1MCwzND
-Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
-LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
-EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
-OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
-EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
-OTM4OV19
+eyJoaXN0b3J5IjpbMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMD
+Q3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2
+LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
+AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
+MSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLT
+c5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1
+Mjg3NV19
 -->
