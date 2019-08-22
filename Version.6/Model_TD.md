@@ -24,7 +24,7 @@ A model is a customized gateway into the database for accessing data as per busi
 ](https://raw.githubusercontent.com/sv18042016/fp1/00615483357376318b721b9cf15a41579b9461ea/images/New_version5/TD_Model_image1.png)
 <b><Font color = " black">Image 1</font></b>
 
-**Enter the following details;**
+<b><i><u>Enter the following details; </u></i></b>
 
 <b>Project Name:</b>  Enter the project name.
 
@@ -707,11 +707,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMD
-Q3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2
-LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
-AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
-MSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLT
-c5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1
-Mjg3NV19
+eyJoaXN0b3J5IjpbODQ1MjIxMTMsMjAxMjI2NDQ1OCwxMjMwND
+g5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQs
+ODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NT
+cwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIs
+MTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNT
+EwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2
+MDVdfQ==
 -->
