@@ -62,13 +62,12 @@ A model is a customized gateway into the database for accessing data as per busi
    
    -   <b>Share:</b>  report saved under share section are accessed by specific set of users.
     
-![
-]
-(https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ffa4998a87ebeece5d3fde4f2930b83243e9b4a8/images/New_version5/TD_Model_image5.png)
+
  <b><Font color = " black">Image 5</font></b>
  
 
-<b>3.</b> Once all the entries are made, click on  <b>
+<b>3.</b> Once all the entries are done, click on  <b>
 Save Project</b>  to save the project created.
 
 > <b>Note:</b> All the saved projects are visible on left hand side under projects.
@@ -83,8 +82,7 @@ Click Projects, select the desired project and hit the <b>Edit</b> button.
  
 - After making necessary changes hit the <b>Update</b> button to save the changes made.
 
-- To cancel the changes made to a project hit <b>Cancel</b>
--  button.
+- To cancel the changes made to a project hit <b>Cancel</b> button.
 
 ## Delete Project
 
@@ -708,7 +706,7 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTI1NDQxMywtMTA0Nzk5NDE1MCwzND
+eyJoaXN0b3J5IjpbMTQzNDcwNzk1NCwtMTA0Nzk5NDE1MCwzND
 Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
 LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
 EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
