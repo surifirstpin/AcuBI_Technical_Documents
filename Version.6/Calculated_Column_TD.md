@@ -425,13 +425,13 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
 <b><font color = "Black"> Image 11</b>
 
- <b>Note :</b>  it returns value 13. (refer image 13)
+ <b>Note :</b>  it returns value 13. (refer image 12)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzM5NDgzMywtODA5NjkyNDgwLC05Mz
+eyJoaXN0b3J5IjpbLTM3OTkwNzM3NiwtODA5NjkyNDgwLC05Mz
 k0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5
 MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMT
 c1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQx
