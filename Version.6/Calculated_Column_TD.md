@@ -121,20 +121,20 @@ The resultant for this calculated column will display number of working days in 
 
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
-|  bitAnd | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
-|  bitNot | Bitwise NOT value, ~x. | bi.bitNot(1) = -2, <br/>bi.bitNot([2,-3,4]) = [-3,2,5] |
-|  bitOr | Bitwise OR two values, x&#124 y.| bi.bitOr(1,2) = 3, <br/>bi.bitOr([1,2,3],4) = [5,6,7] |
-|  bitXor | Bitwise XOR two values, x ^ y. | bi.bitXor(1, 2) = 3, <br/>bi.bitXor([2, 3, 4], 4) = [6,7,0] |
-|  leftShift | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
-|  rightArithShift | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
-|  rightLogShift | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
+|  <b>bitAnd</b> | Bitwise AND two values, x & y. Ex. bit And(x, y) | bi.bitAnd(53, 131) = 1 |
+|  <b>bitNot</b> | Bitwise NOT value, ~x. | bi.bitNot(1) = -2, <br/>bi.bitNot([2,-3,4]) = [-3,2,5] |
+|  <b>bitOr</b> | Bitwise OR two values, x&#124 y.| bi.bitOr(1,2) = 3, <br/>bi.bitOr([1,2,3],4) = [5,6,7] |
+|  <b>bitXor</b> | Bitwise XOR two values, x ^ y. | bi.bitXor(1, 2) = 3, <br/>bi.bitXor([2, 3, 4], 4) = [6,7,0] |
+| <b> leftShift</b> | Bitwise left logical shift of a value x by y number of bits, x << y. | bi.leftShift(1, 2) = 4, <br/>bi.leftShift([1, 2, 3], 4) = [16, 32, 64] |
+| <b> rightArithShift</b> | Bitwise right arithmetic shift of a value x by y number of bits, x >> y. | bi.rightArithShift(4, 2) = 1, <br/>bi.rightArithShift([16, -32, 64], 4) = [1, -2, 3] |
+|  <b>rightLogShift</b> | Bitwise right logical shift of value x by y number of bits, x >>> y. | bi.rightLogShift(4, 2) = 1, <br/>bi.rightLogShift([16, -32, 64], 4) = [1, 2, 3] |
 
 ### Arithmetic
 
 |  **Name** | **Description** | **Example** |
 |  :------: | :------: | :------: |
-|  abs | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
-|  add | Returns the value which obtained by adding the given list of values | bi.add(p1,p2,p3,.....)<br/>Ex: bi.add(3,4) = 7 |
+|  <b>abs<b> | Returns the absolute value of a number<br/>It removed the -ve symbol for a negative value and displays the result as positive value | bi.abs(${Col_name})<br/>Ex: bi.abs(-2) = 2 |
+|  <b>add | Returns the value which obtained by adding the given list of values | bi.add(p1,p2,p3,.....)<br/>Ex: bi.add(3,4) = 7 |
 |  cbrt | Returns the cuberoot value  of a give value | bi.cbrt(value)<br/>Ex: bi.cbrt(27) = 3 |
 |  ceil | Returns the smallest integer greater than or equal to the given number | bi.ceil(value)<br/>Ex: bi.ceil(3.1) = 4 & bi.ceil(-8.5) = -8 |
 |  cube | Returns the cube value of given value | bi.cube(value)<br/>Ex: bi.cube(3)=27 |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjYzOTAxNCwtNDQwODc0ODY1LDE1MD
-g0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1
-LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
-cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
-NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
-01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
-NzIzODBdfQ==
+eyJoaXN0b3J5IjpbLTU2MDI3OTE5MywxMDg2NjM5MDE0LC00ND
+A4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcy
+MSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMT
+Q4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2
+NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Ni
+w0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1
+OTcxMzRdfQ==
 -->
