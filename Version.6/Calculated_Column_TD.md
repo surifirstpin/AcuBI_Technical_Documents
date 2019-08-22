@@ -83,17 +83,17 @@ The resultant for this calculated column will display number of working days in 
 |<b>number</b>|Returns the object argument to a number that represents the object's value.The object may be static or a column name|bi.number(“static”) or bi.number(${col_name}) Ex: bi.number("1234567") returns  1234567|
 |<b>int</b>|Returns only integer values of given number or column|bi.int(number) or bi.int(${col_name})Ex: bi.int(74845.9898) = 74845|
 |<b>in_globals</b>|Returns the data from Global parameters based on the common reference. The reference can be static or a column|bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” ) **Note:** Ref can be a column name or static value or userid|
-|<b>in_global_key<b>|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
-|<b>calculate_key_group<b>|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
-|<b>col_running_total<b>|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
-|<b>col_running_avg<b>|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
+|<b>in_global_key</b>|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
+|<b>calculate_key_group</b>|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
+|<b>col_running_total</b>|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
+|<b>col_running_avg</b>|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
 
 ### Statistics
 
 |  **Name** | **Description** | **Usage & Example** |
 |  :------: | :------: | :------: |
-|  unequal | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
-|  mad | Returns the Median Absolute Deviation for the inputs | bi.mad(p1,p2,p3,......)<br/>Ex: bi.mad(100,200) = 50 |
+|  <b>unequal</b> | Returns true / false if the inputs given are not equal. | bi.unequal(m,n)<br/>Returns true if m=n else false |
+|  <b>mad</b> | Returns the Median Absolute Deviation for the inputs | bi.mad(p1,p2,p3,......)<br/>Ex: bi.mad(100,200) = 50 |
 |  max | Returns the maximum value of a matrix or a list with values. | bi.max(p1,p2,p3,.....)<br/>Ex: bi.max(100,200,300) = 300 |
 |  mean | Returns the mean value of a list of values mentioned | bi.mean(p1,p2,p3)<br/>Ex: bi.mean(100,200,300) = 200 |
 |  median | Returns the median value of a list of values mentioned | bi.median(p1,p2,p3,.....) |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NDY2MTIzLC00NDA4NzQ4NjUsMTUwOD
-QxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUs
-LTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNz
-IxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3
-ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLT
-UzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3
-MjM4MF19
+eyJoaXN0b3J5IjpbLTQxNzEzMTQ0OSwtNDQwODc0ODY1LDE1MD
+g0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1
+LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
+cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
+NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
+01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
+NzIzODBdfQ==
 -->
