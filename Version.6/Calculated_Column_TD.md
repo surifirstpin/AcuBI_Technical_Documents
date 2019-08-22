@@ -64,7 +64,7 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
  <b><font color = "Black"> Image 4</b>
  
  
-  - The resultant for this calculated column will display number of working days in each month.
+The resultant for this calculated column will display number of working days in each month.
  
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92bcc6564c0ad304b4ec4955cc3d43f693c3b9a6/images/New_version5/TD_CC_Image5.png)
 <b><font color = "Black"> Image 5</b>
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzk1MTc2MDQsMTUwODQxMDQ2Nyw2NT
-AyODc0OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4
-MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LD
-E4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5
-MjIyNjUsMTMxNTE5NjI5Niw0OTU0MTIzOTEsLTUzMTY4MDc1OC
-wtMTE1OTg4OTQyOSw2MDk1OTcxMzQsLTkzNDQ3MjM4MCwxNTE5
-NTMxNTU2XX0=
+eyJoaXN0b3J5IjpbLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MD
+I4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgy
+LC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMT
+gyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2NTky
+MjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMxNjgwNzU4LC
+0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0NDcyMzgwLDE1MTk1
+MzE1NTZdfQ==
 -->
