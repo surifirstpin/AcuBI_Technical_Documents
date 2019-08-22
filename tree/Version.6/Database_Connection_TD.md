@@ -29,9 +29,9 @@
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/b9756e1483bd0d90240ab79291ca14627ae39368/images/New_version5/TD_Database_Connection_image1.png)
- <b><font color = "Black" >Image 1</font></b>*
+ <b><font color = "Black" >Image 1</font></b>
 
-***Enter the following details in New connection page ;***
+<b><i><u>Enter the following details in New connection page ;</u></i></b>
 
 -  <b>Name:</b> specify a name to define connection.
  
@@ -108,9 +108,9 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyOTc3Nzk1NCwxMjA5MjI5OTIyLC0xNj
-A0NjAxNjk0LDEwMjcyMDM4OTEsLTU1NDI1ODA3MywtMTYwNDU3
-ODU4MCwtNTc0MDE4NDcxLC0xOTIxNzEzNzkxLC0xODc4ODY5Mj
-IzLC0xNDQ3NTUxNTY1LC05NDQ1NjUwMzAsMjExMzI5MDk1OSwt
-MTE5MDI1MTExM119
+eyJoaXN0b3J5IjpbMTkxOTkzMTAwMSwxNjI5Nzc3OTU0LDEyMD
+kyMjk5MjIsLTE2MDQ2MDE2OTQsMTAyNzIwMzg5MSwtNTU0MjU4
+MDczLC0xNjA0NTc4NTgwLC01NzQwMTg0NzEsLTE5MjE3MTM3OT
+EsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwy
+MTEzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
 -->
