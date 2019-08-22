@@ -299,6 +299,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4b71a76877a20fa60858be7fbb514e421c9a435/images/New_version5/TD_Reports_16.png)  
  <b><Font color = " black">Image 15</font></b>
+ 
 |  Example | Description |
 |  ------ | :------ |
 |  #  | Number(1234) |
@@ -334,7 +335,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
 ## SQL Query 
 
-To View the SQL query built on retrieving data in report, click on <b>SQL section.
+To View the SQL query built on retrieving data in report, click on <b>SQL section.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
  <b><Font color = " black">Image 16</font></b>
@@ -343,8 +344,9 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 Using drill down you can view more deeper insights of the data.
 
-<b>For example:</b><b>(Consider Image 17)</b>
-<b>a.</b> On expanding Station Code, it will display Station code details(eg: area code, way used & quantity)  that fall under the particular station_2.
+<b>For example:</b> (Consider Image 17)
+
+<b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
 
 <b>b.</b> On further expanding Wayused (Phone) for area code SS_z2, it will display the Phone numbers that fall under this particular area code.
 
@@ -355,8 +357,9 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5Mz
-czNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAz
-OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
-M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2MT
+AzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1
+NywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NT
+g0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNjE3OTUzMTI2
+XX0=
 -->
