@@ -149,20 +149,20 @@ The resultant for this calculated column will display number of working days in 
 |  <b>hypot<b> | Returns the hypotenusa of a list with values. | bi.hypot = (p1,p2,p3..) <br/>Ex: bi.hypot (3,4) = sqrate_root ( square(3) + square(4) ) = 5 |
 |  <b>lcm<b> | Returns the least common multiple for two or more values or arrays | bi.lcm(a,b)<br/>Ex: For a = 4,b = 6 then  bi.lcm(4,6) = 12 |
 |  <b>log<b> | Returns the logarithm of a value (e-based). | bi.log(a)<br/>Ex: bi.log(10) = 2.3025850929 |
-|  log10 | Returns the logarithm of a value (10-based). | bi.log10(a)<br/>Ex: bi.log10(10) = 1 |
-|  mod | Returns the remainder of an integer division of two values(Calculates the modulus) | bi.mod(a,b)<br/>Ex: For a= 17, b= 3 then bi.mod(a,b) = 2 |
-|  multiply | Returns the value obtained after multiplying the two or more given values | bi.multiply(p1,p2,p3,....)<br/>Ex: bi.multiply(3,4) = 3*4 =12 |
-|  norm | Returns the norm of a number, vector or matrix | bi.norm(a)<br/>Ex: norm(-3.5) = 3.5, norm([[1, 2], [3, 4]], 1) returns 6 |
-|  nthRoot | Returns the nth root calculation of given value. | bi.nthRoot(a,b)<br/>Ex: bi.nthRoot(9,2) = (3^2) = 9 |
-|  pow | Returns the power value of the first parameter to the second parameter | bi.pow(a,b)<br/>Ex: bi.pow (5,3) = value of 5 to the power 3 = 125 |
-|  round | Returns the rounded a value towards the nearest integer. | bi.round(A)<br/>Ex: bi.round(3.2) = 3 |
-|  sign | Returns the sign of a value. | bi.sign(A)<br/>Ex: bi.sign (3.4) = 1 , bi.sign(-3,4)= -1 , bi.sign(0) = 0 , 1 when x > 1, -1 when x < 0, 0 when x == 0 |
-|  sqrt | Returns the square root of given value. | bi.sqrt(x)<br/>Ex: bi.sqrt(25) = 5 |
-|  square | Returns the square of given value. | bi.square(x)<br/>Ex: bi.square(5) = 25 |
-|  unaryMinus | Returns the Inverse sign of a value, apply a unary minus operation. | bi.unaryMinus(x)<br/>Ex: bi.unaryMinus(3.5) = -3.5 & bi.unaryMinus(-4.2) = 4.2 |
-|  subtract | Returns the value ontained after subtracting two given values | bi.substract(a,b)<br/>Ex: bi.subtract (4,3) = 4-3 = 1 |
-|  unaryPlus | Returns the Inverse sign of a value, apply a unary plus operation. | bi.unaryPlus(x)<br/>Ex: bi.unaryPlus(3.44) = 3.44  |
-|  xgcd | Returns the extended greatest common divisor for two values. | bi.xgcd(a,b) <br/>For Array type: Returns an array containing 3 integers [div, m, n] where div = gcd(a, b) and a*m + b*n = div<br/>Ex: For bi.xgcd(8,12) = [4,-1,1] |
+|  <b>log10<b> | Returns the logarithm of a value (10-based). | bi.log10(a)<br/>Ex: bi.log10(10) = 1 |
+|  <b>mod<b> | Returns the remainder of an integer division of two values(Calculates the modulus) | bi.mod(a,b)<br/>Ex: For a= 17, b= 3 then bi.mod(a,b) = 2 |
+|  <b>multiply<b> | Returns the value obtained after multiplying the two or more given values | bi.multiply(p1,p2,p3,....)<br/>Ex: bi.multiply(3,4) = 3*4 =12 |
+|  <b>norm<b> | Returns the norm of a number, vector or matrix | bi.norm(a)<br/>Ex: norm(-3.5) = 3.5, norm([[1, 2], [3, 4]], 1) returns 6 |
+| <b>nthRoot<b> | Returns the nth root calculation of given value. | bi.nthRoot(a,b)<br/>Ex: bi.nthRoot(9,2) = (3^2) = 9 |
+|  <b>pow<b>| Returns the power value of the first parameter to the second parameter | bi.pow(a,b)<br/>Ex: bi.pow (5,3) = value of 5 to the power 3 = 125 |
+|  <b>round</> | Returns the rounded a value towards the nearest integer. | bi.round(A)<br/>Ex: bi.round(3.2) = 3 |
+|  <b>sign</b>| Returns the sign of a value. | bi.sign(A)<br/>Ex: bi.sign (3.4) = 1 , bi.sign(-3,4)= -1 , bi.sign(0) = 0 , 1 when x > 1, -1 when x < 0, 0 when x == 0 |
+|  <b>sqrt</b> | Returns the square root of given value. | bi.sqrt(x)<br/>Ex: bi.sqrt(25) = 5 |
+|  <b>square</b> | Returns the square of given value. | bi.square(x)<br/>Ex: bi.square(5) = 25 |
+|  <b>unaryMinus</b> | Returns the Inverse sign of a value, apply a unary minus operation. | bi.unaryMinus(x)<br/>Ex: bi.unaryMinus(3.5) = -3.5 & bi.unaryMinus(-4.2) = 4.2 |
+|  <b>subtract</b> | Returns the value ontained after subtracting two given values | bi.substract(a,b)<br/>Ex: bi.subtract (4,3) = 4-3 = 1 |
+|  <b>unaryPlus</b> | Returns the Inverse sign of a value, apply a unary plus operation. | bi.unaryPlus(x)<br/>Ex: bi.unaryPlus(3.44) = 3.44  |
+|  <b>xgcd</b> | Returns the extended greatest common divisor for two values. | bi.xgcd(a,b) <br/>For Array type: Returns an array containing 3 integers [div, m, n] where div = gcd(a, b) and a*m + b*n = div<br/>Ex: For bi.xgcd(8,12) = [4,-1,1] |
 
 ### Matrix
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDU5MDI1LDEwODY2MzkwMTQsLTQ0MD
-g3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIx
-LDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xND
-g0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3
-MzQsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LD
-Q5NTQxMjM5MSwtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5
-NzEzNF19
+eyJoaXN0b3J5IjpbLTk4OTM5MjYyNSwxMDg2NjM5MDE0LC00ND
+A4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcy
+MSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMT
+Q4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2
+NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Ni
+w0OTU0MTIzOTEsLTUzMTY4MDc1OCwtMTE1OTg4OTQyOSw2MDk1
+OTcxMzRdfQ==
 -->
