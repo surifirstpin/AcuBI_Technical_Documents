@@ -171,31 +171,31 @@ To filter data from a view and the respective mapping views, the filter criteria
 
 ```
 
-<b><i>Filter can be derived with two specific attributes such as;</i></b>
+<b><i><u>Filter can be derived with two specific attributes such as;</u></i></b>
 
 <b>I.</b>  <b>Filter_Sql :</b>  the filter expression or condition. Filter expression can be date-based, string-based, number-based and even login-based.
 
--  <b>Date-Based:</b> standard filters which are applicable on dates.
+<b>Date-Based:</b> standard filters which are applicable on dates.
 ```
  ROOT.Orders.OrderDate < TRUNC(SYSDATE)  
 ```
--  <b>String-Based:</b> standard filters which are applicable on strings.
+<b>String-Based:</b> standard filters which are applicable on strings.
 ```
  ROOT.Orders.PaymentMode IN (‘Cash’,’PayTM’)
  ```
--  <b>Number-Based:</b>  standard filters which are applicable on numbers.
+<b>Number-Based:</b>  standard filters which are applicable on numbers.
 ```
 ROOT.BI_Orders.Amount IS NOT NULL
 ```
--   <b>User-based:</b> AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
+ <b>User-based:</b> AcuBi allows to filter the data based on login user-specification. Using global parameters facility, data for the same combination of columns can be controlled for different users i.e for a particular user login, the data retrievable in analyze section will be constrained with a list of pre-defined values.
 ```
  " DB.TABLE.COLUMN IN (#{GlobalParam.Ref_field,#userid#,gp_username_field})" 
 ```
--   <b>GlobalParam:</b> the name of the global parameter which contains the user based list of values.
+ <b>GlobalParam:</b> the name of the global parameter which contains the user based list of values.
 
--   <b>Ref_Field</b>  the column name in global parameter which contains the filter values.
+<b>Ref_Field</b>  the column name in global parameter which contains the filter values.
 
--   <b>Gp_Username_Field</b>  the column name in global parameter which contains the usernames.
+<b>Gp_Username_Field</b>  the column name in global parameter which contains the usernames.
 ```
 " ROOT.Orders.StationCode IN (#{ModelParams.StationCode,#userid#,Username})"
 ```
@@ -233,7 +233,7 @@ ROOT.BI_Orders.Amount IS NOT NULL
 
 Views are independent tables chosen while creating a project. All the columns in the table are called fields of view and will be adopted with relevant features.
 
-<b><i>AcuBi allows various actions to performed in views as follows:</i></b>
+<b><i><u>AcuBi allows various actions to performed in views as follows:</u></i></b>
 
 -  Creating a new field (User Defined Fields).
 
@@ -706,11 +706,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwNzA2NjcxLC0xMDQ3OTk0MTUwLDM0Nj
-Y2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03NzIzMTg1MzIs
-MTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MT
-I5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5
-LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMT
-A5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5
-Mzg5XX0=
+eyJoaXN0b3J5IjpbLTExNDk3NDQxODAsLTEwNDc5OTQxNTAsMz
+Q2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUz
+MiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMT
+YxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQz
+NTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC
+0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1
+MDkzODldfQ==
 -->
