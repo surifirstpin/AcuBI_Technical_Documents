@@ -115,7 +115,7 @@ The resultant for this calculated column will display number of working days in 
 |  <b>date_format</b> | Returns the required format (supported by the database) of a date given |bi.date_format(${col_name}, “required_format”) Ex: bi.date_format(“2018-02-10 235950”, “YYYY-MM”) = 2018-02 |
 | <b>date_diff</b> | Returns the number of days between two given dates | bi.date_diff(date1,date2) |
 | <b>days_in_month</b> | Returns the total number of days in a month for a given date / time stamp | bi.days_in_month (${Col_name}) Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 28 |
-| <b>days_till_month</b> | Returns the total number of days completed in a month for a given date / time stamp | <b>bi.days_till_month (${Col_name})Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
+| <b>days_till_month</b> | Returns the total number of days completed in a month for a given date / time stamp | bi.days_till_month (${Col_name})Ex: bi.days_in_month(“2018-02-01 15:32:26”) = 1 |
 
 ### Bitwise Operator
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODY4NzcyNjgsLTQ0MDg3NDg2NSwxNT
-A4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDcz
-NSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC
-03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0
-NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MS
-wtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0
-NDcyMzgwXX0=
+eyJoaXN0b3J5IjpbMTA4NjYzOTAxNCwtNDQwODc0ODY1LDE1MD
+g0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1
+LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
+cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
+NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
+01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
+NzIzODBdfQ==
 -->
