@@ -77,14 +77,14 @@ The resultant for this calculated column will display number of working days in 
 |--|--|--|
 |<b>Offset</b>  |Return the row value of the column mentioned as before or after based on  -Ve or +Ve number given  | bi.offset(#{col_name}, row_difference) |
 |<b>pivot_offset</b>|Returns the cell value of pivot table based on the Row and Column position given respectively.Row number:  +Ve & -Ve are for below & above positions Column number : +Ve and -Ve are for after & before positions|bi.pivot_offset(#{col_name} ,m,n) for instance: m is row number & n is column number|
-|<b>Contains<b>|Returns true/ false after validating expression given inside|bi.contains(expression)|
-|row_total|Returns the total value in the row for the preceding measures (before the present column) |bi.row_total ( )|
-|col_total|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
-|number|Returns the object argument to a number that represents the object's value.The object may be static or a column name|bi.number(“static”) or bi.number(${col_name}) Ex: bi.number("1234567") returns  1234567|
-|int|Returns only integer values of given number or column|bi.int(number) or bi.int(${col_name})Ex: bi.int(74845.9898) = 74845|
-|in_globals|Returns the data from Global parameters based on the common reference. The reference can be static or a column|bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” ) **Note:** Ref can be a column name or static value or userid|
-|in_global_key|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
-|calculate_key_group|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
+|<b>Contains</b>|Returns true/ false after validating expression given inside|bi.contains(expression)|
+|<b>row_total<b>|Returns the total value in the row for the preceding measures (before the present column) |bi.row_total ( )|
+|<b>col_total<b>|Returns the total value of the column given inside ()|bi.column_total(#{col_name})|
+|<b>number<b>|Returns the object argument to a number that represents the object's value.The object may be static or a column name|bi.number(“static”) or bi.number(${col_name}) Ex: bi.number("1234567") returns  1234567|
+|<b>int<b>|Returns only integer values of given number or column|bi.int(number) or bi.int(${col_name})Ex: bi.int(74845.9898) = 74845|
+|<b>in_globals<b>|Returns the data from Global parameters based on the common reference. The reference can be static or a column|bi.in_globals(Ref ,”GP_Name.R_Val ”, ”Ref_key” ) **Note:** Ref can be a column name or static value or userid|
+|<b>in_global_key<b>|it returns the data from global parameters based on the multiple common references.this references can be static or column|bi.in_global_keys ([“GP_Rkey1”,”GP_Rkey2”,.....],[Ref1, Ref2,.....], ”GP_Name.R_Val”) Note: Ref1/Ref2 can be static strings or column names or userid|
+|<b>calculate_key_group<b>|Returns an aggregated value of a measure based on a dimension with further mention of row grouping column name|bi.calculate_key_group (#Ag_col,$Ag_col,#RG_col,$RG_col,$M_col,”agg_type”) Where Ag= Aggregated & RG for Row Grouping  & M_Col for measure and agg_type can be sum, avg, min, max, count|
 |col_running_total|Returns the running total value for a column in each cell|bi.col_running_total(#{col_name})|
 |col_running_avg|Returns the average value upto current cell for a column|bi.col_running_avg(#{col_name})|
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc2NDQ3ODMsLTQ0MDg3NDg2NSwxNT
-A4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDcz
-NSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC
-03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0
-NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MS
-wtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0
-NDcyMzgwXX0=
+eyJoaXN0b3J5IjpbMTcxMzQ5NTU1NCwtNDQwODc0ODY1LDE1MD
+g0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1
+LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
+cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
+NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
+01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
+NzIzODBdfQ==
 -->
