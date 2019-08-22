@@ -59,12 +59,14 @@
 <b>a)</b> To connect AcuBi SSH tunnel with same database host, provide following information to AcuBi analyst :
  
   - IP address or DNS name of the database server
+
   - SSH port of the database server
+ 
   - Database port number
   
 <b>b)</b> If connecting with separate database host, provide following information to AcuBi analyst:
   
-  - IP address or DNS name of the database server as seen from the tunnel server.
+ - IP address or DNS name of the database server as seen from the tunnel server.
   
   - Database port number as seen from the tunnel server.
 
@@ -112,9 +114,9 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzY3MjA4NywxNjI5Nzc3OTU0LDEyMD
-kyMjk5MjIsLTE2MDQ2MDE2OTQsMTAyNzIwMzg5MSwtNTU0MjU4
-MDczLC0xNjA0NTc4NTgwLC01NzQwMTg0NzEsLTE5MjE3MTM3OT
-EsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwy
-MTEzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
+eyJoaXN0b3J5IjpbMzk1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOT
+IyOTkyMiwtMTYwNDYwMTY5NCwxMDI3MjAzODkxLC01NTQyNTgw
+NzMsLTE2MDQ1Nzg1ODAsLTU3NDAxODQ3MSwtMTkyMTcxMzc5MS
+wtMTg3ODg2OTIyMywtMTQ0NzU1MTU2NSwtOTQ0NTY1MDMwLDIx
+MTMyOTA5NTksLTExOTAyNTExMTNdfQ==
 -->
