@@ -65,9 +65,13 @@
 <b>b)</b> If connecting with separate database host, provide following information to AcuBi analyst:
   
   - IP address or DNS name of the database server as seen from the tunnel server.
+  
   - Database port number as seen from the tunnel server.
+
   - IP address or DNS name of the tunnel server as seen from the public internet.
-  - SSH port of the tunnel server as seen from the public internet.
+
+ - SSH port of the tunnel server as seen from the public internet.
+
  - Username and Password on the tunnel server for the SSH connection (the standard is looker).
   
   - <b>Browse Key File:</b> upload a private key for secure access.
@@ -108,7 +112,7 @@
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTkzMTAwMSwxNjI5Nzc3OTU0LDEyMD
+eyJoaXN0b3J5IjpbMTI2MzY3MjA4NywxNjI5Nzc3OTU0LDEyMD
 kyMjk5MjIsLTE2MDQ2MDE2OTQsMTAyNzIwMzg5MSwtNTU0MjU4
 MDczLC0xNjA0NTc4NTgwLC01NzQwMTg0NzEsLTE5MjE3MTM3OT
 EsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1NjUsLTk0NDU2NTAzMCwy
