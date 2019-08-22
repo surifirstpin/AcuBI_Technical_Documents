@@ -272,7 +272,7 @@ The resultant for this calculated column will display number of working days in 
 |to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
 ### Utils 	
-|  **Name** | **Description** | **Example** |
+|  Name | Description | Example |
 |  :------: | :------: | :------: |
 |  to | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
 |  clone | Clone an object. | bi.clone(x) <br/>Ex: bi.clone(“3.5”) = 3.5 |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNT
-Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
-NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
-AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
-NDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MS
-wtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MSwtNTMx
-NjgwNzU4XX0=
+eyJoaXN0b3J5IjpbNDU4NTI1MTkyLC05Mzk0NDQ2NjQsLTE0Mz
+U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
+NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
+UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
+NjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LD
+IwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0
+MTIzOTFdfQ==
 -->
