@@ -101,8 +101,8 @@ The resultant for this calculated column will display number of working days in 
 |  <b>prod</b>| Returns the product values of the mentioned values |bi.prod(p1,p2,p3,p4,....) Ex: bi.prod(p1,p2,p3) = p1 * p2 * p3|
 |  <b>quantileSeq</b> | Returns prob order quantile of a matrix or a list with values | bi.quantileSeq(A, prob[, sorted]) |
 |  <b>std</b> | Returns the standard deviation of a matrix or a list with values. | bi.std(p1,p2,p3 ...)<br/>bi.std(A)<br/>bi.std(A, normalization) |
-|  sum | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
-|  var | Returns the variance of a matrix or a list with values | bi.var(p1,p2,p3)<br/>Ex: bi.var(2, 4, 6) = 4 |
+|  <b>sum</b> | Returns the sum of list of values mentioned | bi.sum(p1,p2,p3,.....)<br/>Ex: bi.sum(p1,p2,p3) = p1 + p2 +p3 |
+|  <b>var</b> | Returns the variance of a matrix or a list with values | bi.var(p1,p2,p3)<br/>Ex: bi.var(2, 4, 6) = 4 |
 
 ### Date
 
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTQzNjEzOCwtNDQwODc0ODY1LDE1MD
-g0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1
-LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLT
-cyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNCwyMDMyMzQ1
-NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1NDEyMzkxLC
-01MzE2ODA3NTgsLTExNTk4ODk0MjksNjA5NTk3MTM0LC05MzQ0
-NzIzODBdfQ==
+eyJoaXN0b3J5IjpbLTE4MjEzNzEwMzAsLTQ0MDg3NDg2NSwxNT
+A4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDcz
+NSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC
+03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0
+NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5NTQxMjM5MS
+wtNTMxNjgwNzU4LC0xMTU5ODg5NDI5LDYwOTU5NzEzNCwtOTM0
+NDcyMzgwXX0=
 -->
