@@ -425,17 +425,17 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
 <b><font color = "Black"> Image 11</b>
 
- **Note :**  it returns value 13. As shown in image below.
+ <b>Note :</b>  it returns value 13. (refer image 13)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTY5MjQ4MCwtOTM5NDQ0NjY0LC0xND
-M1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYzOTAxNCwtNDQwODc0
-ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LDE3NTkzNTA3MjEsMj
-U1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0MTk1NTEsLTE0ODQ1
-MTYyMTYsLTcyMTM0NjkwNiwxODI1NzA2MjYwLDc5MTk3NjczNC
-wyMDMyMzQ1NzgxLC0xMDY1OTIyMjY1LDEzMTUxOTYyOTYsNDk1
-NDEyMzkxXX0=
+eyJoaXN0b3J5IjpbMTc4MzM5NDgzMywtODA5NjkyNDgwLC05Mz
+k0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5
+MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMT
+c1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQx
+OTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNj
+AsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMx
+NTE5NjI5Nl19
 -->
