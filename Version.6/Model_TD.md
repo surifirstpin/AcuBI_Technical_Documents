@@ -116,7 +116,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
  <b><Font color = " black">Image 9</font></b>
 
-<b><i>Customization for a model can be carried out in following ways :</b></i>
+<b><i><u>Customization for a model can be carried out in following ways :<u></b></i>
 
 -  Add a new mapping or relations among the views based on a specific condition.
 
@@ -125,7 +125,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 -  Define filters on the data with different mapped views.
 
 
-<b><i>The list of keywords used in Model are:</i></b>
+<b><i><u>The list of keywords used in Model are:</u></i></b>
 
 |  <b>Serial No.</b> | <b>Keyword</b> | <b>Description</b> |
 |  ------ | ------| ------ |
@@ -706,11 +706,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNDcwNzk1NCwtMTA0Nzk5NDE1MCwzND
-Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
-LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
-EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
-OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
-EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
-OTM4OV19
+eyJoaXN0b3J5IjpbNTcwNzA2NjcxLC0xMDQ3OTk0MTUwLDM0Nj
+Y2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03NzIzMTg1MzIs
+MTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MT
+I5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMTM5MzE0MzU5
+LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5MzkyMDY0NSwtMT
+A5NzA2MTcyNywyNTQ3MDE2MDUsMTI2Mzc1Mjg3NSwxNDMwNTA5
+Mzg5XX0=
 -->
