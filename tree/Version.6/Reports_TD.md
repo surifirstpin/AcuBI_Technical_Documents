@@ -269,7 +269,7 @@ Click on <b>Calculated Column</b> button to enable table calculations as shown i
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
   <b><Font color = " black">Image 12</font></b>
 
-Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color (ReferImaas shown in below image:
+Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color. (Refer Image 13)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
   <b><Font color = " black">Image 13</font></b>
@@ -280,7 +280,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 
  <b><i>Below are the parameters applicable on the data retrieved;</i></b>
 
-- <b>Row Grouping<:/b>enables row grouping for fields values based on the field selected as shown in the below image.
+- <b>Row Grouping:</b> enables row grouping for fields values based on the field selected as shown in the below image.
 
 - <b>Explore Enabled:</b> to explore the data which are grouped select the check box <b>Explore Enabled.</b>
 
@@ -355,8 +355,8 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MjkwNzgyLC00NjEwMzIwMzMsMTkzNz
-M3NzIxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5
-MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMz
-kyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5Mz
+czNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAz
+OTIsLTk3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMj
+M5MjUyNSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
