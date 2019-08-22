@@ -249,7 +249,7 @@ Views are independent tables chosen while creating a project. All the columns in
 
 -  Defining values for different map co-ordinates.
 
-<b><i>The Associated keywords with the views are flowing :</i></b>
+<b><i><u>The Associated keywords with the views are flowing :</u></i></b>
 
 |  <b>S.No | Name | Identifier of a custom field </b> |
 |  :------ | :------: | :------: |
@@ -269,7 +269,7 @@ Views are independent tables chosen while creating a project. All the columns in
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
 | 15 | always_filter | to directly define desired filters values in model itself. <b>for example</b> define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
 
-<b><i>Among the above stated list, the following are the special attributes for user convenience :</i></b>
+<b><i><u>Among the above stated list, the following are the special attributes for user convenience :</u></i></b>
 
 <b>I.  lookup and operator :</b>  Using “lookup” feature, AcuBi allows you to define a set of filter values for a field. The assignment can be made in the following two ways:
 -   <b>Query</b>  an sql query returning a set of values can be written in <b>“lookup”</b> for a field. It will be useful if the filter values are large in number and becomes tedious to mention all of them as a list.
@@ -324,7 +324,8 @@ Consider Number = 12345679
 |  21 | #K | 12345 678566999999k |
 |  22 | #M | 12.345678567IM |
 
--   <b>Currency</b>  AcuBi supports following currency formats “$”, “€”, “£”, “₹”.
+
+<b>Currency:</b>  AcuBi supports following currency formats “$”, “€”, “£”, “₹”.
 
 ```
 currency : currency_symbol
@@ -706,11 +707,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk3NDQxODAsLTEwNDc5OTQxNTAsMz
-Q2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUz
-MiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMT
-YxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQz
-NTksLTE5NzExNDUyODQsMjA1MTAwNTk2NiwtNzkzOTIwNjQ1LC
-0xMDk3MDYxNzI3LDI1NDcwMTYwNSwxMjYzNzUyODc1LDE0MzA1
-MDkzODldfQ==
+eyJoaXN0b3J5IjpbLTQ2NTA3Mjg5MywtMTA0Nzk5NDE1MCwzND
+Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
+LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
+EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
+OSwtMTk3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLT
+EwOTcwNjE3MjcsMjU0NzAxNjA1LDEyNjM3NTI4NzUsMTQzMDUw
+OTM4OV19
 -->
