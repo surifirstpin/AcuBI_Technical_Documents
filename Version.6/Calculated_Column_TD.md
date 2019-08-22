@@ -262,10 +262,10 @@ The resultant for this calculated column will display number of working days in 
 |  <b>null</b> | Value null. | null |
 |  <b>phi</b> | Phi is the golden ratio in math this is separately coded has unicode glyph ϕ | 1.61803398874989 |
 |  <b>pi, PI</b> | Returns the value of pi which is a mathematical constant that is the ratio of a circle's circumference to its diameter. | 3.14159265358979 |
-|  SQRT1_2 | Returns the square root of 1/2. | 0.707106781186547 |
-|  SQRT2 | Returns the square root of 2. | 1.41421356237309 |
-|  tau | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
-|  uninitialized | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
+|  <b>SQRT1_2</b> | Returns the square root of 1/2. | 0.707106781186547 |
+|  <b>SQRT2</b> | Returns the square root of 2. | 1.41421356237309 |
+|  <b>tau</b> | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
+|  <b>uninitialized</b> | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
 ### Unit	
 |Name|Description|Example|
 |--|--|--|
@@ -431,7 +431,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODAzMTc1MCwtMTQzNTc0NDczNSwtNT
+eyJoaXN0b3J5IjpbLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNT
 Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
 NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
 AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
