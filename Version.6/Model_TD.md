@@ -116,7 +116,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
  <b><Font color = " black">Image 9</font></b>
 
-<b><i><u>Customization for a model can be carried out in following ways :<u></b></i>
+<b><i><u>Customization for a model can be carried out in following ways :</u></i></b>
 
 -  Add a new mapping or relations among the views based on a specific condition.
 
@@ -707,7 +707,7 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTA3Mjg5MywtMTA0Nzk5NDE1MCwzND
+eyJoaXN0b3J5IjpbMTIzMDQ4OTU5NCwtMTA0Nzk5NDE1MCwzND
 Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
 LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
 EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
