@@ -26,19 +26,18 @@ A model is a customized gateway into the database for accessing data as per busi
 
 **Enter the following details;**
 
--   <b>Project Name:</b>  Enter the project name.
+<b>Project Name:</b>  Enter the project name.
 
 ### Step 2:    
 
--   <b>Connection:</b>  Choose the database connection from the drop-down list provided.
+<b>Connection:</b>  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
  <b><Font color = " black">Image 2</font></b>
  
 ###  Step 3:
-
-- <b>Database:</b> Choose the database for configuration. All the selected databases are visible under <b>Selected Databases section.</b> 
+<b>Database:</b> Choose the database for configuration. All the selected databases are visible under <b>Selected Databases section.</b> 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/94a885c012491ba11e96367e359fc5a65526085e/images/New_version5/TD_Model_image3.png)
@@ -46,7 +45,7 @@ A model is a customized gateway into the database for accessing data as per busi
  
 ### Step 4:
 
-- <b>Tables</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
+ <b>Tables</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
 
 <b>2.</b> <b>Auto Build Joins: (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
@@ -56,11 +55,12 @@ A model is a customized gateway into the database for accessing data as per busi
  
 ### Step 5:
 
--   <b>Privacy</b> you can save the project in any one of the following privacy option.
-    -   <b>Private:</b>  report saved in private section are accessed by the existing user only.
-    -   <b>Public:</b>  report is saved in public section are accessed by all the users.
+<b>Privacy</b> you can save the project in any one of the following privacy option.
+   -   <b>Private:</b>  report saved in private section are accessed by the existing user only.
    
-    -   <b>Share:</b>  report saved under share section are accessed by specific set of users.
+   -   <b>Public:</b>  report is saved in public section are accessed by all the users.
+   
+   -   <b>Share:</b>  report saved under share section are accessed by specific set of users.
     
 ![
 ]
@@ -708,7 +708,7 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzUxNjM0MCwtMTA0Nzk5NDE1MCwzND
+eyJoaXN0b3J5IjpbLTk4OTI1NDQxMywtMTA0Nzk5NDE1MCwzND
 Y2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMy
 LDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNj
 EyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1
