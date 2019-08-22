@@ -266,20 +266,20 @@ The resultant for this calculated column will display number of working days in 
 |  <b>SQRT2</b> | Returns the square root of 2. | 1.41421356237309 |
 |  <b>tau</b> | Returns Tau value which is the ratio constant of a circle's circumference to radius, equal to 2 * pi. | 6.28318530717958 |
 |  <b>uninitialized</b> | Constant used as default value when resizing a matrix to leave new entries uninitialized | - |
-### Unit	
+## Unit	
 |Name|Description|Example|
 |--|--|--|
-|to|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
+|<b>to</b>|Returns the converted unit value of a given value|Ex: bi.unit("2 inch").to("cm") |
 
-### Utils 	
+## Utils 	
 |  Name | Description | Example |
 |  :------: | :------: | :------: |
-|  to | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
-|  clone | Clone an object. | bi.clone(x) <br/>Ex: bi.clone(“3.5”) = 3.5 |
-|  isInteger | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
-|  isNaN | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
-|  isPositive | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
-|  isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
+|  <b>to</b> | Returns the converted unit value of a given value | bi.unit("x unit1").to("unit2")<br/>Ex: bi.number(bi.unit("2 inch").to("cm"),"cm") = 5.08 <br/>       bi.number(bi.unit("16 bytes").to("bits"),"bits") = 128 |
+|  <b>clone</b> | Clone an object. | bi.clone(x) <br/>Ex: bi.clone(“3.5”) = 3.5 |
+|  <b>isInteger</b> | Returns true / false after validating the given value is integer<br/>true if the given value is integer or else false | bi.inInteger(value)<br/>Ex: bi.isInteger(2) = true, <br/>       bi.isInteger(2.5) = false |
+|  <b>isNaN</b> | Returns true / false after validating the given value  whether it is NaN (not a number) | bi.isNaN(value)<br/>Ex: bi.isNaN(3) = false, <br/>      bi.isNaN(NaN) = true |
+|  <b>isPositive</b> | Returns true / false after validating the given value is positive<br/>true if the given value is integer or else false | bi.isPositive(value)<br/>Ex: bi.isPositive(3) = true, <br/>      bi.isPositive(-3) = false |
+|  <b>isNegative | Returns true / false after validating the given value is negative<br/>true if the given value is integer or else false | bi.isNegative(value)<br/>Ex: bi.isNegative(3) = false, <br/>      bi.isNegative(-3) = true |
 |  isNumeric | Returns true / flase after validating the given value is numeric or not | bi.isNumeric(value)<br/> Ex: bi.isNumeric(3) = true, <br/>      bi.isNumeric(“string”) = false |
 |  isPrime | Results true / false after validating  the given value is  whether a prime number | bi.isPrime(value)<br/> Ex: bi.isPrime(3) = true, <br/>       bi.isPrime(4) = false |
 |  isZero | Results true / false after validating  the given value is  whether it is zero | bi.isZero(value)<br/> Ex: bi.isZero(1) = false, <br/>       bi.isZero(0) = true |
@@ -431,11 +431,11 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b><font color = "Black"> Image 12</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUxMTc2NDIsLTkzOTQ0NDY2NCwtMT
-QzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3
-NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLD
-I1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0
-NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3Mz
-QsMjAzMjM0NTc4MSwtMTA2NTkyMjI2NSwxMzE1MTk2Mjk2LDQ5
-NTQxMjM5MV19
+eyJoaXN0b3J5IjpbMTA2NTQ2NDM4LC05Mzk0NDQ2NjQsLTE0Mz
+U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
+NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
+UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
+NjIxNiwtNzIxMzQ2OTA2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LD
+IwMzIzNDU3ODEsLTEwNjU5MjIyNjUsMTMxNTE5NjI5Niw0OTU0
+MTIzOTFdfQ==
 -->
