@@ -235,15 +235,17 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ## Find
 
-<b>13.</b> To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down. 
+<b>13.</b> To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down. (Refer Image 8)
 
 ## Field Visualization On / Off
 
-<b>14.</b> To hide the specific field in the visualization charts click on <b>Hide Visualization</b> in the drop down of field  and to display the same click on <b>Show visualization.</b>
+<b>14.</b> To hide the specific field in the visualization charts click on <b>Hide Visualization</b> in the drop down of field  and to display the same click on <b>Show visualization.</b>(Refer Image 8)
+
 
 ## Remove
 
-<b>15.</b> To remove a specific field column from the extracted list click on <b>Remove</b> in drop down list of the field.
+<b>15.</b> To remove a specific field column from the extracted list click on <b>Remove</b> in drop down list of the field.(Refer Image 8)
+
 
 ## Calculated Column 
 
@@ -357,7 +359,7 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjUzNjA5OSwtMjA0NjU3ODY3MywtMT
+eyJoaXN0b3J5IjpbLTY5MzI0MTg1NSwtMjA0NjU3ODY3MywtMT
 gyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIw
 MzMsMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsLT
 EwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0
