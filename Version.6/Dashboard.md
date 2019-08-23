@@ -86,7 +86,7 @@ Based on requirement multiple reports are added to layout selected.
 
 -   <b>Lookup name:</b>  name of the lookup field.
     
--   <b>Lookup Type:<b>  refers to item or query type.
+-   <b>Lookup Type:</b>  refers to item or query type.
 
 - <b>Connection:</b> Connection established for the query  
     
@@ -184,11 +184,11 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5OD
-g1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQs
-MTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MD
-U0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzky
-LC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NT
-M3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYxMCwxNDU0Njc2NDM4
-XX0=
+eyJoaXN0b3J5IjpbLTE0MjI5MTk4NjMsLTE2MDY2NzE2MTYsMT
+QxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcy
+Myw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03ND
+AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
+MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
+M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
+MF19
 -->
