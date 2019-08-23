@@ -437,8 +437,8 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
 ``` 
 {
-"name": "CustomView_820",
-	"label": "CustomView_820",
+"name": "CustomView_2516",
+	"label": "CustomView_2516",
 	"info": "Description",
 	"type": "query",
 	"sql": "(SELECT A.STATIONCODE SC,A.ORDERID ORID,A.WHENMADE ORTIME,B.NAME RECEPNAME, A.AMOUNT ORDVAL,A.QUANTITY QTY,A.WAYUSED ORDBY, A.PAYMENTMODE PM,C.NAME CUSTNAME,C.ADDRESS CUSTADDR FROM ROOT.ORDERS A INNER JOIN ROOT.EMPLOYEES B ON A.ORDERATTDID=B.EMPLOYEEID INNER JOIN ROOT.CUSTOMERS C ON A.CUSTOMERID=C.CUSTOMERID)",
@@ -452,7 +452,7 @@ Once the view is created, label the database field and derive the custom table u
 			"type": "dimension",
 			"lookup": "",
 			"operators": "",
-			"sql": "\"CustomView_820\".SC",
+			"sql": "\"CustomView_2516\".SC",
 			"summary": "",
 			"visualise": "true",
 			"country_ref": {
@@ -467,7 +467,7 @@ Once the view is created, label the database field and derive the custom table u
 			"type": "measure",
 			"lookup": "",
 			"operators": "",
-			"sql": "COUNT(DISTINCT \"CustomView_820\".ORID)",
+			"sql": "COUNT(DISTINCT \"CustomView_2516\".ORID)",
 			"summary": "",
 			"visualise": "true"
 		},
@@ -706,11 +706,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NjM0ODkyMSwxNzU5MTUxMDM0LDIwMT
-IyNjQ0NTgsMTIzMDQ4OTU5NCwtMTA0Nzk5NDE1MCwzNDY2Njgz
-OTYsMzAxMjU5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMyLDE1ND
-kxMzczMSwtNzI1ODU3MDk3LDEyNTkwMDI2ODUsLTExNjEyOTgz
-NzEsNTEwNzQ3MDIyLDE1MzQ3MjMzMDEsMTEzOTMxNDM1OSwtMT
-k3MTE0NTI4NCwyMDUxMDA1OTY2LC03OTM5MjA2NDUsLTEwOTcw
-NjE3MjddfQ==
+eyJoaXN0b3J5IjpbLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3NT
+kxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMDQ3OTk0
+MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03Nz
+IzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4
+NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMT
+M5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5Mzky
+MDY0NV19
 -->
