@@ -31,15 +31,19 @@ Navigate to New Tag Page and enter below details;
  <b><Font color = " black">Image 2</font></b>       
 
 All the saved tags are visible under <b><i>My Space</i></b> list.
+
 <b>1.</b> To delete a tag click delete icon.
+
 <b>2.</b>  To edit a tag click edit icon.
+
 <b>3.</b>To set Thumbnail for a tag click Thumbnail icon.
+
 <b>4.</b>Tags can be saved in Public, Private or Share under sharing status. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
  <b><Font color = " black">Image 3</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjU5OTYzNiwxNDM1NDAxNDgwLC01OT
-g4NTYzMTJdfQ==
+eyJoaXN0b3J5IjpbLTEyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNT
+k4ODU2MzEyXX0=
 -->
