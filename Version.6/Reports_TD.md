@@ -212,7 +212,7 @@ To hide first column of pivoted data  in visualization, choose pivot hide first,
 
 <b>11.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/994f3e816fcd104d81eeee8656b39dae9e854092/images/New_version5/TD_Reports_8.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e3b108aa27ba503adc4f5e185cee2743d7094208/images/New_version5/TD_Reports_8.png)
  <b><Font color = " black">Image 8</font></b>
 
 ## Group / Un-Group
@@ -359,10 +359,10 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzI0MTg1NSwtMjA0NjU3ODY3MywtMT
-gyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIw
-MzMsMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsLT
-EwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0
-NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNj
-E3OTUzMTI2XX0=
+eyJoaXN0b3J5IjpbLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLT
+E4MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMy
+MDMzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC
+0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMz
+NDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLT
+YxNzk1MzEyNl19
 -->
