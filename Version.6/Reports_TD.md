@@ -275,7 +275,7 @@ Click <b>OK</b> after deriving the expression,  all the values based on calculat
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
   <b><Font color = " black">Image 13</font></b>
-
+> Note: for In depth information about calculated column, kindly navigate to Calculated co
 
 
 ## SQL Query 
@@ -302,10 +302,10 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MDkyMTk3LC0xOTU2NzkyOTMyLC0yMD
-Q2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQy
-NTcsLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMT
-YyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAzOTIsLTk3MDE3
-OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxOD
-A2OTg1ODU0LC02MTc5NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTcxMDEyOTAzOCwtMjYwOTIxOTcsLTE5NT
+Y3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MTEz
+MzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwxMT
+I2MzMyMDYyLC0xNjI2NzE3ODU3LC0xMDA5MTQzMjMsMTU0MjY0
+MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQzMzcsOD
+AyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
 -->
