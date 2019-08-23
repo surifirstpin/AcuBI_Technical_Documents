@@ -682,32 +682,34 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 To view and access the existing projects and views, click on <b>projects</b> on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Model_image12.png)
+<b><Font color = " black">Image 12</font></b>
 ## Edit Project
 
 To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
 You can rename the project created, insert more tables into already existing projects as show in the below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
-  <b><Font color = " black">Image 12</font></b>
+  <b><Font color = " black">Image 13</font></b>
 
 Insert customers table in to the project by selecting the <b>checkbox for customers</b> then click on <b>update</b> button to save the changes made. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
- <b><Font color = " black">Image 13</font></b>
+ <b><Font color = " black">Image 14</font></b>
 
 ## Deleting Project
 
 Deleting project will permanently removes project from database. To carryout deletion click on <b>Delete Icon</b>  available next to project list. It will pop-up a message showing to delete the file permanently Click <b>Delete</b> or else click <b>NO</b>.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
- <b><Font color = " black">Image 14</font></b>
+ <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Nj
-k4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4
-LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMT
-I1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEs
-LTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMD
-c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
-ODRdfQ==
+eyJoaXN0b3J5IjpbLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2Nj
+A3MDcyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAz
+NCwyMDEyMjY0NDU4LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMz
+Q2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUz
+MiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMT
+YxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQz
+NTldfQ==
 -->
