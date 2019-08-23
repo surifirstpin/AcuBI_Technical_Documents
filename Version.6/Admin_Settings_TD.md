@@ -2,6 +2,7 @@
 
 
  <center><h1>Admin Privileges</h1></center>
+
  AcuBi administrative settings allows you to customize AcuBi for your organisation.
 Here is how to get started with administrative settings and its features.
 AcuBi admin has an ability to manage all Users, User Groups, Global parameters and Global functions. Let us see in detail how each of them work.
@@ -93,7 +94,7 @@ To share the specific content with set of people in the organisation.
 To change the password, Click on *Reset Password*, it will navigate to reset password screen.
 
 - <b>Enter old Password</b> enter existing password.
-- <b>Enter New Password<b> enter new password to be update.
+- <b>Enter New Password</b> enter new password to be update.
 - <b>Re-enter New password</b> re-enter the new password.
 - Finally, click <b>Update</b> to save new password.
 
@@ -102,5 +103,5 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 
 > <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly in separate sections.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjk4MzMzXX0=
+eyJoaXN0b3J5IjpbMTQzMzE0NzE2Niw5MTM2OTgzMzNdfQ==
 -->
