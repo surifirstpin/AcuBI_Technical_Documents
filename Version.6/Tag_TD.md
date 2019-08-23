@@ -16,11 +16,13 @@ Click on  <b>Add Tag</b> in dashboard section to create a  <b>New Tag.</b>
  <b><Font color = " black">Image 1</font></b>
 
 Navigate to New Tag Page and enter below details;
- -   <b>Tag Name:</b>  identifier for the new tag.
+-   <b>Tag Name:</b>  identifier for the new tag.
 -   <b>Share Status:</b>  select privacy options for newly created tag.
     -   <b>Private()</b> It enable access for user itself.
+    
     -   <b>Public()</b>  It enable access for all the users.
-    -   <b>Share()</n> It enable access for specific set of users.
+    
+    -   <b>Share()</b> It enable access for specific set of users.
     > <b>Note:</b> Animated is enabled for Display Boards in AcuBi.
 
 - Click <b>Add Tag</b> to save tag.
@@ -38,5 +40,6 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
  <b><Font color = " black">Image 3</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbMjA1NjU5OTYzNiwxNDM1NDAxNDgwLC01OT
+g4NTYzMTJdfQ==
 -->
