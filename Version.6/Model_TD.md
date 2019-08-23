@@ -452,7 +452,7 @@ Once the view is created, label the database field and derive the custom table u
 			"type": "dimension",
 			"lookup": "",
 			"operators": "",
-			"sql": "\"CustomView_791\".SC",
+			"sql": "\"CustomView_820\".SC",
 			"summary": "",
 			"visualise": "true",
 			"country_ref": {
@@ -707,11 +707,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MjIxMTMsMjAxMjI2NDQ1OCwxMjMwND
-g5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQs
-ODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NT
-cwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIs
-MTUzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNT
-EwMDU5NjYsLTc5MzkyMDY0NSwtMTA5NzA2MTcyNywyNTQ3MDE2
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTc1OTE1MTAzNCwyMDEyMjY0NDU4LDEyMz
+A0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMTI1OTEz
+NCw4MzExMDc1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNT
+g1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAy
+MiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUyODQsMj
+A1MTAwNTk2NiwtNzkzOTIwNjQ1LC0xMDk3MDYxNzI3LDI1NDcw
+MTYwNV19
 -->
