@@ -276,63 +276,6 @@ Click <b>OK</b> after deriving the expression,  all the values based on calculat
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
   <b><Font color = " black">Image 13</font></b>
 
-## Data 
-
-Data section under visualization is enabled based on the data retrieved for fields.
-
- <b><i>Below are the parameters applicable on the data retrieved;</i></b>
-
-- <b>Row Grouping:</b> enables row grouping for fields values based on the field selected as shown in the below image.
-
-- <b>Explore Enabled:</b> to explore the data which are grouped select the check box <b>Explore Enabled.</b>
-
-- <b>Stacked:</b> Series values are added on the y-axis, so each consecutive series appears above the last. Be sure that the units of all series match.
-
-- <b>Datasets</b> this section enables you to perform alignment, set currency formats, group aggregates ( Sum, Avg, Max, Min, Count ) on the consolidated values of the field.
-
-- <b>Legend</b> it will enable the user to name a measure field value under the data sets of visualization charts as shown in image below.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5172b5cf71819a0e92ccc38247af5660d863bdf2/images/New_version5/TD_Reports_14.png)
- <b><Font color = " black">Image 14</font></b>
-
-##  Format
-
-  - <b>Format</b> enables different type of number format to the measure field value. Following are the list of number formats supported by AcuBi ;
-  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4b71a76877a20fa60858be7fbb514e421c9a435/images/New_version5/TD_Reports_16.png)  
- <b><Font color = " black">Image 15</font></b>
- 
-|  Example | Description |
-|  ------ | :------ |
-|  #  | Number(1234) |
-|  #.0  | Number with exactly one decimal(1234.0) |
-|  #.00  | Number with exactly two decimal(1234.00) |
-|  #.000 | Number with exactly three decimal(1234.000) |
-|  #,##0 | Number with comma between thousands(1,234) |
-|  #,##0.0 | Number with comma between thousands with and one decimal(1,234.0) |
-|  #,##0.00 | Number with comma between thousands and two decimal(1,234.00) |
-|  #,##0.000 | Number with comma between thousands and three decimal(1,234.000) |
-|  ###,###.0 | Number with comma between hundreds and one decimal(123,456.0) |
-|  ###,###.00 | Number with comma between hundreds and two decimal(123,456.00) |
-|  ###,###.000 | Number with comma between hundreds and three decimal(123,456.000) |
-|  ###.###,0 | Number with dot between hundreds and comma one decimal(123.456,0) |
-|  ###.###,00 | Number with dot between hundreds and comma two decimal(123.456,00) |
-|  ###.###,000 | Number with dot between hundreds and comma three decimal(123.456,0) |
-|  ### ###   | Number with space between hundreds(123 456) |
-|  #% | Percent with 0 decimals (1%). Please note multiplication by 100 happens automatically |
-|  #.0% | Percent with one decimals (1.0%). Please note multiplication by 100 happens automatically |
-|  #.00% | Percent with two decimals (1.00%). Please note multiplication by 100 happens automatically |
-|  #.000% | Percent with three decimals (1.000%). Please note multiplication by 100 happens automatically |
-|  # k | Number in thousand (1.234 k). Please note division by 1 thousand happens automatically |
-|  # M | Number in Millions (0.001234 M).please note division by 1 million happens automatically |
-|  *00#  | Number zero-padded to 3 places (001) |
-|  *00#.00 | Number zero-padded to 3 places and exactly 2 decimals |
-|  $# | Dollar with 0 decimal |
-|  $#.00  | Dollar with 2 decimal |
-|  $#,##0.00 | Dollars with comma between thousands and 2 decimals ($1,234.00) |
-
-
-- <b>Currency</b>  AcuBi supports following currency formats $,   ₹  ,   €  ,  £.
 
 
 ## SQL Query 
@@ -340,7 +283,7 @@ Data section under visualization is enabled based on the data retrieved for fiel
 To View the SQL query built on retrieving data in report, click on <b>SQL section.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
- <b><Font color = " black">Image 16</font></b>
+ <b><Font color = " black">Image 14</font></b>
 
 ## Drill Down Display
 
@@ -357,12 +300,12 @@ Using drill down you can view more deeper insights of the data.
 > <b>Note :</b> to attain drill down features it need to be specified in model section, Refer <b>Model Documentation</b> for more information about drill down feature.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
-  <b><Font color = " black">Image 17</font></b>
+  <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLT
-E4MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMy
-MDMzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC
-0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMz
-NDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLT
-YxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbLTI2MDkyMTk3LC0xOTU2NzkyOTMyLC0yMD
+Q2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQy
+NTcsLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMT
+YyNjcxNzg1NywtMTAwOTE0MzIzLDE1NDI2NDAzOTIsLTk3MDE3
+OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxOD
+A2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
