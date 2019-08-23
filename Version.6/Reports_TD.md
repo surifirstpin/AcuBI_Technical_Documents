@@ -235,7 +235,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ## Find
 
-<b>13.</b> To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down.
+<b>13.</b> To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down. 
 
 ## Field Visualization On / Off
 
@@ -357,9 +357,10 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MT
-g2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcy
-MSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC0xMDA5MTQzMjMsMT
-U0MjY0MDM5MiwtOTcwMTc5MzEzLDQ3MTMzNDczMSw1NTU4NDQz
-MzcsODAyMzkyNTI1LDE4MDY5ODU4NTQsLTYxNzk1MzEyNl19
+eyJoaXN0b3J5IjpbMTUwNjUzNjA5OSwtMjA0NjU3ODY3MywtMT
+gyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIw
+MzMsMTkzNzM3NzIxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsLT
+EwMDkxNDMyMywxNTQyNjQwMzkyLC05NzAxNzkzMTMsNDcxMzM0
+NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNjk4NTg1NCwtNj
+E3OTUzMTI2XX0=
 -->
