@@ -67,7 +67,7 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 <b>6.</b>   Similarly you can delete the column or row by selecting delete option in drop down list.
 
-<b><i>Similarly edit column cell value by clicking on specific cell as shown below:</i></b>
+<b> Note:</b> <i>Similarly edit column cell value by clicking on specific cell as shown below:</i>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6d8887dfd4a991b567c8c23b558446081c24e50f/images/New_version5/TD_Gobal_Parameter_Image12.png)
  <b><font color = "black">Image 8</font></b>
@@ -89,9 +89,9 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg1MzIzMTEsLTE5NTE1MzQ3MDIsMT
-U1OTIxNzU5OSwtNDQ1NTc4NzAwLC05MzE4NzM1MzgsLTMyMzI1
-OTEwNiwtODM2NDIzNDI3LC0xMDA3OTM3NTk3LDIwNjk1NzY3Mj
-EsNzMyMjY2OTEzLDEyODU5ODQwMjcsOTMzODQyNjUsNDU2NDUy
-NTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4XX0=
+eyJoaXN0b3J5IjpbNTcwMzQzNjYzLC0xOTUxNTM0NzAyLDE1NT
+kyMTc1OTksLTQ0NTU3ODcwMCwtOTMxODczNTM4LC0zMjMyNTkx
+MDYsLTgzNjQyMzQyNywtMTAwNzkzNzU5NywyMDY5NTc2NzIxLD
+czMjI2NjkxMywxMjg1OTg0MDI3LDkzMzg0MjY1LDQ1NjQ1MjUw
+NiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgyOF19
 -->
