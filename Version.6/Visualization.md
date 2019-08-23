@@ -361,11 +361,11 @@ Gauge chart displays current status in the context of goal.
    -   <b>Bottom </b>the label is positioned to the bottom of the anchor point (90°)
    -   <b>Left</b> the label is positioned to the left of the anchor point (180°)
    -   <b>Top</b> the label is positioned to the top of the anchor point (270°)
-  - <b>Anchor</b> The label position is calculated based on the anchor option. AcuBi supports Following positioning.
+- <b>Anchor</b> The label position is calculated based on the anchor option. AcuBi supports Following positioning.
 
-    -   <b>Center  (default)</b> aligns the Label in center.
-    -   <b>Start</b> aligns the the label at lowest boundary.
-    -   <b>End</b> aligns the label at highest boundary.
+   -   <b>Center  (default)</b> aligns the Label in center.
+   -   <b>Start</b> aligns the the label at lowest boundary.
+   -   <b>End</b> aligns the label at highest boundary.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDAxMDUwOCwtMTE5MDgxNTU0NCwxNj
-QxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5
-MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LD
-Q5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIw
-NDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgyMjkzOTkzOS
-wtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC03MzU3ODM3MzgsNDc3
-NTU2MTk5XX0=
+eyJoaXN0b3J5IjpbLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMT
+Y0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4
+OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OC
+w0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgy
+MDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5Mz
+ksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3
+NzU1NjE5OV19
 -->
