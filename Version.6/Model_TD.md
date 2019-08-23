@@ -680,10 +680,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 ## Existing Projects and Views
 
-To view and access the existing projects and views, click on projects on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/012237765b77a1b359ea238573128f5aa046f33b/images/New_version5/TD_Model_image13.png)
-  <b><Font color = " black">Image 12</font></b>
+To view and access the existing projects and views, click on <b>projects</b> on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
 ## Edit Project
 
@@ -691,26 +688,26 @@ To edit existing projects, navigate to projects screen. Select the project you w
 You can rename the project created, insert more tables into already existing projects as show in the below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
-  <b><Font color = " black">Image 13</font></b>
+  <b><Font color = " black">Image 12</font></b>
 
 Insert customers table in to the project by selecting the <b>checkbox for customers</b> then click on <b>update</b> button to save the changes made. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
- <b><Font color = " black">Image 14</font></b>
+ <b><Font color = " black">Image 13</font></b>
 
 ## Deleting Project
 
 Deleting project will permanently removes project from database. To carryout deletion click on <b>Delete Icon</b>  available next to project list. It will pop-up a message showing to delete the file permanently Click <b>Delete</b> or else click <b>NO</b>.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
- <b><Font color = " black">Image 15</font></b>
+ <b><Font color = " black">Image 14</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2Mz
-Q4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0
-LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMT
-A3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcs
-MTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzND
-cyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5
-NjZdfQ==
+eyJoaXN0b3J5IjpbMTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Nj
+k4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4
+LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMT
+I1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEs
+LTcyNTg1NzA5NywxMjU5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMD
+c0NzAyMiwxNTM0NzIzMzAxLDExMzkzMTQzNTksLTE5NzExNDUy
+ODRdfQ==
 -->
