@@ -18,7 +18,7 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 
 <b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>.
 
-<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.
+<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b>
 
 <b>5.</b> All the reports and dashboards can be saved in Public, private or share under share status. 
 
@@ -32,6 +32,7 @@ Considering image 2,
 -   <b>Grey color</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDI5OTE3OSwtMzQzOTMxOTM5LC04Mz
-c2MzIxOTIsLTk2MzU4OTY1OSw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTEyODU1MTI5NjYsMTU2NDI5OTE3OSwtMz
+QzOTMxOTM5LC04Mzc2MzIxOTIsLTk2MzU4OTY1OSw3Mjg3ODU4
+MjVdfQ==
 -->
