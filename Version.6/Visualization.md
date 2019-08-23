@@ -453,15 +453,15 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Position</b> you can can align the y-axis to left or right side of the chart.
 
-- <b>Reference Lines</b> enables the creation of reference lines in a chart.
+<b>Reference Lines</b> enables the creation of reference lines in a chart.
 
 - <b>Name</b> specify a reference name for specific information on y-axis.
   
- - <b>Type</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+- <b>Type</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
- -  <b>From & to</b> specify the reference line for specific range of measure values.
+-  <b>From & to</b> specify the reference line for specific range of measure values.
 
- - <b>Theme</b> enables color for reference line.
+- <b>Theme</b> enables color for reference line.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNDQ2MDY1LC0xNjMxNTI4MDYyLC0xMT
-kwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2
-OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLT
-ExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2
-ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxOD
-IsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTcz
-NTc4MzczOF19
+eyJoaXN0b3J5IjpbLTE3OTg1MDYxMDgsLTE2MzE1MjgwNjIsLT
+ExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYz
+MzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkxNC
+wtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMDM2
+MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgyND
+E4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwt
+NzM1NzgzNzM4XX0=
 -->
