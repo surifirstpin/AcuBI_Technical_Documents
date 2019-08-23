@@ -121,6 +121,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 - <b>Points (General):</b> on selecting the checkbox it enables pointers for the data range in line chart.
 
 - <b>Point style(General):</b> will specify how the data points will appear on chart.
+
  Below are the following point styles available in AcuBi.  
   - Circle
   - Triangle
@@ -133,6 +134,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
   - Dash
   
 - <b>Reverse scale:</b>  it displays the inverse values.
+
 <b>For Instance :</b> if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
 
 - <b>Show Tick-labels</b> it enables measure values on y-axis.
@@ -489,11 +491,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg1MDYxMDgsLTE2MzE1MjgwNjIsLT
-ExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYz
-MzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkxNC
-wtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMDM2
-MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgyND
-E4Miw4MjI5Mzk5MzksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwt
-NzM1NzgzNzM4XX0=
+eyJoaXN0b3J5IjpbLTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMT
+E5MDgxNTU0NCwxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMz
+Njk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC
+0xMTQzMjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYz
+NjgxNTcsLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MT
+gyLDgyMjkzOTkzOSwtMTQ2ODA3NDc2LC0xODQzODI5MjM4LC03
+MzU3ODM3MzhdfQ==
 -->
