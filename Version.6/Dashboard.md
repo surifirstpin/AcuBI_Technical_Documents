@@ -121,7 +121,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
     
 - <b>Add Listener</b> adds multiple filters to reports.
     
-  <b>5.</b> Click  </b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
+  <b>5.</b> Click  <b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
 
 ##  Privacy & Share option for Dashboards
 
@@ -159,7 +159,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
-> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</b></i>  button to save the changes made.
+> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
  <B><font color = " Black"> Image 13 </font></b>
@@ -184,7 +184,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI5MTk4NjMsLTE2MDY2NzE2MTYsMT
+eyJoaXN0b3J5IjpbLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMT
 QxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcy
 Myw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03ND
 AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
