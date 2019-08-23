@@ -1,7 +1,7 @@
 <center><h2>TIMELINE FILTERS</h2></center>
 
-## Date 
-|  **Example** | **Description** |
+## DATE 
+|  Example | Description |
 |  :------: | :------: |
 |  today | from zero hour of today to current point of time |
 |  this second | current point of time |
@@ -11,7 +11,7 @@
 |  this month | from zero hour of current month start date to current point of time |
 |  this quarter | from zero hour of current quarter start date to current point of time |
 |  this year | from zero hour of current year start date to current point of time |
-|  **FULL** |  |
+|  FULL |  |
 |  today full | from zero hour to last hour of today (if data exists) |
 |  this full minute | from zero seconds of current minute to the 60th second(if data exists) |
 |  this full hour | from zero minute, zero seconds of current hour to the 60th minute, 60th second(if data exists) |
@@ -22,7 +22,7 @@
 
 ## NOT
 
-|  **Example** | **Description** |
+| Example | Description |
 |  ------ | ------ |
 |  not today | all the data excluding data from zero hour to last hour of current day(if data exists) |
 |  not this hour | all the data excluding data from zero second to 60th second of current hour (if data exists) |
@@ -31,9 +31,9 @@
 |  not this quarter | all the data excluding data from zero hour of the start date to the last hour of the last date in the current quarter(if data exists) |
 |  not this year | all the data excluding data from zero hour of the start date to the last hour of the last date in the current year(if data exists) |
 
-## Last
+## LAST
 
-|  **Example** | **Description** |
+|  Exampl | Description |
 |  ------ | ------ |
 |  last second | data of last second |
 |  last minute | from the zero second to the 60th second in the last minute with reference to current point of time |
@@ -44,8 +44,8 @@
 |  last quarter | from the zero hour of the start date to the last hour of the last date in the immediate previous quarter with reference to current point of time |
 |  last year | from the zero hour of the start date to the last hour of the last date in the immediate previous year with reference to current point of time |
 
-## Next
-|  **Example** | **Description** |
+## NEXT
+|  Example | Description |
 |  ------ | ------ |
 |  next second | data of next second (if data exists) |
 |  next minute | from the zero second to the 60th second in the next minute with reference to current point of time (if data exists) |
@@ -56,8 +56,8 @@
 |  next quarter | from the zero hour of the start date to the last hour of the last date in the immediate quarter with reference to current point of time (if data exists) |
 |  next year | from the zero hour of the start date to the last hour of the last date in the immediate year with reference to current point of time (if data exists) |
 
-## Last & n
-|  **Example** | **Description** |
+## LAST & N
+|  Example | Description |
 |  ------ | ------ |
 |  last n seconds | data from exactly ‘n’ seconds before the current point of time and up to current point of time |
 |  last n minutes | data from exactly ‘n’ minutes before the current point of time and up to current point of time<br/>(minute resembles 60 seconds) |
@@ -68,9 +68,9 @@
 |  last n quarters | data from exactly ‘n’ quarters before the current point of time and up to current point of time<br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  last n years | data from exactly ‘n’ years before the current point of time and up to current point of time<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
 
-## last – n – full
+## LAST – N – FULL
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 |  last n full minutes | data belongs to the last n completed minutes with reference to the current point of time |
 |  last n full hours | data belongs to the last n completed hours with reference to the current point of time |
@@ -80,8 +80,9 @@
 |  last n full quarters | data belongs to the last n completed quarters with reference to the current point of time<br/>(quarter resembles start date to the last date of te quarter) |
 |  last n full years | data belongs to the last n completed years with reference to the current point of time<br/>(year resembles start date to the last date of the year) |
 
-## next & ‘n’
-|  **Example** | **Description** |
+## NEXT & ‘N’
+
+|  Example | Description |
 |  ------ | ------ |
 |  next n seconds | data from current point of time to exactly coming ‘n’ seconds |
 |  next n minutes | data from current point of time to exactly coming ‘n’ minutes<br/>(minute resembles 60 seconds) |
@@ -92,8 +93,8 @@
 |  next n quarters | data from current point of time to exactly coming ‘n’ quarters <br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  next n Years | data from current point of time to exactly coming ‘n’ years <br/>(year here resembles 365 days and not from start date of a year to end date of year) |
 
-## next – n – full
-|  **Example** | **Description** |
+## NEXT – N – FULL
+|  Example | Description |
 |  ------ | ------ |
 |  next n full minutes | data belongs to the next n completed minutes with reference to the current point of time (if data exists) |
 |  next n full hours | data belongs to the next n completed hours with reference to the current point of time (if data exists) |
@@ -103,31 +104,32 @@
 |  next n full quarters | data belongs to the next n completed quarters with reference to the current point of time (if data exists)<br/>(quarter resembles start date to the next date of the quarter) |
 |  next n full years | data belongs to the next n completed years with reference to the current point of time (if data exists)<br/>(year resembles start date to the next date of the year) |
 
-## Ago
-|  **Example** | **Description** |
+## AGO
+|  Example | Description |
 |  ------ | ------ |
 |  n days ago for m days | data from exactly ‘n’ days before the current point of time to the next ‘m’ successive days<br/>(day resembles 24 hours not the zeroth hour to last hour) |
 
-## ago & full
+## AGO & FULL
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 |  n full days ago for m days | data from exactly ‘n’ completed days before the current point of time to the next ‘m’ successive days<br/>(day resembles 24 hours not the zeroth hour to last hour) |
 |  n full days ago for m full days | data from exactly ‘n’ completed days before the current point of time to the next ‘m’ successive completed days<br/>(day resembles 24 hours not the zeroth hour to last hour) |
 
-## After
+## AFTER
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 |  n days after for m days | data excluding ‘n’ coming days with respect to the current point of time and then for ‘m’ successive days (if data exists)<br/>(day resembles 24 hours not the zeroth hour to last hour) |
 
-## after & full
-|  **Example** | **Description** |
+## AFTER & FULL
+|  Example | Description |
 |  ------ | ------ |
 |  n full days after m day | data excluding coming ‘n’ completed days with respect to the current point of time and then for ‘m’ successive days (if data exists)<br/>(day resembles 24 hours not the zeroth hour to last hour) |
 |  n full days after m full day | data excluding coming ‘n’ completed days with respect to the current point of time and then for ‘m’ successive completed days (if data exists)<br/>(day resembles 24 hours not the zeroth hour to last hour) |
-## before & ‘n’
-|  **Example** | **Description** |
+
+## BEFORE & ‘N’
+|  Example | Description |
 |  ------ | ------ |
 |  before n seconds | data from the beginning to exactly ‘n’ seconds before the current point of time |
 |  before n minutes | data from the beginning to exactly ‘n’ minutes before the current point of time |
@@ -138,8 +140,8 @@
 |  before n quarters | data from the beginning to exactly ‘n’ quarter before the current point of time <br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  before n years | data from the beginning to exactly ‘n’ years before the current point of time<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
 
-## before – n – full
-|  **Example** | **Description** |
+## BEFORE-N-FULL
+|  Example | Description |
 |  ------ | ------ |
 |  before n full seconds | data from beginning to exactly  ‘n’ completed seconds before the current point of time |
 |  before n full minutes | data from beginning to exactly  ‘n’ completed minutes before the current point of time |
@@ -150,8 +152,9 @@
 |  before n full quarters | data from beginning to exactly  ‘n’ completed quarters before the current point of time (excludes current quarter)<br/>(week here resembles time between start date of the quarter to last date of the quarter) |
 |  before n full years | data from beginning to exactly  ‘n’ completed year before the current point of time (excludes current year)<br/>(week here resembles time between start date of the year to last date of the year)|
 
-## after & ‘n’
-|  **Example** | **Description** |
+## AFTER & 'N'
+
+|  Example | Description |
 |  ------ | ------ |
 |  after n seconds | data from exactly ‘n’ seconds after the current point of time to the last available record |
 |  after n minutes | data from exactly ‘n’ minutes after the current point of time to the last available record |
@@ -162,9 +165,9 @@
 |  after n quarters | data from exactly ‘n’ quarter after the current point of time to the last available record<br/>(quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  after n years | data from exactly ‘n’ years after the current point of time to the last available record<br/>(year here resembles 365 days and not from start date of a year to end date of year) |
 
-## after – n – full
+## AFTER - N- FULL
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 | after n full seconds | data from exactly ‘n’ completed seconds after the current point of time to the last available record |
 |  after n full minutes | data from exactly ‘n’ completed minutes after the current point of time to the last available record |
@@ -175,9 +178,9 @@
 |  after n full quarters | data from exactly ‘n’ completed quarter after the current point of time to the last available record<br/>(excluded the current quarter and quarter here resembles 90 days and not from start date of a quarter to end date of quarter) |
 |  after n full years | data from exactly ‘n’ completed years after the current point of time to the last available record<br/>(excluded the current year and year here resembles 365 days and not from start date of a year to end date of year) |
 
-## over series
+## OVER SERIES
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 |  doy | data belongs to exactly current day in the all the available years (gives future data if exists) |
 |  dom | data belongs to exactly current day in the all the available months (gives future data if exists) |
@@ -190,9 +193,9 @@
 |  moq | data belongs to exactly current month(that is current month number in the present quarter) in the all the available quarters (gives future data if exists) |
 |  qoy | data belongs to exactly current quarter(that is current quarter number in the present year) in the all the available years (gives future data if exists) |
 
-## over & ‘n’ series
+## OVER & ‘N’ SERIES
 
-|  **Example** | **Description** |
+|  Example | Description |
 |  ------ | ------ |
 |  doy n | data belongs to exactly ‘n’th day after the current day in all the available years (gives future data if exists) |
 |  dom n | data belongs to exactly ‘n’th day after the current day in all the available months (gives future data if exists) |
@@ -205,8 +208,8 @@
 |  moq n | data belongs to exactly ‘n’th month after the current month(that is current month number in quarter) in all the available quarters (gives future data if exists) |
 |  qoy n | data belongs to exactly ‘n’th quarter after the current quarter(that is current quarter number in year) in all the available years (gives future data if exists) |
 
-## over & ‘-n’ series
-|  **Example** | **Description** |
+## OVER & ‘-N’ SERIES
+|  Example | Description |
 |  ------ | ------ |
 |  doy -n | data belongs to exactly ‘n’th day before the current day in all the available years (gives future data if exists) |
 |  dom -n | data belongs to exactly ‘n’th day before the current day in all the available  months (gives future data if exists) |
@@ -219,8 +222,8 @@
 |  moq -n | data belongs to exactly ‘n’th months before the current month(that is current month number in quarter) in all the available quarters (gives future data if exists) |
 |  qoy -n | data belongs to exactly ‘n’th quarter before the current quarter(that is current quarter number in year) in all the available years (gives future data if exists) |
 
-## over & to date series
-|  **Example** | **Description** |
+## OVER & TO DATE SERIES
+|  Example | Description |
 |  ------ | ------ |
 |  Doy  to date | All the available data in every year from start date of the year to the current date of the year |
 |  dom to date | All the available data in every month from start date of the month to the current day number of the month |
@@ -233,8 +236,8 @@
 |  moq  to date | All the available data in every quarter from first day of the quarter to the current numbered month |
 |  qoy to date | All the available data in every quarter from first day of the year to the current numbered quarter |
 
-## over - ‘n’ - to date series
-|  **Example** | **Description** |
+## OVER - ‘N’ - TO DATE SERIES
+|  Example | Description |
 |  ------ | ------ |
 |  doy n to date | In Every Year from 1st to till tomorrow |
 |  dom n to date | In Every Year In Every Month from 1st to till tomorrow |
@@ -247,8 +250,8 @@
 |  moq n to date | In Every Quarter from 1st month to till next month |
 |  qoy n to date | In Every Year from 1st quarter to till next quarter |
 
-## over - ‘-n’ - to date series
-|  **Example** | **Description** |
+## OVER  ‘-N’  TO DATE SERIES 
+|  Example | Description |
 |  ------ | ------ |
 |  Doy -n to date | Every Year of  Starting date to  Previous day  |
 |  dom  -n to date | Every month of Starting date Previous day |
@@ -261,8 +264,8 @@
 |  moq -n to date | Every quarter of Starting month to Previous month |
 |  qoy -n to date | Every year of  Previous quarter |
 
-## in series
-|  **Example** | **Description** |
+## IN SERIES
+|  Example | Description |
 |  ------ | ------ |
 |  day in year n | Every year of  first day  |
 |  day in month n | Every  month of first day  |
@@ -275,8 +278,8 @@
 |  month in quarter n | Every quarter of first month  |
 |  quarter in year n  | Every year of first quarter |
 
-## in & to date series
-|  **Example** | **Description** |
+## IN & TO SERIES DATE
+|  Example | Description |
 |  ------ | ------ |
 |  day in year n to date | Every year of  first day to  nth day |
 |  day in month n to date | Every  month of first day to nth day |
@@ -289,8 +292,8 @@
 |  month in quarter n to date | Every quarter of first month  to nth month |
 |  quarter in year n to date | Every year of first quarter to nth month |
 
-## Regular Filters
-|  **Example** | **Description** |
+## REGULAR FILTERS
+|  Example | Description |
 |  ------ | ------ |
 |  Date (equal) | From Zero hour to last hour of the selected date through calendar |
 |  Date (not equal) | All the Data excluding the values from zero hour to last hour of the selected date through calendar |
@@ -309,5 +312,5 @@
 |  WhenMade(date_hour)(Is Not Null) | Data where date_hour field (hour number in the year) is not Null |
 |  WhenMade(date_hour)(Is Null) | Data where date_hour field (hour number in the year) is Null |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTg1Njk5OF19
+eyJoaXN0b3J5IjpbLTM5NzQ4OTY5OF19
 -->
