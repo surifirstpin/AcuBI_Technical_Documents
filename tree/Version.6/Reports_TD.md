@@ -14,7 +14,7 @@
 
 ## Adding Dimension and Measure
 
-A **Dimension** is a group of data and **Measure** is information about group of data and they collectively acts as fundamental building blocks for a query.
+A <b>Dimension</b> is a group of data and <b>Measure</b> is information about group of data and they collectively acts as fundamental building blocks for a query.
 
 > <b>For Instance :</b> <b>Name of the Employee</b> is defined as dimension and <b>Salary of the Employee</b> is defined as Measure.
  
@@ -357,9 +357,9 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU0OTAyMCw4MTg2MTEzMzksLTYwNj
-M3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2MzMyMDYy
-LC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OTMxMyw0Nz
-EzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2OTg1ODU0
-LC02MTc5NTMxMjZdfQ==
+eyJoaXN0b3J5IjpbLTEwMDM0NTYyMDIsLTE4MjU0OTAyMCw4MT
+g2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcy
+MSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLT
+k3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUy
+NSwxODA2OTg1ODU0LC02MTc5NTMxMjZdfQ==
 -->
