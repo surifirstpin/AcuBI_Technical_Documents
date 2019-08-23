@@ -267,19 +267,19 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 <b><i> You can view the funnel charts in following formats by enabling checkbox for below mentioned fields;</i></b>
 
- - **Sort:** it enables data in the sorted order in funnel chart.
+ - <b>Sort:</b> it enables data in the sorted order in funnel chart.
  
- - **Curved:** it enables the curved view for funnel chart.
+ - <b>Curved:</b> it enables the curved view for funnel chart.
  
-- **Pinched:** :enable compressed view of funnel chart
+- <b>Pinched:</b> enable compressed view of funnel chart
 
-- **Inverted:**  enables inverted view of Funnel chart
+- <b>Inverted:</b>  enables inverted view of Funnel chart
 
-- **Highlight on hover:** highlights on moving hover on funnel chart.
+- <b>Highlight on hover:</b> highlights on moving hover on funnel chart.
 
-- **Dynamic Height:** Enables dynamic height for the measure field with maximum value.
+- <b>Dynamic Height:</b> Enables dynamic height for the measure field with maximum value.
 
-- **Load Animation:** Enables animation view to funnel chart
+- <b>Load Animation:</b> Enables animation view to funnel chart
 
 ##  Gauge Chart 
 
@@ -489,11 +489,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMT
-Y0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4
-OTM0OCwxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OC
-w0OTkzODgyMiwtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgy
-MDQzNjU5LC0xMTUzNTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5Mz
-ksLTE0NjgwNzQ3NiwtMTg0MzgyOTIzOCwtNzM1NzgzNzM4LDQ3
-NzU1NjE5OV19
+eyJoaXN0b3J5IjpbMzgzNDQ2MDY1LC0xNjMxNTI4MDYyLC0xMT
+kwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2
+OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLT
+ExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2
+ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwyNzg4MjQxOD
+IsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4NDM4MjkyMzgsLTcz
+NTc4MzczOF19
 -->
