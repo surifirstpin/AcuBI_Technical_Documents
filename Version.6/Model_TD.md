@@ -484,7 +484,7 @@ Once the view is created, label the database field and derive the custom table u
 
 Click <b>Save</b> to Save the View in database.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b108116a5b68982c438eced776e62f5d605cd8c2/images/New_version5/TD_Model_image17.png)
+
  <b><Font color = " black">Image 11</font></b>
 
 ##  Arithmetical operations in Custom Fields
@@ -706,11 +706,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3NT
-kxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMDQ3OTk0
-MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03Nz
-IzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4
-NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMwMSwxMT
-M5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEwMDU5NjYsLTc5Mzky
-MDY0NV19
+eyJoaXN0b3J5IjpbLTE1MjQ0Njc3MzAsLTY5NzY5ODY2NywtMz
+c2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5
+NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsOD
+MxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcw
+OTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMT
+UzNDcyMzMwMSwxMTM5MzE0MzU5LC0xOTcxMTQ1Mjg0LDIwNTEw
+MDU5NjZdfQ==
 -->
