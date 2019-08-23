@@ -121,7 +121,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
     
 - <b>Add Listener</b> adds multiple filters to reports.
     
-  <b>5.</b> Click  <b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
+ <b>5.</b> Click  <b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
 
 ##  Privacy & Share option for Dashboards
 
@@ -184,11 +184,11 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMT
-QxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcy
-Myw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03ND
-AzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEz
-MzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEzOCwtOT
-M2MjQ0MTE3LDI4NTM3MDEyOCwxNjUzMTkyNTQ2LDczMDA0NDYx
-MF19
+eyJoaXN0b3J5IjpbMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNj
+A2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIz
+Nyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNT
+k3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4
+OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2ND
+Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
+Nl19
 -->
