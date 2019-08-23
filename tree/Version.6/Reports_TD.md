@@ -3,7 +3,7 @@
 
 <b>Reports</b> are the starting point for building a query.  it is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight.
  
-<b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i><b>
+<b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs :</i></b>
  
 <b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
 
@@ -357,7 +357,7 @@ Using drill down you can view more deeper insights of the data.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 17</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDM0NTYyMDIsLTE4MjU0OTAyMCw4MT
+eyJoaXN0b3J5IjpbLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MT
 g2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcy
 MSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLT
 k3MDE3OTMxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUy
