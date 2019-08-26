@@ -323,9 +323,7 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 		}
 		```
 
-<b><i>Note 2:</i></b>For False it will only display dimension.
-
-
+> <b><i>Note 2:</i></b>For False it will only display dimension.
 <b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
@@ -340,7 +338,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NzYyNjE1LC02NzQ0NTk0MjUsLTE1Nj
+eyJoaXN0b3J5IjpbNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1Nj
 gyNDExMjMsLTE3NzUwNDA2NTcsLTI2MDkyMTk3LC0xOTU2Nzky
 OTMyLC0yMDQ2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC
 02MDYzNzQyNTcsLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMz
