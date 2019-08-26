@@ -314,7 +314,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 
   <b><Font color = " black">Image 15</font></b>
 
-Similarly For False, Consider below option
+Similarly For False, Consider below option:
 ```
 	{
 			"name": "stationcode",
@@ -332,7 +332,7 @@ Similarly For False, Consider below option
 ```
 
 
-><b><i>Note 2: </i></b>Similarly For False it will only display dimension fields.
+><b><i>Note 2: </i></b> For False it will only display dimension fields.
 
 <b>For example:</b> (Consider Image 15)
 
@@ -345,7 +345,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTY3ODc2LC05NTAxNDk2ODksLTE1Mz
+eyJoaXN0b3J5IjpbNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1Mz
 EzMTU4MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1
 ODMzLDU5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC
 0xNzc1MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5MjkzMiwtMjA0
