@@ -56,10 +56,9 @@ Cache saves the data, so the future request for the data is provided faster.
 - <b>Repeat every</b> Enables automatic repeat in specified time range.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
-
 <b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQ4MDU0OSwtMjkxMDMzNzMzLDEyOT
+eyJoaXN0b3J5IjpbLTM3ODgyMDM5NywtMjkxMDMzNzMzLDEyOT
 M2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0
 LDEwMTM1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mz
 g3NjI4OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1
