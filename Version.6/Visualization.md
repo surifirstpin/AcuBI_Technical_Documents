@@ -476,7 +476,7 @@ editing options for y-axis in Line, Bar and bubble chart.
  
 ## Format   
       
- Format arranges a pattern in which information is 
+ Format arranges a pattern for information which is stored in database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
 <b><font color = "Black"> Image 23</b>
@@ -511,7 +511,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NjgyODkwLC0zODEyMDUwMjUsLTIzOT
+eyJoaXN0b3J5IjpbMTY1MTcxNDI1LC0zODEyMDUwMjUsLTIzOT
 k0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIwMjQsLTE2MzE1Mjgw
 NjIsLTExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC
 03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcx
