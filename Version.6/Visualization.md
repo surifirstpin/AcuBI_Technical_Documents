@@ -170,6 +170,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Style:</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
+- <b> Theme: Select the suitable themene for widget c
 ##  World chart 
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
@@ -500,11 +501,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNj
-MxNTI4MDYyLC0xMTkwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5
-MDE2NCwtNzE2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MS
-w5MjQ3MTI5MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4
-MTA0NzAsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMD
-A0MSwyNzg4MjQxODIsODIyOTM5OTM5LC0xNDY4MDc0NzYsLTE4
-NDM4MjkyMzhdfQ==
+eyJoaXN0b3J5IjpbMjEzOTc2MjEyOCwtNjcyNTgzMjYyLC0zNT
+ExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMTY0MTA2
+NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OC
+wxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkz
+ODgyMiwtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNj
+U5LC0xMTUzNTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0
+NjgwNzQ3Nl19
 -->
