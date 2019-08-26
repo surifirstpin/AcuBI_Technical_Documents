@@ -4,7 +4,7 @@
 <center><h1>Saving Reports</h1></center>
 
 All the work done are saved under save explore section, this will save all the filter, sorting, pivot, visualization and so on.
-Both reports and dashboards can be organised via My Spaces and later edited as per requirement.
+Both reports and dashboards can be organised via Work Spaces and later edited as per requirement.
 
 
 ### Saving a Report
@@ -31,7 +31,7 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 ## Saving under specific tag
 
-All the reports build in analysis section are saved under <b>my space</b> tag. ( Refer Image 1)
+All the reports build in analysis section are saved under <b>work space</b> tag. ( Refer Image 1)
 
 ## Defining Filter fields
 
@@ -60,9 +60,9 @@ Cache saves the data, so the future request for the data is provided faster.
 
 <b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTAzMzczMywxMjkzNjE3ODMsNDQzNj
-U2OTM0LDUwNzgxNTYwMCwxMDEzNTY5NzM4LC00ODYwNjE4NDYs
-MTg3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0MywxODkzNz
-czODQ5LC0xNjM4NTE2NTYsMjA2MDUxODk5LC0xMTcyNDgwMzg2
-XX0=
+eyJoaXN0b3J5IjpbLTc3NDg1MzI4NSwtMjkxMDMzNzMzLDEyOT
+M2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAwLDEwMTM1Njk3Mzgs
+LTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3ND
+Q4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTks
+LTExNzI0ODAzODZdfQ==
 -->
