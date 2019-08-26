@@ -287,7 +287,7 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 ## Drill Down Display
 
-Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in Model section under prescribed project fields.
+Using drill down you can view more deeper insights of the data. To enable this feature we need to define following code in Model section under prescribed project fields.
 
 >   <b><i>Note 1:</i></b> For " TRUE " option it will display both dimensions and measure field.
 ```
@@ -302,7 +302,7 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 			"sql": "${TABLE}.stationcode",
 			"summary": "",
 			"drill_down_fields": "wayused,areacode",
-			"show_drill_down_measures": "false",
+			"show_drill_down_measures": "TRUE",
 			"visualise": "true"
 		}
 ```
@@ -327,9 +327,8 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 			"visualise": "true"
 		},
 
+
 > <b><i>Note 2:</i></b>For False it will only display dimension fields.
-
-
 
 
 <b>For example:</b> (Consider Image 15)
@@ -343,11 +342,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTMzODQyOCwtMTUzMTMxNTgxNSwtMT
-I0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1Njcy
-MzEzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NT
-csLTI2MDkyMTk3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4NjczLC0x
-ODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2MTAzMj
-AzMywxOTM3Mzc3MjEsMTEyNjMzMjA2MiwtMTYyNjcxNzg1Nywt
-MTAwOTE0MzIzXX0=
+eyJoaXN0b3J5IjpbNzk3MjIxODI1LC0xNTMxMzE1ODE1LC0xMj
+Q1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIz
+MTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1Ny
+wtMjYwOTIxOTcsLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4
+MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMD
+MzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC0x
+MDA5MTQzMjNdfQ==
 -->
