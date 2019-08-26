@@ -172,9 +172,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Theme</b>: Select the suitable theme for widget chart.
 
-- <b>Widget Icon:</b> select suitable icon for widget values.
+- <b>Widget Icon:</b> Select suitable icon for widget values.
 
-- <b>BG Colour</b> S
+- <b>BG Colour:</b> Select back ground color for widget chart.
+
 ##  World chart 
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
@@ -505,7 +506,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzEzOTI4OSwtNjcyNTgzMjYyLC0zNT
+eyJoaXN0b3J5IjpbLTIzOTk0MDM1NCwtNjcyNTgzMjYyLC0zNT
 ExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMTY0MTA2
 NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OC
 wxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkz
