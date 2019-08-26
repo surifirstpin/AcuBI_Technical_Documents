@@ -253,7 +253,7 @@ pivot_offset(#{biplus.orders.sum_quantity},0,-1)
 The resultant for this expression would be seen in green color;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
-<b><font color = "Black"> Image 17</b>
+<b><font color = "Black"> Image 16</b>
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. ( Applicable only for table chart). 
 
@@ -506,11 +506,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTk0MDM1NCwtNjcyNTgzMjYyLC0zNT
-ExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMTY0MTA2
-NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OC
-wxODQzMDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkz
-ODgyMiwtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNj
-U5LC0xMTUzNTEwMDQxLDI3ODgyNDE4Miw4MjI5Mzk5MzksLTE0
-NjgwNzQ3Nl19
+eyJoaXN0b3J5IjpbLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02Nz
+I1ODMyNjIsLTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgx
+NTU0NCwxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3Ni
+wtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQz
+Mjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNT
+csLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgy
+MjkzOTkzOV19
 -->
