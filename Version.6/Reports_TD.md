@@ -289,7 +289,7 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in Model section under prescribed project fields.
 
->   <b><i>Note 1:</i></b> For " FALSE " option it will display dimensions and measure field.
+>   <b><i>Note 1:</i></b> For " FALSE " option it will display both dimensions and measure field.
 ```
 
 {
@@ -344,11 +344,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a5605d5be15fd6fba7dfd3e99698cdee7b76a553/images/New_version5/TD_Reports_18.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzMTU4MTUsLTEyNDUwMzUwNjksOT
-k3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3MjMxMywtNjc0NDU5
-NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3LC0yNjA5MjE5Ny
-wtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgx
-ODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3Nz
-IxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsLTEwMDkxNDMyMywx
-NTQyNjQwMzkyXX0=
+eyJoaXN0b3J5IjpbOTg0NDQyMjEwLC0xNTMxMzE1ODE1LC0xMj
+Q1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIz
+MTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1Ny
+wtMjYwOTIxOTcsLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4
+MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMD
+MzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC0x
+MDA5MTQzMjNdfQ==
 -->
