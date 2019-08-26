@@ -151,7 +151,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  <b>5.</b> Choose chart type <b>Widget</b> from drop-down list to compare the data using widget chart.
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d5097c9535f891900b489566548ee000d4ae5204/images/New_version5/TD_Visu_Image8.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4da95044ccb29a41476cf9fe318aeead3a4ef0b6/images/New_version5/TD_Visu_Image8.png)
 <b><font color = "Black"> Image 9</b>
 
 - <b>Value</b> select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
@@ -511,11 +511,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTcxNDI1LC0zODEyMDUwMjUsLTIzOT
-k0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIwMjQsLTE2MzE1Mjgw
-NjIsLTExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC
-03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcx
-MjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MC
-wxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3
-ODgyNDE4Ml19
+eyJoaXN0b3J5IjpbLTEyNjA0MDcyOTcsMTY1MTcxNDI1LC0zOD
+EyMDUwMjUsLTIzOTk0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIw
+MjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMTY0MTA2NDQ4My
+wyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQz
+MDU3MjYxLDkyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMi
+wtMjAxOTgxMDQ3MCwxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0x
+MTUzNTEwMDQxXX0=
 -->
