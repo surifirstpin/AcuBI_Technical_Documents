@@ -39,12 +39,11 @@ Filter are used to extract only specific data you want to view. This function is
  
 - <b>Filter</b>  filters added in this section is automatically reflected in the filter section of dashboard reports.
 
-><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
-
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
 <b><font color = "Black"> Image 2</b>
+
+><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
 
 ## Enable Cache 
 
@@ -60,7 +59,7 @@ Cache saves the data, so the future request for the data is provided faster.
 
 <b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDg1MzI4NSwtMjkxMDMzNzMzLDEyOT
+eyJoaXN0b3J5IjpbMTg0NzQ4MDU0OSwtMjkxMDMzNzMzLDEyOT
 M2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAwLDEwMTM1Njk3Mzgs
 LTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3ND
 Q4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTks
