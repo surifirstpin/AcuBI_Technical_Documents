@@ -191,7 +191,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 <b><font color = "Black"> Image 11</b>
  
 
- 
 - <b>Title:</b> specify a title for world map.
 
 - <b>Flat Map:</b> displays a flat view or "2D" vision of the map.
@@ -508,7 +507,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTk1MzA1OSwtMzgxMjA1MDI1LC0yMz
+eyJoaXN0b3J5IjpbMTkzNjA5ODk4OSwtMzgxMjA1MDI1LC0yMz
 k5NDAzNTQsLTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4
 MDYyLC0xMTkwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NC
 wtNzE2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3
