@@ -305,9 +305,11 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 			"visualise": "true"
 		},
 
+
 ```
 >   <b><i>Note 1:</i></b> For " True " option it will display dimensions and measure field.
 ```
+
 {
 			"name": "stationcode",
 			"label": "stationcode",
@@ -338,11 +340,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a5605d5be15fd6fba7dfd3e99698cdee7b76a553/images/New_version5/TD_Reports_18.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMj
-Y4ODA1ODMzLDU5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQx
-MTIzLC0xNzc1MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5MjkzMi
-wtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgxODYxMTMzOSwtNjA2
-Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3NzIxLDExMjYzMzIwNj
-IsLTE2MjY3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQwMzkyLC05
-NzAxNzkzMTNdfQ==
+eyJoaXN0b3J5IjpbODEzNDkwMzA3LC0xMjQ1MDM1MDY5LDk5Nz
+EzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIzMTMsLTY3NDQ1OTQy
+NSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1NywtMjYwOTIxOTcsLT
+E5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2
+MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMS
+wxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LC0xMDA5MTQzMjMsMTU0
+MjY0MDM5Ml19
 -->
