@@ -289,6 +289,29 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in Model section under prescribed project fields.
 
+>   <b><i>Note 1:</i></b> For " FALSE " option it will display dimensions and measure field.
+```
+
+{
+			"name": "stationcode",
+			"label": "stationcode",
+			"data_type": "string",
+			"type": "dimension",
+			"lookup": "",
+			"operators": "",
+			"sql": "${TABLE}.stationcode",
+			"summary": "",
+			"drill_down_fields": "wayused,areacode",
+			"show_drill_down_measures": "false",
+			"visualise": "true"
+		}
+```
+
+> <b><i>Note 1:</i></b>For False it will only display dimension.
+
+
+
+
 ```
 
 	{
@@ -306,25 +329,6 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 		},
 
 
-```
->   <b><i>Note 1:</i></b> For " True " option it will display dimensions and measure field.
-```
-
-{
-			"name": "stationcode",
-			"label": "stationcode",
-			"data_type": "string",
-			"type": "dimension",
-			"lookup": "",
-			"operators": "",
-			"sql": "${TABLE}.stationcode",
-			"summary": "",
-			"drill_down_fields": "wayused,areacode",
-			"show_drill_down_measures": "false",
-			"visualise": "true"
-		}
-```
-> <b><i>Note 2:</i></b>For False it will only display dimension.
 
 <b>For example:</b> (Consider Image 15)
 
@@ -340,11 +344,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a5605d5be15fd6fba7dfd3e99698cdee7b76a553/images/New_version5/TD_Reports_18.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEzNDkwMzA3LC0xMjQ1MDM1MDY5LDk5Nz
-EzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIzMTMsLTY3NDQ1OTQy
-NSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1NywtMjYwOTIxOTcsLT
-E5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2
-MTEzMzksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMS
-wxMTI2MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3
-MDE3OTMxM119
+eyJoaXN0b3J5IjpbLTE1MzEzMTU4MTUsLTEyNDUwMzUwNjksOT
+k3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3MjMxMywtNjc0NDU5
+NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3LC0yNjA5MjE5Ny
+wtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgx
+ODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3Nz
+IxLDExMjYzMzIwNjIsLTE2MjY3MTc4NTcsMTU0MjY0MDM5Miwt
+OTcwMTc5MzEzXX0=
 -->
