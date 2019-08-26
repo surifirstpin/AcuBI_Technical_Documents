@@ -7,10 +7,10 @@
    
  <b>To set up database connection;</b>
     
-<b>I.</b>  Get the connection details for database such as Host, Dialects, ort, username, password, etc from <b>Database Administrator.</b>
+<b>I.</b>  Get the connection details for database such as Host, Dialects, Port, Username, Password, etc from <b>Database Administrator.</b>
 
 <b>II.</b> Enable secure access to database, such as :
-  -  Using  IP Address Whitelist, optionally adding SSL Encryption.
+  - Using  IP Address Whitelist, optionally adding SSL Encryption.
   - Using SSH Tunnel, which provides a secured and encrypted connection with extra authentication.
   
 <b> III. </b> Set up database to work with AcuBi. Instructions may vary from dialect to dialect. Typically it includes providing approval to AcuBi to access database.
@@ -114,11 +114,11 @@ Enable SSH connection by select checkbox for SSH.
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MDA1OTY0LDIxMzg0NTg1NDYsLTEzNj
-I0MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywx
-NjI5Nzc3OTU0LDEyMDkyMjk5MjIsLTE2MDQ2MDE2OTQsMTAyNz
-IwMzg5MSwtNTU0MjU4MDczLC0xNjA0NTc4NTgwLC01NzQwMTg0
-NzEsLTE5MjE3MTM3OTEsLTE4Nzg4NjkyMjMsLTE0NDc1NTE1Nj
-UsLTk0NDU2NTAzMCwyMTEzMjkwOTU5LC0xMTkwMjUxMTEzXX0=
-
+eyJoaXN0b3J5IjpbLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMT
+M2MjQxMTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIz
+LDE2Mjk3Nzc5NTQsMTIwOTIyOTkyMiwtMTYwNDYwMTY5NCwxMD
+I3MjAzODkxLC01NTQyNTgwNzMsLTE2MDQ1Nzg1ODAsLTU3NDAx
+ODQ3MSwtMTkyMTcxMzc5MSwtMTg3ODg2OTIyMywtMTQ0NzU1MT
+U2NSwtOTQ0NTY1MDMwLDIxMTMyOTA5NTksLTExOTAyNTExMTNd
+fQ==
 -->
