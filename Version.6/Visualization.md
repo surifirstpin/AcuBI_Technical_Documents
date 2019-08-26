@@ -180,15 +180,17 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  It displays the data grouped by specific country and at the same time the grouped data regions are highlighted in the map.
  
-<b>6.</b> Choose chart type <b>World</b> from drop-down list to compare the data using world chart.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
-<b><font color = "Black"> Image 10</b>
- 
  > <b>Note :</b> The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
- <b><font color = "Black"> Image 11</b>
+ <b><font color = "Black"> Image 10</b>
+
+<b>6.</b> Choose chart type <b>World</b> from drop-down list to compare the data using world chart.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
+<b><font color = "Black"> Image 11</b>
+ 
+
  
 - <b>Title:</b> specify a title for world map.
 
@@ -506,11 +508,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02Nz
-I1ODMyNjIsLTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgx
-NTU0NCwxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3Ni
-wtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQz
-Mjc4Njc4LDQ5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNT
-csLTEyODIwNDM2NTksLTExNTM1MTAwNDEsMjc4ODI0MTgyLDgy
-MjkzOTkzOV19
+eyJoaXN0b3J5IjpbLTUyOTk1MzA1OSwtMzgxMjA1MDI1LC0yMz
+k5NDAzNTQsLTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4
+MDYyLC0xMTkwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NC
+wtNzE2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3
+MTI5MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0Nz
+AsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwy
+Nzg4MjQxODJdfQ==
 -->
