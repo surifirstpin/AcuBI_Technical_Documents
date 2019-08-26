@@ -306,8 +306,7 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 		},
 
 ```
->  
- <b><i>Note 1:</i></b> For " True " option it will display dimensions and measure field.
+>   <b><i>Note 1:</i></b> For " True " option it will display dimensions and measure field.
 ```
 {
 			"name": "stationcode",
@@ -324,9 +323,7 @@ Using drill down you can view more deeper insights of the data.To enable this fe
 		}
 		```
 
-<b><i>Note 2:</i></b>For False it will only display dimension.
-
-
+> <b><i>Note 2:</i></b>For False it will only display dimension.
 <b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
@@ -341,11 +338,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTI5NjQ1OTksLTY3NDQ1OTQyNSwtMT
-U2ODI0MTEyMywtMTc3NTA0MDY1NywtMjYwOTIxOTcsLTE5NTY3
-OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MTEzMz
-ksLTYwNjM3NDI1NywtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2
-MzMyMDYyLC0xNjI2NzE3ODU3LDE1NDI2NDAzOTIsLTk3MDE3OT
-MxMyw0NzEzMzQ3MzEsNTU1ODQ0MzM3LDgwMjM5MjUyNSwxODA2
-OTg1ODU0XX0=
+eyJoaXN0b3J5IjpbNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1Nj
+gyNDExMjMsLTE3NzUwNDA2NTcsLTI2MDkyMTk3LC0xOTU2Nzky
+OTMyLC0yMDQ2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC
+02MDYzNzQyNTcsLTQ2MTAzMjAzMywxOTM3Mzc3MjEsMTEyNjMz
+MjA2MiwtMTYyNjcxNzg1NywxNTQyNjQwMzkyLC05NzAxNzkzMT
+MsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIzOTI1MjUsMTgwNjk4
+NTg1NF19
 -->
