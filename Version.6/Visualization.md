@@ -472,13 +472,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>Condition</b> Specify any of the following condition types  
    - Greater than
    - Less than
-   - Between,
-   - Not Between, 
-   - equal to, duplicates values,
-   -  Top 10 Items,
-   -  Bottom 10 Items, 
-   - Above Average,
-   -  Below Average.
+   - Between
+   - Not Between
+   - equal to, duplicates values
+   -  Top 10 Items
+   -  Bottom 10 Items
+   - Above Average
+   -  Below Average
 
 - <b>Format on</b> Specify a measure field on which you want to apply format.
 
@@ -500,7 +500,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b><font color = "Black"> Image 23</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDQ0NjA0OCwtMzUxMTEyMDI0LC0xNj
+eyJoaXN0b3J5IjpbLTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNj
 MxNTI4MDYyLC0xMTkwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5
 MDE2NCwtNzE2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MS
 w5MjQ3MTI5MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4
