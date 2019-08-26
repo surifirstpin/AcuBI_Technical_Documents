@@ -9,7 +9,7 @@ To view already existing dashboard navigate to dashboard section under <b><i> My
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)
  <B><font color = " Black"> Image 1 </font></b>
-### Create Dashboard
+### Create Dashisterboard
 
 > <b> Navigation : Dashboard→ New Dashboard</b>
 
@@ -184,11 +184,11 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNj
-A2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIz
-Nyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNT
-k3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4
-OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2ND
-Q1ODIxMzgsLTkzNjI0NDExNywyODUzNzAxMjgsMTY1MzE5MjU0
-Nl19
+eyJoaXN0b3J5IjpbLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMz
+AxMDM4NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4
+MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MD
+A3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEy
+NywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MT
+kyMjc5NDYsMTY0NDU4MjEzOCwtOTM2MjQ0MTE3LDI4NTM3MDEy
+OF19
 -->
