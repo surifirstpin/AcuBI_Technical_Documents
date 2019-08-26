@@ -476,6 +476,11 @@ editing options for y-axis in Line, Bar and bubble chart.
  
 ## Format   
       
+ Format arranges a pattern in which information is 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
+<b><font color = "Black"> Image 23</b>
+
 - <b>Condition</b> Specify any of the following condition types  
    - Greater than
    - Less than
@@ -503,15 +508,14 @@ editing options for y-axis in Line, Bar and bubble chart.
 <b>For Example :</b> Consider below image, which displays the format section for table chart.
 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-<b><font color = "Black"> Image 23</b>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjA5ODk4OSwtMzgxMjA1MDI1LC0yMz
-k5NDAzNTQsLTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4
-MDYyLC0xMTkwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NC
-wtNzE2MzM2OTc2LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3
-MTI5MTQsLTExNDMyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0Nz
-AsMTAzNjM2ODE1NywtMTI4MjA0MzY1OSwtMTE1MzUxMDA0MSwy
-Nzg4MjQxODJdfQ==
+eyJoaXN0b3J5IjpbNDU5NjgyODkwLC0zODEyMDUwMjUsLTIzOT
+k0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIwMjQsLTE2MzE1Mjgw
+NjIsLTExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1MzkwMTY0LC
+03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLDkyNDcx
+MjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgxMDQ3MC
+wxMDM2MzY4MTU3LC0xMjgyMDQzNjU5LC0xMTUzNTEwMDQxLDI3
+ODgyNDE4Ml19
 -->
