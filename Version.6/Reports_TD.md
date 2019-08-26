@@ -287,7 +287,7 @@ To View the SQL query built on retrieving data in report, click on <b>SQL sectio
 
 ## Drill Down Display
 
-Using drill down you can view more deeper insights of the data.
+Using drill down you can view more deeper insights of the data.To enable this feature we need to define following code in
 
 <b>For example:</b> (Consider Image 15)
 
@@ -303,11 +303,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/737084427ccd18cee8c1e1265790004100d51855/images/New_version5/TD_Reports_17.png)
   <b><Font color = " black">Image 15</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMT
-c3NTA0MDY1NywtMjYwOTIxOTcsLTE5NTY3OTI5MzIsLTIwNDY1
-Nzg2NzMsLTE4MjU0OTAyMCw4MTg2MTEzMzksLTYwNjM3NDI1Ny
-wtNDYxMDMyMDMzLDE5MzczNzcyMSwxMTI2MzMyMDYyLC0xNjI2
-NzE3ODU3LC0xMDA5MTQzMjMsMTU0MjY0MDM5MiwtOTcwMTc5Mz
-EzLDQ3MTMzNDczMSw1NTU4NDQzMzcsODAyMzkyNTI1LDE4MDY5
-ODU4NTRdfQ==
+eyJoaXN0b3J5IjpbMTA4NDQ2MDMyMiwtNjc0NDU5NDI1LC0xNT
+Y4MjQxMTIzLC0xNzc1MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5
+MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MDIwLDgxODYxMTMzOS
+wtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkzNzM3NzIxLDExMjYz
+MzIwNjIsLTE2MjY3MTc4NTcsLTEwMDkxNDMyMywxNTQyNjQwMz
+kyLC05NzAxNzkzMTMsNDcxMzM0NzMxLDU1NTg0NDMzNyw4MDIz
+OTI1MjVdfQ==
 -->
