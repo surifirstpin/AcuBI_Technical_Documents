@@ -49,31 +49,10 @@ To view existing report in AcuBi click on report name in My Space report list. I
 -   <b>Image format</b>  download the dashboard report in image format.
     
 
-## Lookup Single & Multiple
-
-Adding lookup to reports will refer set of query or list of items in filters. Add single or multiple lookups to a dashboard report by using  <b>Add Lookups</b>  in  <b>Apply filter</b>  section of dashboard.
-
--   <b>Lookup name</b>  name of the lookup field.
-    
--   <b>Lookup Type</b>  refers to item or query type.
-    
--   <b>Test Lookup</b>  to test the lookup.
-    
--   <b>Multiple Selections</b>  refers to selection of list of multiple data.
-    
--   <b>Referred</b>  to refer predefined filter for the following filters.
-    
-## Hide Filters panel
-
-To hide the filter panel click on  <b>left shift operator</b>  on dashboard report screen.
-
-## Show Filters Panel
-
-To view the filter panel use  <b>Right shift operator</b>  on dashboard report screen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjkzMzU2OSwtMjAwMjMxNzA2MywzMj
-U1NDUxMTYsLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAx
-MDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1MywtMT
-E4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC0yMD
+AyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC0zNDQ2NzI1
+MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NTQ0MjUyNTMsMj
+MzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
