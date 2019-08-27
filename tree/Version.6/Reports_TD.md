@@ -248,7 +248,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 ##  Reordering Column
 
-To reorder columns in the <b>Data</b> section by clicking on column header and moving it to desired position. the visualizations section will reflect the new column order after hitting the <b>Run</b> button. Columns in field type are reordered irrespective of there field types. 
+To reorder columns in the <b>Data</b> section by clicking on column header and moving it to desired position. The visualizations section will reflect the new column order after hitting the <b>Run</b> button. Columns in field type are reordered irrespective of there field types. 
 
 <b>For instance</b> you can reorder columns fields to measures position. Column values under pivoted dimensions cannot be reordered.
 
@@ -352,11 +352,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDQyNzQ0LC0xNTI5MDc5MjIyLC0xMD
-E4NDkzNzY1LDI3NDYzODA5MywxNjU1ODc3NDc3LDcxNzI4NTI3
-NiwtOTUwMTQ5Njg5LC0xNTMxMzE1ODE1LC0xMjQ1MDM1MDY5LD
-k5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2NzIzMTMsLTY3NDQ1
-OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MDY1NywtMjYwOTIxOT
-csLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMsLTE4MjU0OTAyMCw4
-MTg2MTEzMzldfQ==
+eyJoaXN0b3J5IjpbLTIxMTI4MzYzMjgsMTc0NDQyNzQ0LC0xNT
+I5MDc5MjIyLC0xMDE4NDkzNzY1LDI3NDYzODA5MywxNjU1ODc3
+NDc3LDcxNzI4NTI3NiwtOTUwMTQ5Njg5LC0xNTMxMzE1ODE1LC
+0xMjQ1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2
+NzIzMTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MD
+Y1NywtMjYwOTIxOTcsLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMs
+LTE4MjU0OTAyMF19
 -->
