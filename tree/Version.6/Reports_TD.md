@@ -252,13 +252,6 @@ To reorder columns in the <b>Data</b> section by clicking on column header and m
 
 
 
-Columns are organized in the  **Data**  section by field type: dimensions, dimension  [table calculations]
-
-(https://docs.looker.com/exploring-data/using-table-calculations), measures, measure  [table calculations](https://docs.looker.com/exploring-data/using-table-calculations), and  [row totals](https://docs.looker.com/exploring-data/exploring-data#displaying_totals). Columns can be reordered within each field type but cannot be moved out of their field type section. For example, dimension table calculations can be rearranged among themselves, but you cannot place a dimension table calculation in between two measures.
-
-Columns under a pivoted dimension can be reordered, but the order of pivoted dimensions can only be changed by changing the sort order, not by manual reordering.
-
-If your Looker admin has enabled the  [Table-Next](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options)  Labs feature, there are  [additional options](https://docs.looker.com/exploring-data/visualizing-query-results/table-next-options#manually_moving_and_pinning_columns)for reordering columns in the table-next visualization.
 
 ## Calculated Column 
 
@@ -360,11 +353,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTgxNTE5MywyNzQ2MzgwOTMsMTY1NT
-g3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgx
-NSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNT
-k1NjcyMzEzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUw
-NDA2NTcsLTI2MDkyMTk3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4Nj
-czLC0xODI1NDkwMjAsODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2
-MTAzMjAzM119
+eyJoaXN0b3J5IjpbLTEwMTg0OTM3NjUsMjc0NjM4MDkzLDE2NT
+U4Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4
+MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLD
+U5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1
+MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5MjkzMiwtMjA0NjU3OD
+Y3MywtMTgyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00
+NjEwMzIwMzNdfQ==
 -->
