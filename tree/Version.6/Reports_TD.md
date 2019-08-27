@@ -250,9 +250,7 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 To reorder columns in the <b>Data</b> section by clicking on column header and moving it to desired position. the visualizations section will reflect the new column order after hitting the <b>Run</b> button.
 
-
-
-
+Columns in field type are reordered irrespective of there field types. For instance 
 ## Calculated Column 
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green color in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
@@ -353,11 +351,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTg0OTM3NjUsMjc0NjM4MDkzLDE2NT
-U4Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4
-MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLD
-U5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1
-MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5MjkzMiwtMjA0NjU3OD
-Y3MywtMTgyNTQ5MDIwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00
-NjEwMzIwMzNdfQ==
+eyJoaXN0b3J5IjpbLTkxNDQxMjAxMCwtMTAxODQ5Mzc2NSwyNz
+Q2MzgwOTMsMTY1NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4
+OSwtMTUzMTMxNTgxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLT
+EyNjg4MDU4MzMsNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1Njgy
+NDExMjMsLTE3NzUwNDA2NTcsLTI2MDkyMTk3LC0xOTU2NzkyOT
+MyLC0yMDQ2NTc4NjczLC0xODI1NDkwMjAsODE4NjExMzM5LC02
+MDYzNzQyNTddfQ==
 -->
