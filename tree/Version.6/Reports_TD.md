@@ -158,6 +158,8 @@ For <b>Measures</b>
 
 ## Display Totals
 
+In times summary of your data may be useful. You can add column totals to your reports by clicking on otals checkbox 
+
 <b>8.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
 
  ## Display  Row Limit
@@ -352,11 +354,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTI4MzYzMjgsMTc0NDQyNzQ0LC0xNT
-I5MDc5MjIyLC0xMDE4NDkzNzY1LDI3NDYzODA5MywxNjU1ODc3
-NDc3LDcxNzI4NTI3NiwtOTUwMTQ5Njg5LC0xNTMxMzE1ODE1LC
-0xMjQ1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNTgzMyw1OTU2
-NzIzMTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywtMTc3NTA0MD
-Y1NywtMjYwOTIxOTcsLTE5NTY3OTI5MzIsLTIwNDY1Nzg2NzMs
-LTE4MjU0OTAyMF19
+eyJoaXN0b3J5IjpbMTU5OTIyMTYyNSwtMjExMjgzNjMyOCwxNz
+Q0NDI3NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMjc0NjM4
+MDkzLDE2NTU4Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2ODksLT
+E1MzEzMTU4MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0xMjY4
+ODA1ODMzLDU5NTY3MjMxMywtNjc0NDU5NDI1LC0xNTY4MjQxMT
+IzLC0xNzc1MDQwNjU3LC0yNjA5MjE5NywtMTk1Njc5MjkzMiwt
+MjA0NjU3ODY3M119
 -->
