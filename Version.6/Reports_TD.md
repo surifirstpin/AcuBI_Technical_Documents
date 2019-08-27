@@ -246,7 +246,10 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 <b>15.</b> To remove a specific field column from the extracted list click on <b>Remove</b> in drop down list of the field.(Refer Image 8)
 
-## 
+##  Reordering Column
+
+
+
 ## Calculated Column 
 
 Table calculations enable you to easily create on-the-fly metrics, which are similar to formulas found in Excel sheets. These extracted columns will show up in green color in data table. Using calculated column you can perform mathematical, logical (true/false), lexical (text-based), and date-based calculations on the dimensions, measures, and other table calculations in your query. 
@@ -347,11 +350,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAxNDE3MTM1LDE2NTU4Nzc0NzcsNzE3Mj
-g1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEyNDUwMzUw
-NjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3MjMxMywtNj
-c0NDU5NDI1LC0xNTY4MjQxMTIzLC0xNzc1MDQwNjU3LC0yNjA5
-MjE5NywtMTk1Njc5MjkzMiwtMjA0NjU3ODY3MywtMTgyNTQ5MD
-IwLDgxODYxMTMzOSwtNjA2Mzc0MjU3LC00NjEwMzIwMzMsMTkz
-NzM3NzIxXX0=
+eyJoaXN0b3J5IjpbLTExNjE4NDQ4ODYsMTY1NTg3NzQ3Nyw3MT
+cyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0NTAz
+NTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMzEzLC
+02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcsLTI2
+MDkyMTk3LC0xOTU2NzkyOTMyLC0yMDQ2NTc4NjczLC0xODI1ND
+kwMjAsODE4NjExMzM5LC02MDYzNzQyNTcsLTQ2MTAzMjAzMywx
+OTM3Mzc3MjFdfQ==
 -->
