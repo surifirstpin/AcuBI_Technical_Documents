@@ -184,9 +184,9 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 
-In Folder view, on clicking on Settings Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail ( browse 
+In Folder view, on clicking on Settings Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. For Tags
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTkwNDg0MjUsLTc0ODI3MDg5MSwtOT
+eyJoaXN0b3J5IjpbLTEzMjEwMjM3NzQsLTc0ODI3MDg5MSwtOT
 g4Mzc5MTc1LDI3ODEzNTI2NiwtMTMzMDEwMzg2MCwtMTYwNjY3
 MTYxNiwxNDEyOTM3NzA4LDk4ODUyMTgyOSwzOTIyNjMyMzcsOD
 M1NjgwNzIzLDg4MDIzMTU5NCwxMjUwMDc1MDY0LC0yMTU5NzIy
