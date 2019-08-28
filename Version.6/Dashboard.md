@@ -224,13 +224,13 @@ Click on thumbnail option to upload thumbnail for report or dashboard. you can a
 
 ## Set HomePage
 
-To Set Dashboard or report to home page click on set homepage 
+To Set Dashboard or report to home page click on set homepage button.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTAwODgwMjQsLTcwOTM0Mjg4OCwzMz
+eyJoaXN0b3J5IjpbLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMz
 czOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0
 MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNz
 UsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0
