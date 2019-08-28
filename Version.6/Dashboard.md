@@ -186,15 +186,18 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 In Folder view, on clicking on Settings Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. Tags are specific for editing, deleting and for thumbnail option.
 
+## Info
+ on selecting <b>Info</b> button it will display the report description.
+ 
 ## Edit 
 
-To edit a file click on setting icon as mentioned in image below  and click on <b>Edit</b>, it will navigate 
+To edit a file click on setting icon as mentioned in image below  and click on <b>Edit</b>, it will navigate to report 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05OD
-gzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2Njcx
-NjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4Mz
-U2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIw
-MSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsND
-Y5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIx
-MzhdfQ==
+eyJoaXN0b3J5IjpbLTEzMTY4MzI1NzMsMjA0Mzc5OTg5OCwtNz
+Q4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAz
+ODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LD
+M5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUw
+NjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLT
+EzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3
+OTQ2XX0=
 -->
