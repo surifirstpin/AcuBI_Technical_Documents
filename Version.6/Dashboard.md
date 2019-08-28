@@ -200,12 +200,9 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
  <B><font color = " Black"> Image 17</font></b>
 
 
-
-
-
 ## Edit 
 
-To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the file click on save  to update the changes made.
+To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dasboard file click on save  to update the changes made.
 
 ## Delete
 
@@ -217,7 +214,7 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjQxMjE5LC0xNzIyNDAxNDU3LDIwND
+eyJoaXN0b3J5IjpbOTg0OTExOTQ0LC0xNzIyNDAxNDU3LDIwND
 M3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2
 NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEyOTM3NzA4LD
 k4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLDg4MDIzMTU5
