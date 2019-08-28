@@ -184,13 +184,13 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 
-From Folder View you can Edit, Delete or upload a Thumbnail to reports 
+In Folder view, on clicking on Settings Icon, it displays 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3OD
-EzNTI2NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEyOTM3
-NzA4LDk4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLDg4MD
-IzMTU5NCwxMjUwMDc1MDY0LC0yMTU5NzIyMDEsLTc0MDM0MTk2
-MSwxNTUwNTQ0MTI3LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtOD
-QzMTIzOTIsLTYxOTIyNzk0NiwxNjQ0NTgyMTM4LC05MzYyNDQx
-MTddfQ==
+eyJoaXN0b3J5IjpbMzU3MDE2NTczLC03NDgyNzA4OTEsLTk4OD
+M3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2MDY2NzE2
+MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNT
+Y4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAx
+LC03NDAzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Nj
+k0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEz
+OF19
 -->
