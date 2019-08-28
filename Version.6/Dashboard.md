@@ -193,8 +193,9 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
  <B><font color = " Black"> Image 16</font></b>
 
 ## Info
- on selecting <b>Info</b> button it will display the report description.
+ on selecting <b>Info</b> button it will display the report description window as shown below.
  
+
 ## Edit 
 
 To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the file click on save  to update the changes made.
@@ -209,11 +210,11 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjI0MDE0NTcsMjA0Mzc5OTg5OCwtNz
-Q4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAz
-ODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LD
-M5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUw
-NjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLT
-EzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3
-OTQ2XX0=
+eyJoaXN0b3J5IjpbLTcwMjcwMDMxNSwtMTcyMjQwMTQ1NywyMD
+QzNzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUy
+NjYsLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOC
+w5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1
+OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMT
+U1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEy
+MzkyXX0=
 -->
