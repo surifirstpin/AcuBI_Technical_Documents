@@ -204,13 +204,16 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click on save to update the changes made.
 
-<b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below in mage and click save and click update in Save dashboard window.
+<b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below image. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
  <B><font color = " Black"> Image 18</font></b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
+Click save and click update in Save dashboard window.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
+ <B><font color = " Black"> Image 19</font></b>
+ 
 ## Delete
 
 To delete a report or dashboard permanently from database click on <b>Delete</b> icon.
@@ -219,15 +222,19 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 Click on thumbnail option to upload thumbnail for report or dashboard. you can also browse an image from local system. 
 
+## Set HomePage
+
+To Set Dashboard or report to home page click on set homepage 
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEyNTUxNTU3LC03MDkzNDI4ODgsMzM3Mz
-k3OTU5LC0xNzA5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAx
-NDU3LDIwNDM3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LD
-I3ODEzNTI2NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEy
-OTM3NzA4LDk4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLD
-g4MDIzMTU5NCwxMjUwMDc1MDY0LC0yMTU5NzIyMDEsLTc0MDM0
-MTk2MV19
+eyJoaXN0b3J5IjpbLTE4OTAwODgwMjQsLTcwOTM0Mjg4OCwzMz
+czOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0
+MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNz
+UsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0
+MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2ODA3Mj
+MsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwtNzQw
+MzQxOTYxXX0=
 -->
