@@ -195,9 +195,11 @@ To edit a file click on <b>Setting</b> icon as mentioned in image below and clic
 
 ## Delete
 
-Todelete a report 
+To delete a report or dashboard permanently from database click on <b>Delete</b> icon.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTU2MzQyOSwyMDQzNzk5ODk4LC03ND
+eyJoaXN0b3J5IjpbLTQ5NjEyNTc3MCwyMDQzNzk5ODk4LC03ND
 gyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4
 NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMz
 kyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2
