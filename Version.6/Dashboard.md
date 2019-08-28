@@ -193,9 +193,11 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
  <B><font color = " Black"> Image 16</font></b>
 
 ## Info
- on selecting <b>Info</b> button it will display the report description window as shown below.
- 
 
+ on selecting <b>Info</b> button for <b> Dashboard-->Orders</b> it will display the dashboard description window as shown in below image.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
+ <B><font color = " Black"> Image 17</font></b>
 ## Edit 
 
 To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the file click on save  to update the changes made.
@@ -210,11 +212,11 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjcwMDMxNSwtMTcyMjQwMTQ1NywyMD
-QzNzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUy
-NjYsLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOC
-w5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1
-OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMT
-U1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEy
-MzkyXX0=
+eyJoaXN0b3J5IjpbLTEwNDAwNTQ3NDMsLTE3MjI0MDE0NTcsMj
+A0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1
+MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MD
+gsOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMx
+NTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLD
+E1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMx
+MjM5Ml19
 -->
