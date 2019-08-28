@@ -184,7 +184,10 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 
-In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. Tags are specific for editing, deleting and for thumbnail option.
+In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
+
+< Note: Tags are specific for editing, deleting and for thumbnail option.
+
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 16</font></b>
@@ -200,9 +203,13 @@ To edit a file click on <b>Setting</b> icon as mentioned in image below and clic
 
 To delete a report or dashboard permanently from database click on <b>Delete</b> icon.
 
+## Thumbnail
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk4OTEzMTEsMjA0Mzc5OTg5OCwtNz
+eyJoaXN0b3J5IjpbLTE3MjI0MDE0NTcsMjA0Mzc5OTg5OCwtNz
 Q4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAz
 ODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LD
 M5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUw
