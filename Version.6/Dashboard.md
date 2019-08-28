@@ -191,9 +191,13 @@ In Folder view, on clicking on Settings Icon, it displays Info ( information giv
  
 ## Edit 
 
-To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edi
+To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the file click on save  to update the changes made.
+
+## Delete
+
+Todelete a report 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NTk4MDg0OSwyMDQzNzk5ODk4LC03ND
+eyJoaXN0b3J5IjpbMTQ1OTU2MzQyOSwyMDQzNzk5ODk4LC03ND
 gyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4
 NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMz
 kyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2
