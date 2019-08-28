@@ -209,6 +209,7 @@ To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navig
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
  <B><font color = " Black"> Image 18</font></b>
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
 ## Delete
 
@@ -222,11 +223,11 @@ Click on thumbnail option to upload thumbnail for report or dashboard. you can a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcyMTU1MjYsLTcwOTM0Mjg4OCwzMz
-czOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0
-MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNz
-UsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0
-MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2ODA3Mj
-MsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwtNzQw
-MzQxOTYxXX0=
+eyJoaXN0b3J5IjpbODEyNTUxNTU3LC03MDkzNDI4ODgsMzM3Mz
+k3OTU5LC0xNzA5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAx
+NDU3LDIwNDM3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LD
+I3ODEzNTI2NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEy
+OTM3NzA4LDk4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLD
+g4MDIzMTU5NCwxMjUwMDc1MDY0LC0yMTU5NzIyMDEsLTc0MDM0
+MTk2MV19
 -->
