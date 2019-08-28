@@ -202,7 +202,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 ## Edit 
 
-To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dasboard file click on save  to update the changes made.
+To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click on save to update the changes made.
 
 ## Delete
 
@@ -214,11 +214,11 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0OTExOTQ0LC0xNzIyNDAxNDU3LDIwND
-M3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2
-NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEyOTM3NzA4LD
-k4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLDg4MDIzMTU5
-NCwxMjUwMDc1MDY0LC0yMTU5NzIyMDEsLTc0MDM0MTk2MSwxNT
-UwNTQ0MTI3LC0xMzQyNDU4ODk2LDQ2OTQ4MTMzNywtODQzMTIz
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE4NDUyMzQyMzIsLTE3MjI0MDE0NTcsMj
+A0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1
+MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MD
+gsOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMx
+NTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLD
+E1NTA1NDQxMjcsLTEzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMx
+MjM5Ml19
 -->
