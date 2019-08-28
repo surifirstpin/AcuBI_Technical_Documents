@@ -203,7 +203,9 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 ## Edit 
 
 To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click on save to update the changes made.
-<b> For Instance: </b> Click edit for dashboard it will navigate 
+<b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below in mage and click save to update.
+
+
 ## Delete
 
 To delete a report or dashboard permanently from database click on <b>Delete</b> icon.
@@ -215,11 +217,11 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzE1OTgwODAsLTE3MDk5ODUyOTAsLT
-E4NDUyMzQyMzIsLTE3MjI0MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4
-MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAzOD
-YwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5
-MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNj
-QsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEz
-NDI0NTg4OTZdfQ==
+eyJoaXN0b3J5IjpbMzM3Mzk3OTU5LC0xNzA5OTg1MjkwLC0xOD
+Q1MjM0MjMyLC0xNzIyNDAxNDU3LDIwNDM3OTk4OTgsLTc0ODI3
+MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2NiwtMTMzMDEwMzg2MC
+wtMTYwNjY3MTYxNiwxNDEyOTM3NzA4LDk4ODUyMTgyOSwzOTIy
+NjMyMzcsODM1NjgwNzIzLDg4MDIzMTU5NCwxMjUwMDc1MDY0LC
+0yMTU5NzIyMDEsLTc0MDM0MTk2MSwxNTUwNTQ0MTI3LC0xMzQy
+NDU4ODk2XX0=
 -->
