@@ -191,13 +191,13 @@ In Folder view, on clicking on Settings Icon, it displays Info ( information giv
  
 ## Edit 
 
-To edit a file click on setting icon as mentioned in image below  and click on <b>Edit</b>, it will navigate to report 
+To edit a file click on <b>Setting</b> icon as mentioned in image below and click on <b>Edit</b>, it will navigate to report or dashboard you want to edi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY4MzI1NzMsMjA0Mzc5OTg5OCwtNz
-Q4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAz
-ODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LD
-M5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUw
-NjQsLTIxNTk3MjIwMSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLT
-EzNDI0NTg4OTYsNDY5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3
-OTQ2XX0=
+eyJoaXN0b3J5IjpbMjA4NTk4MDg0OSwyMDQzNzk5ODk4LC03ND
+gyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4
+NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMz
+kyMjYzMjM3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2
+NCwtMjE1OTcyMjAxLC03NDAzNDE5NjEsMTU1MDU0NDEyNywtMT
+M0MjQ1ODg5Niw0Njk0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5
+NDZdfQ==
 -->
