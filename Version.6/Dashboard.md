@@ -188,9 +188,9 @@ In Folder view, on clicking on Settings Icon, it displays Info ( information giv
 
 ## Edit 
 
-To edit a file click on setting icon as mensioned in image 15 and click on 
+To edit a file click on setting icon as mentioned in image below  and click on <b>Edit</b>, it will navigate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTU0NDMwOSwtNzQ4MjcwODkxLC05OD
+eyJoaXN0b3J5IjpbMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05OD
 gzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2Njcx
 NjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4Mz
 U2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIw
