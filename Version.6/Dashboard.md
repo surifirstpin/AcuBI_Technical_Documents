@@ -184,13 +184,17 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
  <B><font color = " Black"> Image 15</font></b>
 
-In Folder view, on clicking on Settings Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. For Tags are specific 
+In Folder view, on clicking on Settings Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. Tags are specific for editing, deleting and for thumbnail option.
+
+## Edit 
+
+To edit a file click on setting icon as mensioned in image 15 and click on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM4OTQzNDU2LC03NDgyNzA4OTEsLTk4OD
-M3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2MDY2NzE2
-MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNT
-Y4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1OTcyMjAx
-LC03NDAzNDE5NjEsMTU1MDU0NDEyNywtMTM0MjQ1ODg5Niw0Nj
-k0ODEzMzcsLTg0MzEyMzkyLC02MTkyMjc5NDYsMTY0NDU4MjEz
-OF19
+eyJoaXN0b3J5IjpbMTI0OTU0NDMwOSwtNzQ4MjcwODkxLC05OD
+gzNzkxNzUsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2Njcx
+NjE2LDE0MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4Mz
+U2ODA3MjMsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIw
+MSwtNzQwMzQxOTYxLDE1NTA1NDQxMjcsLTEzNDI0NTg4OTYsND
+Y5NDgxMzM3LC04NDMxMjM5MiwtNjE5MjI3OTQ2LDE2NDQ1ODIx
+MzhdfQ==
 -->
