@@ -223,7 +223,7 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 ## Thumbnail
 
-Click on <b>Thumbnail</b> option you will be navigated to <b>Upload Thumbnail</b> window for report or dashboard and also you can browse an image from local system by clicking on
+Click on <b>Thumbnail</b> option, it will navigated to <b>Upload Thumbnail</b> window for report or dashboard and also you can browse an image from local system by clicking on
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/694b818cd0ed43c25a0d10b453c403acc73ad06f/images/New_version5/TD_Dashboard_image18.png)
 
@@ -236,7 +236,7 @@ To Set Dashboard or report to home page click on set homepage button.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzM1Mjc4Miw3MDIwMDQ4NjQsMTcxMz
+eyJoaXN0b3J5IjpbLTk5NjY5MjQ2Nyw3MDIwMDQ4NjQsMTcxMz
 UxODgwNiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1
 OSwtMTcwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1Ny
 wyMDQzNzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgx
