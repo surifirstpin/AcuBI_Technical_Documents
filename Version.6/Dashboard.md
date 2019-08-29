@@ -222,7 +222,7 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 
 Click on thumbnail option to upload thumbnail for report or dashboard. you can also browse an image from local system. 
 
-## Set HomePage
+## Set Home Page
 
 To Set Dashboard or report to home page click on set homepage button.
 
@@ -230,11 +230,11 @@ To Set Dashboard or report to home page click on set homepage button.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMz
-czOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0
-MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNz
-UsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0
-MTI5Mzc3MDgsOTg4NTIxODI5LDM5MjI2MzIzNyw4MzU2ODA3Mj
-MsODgwMjMxNTk0LDEyNTAwNzUwNjQsLTIxNTk3MjIwMSwtNzQw
-MzQxOTYxXX0=
+eyJoaXN0b3J5IjpbMTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNz
+A5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIz
+NDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgyNzA4OT
+EsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2
+MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMj
+M3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1
+OTcyMjAxXX0=
 -->
