@@ -8,12 +8,15 @@ Dashboard provides access to view multiple reports in single dashboard layout, i
 To view already existing dashboard navigate to dashboard section under <b><i> My Space</i></b> list click the dashboard report you want to view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)
+ 
  <B><font color = " Black"> Image 1 </font></b>
 ### Create Dashisterboard
 
 > <b> Navigation : Dashboard→ New Dashboard</b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png) <B><font color = " Black"> Image 2 </font></b>
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b41125908269765305098000fc4f2b44012ce182/images/New_version5/TD_Dashboard_image2.png) 
+
+<B><font color = " Black"> Image 2 </font></b>
 
 ## Customize Layout
 
@@ -24,6 +27,7 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
  <b>Grid Layout</b>  defines single fit layout option for reports. <b> For instance : </b> in below image we can see, i have selected Grid Layout(1 x 2) from drop down list provided for layout. <b><i>(Refer Image 3)</i></b>
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dbd25e9b2827cdb199236be24673a440da7f8ee5/images/New_version5/TD_Dashboard_image3.png)
+ 
  <B><font color = " Black"> Image 3 </font></b>
 
 ## Flow Layout
@@ -33,11 +37,13 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 - To add reports in flow layout, select the grid and click <b>Add</b>  available next to report name under <b>Workspace.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
+ 
  <B><font color = " Black"> Image 4 </font></b>
 
 - **Flow Layout** enables drag and drop option for the available grids, to carryout this function select <b>Drag Icon</b> and drop to desired available grid.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0f86df89a1c0a273e0609cd6731055746e7641c7/images/New_version5/TD_Dashboard_image10.png)
+  
   <B><font color = " Black"> Image 5 </font></b>
 
 ## Add Reports
@@ -49,6 +55,7 @@ Based on requirement multiple reports are added to layout selected.
 <b>2.</b>  To add more report layout to existing one click <b>add</b> for reports under Work space list.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1fca98228071a251b630e285a511c3ab271a6780/images/New_version5/TD_Dashboard_image4.png)
+
  <B><font color = " Black"> Image 6 </font></b>
 
 > <b>Note:</b> Use Double arrow up and Double arrow down Icon available at top right corner of dashboard screen to enable  the Global filters section.
@@ -58,6 +65,7 @@ Based on requirement multiple reports are added to layout selected.
 <b>3.</b>  Click on <b>Add global filters</b>  to add global dashboard filters. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image5.png)
+
   <B><font color = " Black"> Image 7 </font></b>
 
 -   <b>Filter Name:</B>  identifier name for the filter applicable.
@@ -80,6 +88,7 @@ Based on requirement multiple reports are added to layout selected.
   <b>Lookup</b>  Adding lookup to dashboard will refer set of query or list of items in filters.
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccc11113e49adbd5fa712948a41df1f820615980/images/New_version5/TD_Dashboard_image6.png)
+
  <B><font color = " Black"> Image 8 </font></b>
 
 <b>4.</b> To add new lookup to dashboard click on , Add Lookups.
@@ -95,6 +104,7 @@ Based on requirement multiple reports are added to layout selected.
 -   <b>Multiple Selections:</b>  Enables the selection list for multiple data. If disabled, user can select only single data.
   
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4420d6f0d9ecee55eced1d2a307bee2171c4ec1f/images/New_version5/TD_Dashboard_image11.png)  
+ 
   <b><font color = " Black" > Image 9 </font></b>
 
 
@@ -110,6 +120,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
+ 
  <b><font color = " Black"> Image 10 </font></b>
 
 
@@ -142,6 +153,7 @@ Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
+
  <B><font color = " Black"> Image 11 </font></b>
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
@@ -149,6 +161,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
+ 
   <B><font color = " Black"> Image 12 </font></b>
 
 ## Show Field Group
@@ -162,6 +175,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 > <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
+
  <B><font color = " Black"> Image 13 </font></b>
  
 ## Delete Dashboard
@@ -175,6 +189,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 To view the list of reports and dashboards in List View click on <b>List View.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
+
  <B><font color = " Black"> Image 14 </font></b>
 
 ## Folder View
@@ -182,6 +197,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 To view the list of reports and dashboards in Folder View click <b> Folder View</b>.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
+
  <B><font color = " Black"> Image 15</font></b>
 
 In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
@@ -190,6 +206,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
+
  <B><font color = " Black"> Image 16</font></b>
 
 ## Info
@@ -246,11 +263,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MD
-kzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYw
-OCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMT
-g0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgy
-NzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4Nj
-AsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzky
-MjYzMjM3XX0=
+eyJoaXN0b3J5IjpbLTE0OTk0NzUzNTQsMTkyMjUxMjA4NCwxMD
+M3MDU1MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgw
+NiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMT
+cwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQz
+Nzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNj
+YsLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5
+ODg1MjE4MjldfQ==
 -->
