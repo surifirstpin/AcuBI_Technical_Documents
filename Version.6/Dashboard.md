@@ -238,17 +238,17 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ## Set Home Page
 
-To Set Dashboard or Report to home page click on set homepage button.
+To set dashboard to home page click <b>Set Homepage</b>.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk3NDE4MzMyLDEwMzcwNTUwMzYsOTkwOT
-M0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2LC0xOTkyNTA0NjA4
-LC03MDkzNDI4ODgsMzM3Mzk3OTU5LC0xNzA5OTg1MjkwLC0xOD
-Q1MjM0MjMyLC0xNzIyNDAxNDU3LDIwNDM3OTk4OTgsLTc0ODI3
-MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2NiwtMTMzMDEwMzg2MC
-wtMTYwNjY3MTYxNiwxNDEyOTM3NzA4LDk4ODUyMTgyOSwzOTIy
-NjMyMzddfQ==
+eyJoaXN0b3J5IjpbMTMxMTEyODA4NSwxMDM3MDU1MDM2LDk5MD
+kzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYw
+OCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMT
+g0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgy
+NzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4Nj
+AsLTE2MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzky
+MjYzMjM3XX0=
 -->
