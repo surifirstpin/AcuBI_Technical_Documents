@@ -226,11 +226,12 @@ To delete a report or dashboard permanently from database click on <b>Delete</b>
 Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> window. 
   - Click browse button to upload image from local system.
   - Click Delete icon to delete the thumbnail.
-  - Background Color: Select background colour for thumbnail.
+  - Background Color: Select background color for thumbnail.
   - Icon & Font Color:  choose color for the icon using drop down list
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/694b818cd0ed43c25a0d10b453c403acc73ad06f/images/New_version5/TD_Dashboard_image18.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
+<B><font color = " Black"> Image 20</font></b>
 
 ## Set Home Page
 
@@ -240,11 +241,11 @@ To Set Dashboard or report to home page click on set homepage button.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDcxNDU2Myw3MDIwMDQ4NjQsMTcxMz
-UxODgwNiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1
-OSwtMTcwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1Ny
-wyMDQzNzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgx
-MzUyNjYsLTEzMzAxMDM4NjAsLTE2MDY2NzE2MTYsMTQxMjkzNz
-cwOCw5ODg1MjE4MjksMzkyMjYzMjM3LDgzNTY4MDcyMyw4ODAy
-MzE1OTRdfQ==
+eyJoaXN0b3J5IjpbOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNT
+E4ODA2LC0xOTkyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5
+LC0xNzA5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LD
+IwNDM3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEz
+NTI2NiwtMTMzMDEwMzg2MCwtMTYwNjY3MTYxNiwxNDEyOTM3Nz
+A4LDk4ODUyMTgyOSwzOTIyNjMyMzcsODM1NjgwNzIzLDg4MDIz
+MTU5NF19
 -->
