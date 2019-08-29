@@ -238,13 +238,15 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ## Set Home Page
 
-To set dashboard to home page click <b>Set Homepage</b>.
+To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up <b> HomePage Window</b> with success message as shown below.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
+<B><font color = " Black"> Image 21</font></b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMTEyODA4NSwxMDM3MDU1MDM2LDk5MD
+eyJoaXN0b3J5IjpbMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MD
 kzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYw
 OCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMT
 g0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgy
