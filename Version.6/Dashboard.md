@@ -197,6 +197,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
  on selecting <b>Info</b> button for <b> Dashboard-->Orders</b> it will display the dashboard description window as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
+ 
  <B><font color = " Black"> Image 17</font></b>
 
 
@@ -207,11 +208,13 @@ To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navig
 <b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below image. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
+
  <B><font color = " Black"> Image 18</font></b>
 
 Click save and click update in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
+
  <B><font color = " Black"> Image 19</font></b>
  
 ## Delete
@@ -230,11 +233,11 @@ To Set Dashboard or report to home page click on set homepage button.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNz
-A5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIz
-NDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgyNzA4OT
-EsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2
-MDY2NzE2MTYsMTQxMjkzNzcwOCw5ODg1MjE4MjksMzkyMjYzMj
-M3LDgzNTY4MDcyMyw4ODAyMzE1OTQsMTI1MDA3NTA2NCwtMjE1
-OTcyMjAxXX0=
+eyJoaXN0b3J5IjpbNzAyMDA0ODY0LDE3MTM1MTg4MDYsLTE5OT
+I1MDQ2MDgsLTcwOTM0Mjg4OCwzMzczOTc5NTksLTE3MDk5ODUy
+OTAsLTE4NDUyMzQyMzIsLTE3MjI0MDE0NTcsMjA0Mzc5OTg5OC
+wtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMw
+MTAzODYwLC0xNjA2NjcxNjE2LDE0MTI5Mzc3MDgsOTg4NTIxOD
+I5LDM5MjI2MzIzNyw4MzU2ODA3MjMsODgwMjMxNTk0LDEyNTAw
+NzUwNjRdfQ==
 -->
