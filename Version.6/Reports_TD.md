@@ -35,10 +35,10 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 | Type | Description |
 |--|--|
-| String | For fields that contain letters or special characters |
-|Numbers|For fields that contain numeric values|
-|Date|For fields that contain dates|
-|Lookup| To view the lookup in Report filters it should be derived first under lookup field, in model section|
+| <b>String</b> | For fields that contain letters or special characters |
+|<b>Numbers</b>|For fields that contain numeric values|
+|<b>Date</b>|For fields that contain dates|
+|<b>Lookup</b>| To view the lookup in Report filters it should be derived first under lookup field, in model section|
 
 ## Filters characteristics applicable :
 
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODYyODg0OSwtMTAzODM0Nzg1LC0xMD
-M4MDgxMzkzLC0yMTEyODM2MzI4LDE3NDQ0Mjc0NCwtMTUyOTA3
-OTIyMiwtMTAxODQ5Mzc2NSwyNzQ2MzgwOTMsMTY1NTg3NzQ3Ny
-w3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwtMTI0
-NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMsNTk1NjcyMz
-EzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMsLTE3NzUwNDA2NTcs
-LTI2MDkyMTk3XX0=
+eyJoaXN0b3J5IjpbLTUwODcxMjkwNSwxNDk4NjI4ODQ5LC0xMD
+M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
+NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDI3NDYzODA5My
+wxNjU1ODc3NDc3LDcxNzI4NTI3NiwtOTUwMTQ5Njg5LC0xNTMx
+MzE1ODE1LC0xMjQ1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNT
+gzMyw1OTU2NzIzMTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywt
+MTc3NTA0MDY1N119
 -->
