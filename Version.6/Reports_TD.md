@@ -50,13 +50,13 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 | <b>is not empty</b>                  | should not be empty                                       |
 | <b>is empty</b>                      | should be empty                                           |
 | <b>equal</b>                         | should be equals to specific value                        |
-| <b>not equal </b>                   | shouldn't be equal to specific value                      |
-|in                            | selection based on combination of filter values           |
-|not in                        | excluding set of values                                   |
-|begins with                   | finds any value that starts with mentioned sub-string      |
-|doesn’t begins with           | finds a value that doesn't begin with mentioned sub-string|
-|Contains                      | contains mentioned sub-string                             |
-|doesn’t contain               | finds a value which does not contain mentioned sub-string |
+| <b>not equal</b>                     | shouldn't be equal to specific value                      |
+| <b>in</b>                            | selection based on combination of filter values           |
+| <b>not in</b>                        | excluding set of values                                   |
+| <b>begins with</b>                   | finds any value that starts with mentioned sub-string      |
+|<b>doesn’t begins with</b>           | finds a value that doesn't begin with mentioned sub-string|
+|<b>Contains</b>                      | contains mentioned sub-string                             |
+|<b>doesn’t contain               | finds a value which does not contain mentioned sub-string |
 |ends with                     | should end with mentioned sub-string                      |
 |doesn’t end with              | should not end with mentioned sub-string                  |
 
@@ -356,11 +356,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTgxMjkyOSwxNDk4NjI4ODQ5LC0xMD
-M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
-NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDI3NDYzODA5My
-wxNjU1ODc3NDc3LDcxNzI4NTI3NiwtOTUwMTQ5Njg5LC0xNTMx
-MzE1ODE1LC0xMjQ1MDM1MDY5LDk5NzEzOTkwNywtMTI2ODgwNT
-gzMyw1OTU2NzIzMTMsLTY3NDQ1OTQyNSwtMTU2ODI0MTEyMywt
-MTc3NTA0MDY1N119
+eyJoaXN0b3J5IjpbLTE4ODAxNjM3NjQsMTQ5ODYyODg0OSwtMT
+AzODM0Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2MzI4LDE3NDQ0
+Mjc0NCwtMTUyOTA3OTIyMiwtMTAxODQ5Mzc2NSwyNzQ2MzgwOT
+MsMTY1NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUz
+MTMxNTgxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MD
+U4MzMsNTk1NjcyMzEzLC02NzQ0NTk0MjUsLTE1NjgyNDExMjMs
+LTE3NzUwNDA2NTddfQ==
 -->
