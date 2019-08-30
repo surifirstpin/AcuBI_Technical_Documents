@@ -15,11 +15,11 @@ Under <b>Save Report</b> page provide all the below information to save a report
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
-- <b>Title</b> label for the report the way you want it to appear.
+- <b>Title :</b> label for the report the way you want it to appear.
 
-- <b>Info</B> displays any specific information about the report.
+- <b>Info :</B> displays any specific information about the report.
 
-- <b>Privacy</b> you can save the report in any one of the following privacy option.
+- <b>Privacy :</b> you can save the report in any one of the following privacy option.
 
   - <b>Private ()</b> report saved in private section and accessed by the user itself.
   - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
@@ -58,7 +58,7 @@ Cache saves the data, so the future request for the data is provided faster.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
 <b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTIyNzIxOSwtMzc4ODIwMzk3LC0yOT
+eyJoaXN0b3J5IjpbMTM1MzExOTg3OSwtMzc4ODIwMzk3LC0yOT
 EwMzM3MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAs
 LTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4Nz
 Y3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0
