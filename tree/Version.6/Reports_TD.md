@@ -45,12 +45,12 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 ### String:
 |			Example            |						Description                        |                                                                                 
 |------------------------------|-----------------------------------------------------------|
-|is not null                   | should not be equal to null                               |
-|is null                       | equal to null                                             |
-|is not empty                  | should not be empty                                       |
-|is empty                      | should be empty                                           |
-|equal                         | should be equals to specific value                        |
-|not equal                     | shouldn't be equal to specific value                      |
+| <b>is not null</b>                   | should not be equal to null                               |
+| <b>is null</b>                      | equal to null                                             |
+| <b>is not empty</b>                  | should not be empty                                       |
+| <b>is empty</b>                      | should be empty                                           |
+| <b>equal</b>                         | should be equals to specific value                        |
+| <b>not equal </b>                   | shouldn't be equal to specific value                      |
 |in                            | selection based on combination of filter values           |
 |not in                        | excluding set of values                                   |
 |begins with                   | finds any value that starts with mentioned sub-string      |
@@ -356,7 +356,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODcxMjkwNSwxNDk4NjI4ODQ5LC0xMD
+eyJoaXN0b3J5IjpbLTkyNTgxMjkyOSwxNDk4NjI4ODQ5LC0xMD
 M4MzQ3ODUsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQy
 NzQ0LC0xNTI5MDc5MjIyLC0xMDE4NDkzNzY1LDI3NDYzODA5My
 wxNjU1ODc3NDc3LDcxNzI4NTI3NiwtOTUwMTQ5Njg5LC0xNTMx
