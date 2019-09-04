@@ -22,7 +22,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
 <b><font color = "Black"> Image 2</b>
 
-<b><i> Let us see them in detail : </i></b>
+<b><font color = "Dark Blue" List of chart types </b>
  - Line
  - Horizontal Bar
  - Pie
@@ -510,11 +510,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwND
-gxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0MjUs
-LTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIsLTM1MT
-ExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNjQxMDY0
-NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LD
-E4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4
-ODIyXX0=
+eyJoaXN0b3J5IjpbMTcxNDgyNDM1MSwxNTAxNTg3Mjg1LDE1Mj
+EzNTc3NzEsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAxNzU5
+LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLTY3Mj
+U4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMTkwODE1
+NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2OTc2LC
+04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExNDMy
+Nzg2NzhdfQ==
 -->
