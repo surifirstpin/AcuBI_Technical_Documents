@@ -3,7 +3,7 @@
 <center><h1>Visualization</h1></center>
 
 
-<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data.
+<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data. This section explains how to create a visualisation 
 
 <b>Let us see in details how to configure visualization;</b>
 
@@ -512,11 +512,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNz
-E0MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIs
-LTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNj
-QxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5
-MzQ4LDE4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LD
-Q5OTM4ODIyLC0yMDE5ODEwNDcwLDEwMzYzNjgxNTcsLTEyODIw
-NDM2NTldfQ==
+eyJoaXN0b3J5IjpbNjc4MDA1Nyw1MjQyMDM1MzMsNjU5NjAxNz
+U5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLTY3
+MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMTkwOD
+E1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2OTc2
+LC04NDQ2ODkzNDgsMTg0MzA1NzI2MSw5MjQ3MTI5MTQsLTExND
+MyNzg2NzgsNDk5Mzg4MjIsLTIwMTk4MTA0NzAsMTAzNjM2ODE1
+N119
 -->
