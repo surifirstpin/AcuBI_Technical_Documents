@@ -6,11 +6,10 @@
 <b>AcuBi</b> has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data. This section explains how to create a visualization that exhibits your data.
 Acubi keeps query details and visualization configuration data together, so user can see data and visualization charts together when it is shared to them.
 
-<b>Let us see in details how to configure visualization;</b>
 
 ## Getting Started With Visualization.
 
-Click on <b>Charts</b> tab to configure visualization option for the result obtained. This will connect you to visualization section.
+Let us see in details how to configure visualization. Click on <b>Charts</b> tab to configure visualization option for the result obtained. This will connect you to visualization section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52de5df82ef6986d3c2224728e8100490c41ad22/images/New_version5/TD_Visu_Image1.png)
 <b><font color = "Black"> Image 1</b>
@@ -511,11 +510,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMTM1Nzc3MSwyMDQ4MTI5ODY4LDUyND
-IwMzUzMyw2NTk2MDE3NTksMTY1MTcxNDI1LC0zODEyMDUwMjUs
-LTIzOTk0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIwMjQsLTE2Mz
-E1MjgwNjIsLTExOTA4MTU1NDQsMTY0MTA2NDQ4MywyMDE1Mzkw
-MTY0LC03MTYzMzY5NzYsLTg0NDY4OTM0OCwxODQzMDU3MjYxLD
-kyNDcxMjkxNCwtMTE0MzI3ODY3OCw0OTkzODgyMiwtMjAxOTgx
-MDQ3MF19
+eyJoaXN0b3J5IjpbMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwND
+gxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0MjUs
+LTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIsLTM1MT
+ExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNjQxMDY0
+NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LD
+E4NDMwNTcyNjEsOTI0NzEyOTE0LC0xMTQzMjc4Njc4LDQ5OTM4
+ODIyXX0=
 -->
