@@ -4,12 +4,10 @@
 
 
 <b>AcuBi</b> has an ability to create graphics and charts based on the result obtained. Charts sections in AcuBi displays different type of pictorial representation of the data. This section explains how to create a visualization that exhibits your data.
-Acubi keeps query details and visualization configuration data together, so a user can see quer and visualization together when it is shared to them.
+Acubi keeps query details and visualization configuration data together, so a user can see data and visualization charts together when it is shared to them.
 
 <b>Let us see in details how to configure visualization;</b>
 
-Reports fetches an impressive and good looking charts with the data obtained, in fraction of seconds.
- 
 ## Getting Started With Visualization.
 
 Click on <b>Charts</b> tab to configure visualization option for the result obtained. This will connect you to visualization section.
@@ -513,7 +511,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjEyODEwNyw1MjQyMDM1MzMsNjU5Nj
+eyJoaXN0b3J5IjpbMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5Nj
 AxNzU5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQs
 LTY3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMT
 kwODE1NTQ0LDE2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2
