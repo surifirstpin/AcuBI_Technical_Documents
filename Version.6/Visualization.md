@@ -476,6 +476,8 @@ editing options for y-axis in Line, Bar and bubble chart.
       
  Format arranges a pattern for information which is stored in database.
 
+> Note:  Consider below image, which displays the format section for table chart.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
 <b><font color = "Black"> Image 23</b>
 
@@ -503,17 +505,13 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>Before number</b> Align the icon before or after the data.
 
 
-<b>For Example :</b> Consider below image, which displays the format section for table chart.
-
-
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMT
-U4NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMz
-LDY1OTYwMTc1OSwxNjUxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OT
-QwMzU0LC02NzI1ODMyNjIsLTM1MTExMjAyNCwtMTYzMTUyODA2
-MiwtMTE5MDgxNTU0NCwxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLT
-cxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMwNTcyNjEsOTI0NzEy
-OTE0XX0=
+eyJoaXN0b3J5IjpbLTEyNTUyMzY4NDEsODQwNTQ2NjQ3LDE2Mz
+A3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4
+NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0MjUsLTM4MT
+IwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIsLTM1MTExMjAy
+NCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNjQxMDY0NDgzLD
+IwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMw
+NTcyNjFdfQ==
 -->
