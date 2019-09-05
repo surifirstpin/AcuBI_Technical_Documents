@@ -499,7 +499,8 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>BG (background color)</b> Select the background color for the data which is retrieved using condition.
 
 - <b>Font</b> Select the font color for the data retrieved based on condition applied.
-   -  
+   - Choose a color from the drop down menu.
+    
   
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
@@ -508,7 +509,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjY0ODA1NywtMTI1NTIzNjg0MSw4ND
+eyJoaXN0b3J5IjpbMTA4MTI2MDg3NywtMTI1NTIzNjg0MSw4ND
 A1NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1MjEzNTc3
 NzEsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAxNzU5LDE2NT
 E3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLTY3MjU4MzI2
