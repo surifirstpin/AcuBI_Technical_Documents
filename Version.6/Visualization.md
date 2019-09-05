@@ -501,14 +501,21 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>Font</b> Select the font color for the data retrieved based on condition applied.
    - Choose a color from the drop down menu.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
-    
-    ## Custom Color
+  
+<b><font color = "Black"> Image 24</b> 
+   
+   ## Custom Color
 To create Custom color, First click on <b> Custom Color</b>. Use the color picker to choose the colour. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
+ 
+  <b><font color = "Black"> Image 25</b>
   
   To change the selected color or edit the color, you can put hexstring such as #5c84ae, or color name, such as darkblue into the color value box at the bottom of the picker.
-  
+  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/180ee79d0c233ce60042245d66c6a69bbed52fe2/images/New_version5/TD_Visu_Image27.png)
+
+<b><font color = "Black"> Image 26</b>
+
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
 - <b>Before number</b> Align the icon before or after the data.
@@ -516,11 +523,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDcwNTg0NjMsLTEyNTUyMzY4NDEsOD
-QwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3
-NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNj
-UxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMy
-NjIsLTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NC
-wxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0
-Njg5MzQ4XX0=
+eyJoaXN0b3J5IjpbLTEzMzc1NTA4ODEsLTE2NDcwNTg0NjMsLT
+EyNTUyMzY4NDEsODQwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMTU4
+NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMzLD
+Y1OTYwMTc1OSwxNjUxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OTQw
+MzU0LC02NzI1ODMyNjIsLTM1MTExMjAyNCwtMTYzMTUyODA2Mi
+wtMTE5MDgxNTU0NCwxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcx
+NjMzNjk3Nl19
 -->
