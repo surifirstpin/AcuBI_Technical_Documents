@@ -509,8 +509,8 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
  <b><font color = "Black"> Image 25</b>
-  
-  To change the selected color or to edit the color, you can put hexstring such as #6d9ac7, or color name, such as darkblue into the color value box at the bottom of the picker.
+
+ To change the selected color or to edit the color, you can put hexstring such as #6d9ac7, or color name, such as darkblue into the color value box at the bottom of the picker.
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/180ee79d0c233ce60042245d66c6a69bbed52fe2/images/New_version5/TD_Visu_Image27.png)
 
 <b><font color = "Black"> Image 26</b>
@@ -522,11 +522,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MT
-kxOTM4ODUsLTE2NDcwNTg0NjMsLTEyNTUyMzY4NDEsODQwNTQ2
-NjQ3LDE2MzA3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3NzcxLD
-IwNDgxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0
-MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIsLT
-M1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNjQx
-MDY0NDgzXX0=
+eyJoaXN0b3J5IjpbLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNj
+MzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIz
+Njg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LD
+E1MjEzNTc3NzEsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAx
+NzU5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLT
+Y3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMTkw
+ODE1NTQ0XX0=
 -->
