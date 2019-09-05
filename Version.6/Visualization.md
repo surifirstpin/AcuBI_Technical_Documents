@@ -504,7 +504,8 @@ editing options for y-axis in Line, Bar and bubble chart.
   
 <b><font color = "Black"> Image 24</b> 
    
-   ## Custom Color
+## Custom Color
+
 To create Custom color, First click on <b> Custom Color</b>. Use the color picker to choose the colour. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
@@ -522,11 +523,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNj
-MzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIz
-Njg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LD
-E1MjEzNTc3NzEsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAx
-NzU5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLT
-Y3MjU4MzI2MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMTkw
-ODE1NTQ0XX0=
+eyJoaXN0b3J5IjpbMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgyMT
+g5NjMxMiwxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4
+NDYzLC0xMjU1MjM2ODQxLDg0MDU0NjY0NywxNjMwNzUzMTE3LD
+E1MDE1ODcyODUsMTUyMTM1Nzc3MSwyMDQ4MTI5ODY4LDUyNDIw
+MzUzMyw2NTk2MDE3NTksMTY1MTcxNDI1LC0zODEyMDUwMjUsLT
+IzOTk0MDM1NCwtNjcyNTgzMjYyLC0zNTExMTIwMjQsLTE2MzE1
+MjgwNjJdfQ==
 -->
