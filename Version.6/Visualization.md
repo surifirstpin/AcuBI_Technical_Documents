@@ -500,7 +500,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Font</b> Select the font color for the data retrieved based on condition applied.
    - Choose a color from the drop down menu.
+   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
     
+    ## Custom Color
+To create Custom color click 
   
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
@@ -509,11 +512,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTI2MDg3NywtMTI1NTIzNjg0MSw4ND
-A1NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1MjEzNTc3
-NzEsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAxNzU5LDE2NT
-E3MTQyNSwtMzgxMjA1MDI1LC0yMzk5NDAzNTQsLTY3MjU4MzI2
-MiwtMzUxMTEyMDI0LC0xNjMxNTI4MDYyLC0xMTkwODE1NTQ0LD
-E2NDEwNjQ0ODMsMjAxNTM5MDE2NCwtNzE2MzM2OTc2LC04NDQ2
-ODkzNDhdfQ==
+eyJoaXN0b3J5IjpbMjA5MDcyMjY0LC0xMjU1MjM2ODQxLDg0MD
+U0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3
+MSwyMDQ4MTI5ODY4LDUyNDIwMzUzMyw2NTk2MDE3NTksMTY1MT
+cxNDI1LC0zODEyMDUwMjUsLTIzOTk0MDM1NCwtNjcyNTgzMjYy
+LC0zNTExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMT
+Y0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4
+OTM0OF19
 -->
