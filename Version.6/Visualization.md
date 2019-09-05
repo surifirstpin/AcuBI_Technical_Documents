@@ -503,7 +503,9 @@ editing options for y-axis in Line, Bar and bubble chart.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
     
     ## Custom Color
-To create Custom color, First click on <b> Custom Color</b>
+To create Custom color, First click on <b> Custom Color</b>. Use the color picker 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
   
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
@@ -512,11 +514,11 @@ To create Custom color, First click on <b> Custom Color</b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYyMDI2NTkyLC0xMjU1MjM2ODQxLDg0MD
-U0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3
-MSwyMDQ4MTI5ODY4LDUyNDIwMzUzMyw2NTk2MDE3NTksMTY1MT
-cxNDI1LC0zODEyMDUwMjUsLTIzOTk0MDM1NCwtNjcyNTgzMjYy
-LC0zNTExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMT
-Y0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4
-OTM0OF19
+eyJoaXN0b3J5IjpbLTE5NjQzMDYxMjgsLTEyNTUyMzY4NDEsOD
+QwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3
+NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNj
+UxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMy
+NjIsLTM1MTExMjAyNCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NC
+wxNjQxMDY0NDgzLDIwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0
+Njg5MzQ4XX0=
 -->
