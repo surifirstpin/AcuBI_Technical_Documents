@@ -504,10 +504,10 @@ editing options for y-axis in Line, Bar and bubble chart.
     
     ## Custom Color
 To create Custom color, First click on <b> Custom Color</b>. Use the color picker to choose the colour. 
-To change the selected color or edit the color, you can put hexstring such as #5c84ae, or color name, such as darkblue into the color value box at the bottom of the picker
-To change a selected color, or edit all colors at once, you can input [hex strings](https://www.w3schools.com/colors/colors_hexadecimal.asp), such as `#2ca6cd`, or [CSS color names](https://www.w3schools.com/cssref/css_colors.asp), such as `mediumblue`, into the color value box at the bottom of the picker.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
+  
+  To change the selected color or edit the color, you can put hexstring such as #5c84ae, or color name, such as darkblue into the color value box at the bottom of the picker.
   
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
@@ -516,7 +516,7 @@ To change a selected color, or edit all colors at once, you can input [hex strin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU1MDQzMzIsLTEyNTUyMzY4NDEsOD
+eyJoaXN0b3J5IjpbLTE2NDcwNTg0NjMsLTEyNTUyMzY4NDEsOD
 QwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3
 NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNj
 UxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMy
