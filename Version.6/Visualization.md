@@ -499,7 +499,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>BG (background color)</b> Select the background color for the data which is retrieved using condition.
 
 - <b>Font</b> Select the font color for the data retrieved based on condition.
-
+  
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
 - <b>Before number</b> Align the icon before or after the data.
@@ -507,11 +507,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTUyMzY4NDEsODQwNTQ2NjQ3LDE2Mz
-A3NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4
-NjgsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0MjUsLTM4MT
-IwNTAyNSwtMjM5OTQwMzU0LC02NzI1ODMyNjIsLTM1MTExMjAy
-NCwtMTYzMTUyODA2MiwtMTE5MDgxNTU0NCwxNjQxMDY0NDgzLD
-IwMTUzOTAxNjQsLTcxNjMzNjk3NiwtODQ0Njg5MzQ4LDE4NDMw
-NTcyNjFdfQ==
+eyJoaXN0b3J5IjpbNDQ0MTU3MDE1LC0xMjU1MjM2ODQxLDg0MD
+U0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3
+MSwyMDQ4MTI5ODY4LDUyNDIwMzUzMyw2NTk2MDE3NTksMTY1MT
+cxNDI1LC0zODEyMDUwMjUsLTIzOTk0MDM1NCwtNjcyNTgzMjYy
+LC0zNTExMTIwMjQsLTE2MzE1MjgwNjIsLTExOTA4MTU1NDQsMT
+Y0MTA2NDQ4MywyMDE1MzkwMTY0LC03MTYzMzY5NzYsLTg0NDY4
+OTM0OF19
 -->
