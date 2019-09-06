@@ -185,9 +185,9 @@ available at top right side of <b>Data</b> section and then <b>Run</b> the repor
 Multiple dimensions in report data are often easier to look at, when you pivot one of the dimensions horizontally and display group based data for the field to which pivot is applied. 
 To <b>Pivot</b> a dimension click on pivot for dimension before or after running the query.
 
-> <b>Note :</b> you can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
+> <b>Note :</b> You can add more pivots to other dimension fields but make sure you have at least one un-pivoted dimension and a measure value.
 
-<b>For instance,</b> To view number of orders received based on the month it displays in following way:
+<b>For instance:</b> To view number of orders received based on the month it displays in following way:
 
 | Order Received  |year  |month|Region|Name|
 |--|--|--|--|--|
@@ -362,11 +362,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMTUwMDY5NSwtNjYxNTQ3NzA3LC0yOT
-g2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0yOTI1OTkz
-MywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUzOTcsOD
-k2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMTA3NjY2
-NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgzNDc4NS
-wtMTAzODA4MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1
-MjkwNzkyMjJdfQ==
+eyJoaXN0b3J5IjpbLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMj
+k4NjUyOTY0LC0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5
+MzMsMTY4OTQ2MzI1NywxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LD
+g5NjU5NzU0MywxNzI4NDg5NjQ0LC01MTg1ODcwNzgsLTEwNzY2
+NjU0ODYsMjEwODQxMDg5OCwxNDk4NjI4ODQ5LC0xMDM4MzQ3OD
+UsLTEwMzgwODEzOTMsLTIxMTI4MzYzMjgsMTc0NDQyNzQ0LC0x
+NTI5MDc5MjIyXX0=
 -->
