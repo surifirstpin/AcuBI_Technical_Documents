@@ -130,7 +130,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 To view the column data in ascending or descending orders, Click <b>Order</b> and choose the fields with desired combination, resulting on which the result in data section is displayed.
 
-As shown In the below image, descending order is applied to Quantity(sum), the resultant for this is shown in descending order.
+As shown In Image below, <b>Descending Order</b> is applied to Quantity(sum), the resultant for this is shown in descending order.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
 **Image 4**
@@ -360,7 +360,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDEwMzc3NDMsNzk1ODIyMjU3LC0yOT
+eyJoaXN0b3J5IjpbLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0yOT
 I1OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUz
 OTcsODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMT
 A3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgz
