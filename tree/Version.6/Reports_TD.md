@@ -231,6 +231,7 @@ On Applying pivot on month, it displays;
 <b>12.</b> By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on <b>Group</b> in field drop down and <b>To release</b> the same click on <b>Un-Group.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bc9bcd938189cd95f72d69d632d643df0746e9af/images/New_version5/TD_Reports_9.png)
+
  <b><Font color = " black">Image 9</font></b>
 
 ## Multi-Level grouping
@@ -360,11 +361,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIyOTA0NTMyLDgxNjcxNjg0OSwtMTE1MD
-g2MzEyNywtNjYxNTQ3NzA3LC0yOTg2NTI5NjQsLTE5ODY4Njg4
-NzEsNzk1ODIyMjU3LC0yOTI1OTkzMywxNjg5NDYzMjU3LDEzMT
-AyMzU5ODYsLTE2NTIwMDUzOTcsODk2NTk3NTQzLDE3Mjg0ODk2
-NDQsLTUxODU4NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEwODk4LD
-E0OTg2Mjg4NDksLTEwMzgzNDc4NSwtMTAzODA4MTM5MywtMjEx
-MjgzNjMyOF19
+eyJoaXN0b3J5IjpbMTUxNjk2ODEzMCw4MTY3MTY4NDksLTExNT
+A4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOTY0LC0xOTg2ODY4
+ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2MzI1NywxMz
+EwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0MywxNzI4NDg5
+NjQ0LC01MTg1ODcwNzgsLTEwNzY2NjU0ODYsMjEwODQxMDg5OC
+wxNDk4NjI4ODQ5LC0xMDM4MzQ3ODUsLTEwMzgwODEzOTMsLTIx
+MTI4MzYzMjhdfQ==
 -->
