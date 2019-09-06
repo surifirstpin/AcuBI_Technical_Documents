@@ -290,8 +290,9 @@ Click on <b>Calculated Column</b> button to enable table calculations as shown i
 
 Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color. (Refer Image 13)
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2650b28af1c38a1025bbf8318c0a67dbb93dac11/images/New_version5/TD_Reports_13.png)
+
   <b><Font color = " black">Image 13</font></b>
+
 > Note: for In depth information about calculated column, kindly navigate to Calculated Column Document.
 
 
@@ -364,11 +365,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjE3NDk1MDMsMTAwNjUxODcxLDE1MT
-Y5NjgxMzAsODE2NzE2ODQ5LC0xMTUwODYzMTI3LC02NjE1NDc3
-MDcsLTI5ODY1Mjk2NCwtMTk4Njg2ODg3MSw3OTU4MjIyNTcsLT
-I5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMDIzNTk4NiwtMTY1MjAw
-NTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0NCwtNTE4NTg3MDc4LC
-0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYyODg0OSwtMTAz
-ODM0Nzg1XX0=
+eyJoaXN0b3J5IjpbLTE3NTg1NjQwNTAsLTEwNjE3NDk1MDMsMT
+AwNjUxODcxLDE1MTY5NjgxMzAsODE2NzE2ODQ5LC0xMTUwODYz
+MTI3LC02NjE1NDc3MDcsLTI5ODY1Mjk2NCwtMTk4Njg2ODg3MS
+w3OTU4MjIyNTcsLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMDIz
+NTk4NiwtMTY1MjAwNTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0NC
+wtNTE4NTg3MDc4LC0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5
+ODYyODg0OV19
 -->
