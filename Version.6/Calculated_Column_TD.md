@@ -449,13 +449,19 @@ return x;
 
  date_avg(${pragmatic.casino_customer.hub} )
 ```
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/153afe4f046ee72492ec657c85a3556f22ad44df/images/New_version5/TD_CC_Image14.png)
+
+<b><font color = "Black"> Image 13</b>
+
+The resultant for above expression is shown in below image;
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODg3MTIzMjIsLTM3OTkwNzM3NiwtOD
-A5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIz
-NTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Ny
-w2NTAyODc0OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1
-Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OT
-A2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEw
-NjU5MjIyNjVdfQ==
+eyJoaXN0b3J5IjpbMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMz
+c5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0
+NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NS
+wxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0
+MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2Mj
+E2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAz
+MjM0NTc4MV19
 -->
