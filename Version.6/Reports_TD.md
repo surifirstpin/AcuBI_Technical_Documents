@@ -129,7 +129,8 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 ## Order  (Ascending / Descending)
 
 To view the column data in ascending or descending orders, Click <b>Order</b> and choose the fields with desired combination, resulting on which the result in data section is displayed.
-as shown In the below image, descending order is applied to bets_usd (sum), the resultant for this is shown in descending order.
+
+As shown In the below image, descending order is applied to bets_usd (sum), the resultant for this is shown in descending order.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
 **Image 4**
@@ -359,11 +360,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMD
-IzNTk4NiwtMTY1MjAwNTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0
-NCwtNTE4NTg3MDc4LC0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMT
-Q5ODYyODg0OSwtMTAzODM0Nzg1LC0xMDM4MDgxMzkzLC0yMTEy
-ODM2MzI4LDE3NDQ0Mjc0NCwtMTUyOTA3OTIyMiwtMTAxODQ5Mz
-c2NSwyNzQ2MzgwOTMsMTY1NTg3NzQ3Nyw3MTcyODUyNzYsLTk1
-MDE0OTY4OV19
+eyJoaXN0b3J5IjpbNzk1ODIyMjU3LC0yOTI1OTkzMywxNjg5ND
+YzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUzOTcsODk2NTk3NTQz
+LDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMTA3NjY2NTQ4NiwyMT
+A4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgzNDc4NSwtMTAzODA4
+MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1MjkwNzkyMj
+IsLTEwMTg0OTM3NjUsMjc0NjM4MDkzLDE2NTU4Nzc0NzcsNzE3
+Mjg1Mjc2XX0=
 -->
