@@ -240,7 +240,8 @@ To carry out Multi-level grouping. Apply group to any of the 2 dimension fields.
 
 > <b><i>For instance:</i></b>  In the below image grouping has been applied to dimension fields <b>customer and hub.</b> In data retrieved below on expanding HUB it displays the perspective CUSTOMER that belonging to specific hub, on further expansion it displays Casino name.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0b15f99af3dde5ba74467811bdd3ff84e8ae541b/images/New_version5/TD_Reports_10.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6f5c0c9b96b9b5328df464aaba13715e244a0886/images/New_version5/TD_Reports_9.png)
+ 
  <b><Font color = " black">Image 10</font></b>
 
 ## Find
@@ -361,7 +362,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2NDk0MzIyLDE1MTY5NjgxMzAsODE2Nz
+eyJoaXN0b3J5IjpbMTAwNjUxODcxLDE1MTY5NjgxMzAsODE2Nz
 E2ODQ5LC0xMTUwODYzMTI3LC02NjE1NDc3MDcsLTI5ODY1Mjk2
 NCwtMTk4Njg2ODg3MSw3OTU4MjIyNTcsLTI5MjU5OTMzLDE2OD
 k0NjMyNTcsMTMxMDIzNTk4NiwtMTY1MjAwNTM5Nyw4OTY1OTc1
