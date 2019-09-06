@@ -132,8 +132,9 @@ To view the column data in ascending or descending orders, Click <b>Order</b> an
 
 As shown In Image below, <b>Descending Order</b> is applied to Quantity(sum), the resultant for this is shown in descending order.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34680d9c76d6eebc3cc6b1bb76af169b96af03c3/images/New_version5/TD_Reports_4.png)
-**Image 4**
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0003e5ea2ec470379b180971447ba46c082ced9c/images/New_version5/TD_Reports_4.png)
+
+ <b><Font color = " black">Image 4</font></b>
 
 ## Local Sorting
 
@@ -360,11 +361,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0yOT
-I1OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUz
-OTcsODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMT
-A3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgz
-NDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3ND
-QsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMjc0NjM4MDkzLDE2
-NTU4Nzc0NzddfQ==
+eyJoaXN0b3J5IjpbLTI5ODY1Mjk2NCwtMTk4Njg2ODg3MSw3OT
+U4MjIyNTcsLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMDIzNTk4
+NiwtMTY1MjAwNTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0NCwtNT
+E4NTg3MDc4LC0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYy
+ODg0OSwtMTAzODM0Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2Mz
+I4LDE3NDQ0Mjc0NCwtMTUyOTA3OTIyMiwtMTAxODQ5Mzc2NSwy
+NzQ2MzgwOTNdfQ==
 -->
