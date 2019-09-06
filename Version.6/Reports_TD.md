@@ -114,10 +114,11 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 <b>c.</b> The data is retrieved, based on the applied hidden filters.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1f4b77c16dbb8f5b7ff70eb159ddb35c6445236c/images/New_version5/TD_Reports_3.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/07ede2cbfaf270ed8d113594bc7b11b9c65b2020/images/New_version5/TD_Reports_3.png)
+
  <b><Font color = " black">Image 3</font></b>
 
-- To add more filters click <b>Add Rule.</b>
+- To add more filters click <b>Add Filter.</b>
 
 - To delete the filter applied click <b>Cross Icon.</b>
 
@@ -358,11 +359,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTIwMDUzOTcsODk2NTk3NTQzLDE3Mj
-g0ODk2NDQsLTUxODU4NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEw
-ODk4LDE0OTg2Mjg4NDksLTEwMzgzNDc4NSwtMTAzODA4MTM5My
-wtMjExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1MjkwNzkyMjIsLTEw
-MTg0OTM3NjUsMjc0NjM4MDkzLDE2NTU4Nzc0NzcsNzE3Mjg1Mj
-c2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEyNDUwMzUwNjks
-OTk3MTM5OTA3XX0=
+eyJoaXN0b3J5IjpbMTMxMDIzNTk4NiwtMTY1MjAwNTM5Nyw4OT
+Y1OTc1NDMsMTcyODQ4OTY0NCwtNTE4NTg3MDc4LC0xMDc2NjY1
+NDg2LDIxMDg0MTA4OTgsMTQ5ODYyODg0OSwtMTAzODM0Nzg1LC
+0xMDM4MDgxMzkzLC0yMTEyODM2MzI4LDE3NDQ0Mjc0NCwtMTUy
+OTA3OTIyMiwtMTAxODQ5Mzc2NSwyNzQ2MzgwOTMsMTY1NTg3Nz
+Q3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNTgxNSwt
+MTI0NTAzNTA2OV19
 -->
