@@ -316,7 +316,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 			"name": "stationcode",
 			"label": "stationcode",
 			"data_type": "string",
-			"type": "dimension",
+			"type": "dimension",           **Define in Model**
 			"lookup": "",
 			"operators": "",
 			"sql": "${TABLE}.stationcode",
@@ -352,9 +352,6 @@ Using drill down you can view more deeper insights of the data. To enable this f
 		},
 ```
 
-
-
-
 <b>For example:</b> (Consider Image 15)
 
 <b>a.</b> On expanding Station Code, it will display Station code details (eg: area code, way used & quantity)  that fall under the particular station_2.
@@ -366,11 +363,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQxODQyNzQsLTExNDE1MzE3NywtMT
-A2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4MTY3MTY4
-NDksLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOTY0LC
-0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2
-MzI1NywxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0My
-wxNzI4NDg5NjQ0LC01MTg1ODcwNzgsLTEwNzY2NjU0ODYsMjEw
-ODQxMDg5OF19
+eyJoaXN0b3J5IjpbLTQ3MTI5NzkwOSwtMTQxNDE4NDI3NCwtMT
+E0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1MTg3MSwxNTE2OTY4
+MTMwLDgxNjcxNjg0OSwtMTE1MDg2MzEyNywtNjYxNTQ3NzA3LC
+0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0yOTI1
+OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUzOT
+csODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMTA3
+NjY2NTQ4Nl19
 -->
