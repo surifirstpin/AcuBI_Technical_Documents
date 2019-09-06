@@ -301,7 +301,7 @@ Click <b>OK</b> after deriving the expression,  all the values based on calculat
 
 To View the SQL query built on retrieving data in report, click on <b>SQL section.</b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e89fea59c7b6d6978b5430de4d1be5cbfe27aeb3/images/New_version5/TD_Reports_15.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d39c0b745320159eca8019120ab0a47d8fbd61e/images/New_version5/TD_Reports_15.png)
  <b><Font color = " black">Image 14</font></b>
 
 ## Drill Down Display
@@ -366,11 +366,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMD
-A2NTE4NzEsMTUxNjk2ODEzMCw4MTY3MTY4NDksLTExNTA4NjMx
-MjcsLTY2MTU0NzcwNywtMjk4NjUyOTY0LC0xOTg2ODY4ODcxLD
-c5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2MzI1NywxMzEwMjM1
-OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0MywxNzI4NDg5NjQ0LC
-01MTg1ODcwNzgsLTEwNzY2NjU0ODYsMjEwODQxMDg5OCwxNDk4
-NjI4ODQ5XX0=
+eyJoaXN0b3J5IjpbLTE0MTQxODQyNzQsLTExNDE1MzE3NywtMT
+A2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4MTY3MTY4
+NDksLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOTY0LC
+0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2
+MzI1NywxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0My
+wxNzI4NDg5NjQ0LC01MTg1ODcwNzgsLTEwNzY2NjU0ODYsMjEw
+ODQxMDg5OF19
 -->
