@@ -425,14 +425,14 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
 <b><font color = "Black"> Image 11</b>
 
- <b>Note :</b>  it returns value 13. (refer image 12)
+ <b>Note :</b>  It returns value 13. (refer image 12)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
 <b><font color = "Black"> Image 12</b>
 
-<b>For Instance :</b> 
+<b>For Instance :</b> to calculate 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMzk2ODU1NSwtMzc5OTA3Mzc2LC04MD
+eyJoaXN0b3J5IjpbLTQ2ODcyNjM5MCwtMzc5OTA3Mzc2LC04MD
 k2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1
 MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LD
 Y1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3
