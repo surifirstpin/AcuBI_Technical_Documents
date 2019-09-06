@@ -215,7 +215,7 @@ On Applying pivot on month, it displays;
 
  <b><Font color = " black">Image 7</font></b>
 
-><b> NotTo hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
+><b> Note : </b> To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
 
 
 ## Pin or Remove Pin
@@ -361,11 +361,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNTE5Njk4MywtMTE1MDg2MzEyNywtNj
-YxNTQ3NzA3LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIy
-MjU3LC0yOTI1OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLT
-E2NTIwMDUzOTcsODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4
-NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4ND
-ksLTEwMzgzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOCwx
-NzQ0NDI3NDRdfQ==
+eyJoaXN0b3J5IjpbODE2NzE2ODQ5LC0xMTUwODYzMTI3LC02Nj
+E1NDc3MDcsLTI5ODY1Mjk2NCwtMTk4Njg2ODg3MSw3OTU4MjIy
+NTcsLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMDIzNTk4NiwtMT
+Y1MjAwNTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0NCwtNTE4NTg3
+MDc4LC0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYyODg0OS
+wtMTAzODM0Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2MzI4LDE3
+NDQ0Mjc0NF19
 -->
