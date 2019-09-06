@@ -98,7 +98,8 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 
 <b>4.</b> Navigate to <b>Filter section</b>, then extract data based on filters applied.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eb353d0308368c774c84058005a471ff667e7125/images/New_version5/TD_Reports_2.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5889921594d4f4997649ead2951702d6fad2842f/images/New_version5/TD_Reports_2.png)
+
  <b><Font color = " black">Image 2</font></b>
 
 ## Hidden Filters
@@ -357,11 +358,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODQ4OTY0NCwtNTE4NTg3MDc4LC0xMD
-c2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYyODg0OSwtMTAzODM0
-Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2MzI4LDE3NDQ0Mjc0NC
-wtMTUyOTA3OTIyMiwtMTAxODQ5Mzc2NSwyNzQ2MzgwOTMsMTY1
-NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNT
-gxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMs
-NTk1NjcyMzEzXX0=
+eyJoaXN0b3J5IjpbODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxOD
+U4NzA3OCwtMTA3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4
+NDksLTEwMzgzNDc4NSwtMTAzODA4MTM5MywtMjExMjgzNjMyOC
+wxNzQ0NDI3NDQsLTE1MjkwNzkyMjIsLTEwMTg0OTM3NjUsMjc0
+NjM4MDkzLDE2NTU4Nzc0NzcsNzE3Mjg1Mjc2LC05NTAxNDk2OD
+ksLTE1MzEzMTU4MTUsLTEyNDUwMzUwNjksOTk3MTM5OTA3LC0x
+MjY4ODA1ODMzXX0=
 -->
