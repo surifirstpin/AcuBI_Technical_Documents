@@ -432,6 +432,8 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 
 <b>For Instance :</b> To calculate minimum difference value for hub Malta, write the below local function in calculated column section.
 
+```
+
 /*START*/
 function date_avg(a){
 var x=0;
@@ -446,13 +448,14 @@ return x;
 /*END*/
 
  date_avg(${pragmatic.casino_customer.hub} )
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njc3MzQwNiwtMzc5OTA3Mzc2LC04MD
-k2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1
-MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LD
-Y1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3
-ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEzNDY5MD
-YsMTgyNTcwNjI2MCw3OTE5NzY3MzQsMjAzMjM0NTc4MSwtMTA2
-NTkyMjI2NV19
+eyJoaXN0b3J5IjpbLTEwODg3MTIzMjIsLTM3OTkwNzM3NiwtOD
+A5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIz
+NTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Ny
+w2NTAyODc0OTYsMTc1OTM1MDcyMSwyNTUzNDA3MzUsLTcwMTc1
+Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUxNjIxNiwtNzIxMzQ2OT
+A2LDE4MjU3MDYyNjAsNzkxOTc2NzM0LDIwMzIzNDU3ODEsLTEw
+NjU5MjIyNjVdfQ==
 -->
