@@ -430,9 +430,25 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
 <b><font color = "Black"> Image 12</b>
 
-<b>For Instance :</b> to calculate 
+<b>For Instance :</b> To calculate minimum difference value for hub Malta, write the below local function in calculated column section.
+
+/*START*/
+function date_avg(a){
+var x=0;
+if(a=="Malta"){ 
+{ 
+x = bi.min(bi.date_diff("2019-09-01",bi.date_format(bi.current_date,"YYYY-MM-DD")),10);
+}
+}
+return x;
+}
+
+/*END*/
+
+ date_avg(${pragmatic.casino_customer.hub} )
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODcyNjM5MCwtMzc5OTA3Mzc2LC04MD
+eyJoaXN0b3J5IjpbLTQ2Njc3MzQwNiwtMzc5OTA3Mzc2LC04MD
 k2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1
 MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LD
 Y1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3
