@@ -150,7 +150,8 @@ For <b>Measures</b>
 - Click Upwards Pointing Arrow,  to enable descending order.
 - Click Downwards Pointing Arrow, to enable ascending order.
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/87a73aeac27bf279f1b6a9d87a473785644d363f/images/New_version5/TD_Reports_5.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f86859885964abb965a9b9bbe6dee921f20f2132/images/New_version5/TD_Reports_5.png)
+ 
  <b><Font color = " black">Image 5</font></b>
 
 ## Query Time
@@ -361,11 +362,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODY1Mjk2NCwtMTk4Njg2ODg3MSw3OT
-U4MjIyNTcsLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMxMDIzNTk4
-NiwtMTY1MjAwNTM5Nyw4OTY1OTc1NDMsMTcyODQ4OTY0NCwtNT
-E4NTg3MDc4LC0xMDc2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYy
-ODg0OSwtMTAzODM0Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2Mz
-I4LDE3NDQ0Mjc0NCwtMTUyOTA3OTIyMiwtMTAxODQ5Mzc2NSwy
-NzQ2MzgwOTNdfQ==
+eyJoaXN0b3J5IjpbLTY2MTU0NzcwNywtMjk4NjUyOTY0LC0xOT
+g2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2MzI1
+NywxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0MywxNz
+I4NDg5NjQ0LC01MTg1ODcwNzgsLTEwNzY2NjU0ODYsMjEwODQx
+MDg5OCwxNDk4NjI4ODQ5LC0xMDM4MzQ3ODUsLTEwMzgwODEzOT
+MsLTIxMTI4MzYzMjgsMTc0NDQyNzQ0LC0xNTI5MDc5MjIyLC0x
+MDE4NDkzNzY1XX0=
 -->
