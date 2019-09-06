@@ -7,7 +7,8 @@
  
 <b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b743a83f523e1d6ddfc4593b9e04d0f6abe03e5e/images/New_version5/TD_Reports_1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e7c72243df91b0fcd018780e982ee015c35b468a/images/New_version5/TD_Reports_1.png)
+ 
  <b><Font color = " black">Image 1</font></b>
 
 - To create a new report click on <b>Reset Visualization</b> ( refresh icon).
@@ -356,11 +357,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODU4NzA3OCwtMTA3NjY2NTQ4NiwyMT
-A4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgzNDc4NSwtMTAzODA4
-MTM5MywtMjExMjgzNjMyOCwxNzQ0NDI3NDQsLTE1MjkwNzkyMj
-IsLTEwMTg0OTM3NjUsMjc0NjM4MDkzLDE2NTU4Nzc0NzcsNzE3
-Mjg1Mjc2LC05NTAxNDk2ODksLTE1MzEzMTU4MTUsLTEyNDUwMz
-UwNjksOTk3MTM5OTA3LC0xMjY4ODA1ODMzLDU5NTY3MjMxMywt
-Njc0NDU5NDI1XX0=
+eyJoaXN0b3J5IjpbMTcyODQ4OTY0NCwtNTE4NTg3MDc4LC0xMD
+c2NjY1NDg2LDIxMDg0MTA4OTgsMTQ5ODYyODg0OSwtMTAzODM0
+Nzg1LC0xMDM4MDgxMzkzLC0yMTEyODM2MzI4LDE3NDQ0Mjc0NC
+wtMTUyOTA3OTIyMiwtMTAxODQ5Mzc2NSwyNzQ2MzgwOTMsMTY1
+NTg3NzQ3Nyw3MTcyODUyNzYsLTk1MDE0OTY4OSwtMTUzMTMxNT
+gxNSwtMTI0NTAzNTA2OSw5OTcxMzk5MDcsLTEyNjg4MDU4MzMs
+NTk1NjcyMzEzXX0=
 -->
