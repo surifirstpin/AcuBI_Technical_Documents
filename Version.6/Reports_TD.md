@@ -284,7 +284,7 @@ Click on <b>Calculated Column</b> button to enable table calculations as shown i
 
 - <b>Calculate on the raw data</b> if it is enabled the calculation is applied on all rows irrespective of grouping and pivot, if disabled calculation applied on abstract values.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c80c47106a0f82196eaeb00516008a3e4c34e395/images/New_version5/TD_Reports_12.png)
+
   <b><Font color = " black">Image 12</font></b>
 
 Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color. (Refer Image 13)
@@ -363,11 +363,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODE2ODQ3LDEwMDY1MTg3MSwxNTE2OT
-Y4MTMwLDgxNjcxNjg0OSwtMTE1MDg2MzEyNywtNjYxNTQ3NzA3
-LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0yOT
-I1OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5ODYsLTE2NTIwMDUz
-OTcsODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUxODU4NzA3OCwtMT
-A3NjY2NTQ4NiwyMTA4NDEwODk4LDE0OTg2Mjg4NDksLTEwMzgz
-NDc4NV19
+eyJoaXN0b3J5IjpbMTk5NzEyMDI2OSwxMDA2NTE4NzEsMTUxNj
+k2ODEzMCw4MTY3MTY4NDksLTExNTA4NjMxMjcsLTY2MTU0Nzcw
+NywtMjk4NjUyOTY0LC0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMj
+kyNTk5MzMsMTY4OTQ2MzI1NywxMzEwMjM1OTg2LC0xNjUyMDA1
+Mzk3LDg5NjU5NzU0MywxNzI4NDg5NjQ0LC01MTg1ODcwNzgsLT
+EwNzY2NjU0ODYsMjEwODQxMDg5OCwxNDk4NjI4ODQ5LC0xMDM4
+MzQ3ODVdfQ==
 -->
