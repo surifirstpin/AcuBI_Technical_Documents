@@ -452,13 +452,15 @@ return x;
 
 The resultant for above expression is shown in image below;
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fda5c18eb0b6d1f84a6437691facf7ade4003faa/images/New_version5/TD_CC_Image11.png)
 
+<b><font color = "Black"> Image 11</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNDg4MTc3LDQzNjI4OTkyMywxOTQ4Nz
-I2MTI5LC0zNjY5NjczMjksMTE2NDMxMjA0Niw2MDk1Mjc2NDEs
-LTE1OTM0MTc4NjYsMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMj
-E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
-LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
-M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
-OTAxNF19
+eyJoaXN0b3J5IjpbLTE3NjgzMTc5ODYsNDIwNDg4MTc3LDQzNj
+I4OTkyMywxOTQ4NzI2MTI5LC0zNjY5NjczMjksMTE2NDMxMjA0
+Niw2MDk1Mjc2NDEsLTE1OTM0MTc4NjYsMTQzMzkxNDY5OSwtMT
+E2NTMxNDMxNiwyMjE3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4
+MywxMTkwOTc0OTAzLC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLT
+gwOTY5MjQ4MCwtOTM5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYy
+MzUyMDddfQ==
 -->
