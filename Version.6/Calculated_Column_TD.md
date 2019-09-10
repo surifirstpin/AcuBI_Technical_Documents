@@ -47,7 +47,8 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97b3a3853c6c77d37e4e049e95204864161eb785/images/New_version5/TD_CC_Image2.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b8aa0f8eae4b1049cbad5181768151ac000c92c7/images/New_version5/TD_CC_Image2.png)
+
 <b><font color = "Black"> Image 3</b>
 
 ## Mathematical operation 
@@ -459,7 +460,7 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIwOTI0NjIxLC00OTAxNDIzNDksMzMyMz
+eyJoaXN0b3J5IjpbMjIxNzk4NjE5LC00OTAxNDIzNDksMzMyMz
 g1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2
 LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNT
 Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
