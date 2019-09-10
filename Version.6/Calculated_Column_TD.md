@@ -41,7 +41,8 @@ After navigating to Calculated Column Window, Enter all the below fields.
 
 - <b>Calculate on the raw data</b> this function is applied directly on the retrieved value of the fields, initially before pivot or grouping options are applied.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e460f84e0b5d682248fe9a8b68a3741dbba05bb2/images/New_version5/TD_CC_Image1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4ae4c6efd84be04af3ef553c09572728d221d5e1/images/New_version5/TD_CC_Image1.png)
+
 <b><font color = "Black"> Image 2</b>
 
 - Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color as shown in below image,
@@ -458,11 +459,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOT
-c0OTAzLC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4
-MCwtOTM5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMT
-A4NjYzOTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3
-NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLT
-E2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1
-NzA2MjYwXX0=
+eyJoaXN0b3J5IjpbODIwOTI0NjIxLC00OTAxNDIzNDksMzMyMz
+g1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2
+LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNT
+Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
+NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
+AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
+NDY5MDZdfQ==
 -->
