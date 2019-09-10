@@ -382,7 +382,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 By enabling the field <b>Calculate On Raw</b> the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
-><b>For Instance:</b>  consider the below image, which represents calculated data with and without applying enabling calculate on raw.
+><b>For Instance:</b>  consider the below image, which represents calculated data with and without enabling calculate on raw.
 
 ```
 bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
@@ -463,11 +463,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTQyNDcxODUsLTExNjUzMTQzMTYsMj
-IxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkw
-MywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLT
-kzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2
-MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5Ni
-wxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5
-NDE5NTUxXX0=
+eyJoaXN0b3J5IjpbMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMj
+E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
+LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
+M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
+OTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LD
+E3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0
+MTk1NTFdfQ==
 -->
