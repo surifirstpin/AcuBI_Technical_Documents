@@ -70,7 +70,8 @@ bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
  
 The resultant for this calculated column will display number of working days in each month.
  
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92bcc6564c0ad304b4ec4955cc3d43f693c3b9a6/images/New_version5/TD_CC_Image5.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/31694b27949602c0eddb042edb970497f11b2b5f/images/New_version5/TD_CC_Image5.png)
+
 <b><font color = "Black"> Image 5</b>
 
 <b><i><u>AcuBi supports following functionalities in calculated column;</u></i></b>
@@ -461,11 +462,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMTMwNjk0LDIyMTc5ODYxOSwtNDkwMT
-QyMzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIzMjIs
-LTM3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0Mz
-U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
-NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
-UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
-NjIxNl19
+eyJoaXN0b3J5IjpbLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OT
+AxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMy
+MiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMT
+QzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3
+NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLD
+I1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0
+NTE2MjE2XX0=
 -->
