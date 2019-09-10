@@ -427,7 +427,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
 
-<b>For Instance :</b> To calculate minimum difference value for hub Malta, write the below local function in calculated column section.
+<b>For Instance :</b> To calculate minimum difference value for Month <b>January</b>, write the below local function in calculated column section.
 
 ```
 /*START*/
@@ -446,18 +446,19 @@ return x;
  date_avg(${biplus.orders.month_whenmade} )
 ```
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a85c0c174faebe147ced653e82b57e974e1c1276/images/New_version5/TD_CC_Image10.png)
 
-<b><font color = "Black"> Image 13</b>
+<b><font color = "Black"> Image 10</b>
 
 The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTc2NTk4MCw0MzYyODk5MjMsMTk0OD
-cyNjEyOSwtMzY2OTY3MzI5LDExNjQzMTIwNDYsNjA5NTI3NjQx
-LC0xNTkzNDE3ODY2LDE0MzM5MTQ2OTksLTExNjUzMTQzMTYsMj
-IxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkw
-MywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLT
-kzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2
-MzkwMTRdfQ==
+eyJoaXN0b3J5IjpbNDIwNDg4MTc3LDQzNjI4OTkyMywxOTQ4Nz
+I2MTI5LC0zNjY5NjczMjksMTE2NDMxMjA0Niw2MDk1Mjc2NDEs
+LTE1OTM0MTc4NjYsMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMj
+E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
+LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
+M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
+OTAxNF19
 -->
