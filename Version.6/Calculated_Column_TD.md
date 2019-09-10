@@ -63,7 +63,8 @@ Custom made mathematical operations can be added in calculated column section as
 bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
 ```
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7affb65120b0b17ab3b6a7bb14ec351c58fb27e/images/New_version5/TD_CC_Image4.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/aa7e1c3a36eeb11f25ad5875fc8ce06f343b0a4c/images/New_version5/TD_CC_Image4.png)
+
  <b><font color = "Black"> Image 4</b>
  
  
@@ -460,11 +461,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzk4NjE5LC00OTAxNDIzNDksMzMyMz
-g1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2
-LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNT
-Y2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEw
-NDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNz
-AxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0NTE2MjE2LC03MjEz
-NDY5MDZdfQ==
+eyJoaXN0b3J5IjpbMzExMTMwNjk0LDIyMTc5ODYxOSwtNDkwMT
+QyMzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIzMjIs
+LTM3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0Mz
+U3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4NzQ4
+NjUsMTUwODQxMDQ2Nyw2NTAyODc0OTYsMTc1OTM1MDcyMSwyNT
+UzNDA3MzUsLTcwMTc1Nzg4MiwtMTYwOTQxOTU1MSwtMTQ4NDUx
+NjIxNl19
 -->
