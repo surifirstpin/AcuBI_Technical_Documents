@@ -426,13 +426,6 @@ return `;
 fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
-<b><font color = "Black"> Image 10</b>
-
- <b>Note :</b>  It returns value 13. (refer image 12)
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e64d3f80b9374c33132d8770ac93105aba453d93/images/New_version5/TD_CC_Image13.png)
-<b><font color = "Black"> Image 12</b>
 
 <b>For Instance :</b> To calculate minimum difference value for hub Malta, write the below local function in calculated column section.
 
@@ -440,7 +433,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 /*START*/
 function date_avg(a){
 var x=0;
-if(a=="Malta"){ 
+if(a=="January  "){ 
 { 
 x = bi.min(bi.date_diff("2019-09-01",bi.date_format(bi.current_date,"YYYY-MM-DD")),10);
 }
@@ -450,9 +443,9 @@ return x;
 
 /*END*/
 
- date_avg(${pragmatic.casino_customer.hub} )
+ date_avg(${biplus.orders.month_whenmade} )
 ```
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/153afe4f046ee72492ec657c85a3556f22ad44df/images/New_version5/TD_CC_Image14.png)
+
 
 <b><font color = "Black"> Image 13</b>
 
@@ -460,11 +453,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM2Mjg5OTIzLDE5NDg3MjYxMjksLTM2Nj
-k2NzMyOSwxMTY0MzEyMDQ2LDYwOTUyNzY0MSwtMTU5MzQxNzg2
-NiwxNDMzOTE0Njk5LC0xMTY1MzE0MzE2LDIyMTc5ODYxOSwtND
-kwMTQyMzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIz
-MjIsLTM3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLT
-E0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4
-NzQ4NjVdfQ==
+eyJoaXN0b3J5IjpbMTE2NTc2NTk4MCw0MzYyODk5MjMsMTk0OD
+cyNjEyOSwtMzY2OTY3MzI5LDExNjQzMTIwNDYsNjA5NTI3NjQx
+LC0xNTkzNDE3ODY2LDE0MzM5MTQ2OTksLTExNjUzMTQzMTYsMj
+IxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkw
+MywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLT
+kzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2
+MzkwMTRdfQ==
 -->
