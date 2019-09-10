@@ -23,7 +23,8 @@ Calculated Column allows user to manipulate the retrieved data using arithmetica
 
 Click on <b>Calculated column</b> button to enable table calculations as shown in below image,
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/485c2058e4be936a828b501dff5ff718fd7b89fb/images/New_version5/TD_CC_Image0.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8449a0efb0dbe441c6e7ce6e6db2093f5a3afd7c/images/New_version5/TD_CC_Image0.png)
+
 <b><font color = "Black"> Image 1</b>
 
 After navigating to Calculated Column Window, Enter all the below fields.
@@ -457,11 +458,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMzg1ODMsMTE5MDk3NDkwMywtMTA4OD
-cxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2
-NCwtMTQzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLT
-Q0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUw
-NzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC
-0xNDg0NTE2MjE2LC03MjEzNDY5MDYsMTgyNTcwNjI2MCw3OTE5
-NzY3MzRdfQ==
+eyJoaXN0b3J5IjpbLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOT
+c0OTAzLC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4
+MCwtOTM5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMT
+A4NjYzOTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3
+NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLT
+E2MDk0MTk1NTEsLTE0ODQ1MTYyMTYsLTcyMTM0NjkwNiwxODI1
+NzA2MjYwXX0=
 -->
