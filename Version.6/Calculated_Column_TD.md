@@ -393,15 +393,11 @@ bi.add(${Average} ,1.5)
 
 ## Calculate column with Pivot Offset
 
-To calculate the Average difference for stationcode based on each month,  apply pivot to  field initially as shown in below image.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
-<b><font color = "Black"> Image 8</b>
-
-To view bets_sum difference of each hub for specific customer using Pivot_Offset() function. 
+To calculate the quantity_sum_difference based on each month using Pivot_Offset() function, apply pivot to month field initially.
+  
 enter the following expression in calculation section.
 ```
-${pragmatic.casino_summary.sum_bets_usd} -bi.pivot_offset(#{pragmatic.casino_summary.sum_bets_usd} ,0,-1)
+${biplus.orders.sum_quantity}  - bi.pivot_offset(#{biplus.orders.sum_quantity} ,0,-1)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b5054cc50f00618edbe0852074d0ee37e6eb839b/images/New_version5/TD_CC_Image10.png)
 <b><font color = "Black"> Image 9</b>
@@ -464,11 +460,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDMxMjA0Niw2MDk1Mjc2NDEsLTE1OT
-M0MTc4NjYsMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMjE3OTg2
-MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAzLC0xMD
-g4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOTM5NDQ0
-NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYzOTAxNC
-wtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LDE3NTkz
-NTA3MjFdfQ==
+eyJoaXN0b3J5IjpbLTM2Njk2NzMyOSwxMTY0MzEyMDQ2LDYwOT
+UyNzY0MSwtMTU5MzQxNzg2NiwxNDMzOTE0Njk5LC0xMTY1MzE0
+MzE2LDIyMTc5ODYxOSwtNDkwMTQyMzQ5LDMzMjM4NTgzLDExOT
+A5NzQ5MDMsLTEwODg3MTIzMjIsLTM3OTkwNzM3NiwtODA5Njky
+NDgwLC05Mzk0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNy
+wxMDg2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAy
+ODc0OTZdfQ==
 -->
