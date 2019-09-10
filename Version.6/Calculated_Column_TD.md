@@ -382,7 +382,7 @@ bi.in_global_keys( ["UserName","Login_name"],[${ROOT.EMPLOYEES.NAME_661}
 
 By enabling the field <b>Calculate On Raw</b> the calculation is applied on all the rows irrespective of grouping and pivot settings, if disabled calculation applied on abstract values only.
  
-><b>For Instance:</b>  consider the below image, which represents calculated column data  with and without enabling calculate on raw by adding ' 1.5' to Average value calculated earlier.
+<b>For Instance:</b>  Consider the below image, which represents calculated column data  with and without enabling calculate on raw by adding ' 1.5' to average value calculated earlier.
 
 ```
 bi.add(${Average} ,1.5)
@@ -456,11 +456,11 @@ The resultant for above expression is shown in image below;
 
 <b><font color = "Black"> Image 11</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Mzc0OTY3NiwtMTc2ODMxNzk4Niw0Mj
-A0ODgxNzcsNDM2Mjg5OTIzLDE5NDg3MjYxMjksLTM2Njk2NzMy
-OSwxMTY0MzEyMDQ2LDYwOTUyNzY0MSwtMTU5MzQxNzg2NiwxND
-MzOTE0Njk5LC0xMTY1MzE0MzE2LDIyMTc5ODYxOSwtNDkwMTQy
-MzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIzMjIsLT
-M3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0MzU3
-NDQ3MzVdfQ==
+eyJoaXN0b3J5IjpbMTIwODU5NTYxNCwtNzczNzQ5Njc2LC0xNz
+Y4MzE3OTg2LDQyMDQ4ODE3Nyw0MzYyODk5MjMsMTk0ODcyNjEy
+OSwtMzY2OTY3MzI5LDExNjQzMTIwNDYsNjA5NTI3NjQxLC0xNT
+kzNDE3ODY2LDE0MzM5MTQ2OTksLTExNjUzMTQzMTYsMjIxNzk4
+NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMT
+A4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0
+NDY2NF19
 -->
