@@ -404,7 +404,8 @@ ${biplus.orders.sum_quantity}  - bi.pivot_offset(#{biplus.orders.sum_quantity} ,
 
 The resultant obtained based on calculation applied :
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f92cf2c867364b26a590c9012dd41e895931a1bd/images/New_version5/TD_CC_Image9.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d41fa32b0070e4760ea200f35708a03da54e839/images/New_version5/TD_CC_Image9.png)
+
 <b><font color = "Black"> Image 10</b>
 
 ## Local Function
@@ -460,11 +461,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njk2NzMyOSwxMTY0MzEyMDQ2LDYwOT
-UyNzY0MSwtMTU5MzQxNzg2NiwxNDMzOTE0Njk5LC0xMTY1MzE0
-MzE2LDIyMTc5ODYxOSwtNDkwMTQyMzQ5LDMzMjM4NTgzLDExOT
-A5NzQ5MDMsLTEwODg3MTIzMjIsLTM3OTkwNzM3NiwtODA5Njky
-NDgwLC05Mzk0NDQ2NjQsLTE0MzU3NDQ3MzUsLTU2NjIzNTIwNy
-wxMDg2NjM5MDE0LC00NDA4NzQ4NjUsMTUwODQxMDQ2Nyw2NTAy
-ODc0OTZdfQ==
+eyJoaXN0b3J5IjpbMjAwNzEwOTc1NiwtMzY2OTY3MzI5LDExNj
+QzMTIwNDYsNjA5NTI3NjQxLC0xNTkzNDE3ODY2LDE0MzM5MTQ2
+OTksLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIzNDksMz
+MyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3
+Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNS
+wtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4
+NDEwNDY3XX0=
 -->
