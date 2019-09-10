@@ -437,7 +437,6 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 <b>For Instance :</b> To calculate minimum difference value for hub Malta, write the below local function in calculated column section.
 
 ```
-
 /*START*/
 function date_avg(a){
 var x=0;
@@ -461,11 +460,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODcyNjEyOSwtMzY2OTY3MzI5LDExNj
-QzMTIwNDYsNjA5NTI3NjQxLC0xNTkzNDE3ODY2LDE0MzM5MTQ2
-OTksLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIzNDksMz
-MyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3
-Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNS
-wtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4
-NDEwNDY3XX0=
+eyJoaXN0b3J5IjpbNDM2Mjg5OTIzLDE5NDg3MjYxMjksLTM2Nj
+k2NzMyOSwxMTY0MzEyMDQ2LDYwOTUyNzY0MSwtMTU5MzQxNzg2
+NiwxNDMzOTE0Njk5LC0xMTY1MzE0MzE2LDIyMTc5ODYxOSwtND
+kwMTQyMzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIz
+MjIsLTM3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLT
+E0MzU3NDQ3MzUsLTU2NjIzNTIwNywxMDg2NjM5MDE0LC00NDA4
+NzQ4NjVdfQ==
 -->
