@@ -399,14 +399,14 @@ enter the following expression in calculation section.
 ```
 ${biplus.orders.sum_quantity}  - bi.pivot_offset(#{biplus.orders.sum_quantity} ,0,-1)
 ```
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b5054cc50f00618edbe0852074d0ee37e6eb839b/images/New_version5/TD_CC_Image10.png)
-<b><font color = "Black"> Image 9</b>
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image8.png)
+<b><font color = "Black"> Image 8</b>
 
 The resultant obtained based on calculation applied :
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5d41fa32b0070e4760ea200f35708a03da54e839/images/New_version5/TD_CC_Image9.png)
 
-<b><font color = "Black"> Image 10</b>
+<b><font color = "Black"> Image 9</b>
 
 ## Local Function
 
@@ -427,7 +427,7 @@ fname(value1, value2, value3, ..valueN)                  * Call Function *
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_CC_Image12.png)
-<b><font color = "Black"> Image 11</b>
+<b><font color = "Black"> Image 10</b>
 
  <b>Note :</b>  It returns value 13. (refer image 12)
 
@@ -461,7 +461,7 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzEwOTc1NiwtMzY2OTY3MzI5LDExNj
+eyJoaXN0b3J5IjpbMTk0ODcyNjEyOSwtMzY2OTY3MzI5LDExNj
 QzMTIwNDYsNjA5NTI3NjQxLC0xNTkzNDE3ODY2LDE0MzM5MTQ2
 OTksLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIzNDksMz
 MyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3
