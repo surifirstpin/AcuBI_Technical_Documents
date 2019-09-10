@@ -305,7 +305,8 @@ bi.avg( ${biplus.orders.sum_quantity}, 2500)
 
 <b><i>The resultant for this expression would average values;</i></b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f447485e9df72be1a5ed91a1bd24c7de54308af/images/New_version5/TD_CC_Image6.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/624ab7a0166fa0c64cfdae5df07747ba80dde139/images/New_version5/TD_CC_Image6.png)
+
 <b><font color = "Black"> Image 6</b>
 
 
@@ -462,11 +463,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NjEwMzM5NCwtMTE2NTMxNDMxNiwyMj
-E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
-LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
-M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
-OTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LD
-E3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0
-MTk1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE3NTQyNDcxODUsLTExNjUzMTQzMTYsMj
+IxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkw
+MywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLT
+kzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2
+MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5Ni
+wxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5
+NDE5NTUxXX0=
 -->
