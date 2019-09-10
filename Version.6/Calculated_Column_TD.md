@@ -393,7 +393,7 @@ bi.add(${Average} ,1.5)
 
 ## Calculate column with Pivot Offset
 
-To calculate the sum difference of each customer based on hub, lets apply pivot to hub field initially as shown in below image.
+To calculate the Average difference for stationcode based on each month,  apply pivot to  field initially as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f14d47468590692ad615e0f85b7a96f7e4d8fd55/images/New_version5/TD_CC_Image8.png)
 <b><font color = "Black"> Image 8</b>
@@ -464,11 +464,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5NTI3NjQxLC0xNTkzNDE3ODY2LDE0Mz
-M5MTQ2OTksLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIz
-NDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMz
-c5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0
-NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NS
-wxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0
-MDczNV19
+eyJoaXN0b3J5IjpbMTE2NDMxMjA0Niw2MDk1Mjc2NDEsLTE1OT
+M0MTc4NjYsMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMjE3OTg2
+MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAzLC0xMD
+g4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOTM5NDQ0
+NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYzOTAxNC
+wtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LDE3NTkz
+NTA3MjFdfQ==
 -->
