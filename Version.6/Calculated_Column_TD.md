@@ -385,7 +385,7 @@ By enabling the field <b>Calculate On Raw</b> the calculation is applied on all 
 ><b>For Instance:</b>  consider the below image, which represents calculated data with and without enabling calculate on raw.
 
 ```
-bi.add(${pragmatic.casino_summary.max_wins_euro} ,10)
+bi.add(${Average} ,1.5)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dfd8ceeda25a946ba3170730047ce3d8b09d9fa0/images/New_version5/TD_CC_Image7.png)
 <b><font color = "Black"> Image 7</b>
@@ -463,11 +463,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzkxNDY5OSwtMTE2NTMxNDMxNiwyMj
-E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
-LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
-M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
-OTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LD
-E3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0
-MTk1NTFdfQ==
+eyJoaXN0b3J5IjpbNzg3MDIyNjQzLDE0MzM5MTQ2OTksLTExNj
+UzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMs
+MTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MD
+k2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0NDczNSwtNTY2MjM1
+MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NSwxNTA4NDEwNDY3LD
+Y1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0MDczNSwtNzAxNzU3
+ODgyXX0=
 -->
