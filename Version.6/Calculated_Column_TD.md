@@ -60,7 +60,7 @@ Custom made mathematical operations can be added in calculated column section as
  To calculate <b>Number of working days</b> in each month, use the below expression in calculation field window as shown in below image; 
 
 ```
-bi.days_in_month(${pragmatic.casino_customer.date_startdate} )
+bi.days_in_month(${biplus.orders.whenmade} )
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/aa7e1c3a36eeb11f25ad5875fc8ce06f343b0a4c/images/New_version5/TD_CC_Image4.png)
@@ -456,11 +456,11 @@ The resultant for above expression is shown in image below;
 
 <b><font color = "Black"> Image 11</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjgzMTc5ODYsNDIwNDg4MTc3LDQzNj
-I4OTkyMywxOTQ4NzI2MTI5LC0zNjY5NjczMjksMTE2NDMxMjA0
-Niw2MDk1Mjc2NDEsLTE1OTM0MTc4NjYsMTQzMzkxNDY5OSwtMT
-E2NTMxNDMxNiwyMjE3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4
-MywxMTkwOTc0OTAzLC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLT
-gwOTY5MjQ4MCwtOTM5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYy
-MzUyMDddfQ==
+eyJoaXN0b3J5IjpbLTc3Mzc0OTY3NiwtMTc2ODMxNzk4Niw0Mj
+A0ODgxNzcsNDM2Mjg5OTIzLDE5NDg3MjYxMjksLTM2Njk2NzMy
+OSwxMTY0MzEyMDQ2LDYwOTUyNzY0MSwtMTU5MzQxNzg2NiwxND
+MzOTE0Njk5LC0xMTY1MzE0MzE2LDIyMTc5ODYxOSwtNDkwMTQy
+MzQ5LDMzMjM4NTgzLDExOTA5NzQ5MDMsLTEwODg3MTIzMjIsLT
+M3OTkwNzM3NiwtODA5NjkyNDgwLC05Mzk0NDQ2NjQsLTE0MzU3
+NDQ3MzVdfQ==
 -->
