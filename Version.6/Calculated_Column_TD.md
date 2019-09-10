@@ -298,9 +298,9 @@ The resultant for this calculated column will display number of working days in 
 Perform Arithmetic operation on desired fields in calculated columns.
 
 > **For Instance:**
-To calculate Average of bets_usd_sum and amount 2500, derive the following expression in calculated column screen.
+To calculate Average of Quantity_sum and amount 2500, derive the following expression in calculated column screen.
  ```
-bi.avg( ${pragmatic.casino_summary.sum_bets_usd},2500)
+bi.avg( ${biplus.orders.sum_quantity}, 2500)
 ```
 
 <b><i>The resultant for this expression would average values;</i></b>
@@ -462,11 +462,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OT
-AxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMy
-MiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMT
-QzNTc0NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3
-NDg2NSwxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLD
-I1NTM0MDczNSwtNzAxNzU3ODgyLC0xNjA5NDE5NTUxLC0xNDg0
-NTE2MjE2XX0=
+eyJoaXN0b3J5IjpbMjA1NjEwMzM5NCwtMTE2NTMxNDMxNiwyMj
+E3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4MywxMTkwOTc0OTAz
+LC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLTgwOTY5MjQ4MCwtOT
+M5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYyMzUyMDcsMTA4NjYz
+OTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0NjcsNjUwMjg3NDk2LD
+E3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3NTc4ODIsLTE2MDk0
+MTk1NTFdfQ==
 -->
