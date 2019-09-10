@@ -395,7 +395,7 @@ bi.add(${Average} ,1.5)
 
 To calculate the quantity_sum_difference based on each month using Pivot_Offset() function, apply pivot to month field initially.
   
-enter the following expression in calculation section.
+Enter the following expression in calculation section.
 ```
 ${biplus.orders.sum_quantity}  - bi.pivot_offset(#{biplus.orders.sum_quantity} ,0,-1)
 ```
@@ -424,6 +424,7 @@ return `;
 }
 /*END*/
 fname(value1, value2, value3, ..valueN)                  * Call Function *
+
 ```
 
 
@@ -456,11 +457,11 @@ The resultant for above expression is shown in image below;
 
 <b><font color = "Black"> Image 11</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODU5NTYxNCwtNzczNzQ5Njc2LC0xNz
-Y4MzE3OTg2LDQyMDQ4ODE3Nyw0MzYyODk5MjMsMTk0ODcyNjEy
-OSwtMzY2OTY3MzI5LDExNjQzMTIwNDYsNjA5NTI3NjQxLC0xNT
-kzNDE3ODY2LDE0MzM5MTQ2OTksLTExNjUzMTQzMTYsMjIxNzk4
-NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMT
-A4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0
-NDY2NF19
+eyJoaXN0b3J5IjpbLTExNzA5NTk1MzYsMTIwODU5NTYxNCwtNz
+czNzQ5Njc2LC0xNzY4MzE3OTg2LDQyMDQ4ODE3Nyw0MzYyODk5
+MjMsMTk0ODcyNjEyOSwtMzY2OTY3MzI5LDExNjQzMTIwNDYsNj
+A5NTI3NjQxLC0xNTkzNDE3ODY2LDE0MzM5MTQ2OTksLTExNjUz
+MTQzMTYsMjIxNzk4NjE5LC00OTAxNDIzNDksMzMyMzg1ODMsMT
+E5MDk3NDkwMywtMTA4ODcxMjMyMiwtMzc5OTA3Mzc2LC04MDk2
+OTI0ODBdfQ==
 -->
