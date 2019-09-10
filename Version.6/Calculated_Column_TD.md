@@ -387,7 +387,8 @@ By enabling the field <b>Calculate On Raw</b> the calculation is applied on all 
 ```
 bi.add(${Average} ,1.5)
 ```
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/dfd8ceeda25a946ba3170730047ce3d8b09d9fa0/images/New_version5/TD_CC_Image7.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fa9740bb8b424bcd962447c7ae6c297a0e7d65a/images/New_version5/TD_CC_Image7.png)
+
 <b><font color = "Black"> Image 7</b>
 
 ## Calculate column with Pivot Offset
@@ -463,11 +464,11 @@ The resultant for above expression is shown in image below;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTM0MTc4NjYsMTQzMzkxNDY5OSwtMT
-E2NTMxNDMxNiwyMjE3OTg2MTksLTQ5MDE0MjM0OSwzMzIzODU4
-MywxMTkwOTc0OTAzLC0xMDg4NzEyMzIyLC0zNzk5MDczNzYsLT
-gwOTY5MjQ4MCwtOTM5NDQ0NjY0LC0xNDM1NzQ0NzM1LC01NjYy
-MzUyMDcsMTA4NjYzOTAxNCwtNDQwODc0ODY1LDE1MDg0MTA0Nj
-csNjUwMjg3NDk2LDE3NTkzNTA3MjEsMjU1MzQwNzM1LC03MDE3
-NTc4ODJdfQ==
+eyJoaXN0b3J5IjpbNjA5NTI3NjQxLC0xNTkzNDE3ODY2LDE0Mz
+M5MTQ2OTksLTExNjUzMTQzMTYsMjIxNzk4NjE5LC00OTAxNDIz
+NDksMzMyMzg1ODMsMTE5MDk3NDkwMywtMTA4ODcxMjMyMiwtMz
+c5OTA3Mzc2LC04MDk2OTI0ODAsLTkzOTQ0NDY2NCwtMTQzNTc0
+NDczNSwtNTY2MjM1MjA3LDEwODY2MzkwMTQsLTQ0MDg3NDg2NS
+wxNTA4NDEwNDY3LDY1MDI4NzQ5NiwxNzU5MzUwNzIxLDI1NTM0
+MDczNV19
 -->
