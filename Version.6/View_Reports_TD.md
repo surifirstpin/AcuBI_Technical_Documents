@@ -44,14 +44,16 @@ To view existing report in AcuBi click on report name in My Space report list. I
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
--   <b>Download CSV</b>  download the dashboard report in CSV format.
-    - <b>Download CSV;</b>  download the  GROUPED dashboard report in CSV format.
+-   <b>Download CSV </b>  download the dashboard report in CSV format.
+- <b>Download CSV; </b>  download the grouped list.
+
+- <b>Download XLXS </b>  download the dashboard report in Excel format.
 -   <b>Image format</b>  download the dashboard report in image format.
     
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTAxMTQyNCwtNDQzODc4Njk2LDE2MD
+eyJoaXN0b3J5IjpbMTM4MTExMTk4MywtNDQzODc4Njk2LDE2MD
 I5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1NDUz
 ODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMjgsLT
 g1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
