@@ -42,17 +42,17 @@ To view existing report in AcuBi click on report name in My Space report list. I
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 
-## [Download CSV & Image Formats]
+## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
 -   <b>Download CSV</b>  download the dashboard report in CSV format.
-    
+    - <b>Download CSV;</b>  download the  GROUPED dashboard report in CSV format.
 -   <b>Image format</b>  download the dashboard report in image format.
     
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC0yMD
-AyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC0zNDQ2NzI1
-MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NTQ0MjUyNTMsMj
-MzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbMTgzNTAxMTQyNCwtNDQzODc4Njk2LDE2MD
+I5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1NDUz
+ODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMjgsLT
+g1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
 -->
