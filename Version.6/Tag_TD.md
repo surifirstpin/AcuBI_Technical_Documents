@@ -73,12 +73,12 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 
 Create dashboards under Animated Tag.
 
-> Note :  Animated tags are only applicable for Dashboards not for reports.
+> Note :  Animated tags are only applicable for Dashboards ( Charts, Table view) not for Reports. It can have multiple layout or single layout.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjkwMTU2LC01Mzg0NDA5MDIsLTEwOD
-Q2NDUwMiwxMjU5ODkyNjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3
-LC01NTU0NzE5MDEsLTEyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNT
-k4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTE0NzUyMTMyMzUsMTkyMjkwMTU2LC01Mz
+g0NDA5MDIsLTEwODQ2NDUwMiwxMjU5ODkyNjY0LDEzMjcyNDYx
+NDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5MjgsMT
+QzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
