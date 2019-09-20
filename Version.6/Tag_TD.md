@@ -47,9 +47,13 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 
 Navigation Path-->New-->Tag
 
-To create display boards navigate to New Tag window and select <b>Animated</b>
+To create display boards navigate to New Tag window and select <b>Animated</b> 
+
+ - Enter **Tag Name**
+ 
+ - Select share status
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NTc4MjI1NywtMTI4ODI1NDkyOCwxND
+eyJoaXN0b3J5IjpbLTU1NTQ3MTkwMSwtMTI4ODI1NDkyOCwxND
 M1NDAxNDgwLC01OTg4NTYzMTJdfQ==
 -->
