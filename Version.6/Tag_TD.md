@@ -73,11 +73,11 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 
 Create dashboards under Animated Tag.
 
-<b>5.</b>  Click Play  
+<b>5.</b>  Click Play button to  view animated version of display boards. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzU1OTU3NCwxMjU5ODkyNjY0LDEzMj
-cyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5
-MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTIwMTEwODkxMzcsMTI1OTg5MjY2NCwxMz
+I3MjQ2MTQ4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0
+OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
 -->
