@@ -75,12 +75,10 @@ Create dashboards under Animated Tag.
 
 > Note :  Animated tags are only applicable for Dashboards not for reports.
 
-<b>5.</b>  Click Play button to  view animated version of display boards. 
-
-
+<b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNT
-k4OTI2NjQsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkw
-MSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYzMTJdfQ
-==
+eyJoaXN0b3J5IjpbMTkyMjkwMTU2LC01Mzg0NDA5MDIsLTEwOD
+Q2NDUwMiwxMjU5ODkyNjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3
+LC01NTU0NzE5MDEsLTEyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNT
+k4ODU2MzEyXX0=
 -->
