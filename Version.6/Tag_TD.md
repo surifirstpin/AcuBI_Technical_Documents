@@ -43,11 +43,11 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
  <b><Font color = " black">Image 3</font></b>
 
-## TV Reports ( Motion Slides)
+## TV Reports ( Moving Slides)
 
 Navigation Path-->New-->Tag
 
-To create display boards navigate to New Tag window and select <b>Animated</b> 
+To create info boards navigate to New Tag window and select <b>Animated</b> 
 
 ![enter image description here](https://github.com/sv18042016/fp1/blob/master/images/New_version5/td_tag_image5.png?raw=true)
  <b><Font color = " black">Image 4</font></b>
@@ -79,7 +79,8 @@ Create dashboards under Animated Tag.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ2NDUwMiwxMjU5ODkyNjY0LDEzMj
-cyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5
-MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNT
+k4OTI2NjQsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkw
+MSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYzMTJdfQ
+==
 -->
