@@ -53,11 +53,11 @@ To create display boards navigate to New Tag window and select <b>Animated</b>
  
  - <b>Share Status : </b> Select share status for the tag created.
  
- -  <b> Animated :</b> Enables moving pictures 
+ -  <b> Animated :</b> Enables moving slides. 
  
- - P
+ - <b> Report Reload Duration :</b> time limit to reload 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDA1NzMwOCwtNTU1NDcxOTAxLC0xMj
+eyJoaXN0b3J5IjpbMTMyMjc2OTQyOSwtNTU1NDcxOTAxLC0xMj
 g4MjU0OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
 -->
