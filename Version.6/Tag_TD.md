@@ -43,7 +43,7 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
  <b><Font color = " black">Image 3</font></b>
 
-## TV Reports
+## TV Reports ( Motion Slides)
 
 Navigation Path-->New-->Tag
 
@@ -73,11 +73,13 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 
 Create dashboards under Animated Tag.
 
+> Note :  Animated aatg are only a
+
 <b>5.</b>  Click Play button to  view animated version of display boards. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTEwODkxMzcsMTI1OTg5MjY2NCwxMz
-I3MjQ2MTQ4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0
-OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbMTk2MDI3MDgyNSwxMjU5ODkyNjY0LDEzMj
+cyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5
+MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
