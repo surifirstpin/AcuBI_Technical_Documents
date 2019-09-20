@@ -71,10 +71,13 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fddce2eee41e81c4d4db348c696b653e80891944/images/New_version5/td_tag_image6.png)
  <b><Font color = " black">Image 5</font></b>
 
+Create dashboards under Animated Tag.
+
+<b>5.</b>  Click Play  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTg5MjY2NCwxMzI3MjQ2MTQ4LDg5OT
-QzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0MzU0MDE0
-ODAsLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbLTU1NzU1OTU3NCwxMjU5ODkyNjY0LDEzMj
+cyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5
+MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
