@@ -61,13 +61,15 @@ To create display boards navigate to New Tag window and select <b>Animated</b>
 
 > Note : Select the tag path.
  
-Click on Add Tag to Save Tag created.
+ - Click on <b>Add Tag</b> to Save Tag created.
+
+Created Tag is Visible under My Space-->Tags as shown in below image.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDE2NDM3OSw4OTk0MzEwNjcsLTU1NT
+eyJoaXN0b3J5IjpbMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NT
 Q3MTkwMSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYz
 MTJdfQ==
 -->
