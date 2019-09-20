@@ -59,10 +59,11 @@ To create display boards navigate to New Tag window and select <b>Animated</b>
 
 - <b> Animation Duration : </b> Time limit to display the next slide.
 
-> Note : Sele t the at
+> Note : Select the tag path.
+> 
 Click on Add Tag
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyOTM1MDE0LC01NTU0NzE5MDEsLTEyOD
+eyJoaXN0b3J5IjpbODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyOD
 gyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
