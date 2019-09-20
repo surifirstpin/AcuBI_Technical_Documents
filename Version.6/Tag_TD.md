@@ -49,6 +49,8 @@ Navigation Path-->New-->Tag
 
 To create display boards navigate to New Tag window and select <b>Animated</b> 
 
+![enter image description here](https://github.com/sv18042016/fp1/blob/master/images/New_version5/td_tag_image5.png?raw=true)
+
  - <b> Tag Name: </b>  Enter identification name.
  
  - <b>Share Status : </b> Select share status for the tag created.
@@ -69,7 +71,7 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NT
-Q3MTkwMSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYz
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTcyOTM2ODUzOSwxMzI3MjQ2MTQ4LDg5OT
+QzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0MzU0MDE0
+ODAsLTU5ODg1NjMxMl19
 -->
