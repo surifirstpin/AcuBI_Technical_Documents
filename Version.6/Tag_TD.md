@@ -49,11 +49,15 @@ Navigation Path-->New-->Tag
 
 To create display boards navigate to New Tag window and select <b>Animated</b> 
 
- - Enter **Tag Name**
+ - **Tag Name** : Enter identification name.
  
- - Select share status
+ - <b>Share Status </b>:
+ 
+ - Choose checkbox for <b> Animated</b>
+ 
+ - P
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTQ3MTkwMSwtMTI4ODI1NDkyOCwxND
-M1NDAxNDgwLC01OTg4NTYzMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMjE5Nzk4NiwtNTU1NDcxOTAxLC0xMj
+g4MjU0OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
 -->
