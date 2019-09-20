@@ -55,9 +55,14 @@ To create display boards navigate to New Tag window and select <b>Animated</b>
  
  -  <b> Animated :</b> Enables moving slides. 
  
- - <b> Report Reload Duration :</b> Time limit to refresh the current report with changes updated
+ - <b> Report Reload Duration :</b> Time limit to refresh the current report with changes updated.
+
+- <b> Animation Duration : </b> Time limit to display the next slide.
+
+> Note : Sele t the at
+Click on Add Tag
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NDE5MjU4MywtNTU1NDcxOTAxLC0xMj
-g4MjU0OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbNzEyOTM1MDE0LC01NTU0NzE5MDEsLTEyOD
+gyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
