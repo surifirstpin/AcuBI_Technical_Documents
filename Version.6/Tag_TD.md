@@ -73,13 +73,13 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 
 Create dashboards under Animated Tag.
 
-> Note :  Animated aatg are only a
+> Note :  Animated tags are only applicable for Dashboards not for reports.
 
 <b>5.</b>  Click Play button to  view animated version of display boards. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MDI3MDgyNSwxMjU5ODkyNjY0LDEzMj
+eyJoaXN0b3J5IjpbLTEwODQ2NDUwMiwxMjU5ODkyNjY0LDEzMj
 cyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5
 MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
