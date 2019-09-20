@@ -69,12 +69,12 @@ To create display boards navigate to New Tag window and select <b>Animated</b>
 Created Tag is Visible under My Space-->Tags as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fddce2eee41e81c4d4db348c696b653e80891944/images/New_version5/td_tag_image6.png)
- <b><Font color = " black">Image 6</font></b>
+ <b><Font color = " black">Image 5</font></b>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM3MjA5MDgxLDEzMjcyNDYxNDgsODk5ND
-MxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5MjgsMTQzNTQwMTQ4
-MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbMTI1OTg5MjY2NCwxMzI3MjQ2MTQ4LDg5OT
+QzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0MzU0MDE0
+ODAsLTU5ODg1NjMxMl19
 -->
