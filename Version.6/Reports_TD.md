@@ -222,7 +222,7 @@ On Applying pivot on month, it displays;
 
 <b>11.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
-> Note : Pin is applicable for more than one dimension selected.
+> Note : Pin option is applicable for more than one dimension only.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7f334df3d26f16293c0c3dcd63ba0794f3bf85f2/images/New_version5/TD_Reports_8.png)
 
@@ -365,11 +365,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzY4NjYxODEsLTQ3MTI5NzkwOSwtMT
-QxNDE4NDI3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1
-MTg3MSwxNTE2OTY4MTMwLDgxNjcxNjg0OSwtMTE1MDg2MzEyNy
-wtNjYxNTQ3NzA3LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1
-ODIyMjU3LC0yOTI1OTkzMywxNjg5NDYzMjU3LDEzMTAyMzU5OD
-YsLTE2NTIwMDUzOTcsODk2NTk3NTQzLDE3Mjg0ODk2NDQsLTUx
-ODU4NzA3OF19
+eyJoaXN0b3J5IjpbNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0MT
+QxODQyNzQsLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMDA2NTE4
+NzEsMTUxNjk2ODEzMCw4MTY3MTY4NDksLTExNTA4NjMxMjcsLT
+Y2MTU0NzcwNywtMjk4NjUyOTY0LC0xOTg2ODY4ODcxLDc5NTgy
+MjI1NywtMjkyNTk5MzMsMTY4OTQ2MzI1NywxMzEwMjM1OTg2LC
+0xNjUyMDA1Mzk3LDg5NjU5NzU0MywxNzI4NDg5NjQ0LC01MTg1
+ODcwNzhdfQ==
 -->
