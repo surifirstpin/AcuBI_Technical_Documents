@@ -10,7 +10,8 @@ To view already existing dashboard navigate to dashboard section under <b><i> My
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fa7d825c0eff00c07a5b94d7a44aac74fba8ec9c/images/New_version5/TD_Dashboard_image1.png)
  
  <B><font color = " Black"> Image 1 </font></b>
-### Create Dashisterboard
+
+### Create Dashboard
 
 > <b> Navigation : Dashboard→ New Dashboard</b>
 
@@ -263,11 +264,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5Mj
-I1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0
-LDE3MTM1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMz
-czOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0
-MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNz
-UsMjc4MTM1MjY2LC0xMzMwMTAzODYwLC0xNjA2NjcxNjE2LDE0
-MTI5Mzc3MDhdfQ==
+eyJoaXN0b3J5IjpbMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
+k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
+Myw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNz
+A5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIz
+NDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgyNzA4OT
+EsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2
+MDY2NzE2MTZdfQ==
 -->
