@@ -268,7 +268,8 @@ Views are independent tables chosen while creating a project. All the columns in
 |  13 | currency | it defines the currency for the field.For instance “$”, “€”, “£”, “₹”. |
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
 | 15 | always_filter | to directly define desired filters values in model itself. <b>for example</b> define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
-| 16 | Time_frame_grouping | 
+| 16 | Time_frame_grouping | If it is enabled as true.
+grouping in dashboard fields is enabled.|
 
 <b><i><u>Among the above stated list, the following are the special attributes for user convenience :</u></i></b>
 
@@ -706,7 +707,7 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5OTIzNTE5NiwtMTU2NDQ0Mjc3MiwxOD
+eyJoaXN0b3J5IjpbMTI3MDI4Mzg4NSwtMTU2NDQ0Mjc3MiwxOD
 U1MDI1MzE2LDY2MDcwNzI0LC02OTc2OTg2NjcsLTM3NjM0ODky
 MSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgsMTIzMDQ4OTU5NCwtMT
 A0Nzk5NDE1MCwzNDY2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUw
