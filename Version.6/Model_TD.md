@@ -443,7 +443,6 @@ To enable grouping option for dashboard filters. Derive the following expression
 },
 
 
-
 ## Custom View
 
 Custom fields are user defined fields for which we apply arithmetic  and logical operations that are supported by database. A view may join other views and there relationship are defined as part of data analysis section of model file.
@@ -727,11 +726,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODA2NDEwOCwtMTU2NDQ0Mjc3MiwxOD
-U1MDI1MzE2LDY2MDcwNzI0LC02OTc2OTg2NjcsLTM3NjM0ODky
-MSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgsMTIzMDQ4OTU5NCwtMT
-A0Nzk5NDE1MCwzNDY2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUw
-NiwtNzcyMzE4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNT
-kwMDI2ODUsLTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMz
-MDFdfQ==
+eyJoaXN0b3J5IjpbODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NT
+UwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIx
+LDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMD
+Q3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2
+LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
+AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
+MV19
 -->
