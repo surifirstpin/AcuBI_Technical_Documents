@@ -426,6 +426,23 @@ Where the expression contain the fields of self view and should result a single 
 ```
 ## Time Frame Grouping
 
+To enable grouping option for dashboard filters. Derive the following expression in model section.
+
+{
+"name": "whenmade",
+"label": "whenmade",
+"data_type": "date",
+"time_frame": "hour,day,week,month,quarter,year,date",
+"type": "dimension",
+"lookup": "",
+"operators": "",
+"sql": "${TABLE}.whenmade",
+"summary": "",
+"visualise": "true",
+"time_frame_grouping":true
+},
+
+
 
 ## Custom View
 
@@ -710,11 +727,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ2ODkxNTAsLTE1NjQ0NDI3NzIsMT
-g1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Njk4NjY3LC0zNzYzNDg5
-MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4LDEyMzA0ODk1OTQsLT
-EwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1
-MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMj
-U5MDAyNjg1LC0xMTYxMjk4MzcxLDUxMDc0NzAyMiwxNTM0NzIz
-MzAxXX0=
+eyJoaXN0b3J5IjpbLTI2ODA2NDEwOCwtMTU2NDQ0Mjc3MiwxOD
+U1MDI1MzE2LDY2MDcwNzI0LC02OTc2OTg2NjcsLTM3NjM0ODky
+MSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgsMTIzMDQ4OTU5NCwtMT
+A0Nzk5NDE1MCwzNDY2NjgzOTYsMzAxMjU5MTM0LDgzMTEwNzUw
+NiwtNzcyMzE4NTMyLDE1NDkxMzczMSwtNzI1ODU3MDk3LDEyNT
+kwMDI2ODUsLTExNjEyOTgzNzEsNTEwNzQ3MDIyLDE1MzQ3MjMz
+MDFdfQ==
 -->
