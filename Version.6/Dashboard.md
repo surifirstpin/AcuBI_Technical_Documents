@@ -165,10 +165,6 @@ To view the saved dashboard open it from dashboard section and click on dashboar
  
   <B><font color = " Black"> Image 12 </font></b>
 
-## Show Field Group
-
- Irrespective of applied global filter, on selecting checkbox <b><i>Show Field Group</i></b>, it displays list of grouped value.
-
 ## Edit / Delete Dashboard
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
@@ -264,11 +260,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
-k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
-Myw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNz
-A5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIz
-NDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgyNzA4OT
-EsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEzMzAxMDM4NjAsLTE2
-MDY2NzE2MTZdfQ==
+eyJoaXN0b3J5IjpbLTE1NjUwMDU0NDgsMTQwNTIwNzgzMiw1Nj
+k4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1
+MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMT
+k5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4
+NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5OD
+k4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEz
+MzAxMDM4NjBdfQ==
 -->
