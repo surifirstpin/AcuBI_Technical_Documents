@@ -166,7 +166,8 @@ To view the saved dashboard open it from dashboard section and click on dashboar
   <B><font color = " Black"> Image 12 </font></b>
 
 ## TimeFrame Grouping
- on enable time frame grouping ( Model Section )
+ 
+ On enabling timeframe grouping ( in Model Section ), dashboard global filters displays field grouping available for date parametrs.
 
 
 
@@ -266,11 +267,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NjY2OTI3MSwxNDA1MjA3ODMyLDU2OT
-gwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0LDEwMzcwNTUw
-MzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2LC0xOT
-kyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5LC0xNzA5OTg1
-MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LDIwNDM3OTk4OT
-gsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2NiwtMTMz
-MDEwMzg2MF19
+eyJoaXN0b3J5IjpbNjA5MzYzMDUyLDE0MDUyMDc4MzIsNTY5OD
+A0ODU5LC0xNDk5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1NTAz
+Niw5OTA5MzQ0MjMsNzAyMDA0ODY0LDE3MTM1MTg4MDYsLTE5OT
+I1MDQ2MDgsLTcwOTM0Mjg4OCwzMzczOTc5NTksLTE3MDk5ODUy
+OTAsLTE4NDUyMzQyMzIsLTE3MjI0MDE0NTcsMjA0Mzc5OTg5OC
+wtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4MTM1MjY2LC0xMzMw
+MTAzODYwXX0=
 -->
