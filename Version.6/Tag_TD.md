@@ -43,7 +43,7 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8dcb435f47c4b5e712642714b168700fcfb5e5d4/images/New_version5/td_tag_image3.png)
  <b><Font color = " black">Image 3</font></b>
 
-## TV Reports ( Moving Slides)
+## Slide Show
 
 Navigation Path-->New-->Tag
 
@@ -77,8 +77,8 @@ Create dashboards under Animated Tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUyMTMyMzUsMTkyMjkwMTU2LC01Mz
-g0NDA5MDIsLTEwODQ2NDUwMiwxMjU5ODkyNjY0LDEzMjcyNDYx
-NDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLTEyODgyNTQ5MjgsMT
-QzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTE4NTQxOTkzNTUsLTE0NzUyMTMyMzUsMT
+kyMjkwMTU2LC01Mzg0NDA5MDIsLTEwODQ2NDUwMiwxMjU5ODky
+NjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLT
+EyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
 -->
