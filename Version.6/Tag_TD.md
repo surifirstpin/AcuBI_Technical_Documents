@@ -47,7 +47,7 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 
 Navigation Path-->New-->Tag
 
-To create info boards navigate to New Tag window and select <b>Animated</b> 
+To enable slide show for dashboard reports, navigate to New Tag window and select <b>Animated</b> 
 
 ![enter image description here](https://github.com/sv18042016/fp1/blob/master/images/New_version5/td_tag_image5.png?raw=true)
  <b><Font color = " black">Image 4</font></b>
@@ -77,8 +77,8 @@ Create dashboards under Animated Tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxOTkzNTUsLTE0NzUyMTMyMzUsMT
-kyMjkwMTU2LC01Mzg0NDA5MDIsLTEwODQ2NDUwMiwxMjU5ODky
-NjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3LC01NTU0NzE5MDEsLT
-EyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2MzEyXX0=
+eyJoaXN0b3J5IjpbLTY0MjY0NTE1OSwtMTQ3NTIxMzIzNSwxOT
+IyOTAxNTYsLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNTk4OTI2
+NjQsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkwMSwtMT
+I4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYzMTJdfQ==
 -->
