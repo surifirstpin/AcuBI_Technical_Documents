@@ -169,6 +169,9 @@ To view the saved dashboard open it from dashboard section and click on dashboar
  
  On enabling time-frame grouping ( in Model Section ), dashboard global filters displays field grouping available for date parameters.
 
+a. Change grouping fields in global filter section.
+b. click on Apply button
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8134dc56937cc508ac675995b87eac69c413de36/images/New_version5/TD_Dashboard_image20.png)
 
   <B><font color = " Black"> Image 13 </font></b>
@@ -269,11 +272,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3OTY5MTMzOCwzNjE1Mzg3NTEsMTQwNT
-IwNzgzMiw1Njk4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMjUxMjA4
-NCwxMDM3MDU1MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQsMTcxMz
-UxODgwNiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1
-OSwtMTcwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1Ny
-wyMDQzNzk5ODk4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgx
-MzUyNjZdfQ==
+eyJoaXN0b3J5IjpbLTEwODk2MzA1NDcsMzYxNTM4NzUxLDE0MD
+UyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5MjI1MTIw
+ODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0LDE3MT
+M1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMzczOTc5
+NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0MDE0NT
+csMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4
+MTM1MjY2XX0=
 -->
