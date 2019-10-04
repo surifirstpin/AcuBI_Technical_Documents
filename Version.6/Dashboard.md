@@ -176,7 +176,10 @@ b. click on Apply button
 
   <B><font color = " Black"> Image 13 </font></b>
 
-The resultant  of this is dispolayed in ima
+The resultant  of this is displayed in image below.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1e75bd88bdb6bb49d99ec1ba011c8ccb00142934/images/New_version5/TD_Dashboard_image21.png)
+
+  <B><font color = " Black"> Image 14 </font></b>
 
 ## Edit / Delete Dashboard
 
@@ -186,7 +189,7 @@ The resultant  of this is dispolayed in ima
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
- <B><font color = " Black"> Image 14 </font></b>
+ <B><font color = " Black"> Image 15 </font></b>
  
 ## Delete Dashboard
 
@@ -200,7 +203,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
- <B><font color = " Black"> Image 15</font></b>
+ <B><font color = " Black"> Image 16</font></b>
 
 ## Folder View
 
@@ -208,7 +211,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 16</font></b>
+ <B><font color = " Black"> Image 17</font></b>
 
 In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
 
@@ -217,7 +220,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 17</font></b>
+ <B><font color = " Black"> Image 18</font></b>
 
 ## Info
 
@@ -225,7 +228,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
- <B><font color = " Black"> Image 18</font></b>
+ <B><font color = " Black"> Image 19</font></b>
 
 
 ## Edit 
@@ -236,13 +239,13 @@ To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navig
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
 
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 20</font></b>
 
 Click save and click update in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
- <B><font color = " Black"> Image 20</font></b>
+ <B><font color = " Black"> Image 21</font></b>
  
 ## Delete
 
@@ -261,7 +264,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
-<B><font color = " Black"> Image 21</font></b>
+<B><font color = " Black"> Image 22</font></b>
 
 ## Set Home Page
 
@@ -269,11 +272,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
-<B><font color = " Black"> Image 22</font></b>
+<B><font color = " Black"> Image 23</font></b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzAzODc5LDM2MTUzODc1MSwxNDA1Mj
+eyJoaXN0b3J5IjpbNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1Mj
 A3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0
 LDEwMzcwNTUwMzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNT
 E4ODA2LC0xOTkyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5
