@@ -6,11 +6,11 @@ AcuBi Provides a nested layered structure to save Reports in any of the hierarch
 
 ### Getting Started
 
-Navigate to Dashboard section in order to create a new Tag.
+- Navigate to Dashboard section in order to create a new Tag.
 
-Choose  New Tag from drop-down list.
+- Choose  New Tag from drop-down list.
  
-Click on  <b>Add Tag</b> in dashboard section to create a  <b>New Tag.</b>
+- Click on  <b>Add Tag</b> in dashboard section to create a  <b>New Tag.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e259d71617b5bb38a9b8ae6697c3471f5ac5f3a9/images/New_version5/td_tag_image1.png)
  <b><Font color = " black">Image 1</font></b>
@@ -77,9 +77,9 @@ Create dashboards under Animated Tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDExMDEwMDQyLC02NDI2NDUxNTksLTE0Nz
-UyMTMyMzUsMTkyMjkwMTU2LC01Mzg0NDA5MDIsLTEwODQ2NDUw
-MiwxMjU5ODkyNjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3LC01NT
-U0NzE5MDEsLTEyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2
-MzEyXX0=
+eyJoaXN0b3J5IjpbODQxOTI4MjMxLDQxMTAxMDA0MiwtNjQyNj
+Q1MTU5LC0xNDc1MjEzMjM1LDE5MjI5MDE1NiwtNTM4NDQwOTAy
+LC0xMDg0NjQ1MDIsMTI1OTg5MjY2NCwxMzI3MjQ2MTQ4LDg5OT
+QzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0MzU0MDE0
+ODAsLTU5ODg1NjMxMl19
 -->
