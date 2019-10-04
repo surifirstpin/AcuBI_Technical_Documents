@@ -176,6 +176,7 @@ b. click on Apply button
 
   <B><font color = " Black"> Image 13 </font></b>
 
+The resultant  of this is dispolayed in ima
 
 ## Edit / Delete Dashboard
 
@@ -272,11 +273,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODk2MzA1NDcsMzYxNTM4NzUxLDE0MD
-UyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5MjI1MTIw
-ODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0LDE3MT
-M1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMzczOTc5
-NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLTE3MjI0MDE0NT
-csMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgzNzkxNzUsMjc4
-MTM1MjY2XX0=
+eyJoaXN0b3J5IjpbMTY4MzAzODc5LDM2MTUzODc1MSwxNDA1Mj
+A3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0
+LDEwMzcwNTUwMzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNT
+E4ODA2LC0xOTkyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5
+LC0xNzA5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LD
+IwNDM3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEz
+NTI2Nl19
 -->
