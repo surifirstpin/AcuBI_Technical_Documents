@@ -60,7 +60,7 @@ To enable slide show for dashboard reports, navigate to New Tag window and selec
  
  - <b> Report Reload Duration :</b> Time limit to refresh the current report with changes updated.
 
-- <b> Animation Duration : </b> Time limit to display the next slide.
+- <b> Animation Duration : </b> Time limit to display each slide.
 
 > Note : Select the tag path.
  
@@ -77,8 +77,9 @@ Create dashboards under Animated Tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjY0NTE1OSwtMTQ3NTIxMzIzNSwxOT
-IyOTAxNTYsLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNTk4OTI2
-NjQsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkwMSwtMT
-I4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYzMTJdfQ==
+eyJoaXN0b3J5IjpbNDExMDEwMDQyLC02NDI2NDUxNTksLTE0Nz
+UyMTMyMzUsMTkyMjkwMTU2LC01Mzg0NDA5MDIsLTEwODQ2NDUw
+MiwxMjU5ODkyNjY0LDEzMjcyNDYxNDgsODk5NDMxMDY3LC01NT
+U0NzE5MDEsLTEyODgyNTQ5MjgsMTQzNTQwMTQ4MCwtNTk4ODU2
+MzEyXX0=
 -->
