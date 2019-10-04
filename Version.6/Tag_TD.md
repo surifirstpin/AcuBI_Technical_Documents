@@ -23,6 +23,7 @@ Navigate to New Tag Page and enter below details;
     -   <b>Public()</b>  It enable access for all the users.
     
     -   <b>Share()</b> It enable access for specific set of users.
+    
     > <b>Note:</b> Animated is enabled for Display Boards in AcuBi.
 
 - Click <b>Add Tag</b> to save tag.
@@ -77,10 +78,10 @@ Create dashboards under Animated Tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NTI2MTQ0MSwtNjIzNTIyNjU1LDg0MT
-kyODIzMSw0MTEwMTAwNDIsLTY0MjY0NTE1OSwtMTQ3NTIxMzIz
-NSwxOTIyOTAxNTYsLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNT
-k4OTI2NjQsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkw
-MSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC01OTg4NTYzMTJdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMTA4NDM0NzMsMTQ0NTI2MTQ0MSwtNj
+IzNTIyNjU1LDg0MTkyODIzMSw0MTEwMTAwNDIsLTY0MjY0NTE1
+OSwtMTQ3NTIxMzIzNSwxOTIyOTAxNTYsLTUzODQ0MDkwMiwtMT
+A4NDY0NTAyLDEyNTk4OTI2NjQsMTMyNzI0NjE0OCw4OTk0MzEw
+NjcsLTU1NTQ3MTkwMSwtMTI4ODI1NDkyOCwxNDM1NDAxNDgwLC
+01OTg4NTYzMTJdfQ==
 -->
