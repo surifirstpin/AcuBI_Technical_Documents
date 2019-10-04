@@ -165,6 +165,12 @@ To view the saved dashboard open it from dashboard section and click on dashboar
  
   <B><font color = " Black"> Image 12 </font></b>
 
+## TimeFrame Grouping
+ on enable time frame grouping ( Model Section )
+
+
+
+
 ## Edit / Delete Dashboard
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
@@ -260,11 +266,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjUwMDU0NDgsMTQwNTIwNzgzMiw1Nj
-k4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1
-MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMT
-k5MjUwNDYwOCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4
-NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5OD
-k4LC03NDgyNzA4OTEsLTk4ODM3OTE3NSwyNzgxMzUyNjYsLTEz
-MzAxMDM4NjBdfQ==
+eyJoaXN0b3J5IjpbMTM0NjY2OTI3MSwxNDA1MjA3ODMyLDU2OT
+gwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0LDEwMzcwNTUw
+MzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2LC0xOT
+kyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5LC0xNzA5OTg1
+MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LDIwNDM3OTk4OT
+gsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEzNTI2NiwtMTMz
+MDEwMzg2MF19
 -->
