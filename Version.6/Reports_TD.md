@@ -61,7 +61,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |<b>ends with</b>                     | should end with mentioned sub-string                      |
 |<b>doesn’t end with</b>              | should not end with mentioned sub-string                  |
 
-### Integer:
+### Integer :
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -80,7 +80,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |<b>between</b>                       | data in between the specified range                        |
 |<b>not between</b>                   | data not in between the specified range                    |
 
-### Date:
+### Date :
 
 |			Example            |						Description                         |                                                                                 
 |------------------------------|------------------------------------------------------------|
@@ -365,11 +365,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00Nz
-EyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1MzE3NywtMTA2MTc0
-OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4MTY3MTY4NDksLT
-ExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOTY0LC0xOTg2
-ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4OTQ2MzI1Ny
-wxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5NjU5NzU0MywxNzI4
-NDg5NjQ0XX0=
+eyJoaXN0b3J5IjpbLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNT
+g5NjYyMzc1LC00NzEyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1
+MzE3NywtMTA2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMC
+w4MTY3MTY4NDksLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4
+NjUyOTY0LC0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5Mz
+MsMTY4OTQ2MzI1NywxMzEwMjM1OTg2LC0xNjUyMDA1Mzk3LDg5
+NjU5NzU0M119
 -->
