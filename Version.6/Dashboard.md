@@ -224,7 +224,7 @@ In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( infor
 
 ## Info
 
- on selecting <b>Info</b> button for <b> Dashboard-->Orders</b> it will display the dashboard description window as shown in below image.
+ On selecting <b>Info</b> button for <b> Dashboard-->Orders</b> it will display the dashboard description window as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
@@ -276,11 +276,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1Mj
-A3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0
-LDEwMzcwNTUwMzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNT
-E4ODA2LC0xOTkyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5
-LC0xNzA5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LD
-IwNDM3OTk4OTgsLTc0ODI3MDg5MSwtOTg4Mzc5MTc1LDI3ODEz
-NTI2Nl19
+eyJoaXN0b3J5IjpbMjEwNTc5NDM0Niw2MjY0NTczNTQsMzYxNT
+M4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0
+LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMD
+A0ODY0LDE3MTM1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4
+OCwzMzczOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLT
+E3MjI0MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgz
+NzkxNzVdfQ==
 -->
