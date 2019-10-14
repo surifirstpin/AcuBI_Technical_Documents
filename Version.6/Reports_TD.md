@@ -178,7 +178,8 @@ available at top right side of <b>Data</b> section and then <b>Run</b> the repor
 
 <b>10.</b> To download the data in CSV format, click <b>Download Data</b>.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/660d608a5a8b6eec4e312dde520ffa612ce139b1/images/New_version5/TD_Reports_6.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5fa363fc06e8c2a261e84b5b606ef78de07d2f0c/images/New_version5/TD_Reports_6.png)
+
  <b><Font color = " black">Image 6</font></b>
 
 ## Pivot table
@@ -366,11 +367,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MDM3MzY5MCwyMTExNjI5NTQ2LDExMT
-A0NTUxNTEsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5NjYy
-Mzc1LC00NzEyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1MzE3Ny
-wtMTA2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4MTY3
-MTY4NDksLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOT
-Y0LC0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4
-OTQ2MzI1N119
+eyJoaXN0b3J5IjpbMTcxMzMwMTIwOSwxNzQwMzczNjkwLDIxMT
+E2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1ODkx
+MTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwtMTQxNDE4NDI3NC
+wtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1MTg3MSwxNTE2
+OTY4MTMwLDgxNjcxNjg0OSwtMTE1MDg2MzEyNywtNjYxNTQ3Nz
+A3LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0y
+OTI1OTkzM119
 -->
