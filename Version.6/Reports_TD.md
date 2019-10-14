@@ -213,7 +213,7 @@ On Applying pivot on month, it displays;
  
 <b>b.</b> Apply pivot <b>Before Retrieving</b> the data while selecting the fields by clicking on pivot icon.
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecc744cd6e64854355f940a57bea6901d75e3ced/images/New_version5/TD_Reports_7.png)
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cab1279d81b612837e4ddb898120804a8e7c354f/images/New_version5/TD_Reports_7.png)
 
  <b><Font color = " black">Image 7</font></b>
 
@@ -367,11 +367,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzMwMTIwOSwxNzQwMzczNjkwLDIxMT
-E2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1ODkx
-MTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwtMTQxNDE4NDI3NC
-wtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1MTg3MSwxNTE2
-OTY4MTMwLDgxNjcxNjg0OSwtMTE1MDg2MzEyNywtNjYxNTQ3Nz
-A3LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEsNzk1ODIyMjU3LC0y
-OTI1OTkzM119
+eyJoaXN0b3J5IjpbLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNz
+QwMzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUz
+MTk5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOS
+wtMTQxNDE4NDI3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEw
+MDY1MTg3MSwxNTE2OTY4MTMwLDgxNjcxNjg0OSwtMTE1MDg2Mz
+EyNywtNjYxNTQ3NzA3LC0yOTg2NTI5NjQsLTE5ODY4Njg4NzEs
+Nzk1ODIyMjU3XX0=
 -->
