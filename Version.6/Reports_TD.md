@@ -161,17 +161,18 @@ For <b>Measures</b>
 ## Display number of rows
 
 <b>7.</b> Display number of rows fetched while retrieving data.
+ ## Display  Row Limit
+
+<b>8.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
 ## Display Totals
 
 In times summary of your data may be useful. You can add column totals to your reports by clicking on totals checkbox 
 available at top right side of <b>Data</b> section and then <b>Run</b> the report.
 
-<b>8.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
+<b>9.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
 
- ## Display  Row Limit
 
-<b>9.</b>  You can limit the rows extracted to 100, 500, 1000, 5000, etc. By selecting the limit value to your desired number from drop down list.                                                          
 
 ## Download Report
 
@@ -365,11 +366,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTYyOTU0NiwxMTEwNDU1MTUxLC0xMD
-g5NTMxOTk2LC0xMDU4OTExNjkwLDU4OTY2MjM3NSwtNDcxMjk3
-OTA5LC0xNDE0MTg0Mjc0LC0xMTQxNTMxNzcsLTEwNjE3NDk1MD
-MsMTAwNjUxODcxLDE1MTY5NjgxMzAsODE2NzE2ODQ5LC0xMTUw
-ODYzMTI3LC02NjE1NDc3MDcsLTI5ODY1Mjk2NCwtMTk4Njg2OD
-g3MSw3OTU4MjIyNTcsLTI5MjU5OTMzLDE2ODk0NjMyNTcsMTMx
-MDIzNTk4Nl19
+eyJoaXN0b3J5IjpbMTc0MDM3MzY5MCwyMTExNjI5NTQ2LDExMT
+A0NTUxNTEsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5NjYy
+Mzc1LC00NzEyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1MzE3Ny
+wtMTA2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4MTY3
+MTY4NDksLTExNTA4NjMxMjcsLTY2MTU0NzcwNywtMjk4NjUyOT
+Y0LC0xOTg2ODY4ODcxLDc5NTgyMjI1NywtMjkyNTk5MzMsMTY4
+OTQ2MzI1N119
 -->
