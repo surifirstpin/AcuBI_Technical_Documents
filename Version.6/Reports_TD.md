@@ -213,7 +213,8 @@ On Applying pivot on month, it displays;
  
 <b>b.</b> Apply pivot <b>Before Retrieving</b> the data while selecting the fields by clicking on pivot icon.
  
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cab1279d81b612837e4ddb898120804a8e7c354f/images/New_version5/TD_Reports_7.png)
+ 
  <b><Font color = " black">Image 7</font></b>
 
 ><b> Note : </b> To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
@@ -366,7 +367,7 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc3NDA5NTYsMTAxNTUyNjc3OSwtMT
+eyJoaXN0b3J5IjpbLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMT
 Q1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYy
 OTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOTk2LC0xMDU4OTExNj
 kwLDU4OTY2MjM3NSwtNDcxMjk3OTA5LC0xNDE0MTg0Mjc0LC0x
