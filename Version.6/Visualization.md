@@ -386,6 +386,8 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Format</b> Choose the number format for measure value.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/Td_Visu1.png)
+
 - <b>Currency</b>  Cheese the currency format for  measure value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
@@ -528,11 +530,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxND
-gxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYz
-MTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2My
-wtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAx
-NTg3Mjg1LDE1MjEzNTc3NzEsMjA0ODEyOTg2OCw1MjQyMDM1Mz
-MsNjU5NjAxNzU5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5
-NDAzNTRdfQ==
+eyJoaXN0b3J5IjpbLTQwOTcxMTE5MCwxNDQwMzI0NDM0LC0xNT
+IyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3
+MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC
+0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0MDU0NjY0NywxNjMw
+NzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3MSwyMDQ4MTI5OD
+Y4LDUyNDIwMzUzMyw2NTk2MDE3NTksMTY1MTcxNDI1LC0zODEy
+MDUwMjVdfQ==
 -->
