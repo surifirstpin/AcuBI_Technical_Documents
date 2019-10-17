@@ -15,6 +15,7 @@
 
 ## Adding Dimension and Measure
 
+
 A <b>Dimension</b> is a group of data and <b>Measure</b> is information about group of data and they collectively acts as fundamental building blocks for a query.
 
 > <b>For Instance :</b> <b>Name of the Employee</b> is defined as dimension and <b>Salary of the Employee</b> is defined as Measure.
@@ -367,11 +368,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMT
-Q1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYy
-OTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOTk2LC0xMDU4OTExNj
-kwLDU4OTY2MjM3NSwtNDcxMjk3OTA5LC0xNDE0MTg0Mjc0LC0x
-MTQxNTMxNzcsLTEwNjE3NDk1MDMsMTAwNjUxODcxLDE1MTY5Nj
-gxMzAsODE2NzE2ODQ5LC0xMTUwODYzMTI3LC02NjE1NDc3MDcs
-LTI5ODY1Mjk2NF19
+eyJoaXN0b3J5IjpbMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMD
+E1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3
+MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OT
+YsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0
+MTQxODQyNzQsLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMDA2NT
+E4NzEsMTUxNjk2ODEzMCw4MTY3MTY4NDksLTExNTA4NjMxMjcs
+LTY2MTU0NzcwN119
 -->
