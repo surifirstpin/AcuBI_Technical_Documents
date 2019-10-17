@@ -392,11 +392,6 @@ Gauge chart displays current status in the context of goal.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu3.png)
 
-
-
-<b><font color = "Black"> Image 21</b>
-
-
 - <b>Y Axis</b> Choose the measure values to be displayed on chart.
 
 - <b>Column Aggregate ( Table View):</b> Type of aggregate value to be displayed for a measure.
@@ -412,7 +407,9 @@ Gauge chart displays current status in the context of goal.
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
 - <b>Bubble Size (Bubble Chart)</b> Depending on measure values, it varies in size.
- 
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
+
+<b><font color = "Black"> Image 21</b>
 
 ## X-Axis 
 
@@ -537,11 +534,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzQzMzgxOCwxNDQwMzI0NDM0LC0xNT
-IyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3
-MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC
-0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0MDU0NjY0NywxNjMw
-NzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3MSwyMDQ4MTI5OD
-Y4LDUyNDIwMzUzMyw2NTk2MDE3NTksMTY1MTcxNDI1LC0zODEy
-MDUwMjVdfQ==
+eyJoaXN0b3J5IjpbNjE2NTk2Nzc3LDE0NDAzMjQ0MzQsLTE1Mj
+IwNDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02NDU2Nzcw
+MTIsODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkxOTM4ODUsLT
+E2NDcwNTg0NjMsLTEyNTUyMzY4NDEsODQwNTQ2NjQ3LDE2MzA3
+NTMxMTcsMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4Nj
+gsNTI0MjAzNTMzLDY1OTYwMTc1OSwxNjUxNzE0MjUsLTM4MTIw
+NTAyNV19
 -->
