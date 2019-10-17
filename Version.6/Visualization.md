@@ -388,6 +388,10 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Currency</b>  Cheese the currency format for  measure value.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
+<b><font color = "Black"> Image 21</b>
+
+
 - <b>Y Axis</b> Choose the measure values to be displayed on chart.
 
 - <b>Column Aggregate ( Table View):</b> Type of aggregate value to be displayed for a measure.
@@ -404,7 +408,7 @@ Gauge chart displays current status in the context of goal.
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
-<b><font color = "Black"> Image 21</b>
+<b><font color = "Black"> Image 22</b>
 
 - <b>Axis type</b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -439,7 +443,7 @@ Gauge chart displays current status in the context of goal.
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
-<b><font color = "Black"> Image 22</b>
+<b><font color = "Black"> Image 23</b>
 
 - <b>Axis</b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -479,7 +483,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 > Note:  Consider below image, which displays the format section for table chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-<b><font color = "Black"> Image 23</b>
+<b><font color = "Black"> Image 24</b>
 
 - <b>Condition</b> Specify any of the following condition types  
    - Greater than
@@ -502,14 +506,14 @@ editing options for y-axis in Line, Bar and bubble chart.
    - Choose a color from the drop down menu.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
   
-<b><font color = "Black"> Image 24</b> 
+<b><font color = "Black"> Image 25</b> 
    
 ## Custom Color
 
 To create Custom color, First click on <b> Custom Color</b>. Use the color picker to choose the colour. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image26.png)
- <b><font color = "Black"> Image 25</b>
+ <b><font color = "Black"> Image 26</b>
 
  To change the selected color or to edit the color, you can put hexstring such as #6d9ac7, or color name, such as darkblue into the color value box at the bottom of the picker.
 
@@ -524,11 +528,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjIwNDA2NzQsMTQ4MTczODY2MCwxND
-gxNzM4NjYwLC02NDU2NzcwMTIsODIxODk2MzEyLDE1MzYzMzk0
-MDksLTE0MTkxOTM4ODUsLTE2NDcwNTg0NjMsLTEyNTUyMzY4ND
-EsODQwNTQ2NjQ3LDE2MzA3NTMxMTcsMTUwMTU4NzI4NSwxNTIx
-MzU3NzcxLDIwNDgxMjk4NjgsNTI0MjAzNTMzLDY1OTYwMTc1OS
-wxNjUxNzE0MjUsLTM4MTIwNTAyNSwtMjM5OTQwMzU0LC02NzI1
-ODMyNjJdfQ==
+eyJoaXN0b3J5IjpbMTE3NjYyNzQwOSwtMTUyMjA0MDY3NCwxND
+gxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYz
+MTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2My
+wtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAx
+NTg3Mjg1LDE1MjEzNTc3NzEsMjA0ODEyOTg2OCw1MjQyMDM1Mz
+MsNjU5NjAxNzU5LDE2NTE3MTQyNSwtMzgxMjA1MDI1LC0yMzk5
+NDAzNTRdfQ==
 -->
