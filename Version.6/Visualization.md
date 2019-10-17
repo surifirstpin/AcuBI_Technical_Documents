@@ -519,7 +519,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/180ee79d0c233ce60042245d66c6a69bbed52fe2/images/New_version5/TD_Visu_Image27.png)
 
- <b><font color = "Black"> Image 26</b>
+ <b><font color = "Black"> Image 27</b>
 
 - <b>Icon</B> Select a icon for the data retrieved based on condition.
 
@@ -528,7 +528,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NjYyNzQwOSwtMTUyMjA0MDY3NCwxND
+eyJoaXN0b3J5IjpbMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxND
 gxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYz
 MTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2My
 wtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAx
