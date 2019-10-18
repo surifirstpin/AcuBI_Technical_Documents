@@ -509,7 +509,9 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>BG (background color)</b> Select the background color for the data which is retrieved using condition.
 
 - <b>Font</b> Select the font color for the data retrieved based on condition applied.
-   - Choose a color from the drop down menu.
+   
+   - Choose a color using drop down menu.
+
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
   
    
@@ -533,7 +535,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTYzMTk5Nyw2MTY1OTY3NzcsMTQ0MD
+eyJoaXN0b3J5IjpbLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MD
 MyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2
 NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMT
 QxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1
