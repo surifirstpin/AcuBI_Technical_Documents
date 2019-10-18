@@ -496,7 +496,7 @@ editing options for y-axis in Line, Bar and bubble chart.
    - Less than
    - Between
    - Not Between
-   - equal to, duplicates values
+   - Equal to, duplicates values
    -  Top 10 Items
    -  Bottom 10 Items
    - Above Average
@@ -535,11 +535,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNj
-U5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2
-NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNT
-M2MzM5NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1
-MjM2ODQxLDg0MDU0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyOD
-UsMTUyMTM1Nzc3MSwyMDQ4MTI5ODY4LDUyNDIwMzUzMyw2NTk2
-MDE3NTldfQ==
+eyJoaXN0b3J5IjpbMTMyODQzMTgzNCwxNTE0NTMzNjI2LC01NT
+IyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0MzQsLTE1MjIwNDA2
+NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02NDU2NzcwMTIsOD
+IxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkxOTM4ODUsLTE2NDcw
+NTg0NjMsLTEyNTUyMzY4NDEsODQwNTQ2NjQ3LDE2MzA3NTMxMT
+csMTUwMTU4NzI4NSwxNTIxMzU3NzcxLDIwNDgxMjk4NjgsNTI0
+MjAzNTMzXX0=
 -->
