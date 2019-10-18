@@ -330,11 +330,11 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Title</b> specify title for the chart selected.
 
-- <b>Position</b> align title to top,bottom,left,right position.
+- <b>Position</b> align title to top, bottom, left, right position.
 
 - <b>Label</b> Specify label text.
 
-- <b>Padding</b> Specifies spacing at the top,bottom,left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
+- <b>Padding</b> Specifies spacing at the top, bottom, left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
 - <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
 
@@ -535,11 +535,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MD
-MyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2
-NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMT
-QxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1
-NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1MjEzNTc3Nz
-EsMjA0ODEyOTg2OCw1MjQyMDM1MzMsNjU5NjAxNzU5LDE2NTE3
-MTQyNV19
+eyJoaXN0b3J5IjpbMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNj
+U5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2
+NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNT
+M2MzM5NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1
+MjM2ODQxLDg0MDU0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyOD
+UsMTUyMTM1Nzc3MSwyMDQ4MTI5ODY4LDUyNDIwMzUzMyw2NTk2
+MDE3NTldfQ==
 -->
