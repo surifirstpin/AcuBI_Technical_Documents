@@ -523,7 +523,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
  
 
 
- To change the selected color or to edit the color, you can put hexstring such as #6d9ac7, or color name, such as darkblue into the color value box at the bottom of the picker.
+ To change the selected color or to edit the color, you can put <b>hexstring</b> such as <b>#6d9ac7,</b> or color name, such as darkblue into the color value box at the bottom of the picker.
 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/180ee79d0c233ce60042245d66c6a69bbed52fe2/images/New_version5/TD_Visu_Image27.png)
 
@@ -535,7 +535,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODQzMTgzNCwxNTE0NTMzNjI2LC01NT
+eyJoaXN0b3J5IjpbMjEwMjc3OTMzNCwxNTE0NTMzNjI2LC01NT
 IyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0MzQsLTE1MjIwNDA2
 NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02NDU2NzcwMTIsOD
 IxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkxOTM4ODUsLTE2NDcw
