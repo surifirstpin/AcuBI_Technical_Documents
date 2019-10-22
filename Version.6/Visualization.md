@@ -196,7 +196,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Over Border</b> color the border of a map region.
 
-- <b>Data Field:</b> choose the data field to display it on map.	
+- <b>Data Field</b> choose the data field to display it on map.	
 
 - <b>Tip Fields</b> select numbers of data fields to be displayed on map.
 
@@ -546,7 +546,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc4Njc5NzAsLTEwMDQ2MTc2NjAsOT
+eyJoaXN0b3J5IjpbLTE4NTc5MzkxOTQsLTEwMDQ2MTc2NjAsOT
 AzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4
 MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNS
 wyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1
