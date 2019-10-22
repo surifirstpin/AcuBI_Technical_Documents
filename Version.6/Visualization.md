@@ -323,7 +323,6 @@ Gauge chart displays current status in the context of goal.
 - <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
 
 
-
 # Fine Tuning Visualization Charts
 
 ## General Section 
@@ -547,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcxMzU1NTI0LDEwODYzNzUxMDQsMTA4Nj
-M3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYy
-NiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxNDQwMzI0NDM0LC0xNT
-IyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3
-MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC
-0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0MDU0NjY0NywxNjMw
-NzUzMTE3XX0=
+eyJoaXN0b3J5IjpbMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEwOD
+YzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1MTQ1MzM2
+MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQzNCwtMT
+UyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3
+NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NS
+wtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYz
+MDc1MzExN119
 -->
