@@ -420,6 +420,7 @@ Gauge chart displays current status in the context of goal.
 - <b> Render Label : </b> Make underlying measure value available or visible.
 
 - <b>Bubble Size : (Bubble Chart)</b> Depending on measure values, it varies in size.
+
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
 <b><font color = "Black"> Image 21</b>
@@ -548,7 +549,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM4MzQzMTIsMTUxODc5ODM4OCwxNj
+eyJoaXN0b3J5IjpbLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNj
 E3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1
 NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LD
 YxNjU5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3
