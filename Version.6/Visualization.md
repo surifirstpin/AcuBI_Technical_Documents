@@ -389,23 +389,23 @@ Gauge chart displays current status in the context of goal.
  
  ## Data 
 
-- <b>Row Grouping</b> displays the grouped value of the duplicate fields.
+- <b>Row Grouping :</b> displays the grouped value of the duplicate fields.
 
-- <b>Explore Enabled</b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
+- <b>Explore Enabled :</b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
 
-- <b>Legend</b> displays the measure.
+- <b>Legend :</b> displays the measure.
 
-- <b>Format</b> Choose the number format for measure value.
+- <b>Format :</b> Choose the number format for measure value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/Td_Visu1.png)
 
-- <b>Currency</b>  Cheese the currency format for  measure value.
+- <b>Currency : </b>  Cheese the currency format for  measure value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu3.png)
 
-- <b>Y Axis</b> Choose the measure values to be displayed on chart.
+- <b>Y Axis : </b> Choose the measure values to be displayed on chart.
 
-- <b>Column Aggregate ( Table View):</b> Type of aggregate value to be displayed for a measure.
+- <b>Column Aggregate ( Table View) :</b> Type of aggregate value to be displayed for a measure.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu2.png)
 
@@ -549,11 +549,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNzMxMDM5MCwtMTgxOTU2NzgzNCwxNT
-E4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNCwxMDg2Mzc1
-MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNTE0NTMzNjI2LC
-01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0MzQsLTE1MjIw
-NDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02NDU2NzcwMT
-IsODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkxOTM4ODUsLTE2
-NDcwNTg0NjNdfQ==
+eyJoaXN0b3J5IjpbOTAzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MT
+g3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUx
+MDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLT
+U1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQzNCwtMTUyMjA0
+MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMi
+w4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0
+NzA1ODQ2M119
 -->
