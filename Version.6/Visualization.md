@@ -337,6 +337,7 @@ Gauge chart displays current status in the context of goal.
 - <b>Padding</b> Specifies spacing at the top, bottom, left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
 - <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
+- 
   - <b>Tooltip Background:</b>
  
   - <b>Tooltip Color:</b>
@@ -540,11 +541,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1MT
-Q1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQz
-NCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLT
-Y0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5
-Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1NDY2ND
-csMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1MjEzNTc3NzEsMjA0
-ODEyOTg2OF19
+eyJoaXN0b3J5IjpbLTE1NDQ5NjQzODQsLTI2MTU0NTYwNSwyMT
+AyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3
+NzcsMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLD
+E0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMz
+OTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNj
+g0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1
+MjEzNTc3NzFdfQ==
 -->
