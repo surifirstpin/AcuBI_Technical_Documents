@@ -342,7 +342,7 @@ Gauge chart displays current status in the context of goal.
  
   - <b>Tooltip Color:</b> Enable color for field information displayed.
   
-  - <b>Title Color:<b>  Enables color for field.
+  - <b>Title Color:<b>  Enables color for field.\
 
 - <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
@@ -541,11 +541,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMD
-I3NzkzMzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3
-NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMT
-Q4MTczODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5
-NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2OD
-QxLDg0MDU0NjY0NywxNjMwNzUzMTE3LDE1MDE1ODcyODUsMTUy
-MTM1Nzc3MV19
+eyJoaXN0b3J5IjpbOTQxMjc3ODI0LDEwODYzNzUxMDQsLTI2MT
+U0NTYwNSwyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3
+OCw2MTY1OTY3NzcsMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxND
+gxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYz
+MTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2My
+wtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYzMDc1MzExNywxNTAx
+NTg3Mjg1XX0=
 -->
