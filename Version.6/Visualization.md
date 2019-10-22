@@ -510,10 +510,10 @@ editing options for y-axis in Line, Bar and bubble chart.
    - Between
    - Not Between
    - Equal to, duplicates values
-   -  Top 10 Items
-   -  Bottom 10 Items
-   -  Above Average
-   -  Below Average
+   - Top 10 Items
+   - Bottom 10 Items
+   - Above Average
+   - Below Average
 
 - <b>Format on :</b> Specify a measure field on which you want to apply format.
 
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODc5ODM4OCwxNjE3NzgwNDM4LDEwOD
-YzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3Nzkz
-MzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxND
-QwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTcz
-ODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC
-0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0
-MDU0NjY0N119
+eyJoaXN0b3J5IjpbLTEwNzM4MzQzMTIsMTUxODc5ODM4OCwxNj
+E3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1
+NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LD
+YxNjU5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3
+Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMi
+wxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0x
+MjU1MjM2ODQxXX0=
 -->
