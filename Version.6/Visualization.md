@@ -386,37 +386,37 @@ Gauge chart displays current status in the context of goal.
  
  ## Data 
 
-- <b>Row Grouping :</b> displays the grouped value of the duplicate fields.
+- <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
-- <b>Explore Enabled :</b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
+- <b>Explore Enabled </b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
 
-- <b>Legend :</b> displays the measure.
+- <b>Legend </b> displays the measure.
 
-- <b>Format :</b> Choose the number format for measure value.
+- <b>Format </b> Choose the number format for measure value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/Td_Visu1.png)
 
-- <b>Currency : </b>  Cheese the currency format for  measure value.
+- <b>Currency </b>  Cheese the currency format for  measure value.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu3.png)
 
-- <b>Y Axis : </b> Choose the measure values to be displayed on chart.
+- <b>Y Axis </b> Choose the measure values to be displayed on chart.
 
 - <b>Column Aggregate ( Table View) :</b> Type of aggregate value to be displayed for a measure.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu2.png)
 
 
-- <b>Custom Tooltips :</b> on moving the hover on the column it displays the customized new value. 
+- <b>Custom Tooltips </b> on moving the hover on the column it displays the customized new value. 
 
 > <b>Example</b> : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- <b>Custom Label :</b> Using this option you can display your own label for the column field values. 
+- <b>Custom Label </b> Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
-- <b> Render Label : </b> Make underlying measure value available or visible.
+- <b> Render Label  </b> Make underlying measure value available or visible.
 
-- <b>Bubble Size : (Bubble Chart)</b> Depending on measure values, it varies in size.
+- <b>Bubble Size (Bubble Chart)</b> Depending on measure values, it varies in size.
 
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
@@ -427,67 +427,67 @@ Gauge chart displays current status in the context of goal.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 <b><font color = "Black"> Image 22</b>
 
-- <b>Axis type : </b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
+- <b>Axis type </b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
-  - <b>Indexed : </b> specifies the data to be plotted in numeric values starting from zero on x-axis.
+  - <b>Indexed </b> specifies the data to be plotted in numeric values starting from zero on x-axis.
    
-  - <b>Category :</b> specifies the data to be plotted as category group on x-axis.
+  - <b>Category </b> specifies the data to be plotted as category group on x-axis.
   
   - <b>Timeseries : </b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
--  <b>X-Grid Color : </b> display specific color on X-axis.
+-  <b>X-Grid Color</b> display specific color on X-axis.
 
-- <b>X-Axis Font Color :</b> Enables different color option for the values on X-axis.
+- <b>X-Axis Font Color </b> Enables different color option for the values on X-axis.
 
-- <b>X-Axis :</b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
+- <b>X-Axis </b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
 
-- <b>Show Grid :</b> enables the grid display for dimension fields on x-axis.
+- <b>Show Grid </b> enables the grid display for dimension fields on x-axis.
 
-- <b>Axis label :</b> Label text  for x-axis.
+- <b>Axis label </b> Label text  for x-axis.
 
-- <b>Reference Lines : </b> enables the creation of reference lines in a chart.
+- <b>Reference Lines </b> enables the creation of reference lines in a chart.
 
- - <b>Reference : </b> specify a indicator name. 
+ - <b>Reference </b> specify a indicator name. 
   
- - <b>Type : </b> specify reference type as line or  area.
+ - <b>Type </b> specify reference type as line or  area.
   
- -  <b>From & to :</b> specify the reference line for specific range of dimensions.
+ -  <b>From & to </b> specify the reference line for specific range of dimensions.
 
- - <b>Theme : </b> enables color for reference line.
+ - <b>Theme </b> enables color for reference line.
  
- > <b>Note : </b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ > <b>Note </b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
 <b><font color = "Black"> Image 23</b>
 
-- <b>Axis : </b> select the measures values on y-axis  to enable
+- <b>Axis  </b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
-- <b>Axis label : </b> Text label for x-axis.
+- <b>Axis label </b> Text label for x-axis.
 
-- <b>Format : </b> it enables number format for numeric values.
+- <b>Format </b> it enables number format for numeric values.
 
--  <b>Y-Grid Color : </b> display different color on Y-axis.
+-  <b>Y-Grid Color  </b> display different color on Y-axis.
 
-- <b>Y-Axis Font Color :</b> Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
+- <b>Y-Axis Font Color </b> Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
 
-- <b>Y-Axis : </b> display dimensions or measures ( Horizontal bar) values on Y-axis. 
+- <b>Y-Axis  </b> display dimensions or measures ( Horizontal bar) values on Y-axis. 
 
-- <b>Show Grid :</b> enables the grid display on y-axis.
+- <b>Show Grid </b> enables the grid display on y-axis.
 
-- <b>Include Zero : </b> displays measure values starting from zero.
+- <b>Include Zero </b> displays measure values starting from zero.
 
-- <b>Position : </b> you can can align the y-axis to left or right side of the chart.
+- <b>Position </b> you can can align the y-axis to left or right side of the chart.
 
 <b>Reference Lines : </b> enables the creation of reference lines in a chart.
 
-- <b>Name : </b> specify a reference name for specific information on y-axis.
+- <b>Name </b> specify a reference name for specific information on y-axis.
   
 - <b>Type : </b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
--  <b>From & to :</b> specify the reference line for specific range of measure values.
+-  <b>From & to </b> specify the reference line for specific range of measure values.
 
 - <b>Theme : </b> enables color for reference line.
  
@@ -546,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI3Njc3ODIsOTAzMTg3Mjk4LC0xOD
-E5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1
-MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LD
-E1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMy
-NDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2Nj
-AsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQx
-OTE5Mzg4NV19
+eyJoaXN0b3J5IjpbLTc0MjM5ODk3Niw5MDMxODcyOTgsLTE4MT
+k1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwNDM4LDEwODYzNzUx
+MDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3NzkzMzQsMT
+UxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxNDQwMzI0
+NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MC
+wtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC0xNDE5
+MTkzODg1XX0=
 -->
