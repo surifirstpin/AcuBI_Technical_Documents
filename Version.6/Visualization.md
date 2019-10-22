@@ -441,57 +441,57 @@ Gauge chart displays current status in the context of goal.
 
 - <b>X-Axis Font Color :</b> Enables different color option for the values on X-axis.
 
-- <b>X-Axis</b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
+- <b>X-Axis :</b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
 
-- <b>Show Grid</b> enables the grid display for dimension fields on x-axis.
+- <b>Show Grid :</b> enables the grid display for dimension fields on x-axis.
 
-- <b>Axis label</b> Label text  for x-axis.
+- <b>Axis label :</b> Label text  for x-axis.
 
-- <b>Reference Lines</b> enables the creation of reference lines in a chart.
+- <b>Reference Lines : </b> enables the creation of reference lines in a chart.
 
- - <b>Reference</b> specify a indicator name. 
+ - <b>Reference : </b> specify a indicator name. 
   
- - <b>Type</b> specify reference type as line or  area.
+ - <b>Type : </b> specify reference type as line or  area.
   
- -  <b>From & to</b> specify the reference line for specific range of dimensions.
+ -  <b>From & to :</b> specify the reference line for specific range of dimensions.
 
- - <b>Theme</b> enables color for reference line.
+ - <b>Theme : </b> enables color for reference line.
  
- > <b>Note:</b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
+ > <b>Note : </b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
 <b><font color = "Black"> Image 23</b>
 
-- <b>Axis</b> select the measures values on y-axis  to enable
+- <b>Axis : </b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
 
-- <b>Axis label</b> Text label for x-axis.
+- <b>Axis label : </b> Text label for x-axis.
 
-- <b>Format</b> it enables number format for numeric values.
+- <b>Format : </b> it enables number format for numeric values.
 
--  <b>Y-Grid Color</b> display different color on Y-axis.
+-  <b>Y-Grid Color : </b> display different color on Y-axis.
 
-- <b>Y-Axis Font Color</b> Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
+- <b>Y-Axis Font Color :</b> Enables different colors for the dimensions ( Horizontal Bar) or Measures on Y-axis.
 
-- <b>Y-Axis</b> display dimensions or measures ( Horizontal bar) values on Y-axis. 
+- <b>Y-Axis : </b> display dimensions or measures ( Horizontal bar) values on Y-axis. 
 
-- <b>Show Grid</b> enables the grid display on y-axis.
+- <b>Show Grid :</b> enables the grid display on y-axis.
 
-- <b>Include Zero</b> displays measure values starting from zero.
+- <b>Include Zero : </b> displays measure values starting from zero.
 
-- <b>Position</b> you can can align the y-axis to left or right side of the chart.
+- <b>Position : </b> you can can align the y-axis to left or right side of the chart.
 
-<b>Reference Lines</b> enables the creation of reference lines in a chart.
+<b>Reference Lines : </b> enables the creation of reference lines in a chart.
 
-- <b>Name</b> specify a reference name for specific information on y-axis.
+- <b>Name : </b> specify a reference name for specific information on y-axis.
   
-- <b>Type</b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
+- <b>Type : </b> specify  Linear, Polynomial, Exponential, Logarithmic, Average, Median, Minimum, Maximum, Deviation, Variance, Custom Line, Custom Area on Y-axis.
   
--  <b>From & to</b> specify the reference line for specific range of measure values.
+-  <b>From & to :</b> specify the reference line for specific range of measure values.
 
-- <b>Theme</b> enables color for reference line.
+- <b>Theme : </b> enables color for reference line.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
@@ -504,7 +504,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
 <b><font color = "Black"> Image 24</b>
 
-- <b>Condition</b> Specify any of the following condition types  
+- <b>Condition : </b> Specify any of the following condition types  
    - Greater than
    - Less than
    - Between
@@ -515,7 +515,7 @@ editing options for y-axis in Line, Bar and bubble chart.
    -  Above Average
    -  Below Average
 
-- <b>Format on</b> Specify a measure field on which you want to apply format.
+- <b>Format on :</b> Specify a measure field on which you want to apply format.
 
 - <b>Value</b> Specify a value to measure the condition.
 
@@ -548,7 +548,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDkxNzAzMzgsMTYxNzc4MDQzOCwxMD
+eyJoaXN0b3J5IjpbLTEwMTM4OTk3NzQsMTYxNzc4MDQzOCwxMD
 g2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5
 MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMT
 Q0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3
