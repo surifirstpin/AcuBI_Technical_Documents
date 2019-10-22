@@ -93,14 +93,14 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 ### Editing Options for Pie Chart
  
-- <b>Show percentage:</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
+- <b>Show percentage</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
 
-- <b>Polar Area:</b> On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
+- <b>Polar Area</b> On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image6.png)
 <b><font color = "Black"> Image 6</b>
 
--  <b>Donut:</b> donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  <b>Donut</b> donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image7.png)
 <b><font color = "Black"> Image 7</b>
@@ -108,16 +108,16 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ## Radar chart 
 
  Radar charts are great way to compare members of a dimension in a function of several metrics.  
-<b>For example:</b> when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
+<b>For example</b> when you want to buy a Laptop, you can use a radar chart to compare several devices across several metrics like battery life, memory, hard drive etc.  
 
  <b>4.</b> Choose chart type <b>RADAR</b> from given drop-down list compare the data using Radar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7482c4048b2b436faf52562e46d69819e6ac9484/images/New_version5/TD_Visu_Image10.png)
 <b><font color = "Black"> Image 8</b>
 
-- <b>Points (General):</b> on selecting the checkbox it enables pointers for the data range in line chart.
+- <b>Points (General)</b> on selecting the checkbox it enables pointers for the data range in line chart.
 
-- <b>Point style(General):</b> will specify how the data points will appear on chart.
+- <b>Point style(General)</b> will specify how the data points will appear on chart.
 
  Below are the following point styles available in AcuBi.  
   - Circle
@@ -130,13 +130,13 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
   - Line
   - Dash
   
-- <b>Reverse scale:</b>  it displays the inverse values.
+- <b>Reverse scale</b>  it displays the inverse values.
 
-<b>For Instance :</b> if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
+<b>For Instance </b> if the chart displays the 10 highest values, on Checking Reverse Scale , it displays 10 lowest values.
 
 - <b>Show Tick-labels</b> it enables measure values on y-axis.
 
-- <b>Show arc lines:</b> it points the dimension fields in radar chart.
+- <b>Show arc lines</b> it points the dimension fields in radar chart.
 
 - <b>Arc field</b> select the dimension field to apply arc lines.
 
@@ -153,25 +153,25 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Value</b> select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
-- <b>Format:</b> select the number format for the measure field.
+- <b>Format</b> select the number format for the measure field.
 
-- <b>Previous value:</b> select the second measure value for widget.
+- <b>Previous value</b> select the second measure value for widget.
 
-- <b>Change:</b> specify the conditions for selected measures such as difference, growth, none.
+- <b>Change</b> specify the conditions for selected measures such as difference, growth, none.
 
-- <b>Show growth:</b> displays the growth rate of selected measures.
+- <b>Show growth</b> displays the growth rate of selected measures.
 
 - <b>Title:</b> specify widget title.
 
-- <b>Label:</b> specify the widget label.
+- <b>Label</b> specify the widget label.
 
-- <b>Style:</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
+- <b>Style</b> specify a status indicator for measure value such as default, primary, success, warning, info, danger.
 
-- <b>Theme</b>: Select the suitable theme for widget chart.
+- <b>Theme</b> Select the suitable theme for widget chart.
 
-- <b>Widget Icon:</b> Select suitable icon for widget values.
+- <b>Widget Icon</b> Select suitable icon for widget values.
 
-- <b>BG Colour:</b> Select back ground color for widget chart.
+- <b>BG Colour</b> Select back ground color for widget chart.
 
 ##  World chart 
 
@@ -549,11 +549,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MT
-g3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUx
-MDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLT
-U1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQzNCwtMTUyMjA0
-MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMi
-w4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NSwtMTY0
-NzA1ODQ2M119
+eyJoaXN0b3J5IjpbMjE1MDAyNjM2LDkwMzE4NzI5OCwtMTgxOT
+U2NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEw
+NCwxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNT
+E0NTMzNjI2LC01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0
+MzQsLTE1MjIwNDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC
+02NDU2NzcwMTIsODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkx
+OTM4ODVdfQ==
 -->
