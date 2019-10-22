@@ -434,9 +434,9 @@ Gauge chart displays current status in the context of goal.
 
   - <b>Indexed : </b> specifies the data to be plotted in numeric values starting from zero on x-axis.
    
-  - <b>Category</b> specifies the data to be plotted as category group on x-axis.
+  - <b>Category :</b> specifies the data to be plotted as category group on x-axis.
   
-  - <b>Timeseries</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
+  - <b>Timeseries : </b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
 -  <b>X-Grid Color : </b> display specific color on X-axis.
 
@@ -549,11 +549,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNj
-E3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1
-NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LD
-YxNjU5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3
-Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMi
-wxNTM2MzM5NDA5LC0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0x
-MjU1MjM2ODQxXX0=
+eyJoaXN0b3J5IjpbMTMzNzMxMDM5MCwtMTgxOTU2NzgzNCwxNT
+E4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNCwxMDg2Mzc1
+MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNTE0NTMzNjI2LC
+01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0MzQsLTE1MjIw
+NDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02NDU2NzcwMT
+IsODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkxOTM4ODUsLTE2
+NDcwNTg0NjNdfQ==
 -->
