@@ -112,6 +112,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 
 ## Save
+
 <b>8.</b> To save the model click on <b>Save</b> button.
 
 ![
@@ -430,6 +431,7 @@ Where the expression contain the fields of self view and should result a single 
 
 To enable grouping option for dashboard filters. Derive the following expression in model section.
 
+```
 {
 "name": "whenmade",
 "label": "whenmade",
@@ -443,6 +445,8 @@ To enable grouping option for dashboard filters. Derive the following expression
 "visualise": "true",
 "time_frame_grouping":true
 },
+
+```
 
 
 ## Custom View
@@ -728,11 +732,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDUyNDc2NzMsODQ3NTU1NTg2LC0xNT
-Y0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2
-NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMj
-MwNDg5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkx
-MzQsODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03Mj
-U4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcw
-MjJdfQ==
+eyJoaXN0b3J5IjpbODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0ND
+QyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2Nywt
+Mzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwND
+g5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQs
+ODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NT
+cwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjJd
+fQ==
 -->
