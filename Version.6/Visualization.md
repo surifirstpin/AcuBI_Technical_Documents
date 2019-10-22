@@ -410,16 +410,16 @@ Gauge chart displays current status in the context of goal.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/441779bb16723c8362f3319094f99be96a250594/images/New_version5/td_visu2.png)
 
 
-- <b>Custom Tooltips</b> on moving the hover on the column it displays the customized new value. 
+- <b>Custom Tooltips :</b> on moving the hover on the column it displays the customized new value. 
 
 > <b>Example</b> : in case if we are taking two measures than you can interchange the measure fields values on the column as per the requirement. 
 
-- <b>Custom Label</b> Using this option you can display your own label for the column field values. 
+- <b>Custom Label :</b> Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
-- <b> Render Label</b> Make underlying measure value available or visible.
+- <b> Render Label : </b> Make underlying measure value available or visible.
 
-- <b>Bubble Size (Bubble Chart)</b> Depending on measure values, it varies in size.
+- <b>Bubble Size : (Bubble Chart)</b> Depending on measure values, it varies in size.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
 <b><font color = "Black"> Image 21</b>
@@ -429,17 +429,17 @@ Gauge chart displays current status in the context of goal.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 <b><font color = "Black"> Image 22</b>
 
-- <b>Axis type</b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
+- <b>Axis type : </b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
-  - <b>Indexed</b> specifies the data to be plotted in numeric values starting from zero on x-axis.
+  - <b>Indexed : </b> specifies the data to be plotted in numeric values starting from zero on x-axis.
    
   - <b>Category</b> specifies the data to be plotted as category group on x-axis.
   
   - <b>Timeseries</b> specify the data to be plotted as time values. The x-axis is labeled with appropriate time increments.
  
--  <b>X-Grid Color</b> display specific color on X-axis.
+-  <b>X-Grid Color : </b> display specific color on X-axis.
 
-- <b>X-Axis Font Color</b> Enables different color option for the values on X-axis.
+- <b>X-Axis Font Color :</b> Enables different color option for the values on X-axis.
 
 - <b>X-Axis</b>  specify a dimension or a measure( Horizontal Bar) field on X-axis.
 
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3ODg2MzI2NiwxNjE3NzgwNDM4LDEwOD
-YzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3Nzkz
-MzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxND
-QwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTcz
-ODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC
-0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0
-MDU0NjY0N119
+eyJoaXN0b3J5IjpbLTE3MDkxNzAzMzgsMTYxNzc4MDQzOCwxMD
+g2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5
+MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMT
+Q0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3
+Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOS
+wtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4
+NDA1NDY2NDddfQ==
 -->
