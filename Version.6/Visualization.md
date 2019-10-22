@@ -517,11 +517,11 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Format on :</b> Specify a measure field on which you want to apply format.
 
-- <b>Value</b> Specify a value to measure the condition.
+- <b>Value :</b> Specify a value to measure the condition.
 
-- <b>BG (background color)</b> Select the background color for the data which is retrieved using condition.
+- <b>BG (background color) :</b> Select the background color for the data which is retrieved using condition.
 
-- <b>Font</b> Select the font color for the data retrieved based on condition applied.
+- <b>Font :</b> Select the font color for the data retrieved based on condition applied.
    
    - Choose a color using drop down menu.
 
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTM4OTk3NzQsMTYxNzc4MDQzOCwxMD
-g2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5
-MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMT
-Q0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3
-Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOS
-wtMTQxOTE5Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4
-NDA1NDY2NDddfQ==
+eyJoaXN0b3J5IjpbMTUxODc5ODM4OCwxNjE3NzgwNDM4LDEwOD
+YzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3Nzkz
+MzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxND
+QwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTcz
+ODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC
+0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0
+MDU0NjY0N119
 -->
