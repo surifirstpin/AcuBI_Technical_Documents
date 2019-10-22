@@ -188,25 +188,25 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 <b><font color = "Black"> Image 11</b>
  
 
-- <b>Title:</b> specify a title for world map.
+- <b>Title</b> specify a title for world map.
 
-- <b>Flat Map:</b> displays a flat view or "2D" vision of the map.
+- <b>Flat Map</b> displays a flat view or "2D" vision of the map.
 
-- <b>Default:</b> set default color to display specific countries.
+- <b>Default</b> set default color to display specific countries.
 
-- <b>Over Border:</b> color the border of a map region.
+- <b>Over Border</b> color the border of a map region.
 
 - <b>Data Field:</b> choose the data field to display it on map.	
 
-- <b>Tip Fields:</b> select numbers of data fields to be displayed on map.
+- <b>Tip Fields</b> select numbers of data fields to be displayed on map.
 
-- <b>Color Field:</b> specifies which field to be colored.
+- <b>Color Field</b> specifies which field to be colored.
 
-- <b>Color From & To:</b> specify the color specific range of values in map region.
+- <b>Color From & To</b> specify the color specific range of values in map region.
 
-- <b>Negative Cutoff:</b> enabled when negatives values are applicable.
+- <b>Negative Cutoff</b> enabled when negatives values are applicable.
 
-- <b>Negative color-from & to:</b> Specify color for specific range of negative values.
+- <b>Negative color-from & to</b> Specify color for specific range of negative values.
 
 ## Bar Chart
 
@@ -273,19 +273,19 @@ Funnels helps to visualize a process that has stages and items flow sequentially
 
 <b><i> You can view the funnel charts in following formats by enabling checkbox for below mentioned fields;</i></b>
 
- - <b>Sort:</b> it enables data in the sorted order in funnel chart.
+ - <b>Sort</b> it enables data in the sorted order in funnel chart.
  
- - <b>Curved:</b> it enables the curved view for funnel chart.
+ - <b>Curved</b> it enables the curved view for funnel chart.
  
-- <b>Pinched:</b> enable compressed view of funnel chart
+- <b>Pinched</b> enable compressed view of funnel chart
 
-- <b>Inverted:</b>  enables inverted view of Funnel chart
+- <b>Inverted</b>  enables inverted view of Funnel chart
 
-- <b>Highlight on hover:</b> highlights on moving hover on funnel chart.
+- <b>Highlight on hover</b> highlights on moving hover on funnel chart.
 
-- <b>Dynamic Height:</b> Enables dynamic height for the measure field with maximum value.
+- <b>Dynamic Height</b> Enables dynamic height for the measure field with maximum value.
 
-- <b>Load Animation:</b> Enables animation view to funnel chart
+- <b>Load Animation</b> Enables animation view to funnel chart
 
 ##  Gauge Chart 
 
@@ -304,23 +304,23 @@ Gauge chart displays current status in the context of goal.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
 <b><font color = "Black"> Image 20</b>
 
-- <b>Value:</b> select one of the available measure values from the drop down.
+- <b>Value</b> select one of the available measure values from the drop down.
 
 - <b>Minimum</b> specifies the minimum value of the gauge this corresponds to bottom position of the gauge.
 
-- <b>Maximum:</b>  specifies the maximum value of the gauge this corresponds to top position of the gauge.
+- <b>Maximum</b>  specifies the maximum value of the gauge this corresponds to top position of the gauge.
 
-- <b>Title:</b> specify a title.
+- <b>Title</b> specify a title.
 
-- <b>Label:</b> specify a identifier name to display in the chart.
+- <b>Label</b> specify a identifier name to display in the chart.
 
 - <b>Donut</b> displays total measure value.
 
 - <b>Counter:</b> displays minimum and maximum values of the measure.
 
-- <b>Reverse:</b> displays the measure values in reversal direction maximum to minimum.
+- <b>Reverse</b> displays the measure values in reversal direction maximum to minimum.
 
-- <b>Hide Minmax:</b>  hides min and maximum values in gauge target.
+- <b>Hide Minmax</b>  hides min and maximum values in gauge target.
 
 
 # Fine Tuning Visualization Charts
@@ -337,16 +337,13 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
 
-  - <b>Tooltip Background:</b> Enables background color for underlying field info.
+  - <b>Tooltip Background</b> Enables background color for underlying field info.
  
-  - <b>Tooltip Color:</b> Enable color for field information displayed.
+  - <b>Tooltip Color</b> Enable color for field information displayed.
   
-  - <b>Title Color:</b>  Enables color for field.
+  - <b>Title Color</b>  Enables color for field.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6b12c66e409436d4be04517aaa3b98f09dc668f/images/New_version5/td_visu4.png)
-
-
-
 
 
 - <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
@@ -549,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1MDAyNjM2LDkwMzE4NzI5OCwtMTgxOT
-U2NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEw
-NCwxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNT
-E0NTMzNjI2LC01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0
-MzQsLTE1MjIwNDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC
-02NDU2NzcwMTIsODIxODk2MzEyLDE1MzYzMzk0MDksLTE0MTkx
-OTM4ODVdfQ==
+eyJoaXN0b3J5IjpbLTE3NzI3Njc3ODIsOTAzMTg3Mjk4LC0xOD
+E5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1
+MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LD
+E1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMy
+NDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2Nj
+AsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQx
+OTE5Mzg4NV19
 -->
