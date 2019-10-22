@@ -417,6 +417,8 @@ Gauge chart displays current status in the context of goal.
 - <b>Custom Label</b> Using this option you can display your own label for the column field values. 
 ##{start: }#{sum_rate} as of #{sum_amount}##{end: }
 
+- <b> Render Label</b> Make underlying measure value available or visible.
+
 - <b>Bubble Size (Bubble Chart)</b> Depending on measure values, it varies in size.
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
@@ -546,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEwOD
-YzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1MTQ1MzM2
-MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQzNCwtMT
-UyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLTY0NTY3
-NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5Mzg4NS
-wtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1NDY2NDcsMTYz
-MDc1MzExN119
+eyJoaXN0b3J5IjpbLTk3ODg2MzI2NiwxNjE3NzgwNDM4LDEwOD
+YzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3Nzkz
+MzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxND
+QwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTcz
+ODY2MCwtNjQ1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC
+0xNDE5MTkzODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0
+MDU0NjY0N119
 -->
