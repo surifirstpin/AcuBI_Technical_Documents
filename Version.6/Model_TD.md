@@ -608,7 +608,7 @@ In the above example, Drill down option is defined over field “<b>State Name</
 As  <b>Show drill down measures</b>  is set  <b>TRUE</b>, the associated measures (if exists) of the field “State Name” will also be brought to the next stage along with drill fields City Name and No_of_Employees.
 
 
-If mentioned FALSE, then system will not carry forward the measures of the current stage to the immediate drill level.
+If mentioned FALSE, then system will not carry forward the measures of the current stage to the next drill level.
 ```
  {  
  “name”: “StateName”,  
@@ -620,7 +620,7 @@ If mentioned FALSE, then system will not carry forward the measures of the curre
  “sql”: “${TABLE}.StateName”,  
  “summary”: “”,  
  “drill_down_fields”: “CityName,No_of_Employees”,  
- “show_drill_down_measures”: “true”,  
+ “show_drill_down_measures”: “false”,  
  “visualise”: “true”  
  }
 
@@ -750,11 +750,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDg1MzI0NywtMTAxMTAzMTcwOCw4OD
-Q3Mjc2Nyw4NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMx
-Niw2NjA3MDcyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OT
-E1MTAzNCwyMDEyMjY0NDU4LDEyMzA0ODk1OTQsLTEwNDc5OTQx
-NTAsMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3Mj
-MxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5NywxMjU5MDAyNjg1
-XX0=
+eyJoaXN0b3J5IjpbNzUzMTUzODYsLTEwMTEwMzE3MDgsODg0Nz
+I3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMjUzMTYs
+NjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3NTkxNT
+EwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMDQ3OTk0MTUw
+LDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2LC03NzIzMT
+g1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OTAwMjY4NV19
+
 -->
