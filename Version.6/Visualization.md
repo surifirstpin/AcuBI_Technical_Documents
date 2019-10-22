@@ -337,8 +337,10 @@ Gauge chart displays current status in the context of goal.
 - <b>Padding</b> Specifies spacing at the top, bottom, left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
 
 - <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
-  - Tooltip Background :
-  - Tooltip 
+  - <b>Tooltip Background:</b>
+ 
+  - <b>Tooltip Color:</b>
+  - <b>Title Color:<b> 
 - <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
 - <b>Show legend</b> on selecting the checkbox it displays the measures fields used at the bottom of the chart, you can display or hide specific measure field values on chart by clicking on the measure field.
@@ -536,11 +538,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTYyNjExMiwyMTAyNzc5MzM0LDE1MT
-Q1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMyNDQz
-NCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2NjAsLT
-Y0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQxOTE5
-Mzg4NSwtMTY0NzA1ODQ2MywtMTI1NTIzNjg0MSw4NDA1NDY2ND
-csMTYzMDc1MzExNywxNTAxNTg3Mjg1LDE1MjEzNTc3NzEsMjA0
-ODEyOTg2OF19
+eyJoaXN0b3J5IjpbNDI4MjE5MDY3LDIxMDI3NzkzMzQsMTUxND
+UzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxNDQwMzI0NDM0
+LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNj
+Q1Njc3MDEyLDgyMTg5NjMxMiwxNTM2MzM5NDA5LC0xNDE5MTkz
+ODg1LC0xNjQ3MDU4NDYzLC0xMjU1MjM2ODQxLDg0MDU0NjY0Ny
+wxNjMwNzUzMTE3LDE1MDE1ODcyODUsMTUyMTM1Nzc3MSwyMDQ4
+MTI5ODY4XX0=
 -->
