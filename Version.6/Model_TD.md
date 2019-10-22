@@ -110,6 +110,8 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 <b>7.</b>  To hide and un-hide model and views list click on <b>Angle double left</b> and <b>Angle double right</b> Icon.
 
+
+## Save
 <b>8.</b> To save the model click on <b>Save</b> button.
 
 ![
@@ -726,11 +728,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NT
-UwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIx
-LDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMD
-Q3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2
-LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTcsMTI1OT
-AwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcwMjIsMTUzNDcyMzMw
-MV19
+eyJoaXN0b3J5IjpbLTIxNDUyNDc2NzMsODQ3NTU1NTg2LC0xNT
+Y0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2
+NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMj
+MwNDg5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkx
+MzQsODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03Mj
+U4NTcwOTcsMTI1OTAwMjY4NSwtMTE2MTI5ODM3MSw1MTA3NDcw
+MjJdfQ==
 -->
