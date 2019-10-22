@@ -161,7 +161,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 - <b>Show growth</b> displays the growth rate of selected measures.
 
-- <b>Title:</b> specify widget title.
+- <b>Title</b> specify widget title.
 
 - <b>Label</b> specify the widget label.
 
@@ -546,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDQ2MTc2NjAsOTAzMTg3Mjk4LC0xOD
-E5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1
-MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LD
-E1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1OTY3NzcsMTQ0MDMy
-NDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4NjYwLDE0ODE3Mzg2Nj
-AsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUzNjMzOTQwOSwtMTQx
-OTE5Mzg4NV19
+eyJoaXN0b3J5IjpbLTIwNDc4Njc5NzAsLTEwMDQ2MTc2NjAsOT
+AzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4
+MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNS
+wyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1
+OTY3NzcsMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4Nj
+YwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUz
+NjMzOTQwOV19
 -->
