@@ -468,7 +468,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cf5946b2b83468c906303fc1b8480de242f0d17b/images/New_version5/TD_Model_image10.png)
- <b><Font color = " black">Image 10</font></b>
+ <b><Font color = " black">Image 11</font></b>
 
 Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
 ``` 
@@ -521,7 +521,7 @@ Once the view is created, label the database field and derive the custom table u
 Click <b>Save</b> to Save the View in database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/21c1e57f8188409ca0cc91dcabefc75cf50ed3be/images/New_version5/td_model_image18.png)
- <b><Font color = " black">Image 11</font></b>
+ <b><Font color = " black">Image 12</font></b>
 
 ##  Arithmetical operations in Custom Fields
 ```
@@ -742,11 +742,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4ODk5MTIwLDEwMzcxMDIxMTQsLTk2OT
-gxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgs
-ODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMj
-UzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3
-NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMDQ3OT
-k0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2XX0=
-
+eyJoaXN0b3J5IjpbLTE0NDIzNTc2NTAsMTAzNzEwMjExNCwtOT
+Y5ODExNzksMTgzMTM4Njk5MSw3NTMxNTM4NiwtMTAxMTAzMTcw
+OCw4ODQ3Mjc2Nyw4NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NT
+AyNTMxNiw2NjA3MDcyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEs
+MTc1OTE1MTAzNCwyMDEyMjY0NDU4LDEyMzA0ODk1OTQsLTEwND
+c5OTQxNTAsMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDZd
+fQ==
 -->
