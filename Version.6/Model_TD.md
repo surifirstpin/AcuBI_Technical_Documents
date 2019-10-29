@@ -274,8 +274,7 @@ Views are independent tables chosen while creating a project. All the columns in
 |  13 | currency | it defines the currency for the field.For instance “$”, “€”, “£”, “₹”. |
 |  14 | country_ref | option for enabling map view for different values with different geographical locations |
 | 15 | always_filter | to directly define desired filters values in model itself. <b>for example</b> define "always_filter": "STATIONCODE IN ('Station_1','Station_2')"  it retrieves only station 1 and station 2 in analysis data section.|
-| 16 | Time_frame_grouping | If it is enabled as true.
-grouping in dashboard filters is enabled.(applicable only for date fields)|
+| 16 | Time_frame_grouping | If it is enabled as true.Grouping under dashboard filters is enabled.(applicable only for date fields)|
 
 <b><i><u>Among the above stated list, the following are the special attributes for user convenience :</u></i></b>
 
@@ -755,11 +754,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNDQ2Mzc4OCwxODMxMzg2OTkxLDc1Mz
-E1Mzg2LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4Niwt
-MTU2NDQ0Mjc3MiwxODU1MDI1MzE2LDY2MDcwNzI0LC02OTc2OT
-g2NjcsLTM3NjM0ODkyMSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgs
-MTIzMDQ4OTU5NCwtMTA0Nzk5NDE1MCwzNDY2NjgzOTYsMzAxMj
-U5MTM0LDgzMTEwNzUwNiwtNzcyMzE4NTMyLDE1NDkxMzczMV19
+eyJoaXN0b3J5IjpbLTk2OTgxMTc5LDE4MzEzODY5OTEsNzUzMT
+UzODYsLTEwMTEwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0x
+NTY0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5OD
+Y2NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwx
+MjMwNDg5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNT
+kxMzQsODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxXX0=
 
 -->
