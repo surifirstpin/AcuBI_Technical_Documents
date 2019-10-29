@@ -73,7 +73,7 @@ Under Schedule Job Window, Enter Below details;
 
 - <b>Start delay:</b> enter time delay to run the file
 
-- <b>Schedule:</b> 
+- <b>Schedule:</b>  A schema for carrying out a process or a procedure.
 
    - <b>None:</b> Runs immediately
    
@@ -260,11 +260,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzM4NTA1OSwxNzM5MzgzNjA1LC0zND
-g4ODk3MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2
-MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMC
-wxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3
-NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC
-0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjky
-MjgwNDc3XX0=
+eyJoaXN0b3J5IjpbLTIxMjEwMTk5OTAsMTczOTM4MzYwNSwtMz
+Q4ODg5NzMwLC0xNzkwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1
+NjE3OCwxNzUzMjgwODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MT
+AsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQy
+NzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NC
+wtMTE2MTEzNjg0OCwxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5
+MjI4MDQ3N119
 -->
