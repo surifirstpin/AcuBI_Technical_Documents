@@ -95,6 +95,13 @@ To delete the project created hit the  <b>Delete </b> icon, on far right of the 
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
  <b><Font color = " black">Image 7</font></b>
 
+## Existing Projects and Views
+
+To view and access the existing projects and views, click on <b>projects</b> on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Model_image12.png)
+<b><Font color = " black">Image 8</font></b>
+
 ## Model and Customization
 
 After saving a project, AcuBi will display the views and relevant information of the project as a <b>Model</b>, which can be further customized as per the business requirement. 
@@ -109,7 +116,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
- <b><Font color = " black">Image 8</font></b>
+ <b><Font color = " black">Image 9</font></b>
 
 <b>7.</b>  To hide and un-hide model and views list click on <b>Angle double left</b> and <b>Angle double right</b> Icon.
 
@@ -120,7 +127,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 10</font></b>
 
 <b><i><u>Customization for a model can be carried out in following ways :</u></i></b>
 
@@ -727,23 +734,19 @@ To carryout maps under visualization you need to derive the data fields in Model
 |  Congo (Brazzaville) | COG |  | Heard and Mcdonald Islands | HMD |  | Mongolia | MNG |  | Solomon Islands | SLB |  | Zimbabwe | ZWE |
 |  Cook Islands | COK |  | Honduras | HND |  | Northern Mariana Islands | MNP |  | Sierra Leone | SLE |  
 
-## Existing Projects and Views
 
-To view and access the existing projects and views, click on <b>projects</b> on top right of the screen, it will display number of projects created. All the tables added for a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Model_image12.png)
-<b><Font color = " black">Image 12</font></b>
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMT
-M4Njk5MSw3NTMxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4
-NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MD
-cyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwy
-MDEyMjY0NDU4LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2Nj
-Y4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMl19
+eyJoaXN0b3J5IjpbMzI4ODk5MTIwLDEwMzcxMDIxMTQsLTk2OT
+gxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgs
+ODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMj
+UzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3
+NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0LC0xMDQ3OT
+k0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMTA3NTA2XX0=
 
 -->
