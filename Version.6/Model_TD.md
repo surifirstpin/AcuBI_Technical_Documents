@@ -455,7 +455,7 @@ To enable grouping option for dashboard filters. Derive the following expression
 "summary": "",
 "visualise": "true",
 "time_frame_grouping":true
-},
+}
 
 ```
 
@@ -744,11 +744,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjAyMDcwMywtMTQ0MjM1NzY1MCwxMD
-M3MTAyMTE0LC05Njk4MTE3OSwxODMxMzg2OTkxLDc1MzE1Mzg2
-LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4NiwtMTU2ND
-Q0Mjc3MiwxODU1MDI1MzE2LDY2MDcwNzI0LC02OTc2OTg2Njcs
-LTM3NjM0ODkyMSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgsMTIzMD
-Q4OTU5NCwtMTA0Nzk5NDE1MCwzNDY2NjgzOTYsMzAxMjU5MTM0
+eyJoaXN0b3J5IjpbMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0ND
+IzNTc2NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5
+MSw3NTMxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NT
+U1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MDcyNCwt
+Njk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwyMDEyMj
+Y0NDU4LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2NjY4Mzk2
 XX0=
 -->
