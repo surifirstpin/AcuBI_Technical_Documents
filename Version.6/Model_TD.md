@@ -633,6 +633,7 @@ Maps enables users to visualize the geographic data on reactive and interactive 
 To carryout maps under visualization you need to derive the data fields in Model Section initially.
 
  <b>For Model, Views and for a specific field the map co-ordinates may be assigned as follows :</b>
+
 ```
 {
 "name": "Field",
@@ -751,11 +752,11 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgzNjE0NzEsNzUzMTUzODYsLTEwMT
-EwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcy
-LDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2Mz
-Q4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0
-LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNTkxMzQsODMxMT
-A3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxLC03MjU4NTcwOTdd
-fQ==
+eyJoaXN0b3J5IjpbMTgzMTM4Njk5MSw3NTMxNTM4NiwtMTAxMT
+AzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODYsLTE1NjQ0NDI3NzIs
+MTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Njk4NjY3LC0zNzYzND
+g5MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4LDEyMzA0ODk1OTQs
+LTEwNDc5OTQxNTAsMzQ2NjY4Mzk2LDMwMTI1OTEzNCw4MzExMD
+c1MDYsLTc3MjMxODUzMiwxNTQ5MTM3MzEsLTcyNTg1NzA5N119
+
 -->
