@@ -73,7 +73,7 @@ Under Schedule Job Window, Enter Below details;
 
 - <b>Start delay:</b> enter time delay to run the file
 
-- <b>Schedule:</b>
+- <b>Schedule:</b> 
 
    - <b>None:</b> Runs immediately
    
@@ -260,11 +260,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczOTM4MzYwNSwtMzQ4ODg5NzMwLC0xNz
-kwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1NjE3OCwxNzUzMjgw
-ODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2NTkxMTA4MS
-wxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQyNzUxMDA1OCw5NjM4
-NDQxOTgsNDMzMDEwNTE0LDU1NDE0MDk3NCwtMTE2MTEzNjg0OC
-wxMzg5NTYxODQ5LDQ0OTc2NDM1OSwtMTI5MjI4MDQ3NywzODMz
-MjEyNjJdfQ==
+eyJoaXN0b3J5IjpbLTg5NzM4NTA1OSwxNzM5MzgzNjA1LC0zND
+g4ODk3MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2
+MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMC
+wxNzY1OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3
+NTEwMDU4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC
+0xMTYxMTM2ODQ4LDEzODk1NjE4NDksNDQ5NzY0MzU5LC0xMjky
+MjgwNDc3XX0=
 -->
