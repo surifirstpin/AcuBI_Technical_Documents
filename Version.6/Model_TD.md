@@ -50,7 +50,7 @@ A model is a customized gateway into the database for accessing data as per busi
 <b>2.</b> <b>Auto Build Joins: (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
 
-<b> Note: </b> You can add auto build joins only
+<b> Note: </b>  Auto build joins are added only while creating a project.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/a7917cd2c9ad40f7abbfe85519a69bc3e9a8af45/images/New_version5/TD_Model_image4.png)
@@ -755,7 +755,7 @@ Deleting project will permanently removes project from database. To carryout del
  <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MzYyMTUxNCwxODMxMzg2OTkxLDc1Mz
+eyJoaXN0b3J5IjpbMTIwNDQ2Mzc4OCwxODMxMzg2OTkxLDc1Mz
 E1Mzg2LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4Niwt
 MTU2NDQ0Mjc3MiwxODU1MDI1MzE2LDY2MDcwNzI0LC02OTc2OT
 g2NjcsLTM3NjM0ODkyMSwxNzU5MTUxMDM0LDIwMTIyNjQ0NTgs
