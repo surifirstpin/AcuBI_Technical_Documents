@@ -733,32 +733,17 @@ To view and access the existing projects and views, click on <b>projects</b> on 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Model_image12.png)
 <b><Font color = " black">Image 12</font></b>
-## Edit Project
 
-To edit existing projects, navigate to projects screen. Select the project you would like to edit, then click on edit button.
-You can rename the project created, insert more tables into already existing projects as show in the below image.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image14.png)
-  <b><Font color = " black">Image 13</font></b>
 
-Insert customers table in to the project by selecting the <b>checkbox for customers</b> then click on <b>update</b> button to save the changes made. 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2a21a58152ada796341922c68e679c76c5439738/images/New_version5/TD_Model_image15.png)
- <b><Font color = " black">Image 14</font></b>
-
-## Deleting Project
-
-Deleting project will permanently removes project from database. To carryout deletion click on <b>Delete Icon</b>  available next to project list. It will pop-up a message showing to delete the file permanently Click <b>Delete</b> or else click <b>NO</b>.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36a7a84c63ef73e78438dacc53fee55281c99487/images/New_version5/TD_Model_image16.png)
- <b><Font color = " black">Image 15</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTgxMTc5LDE4MzEzODY5OTEsNzUzMT
-UzODYsLTEwMTEwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0x
-NTY0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5OD
-Y2NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwx
-MjMwNDg5NTk0LC0xMDQ3OTk0MTUwLDM0NjY2ODM5NiwzMDEyNT
-kxMzQsODMxMTA3NTA2LC03NzIzMTg1MzIsMTU0OTEzNzMxXX0=
+eyJoaXN0b3J5IjpbMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMT
+M4Njk5MSw3NTMxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4
+NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MD
+cyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwy
+MDEyMjY0NDU4LDEyMzA0ODk1OTQsLTEwNDc5OTQxNTAsMzQ2Nj
+Y4Mzk2LDMwMTI1OTEzNCw4MzExMDc1MDYsLTc3MjMxODUzMl19
 
 -->
