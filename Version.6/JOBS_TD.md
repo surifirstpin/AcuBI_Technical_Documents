@@ -151,7 +151,7 @@ Similarly, for <b>Task Type:  Email Report.</b>
 
 ## Job task type ( Query Sync Full)
 
-under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
+Under this task type data is transmitted from source to target destination, this transmitted data can be edited, updated, deleted and truncated permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE10.png)
  <b><font color = "Black" >Image 9</font></b>
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY1ODI3NDcwLDkyMTM1NDg0MCw3MjUxOD
-AxMDEsLTEyNDcyNDA2NTMsLTIxMjEwMTk5OTAsMTczOTM4MzYw
-NSwtMzQ4ODg5NzMwLC0xNzkwMDc2NzAyLC05MzMzNDM1MTksMT
-Y3ODM1NjE3OCwxNzUzMjgwODYzLC0xNTgyMDc5MzY5LDE4OTg4
-ODQ1MTAsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNT
-QsMTQyNzUxMDA1OCw5NjM4NDQxOTgsNDMzMDEwNTE0LDU1NDE0
-MDk3NF19
+eyJoaXN0b3J5IjpbMjA2NjI4MTU4MiwyNjU4Mjc0NzAsOTIxMz
+U0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1MywtMjEyMTAxOTk5
+MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLTE3OTAwNzY3MDIsLT
+kzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIw
+NzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2Mz
+MsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMw
+MTA1MTRdfQ==
 -->
