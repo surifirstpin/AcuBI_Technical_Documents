@@ -136,7 +136,8 @@ Similarly for task type <b>Email Report.</b>
 - <b>Report Layout</b>: Select the report layout using drop down list.
 
 ![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
- <b><font color = "Black" >Image 7</font></b>
+
+ <b><font color = "Black" >Image 8</font></b>
 
 - <b>Report Width:</b> choose report from drop down list ( large,medium and small)
 
@@ -264,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMT
-IxMDE5OTkwLDE3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3
-NjcwMiwtOTMzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2My
-wtMTU4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5
-MDQyODYzMywtMjkxNzUxMjU0LDE0Mjc1MTAwNTgsOTYzODQ0MT
-k4LDQzMzAxMDUxNCw1NTQxNDA5NzQsLTExNjExMzY4NDgsMTM4
-OTU2MTg0OV19
+eyJoaXN0b3J5IjpbOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0Nz
+I0MDY1MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3
+MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2MTc4LD
+E3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNzY1
+OTExMDgxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMD
+U4LDk2Mzg0NDE5OCw0MzMwMTA1MTQsNTU0MTQwOTc0LC0xMTYx
+MTM2ODQ4XX0=
 -->
