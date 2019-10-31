@@ -66,7 +66,7 @@ To share the specific content with set of people in the organisation.
 
 <b><i>Steps to create a new Group:</i></b>
 
-><b>Navigation :</b> Settings → Groups → Add Group**
+><b>Navigation :</b> Settings → Groups → Add Group
 
 <b><i>Enter the below information :</i></b>
 
@@ -109,6 +109,6 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 [Global Functions](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Global_Functions)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzQ1MDc3OCwxNDMzMTQ3MTY2LDkxMz
-Y5ODMzM119
+eyJoaXN0b3J5IjpbMTUwODc3NTk0LDExNDc0NTA3NzgsMTQzMz
+E0NzE2Niw5MTM2OTgzMzNdfQ==
 -->
