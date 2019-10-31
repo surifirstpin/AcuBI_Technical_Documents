@@ -102,6 +102,10 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 <b> <font color = "Black">  Image 6 </font> </b>
 
 > <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly in separate sections.
+
+Global Parameters 
+[Global Parameters](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Global_Parameters_TD)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzE0NzE2Niw5MTM2OTgzMzNdfQ==
+eyJoaXN0b3J5IjpbNDQ2MDg0MDkwLDE0MzMxNDcxNjYsOTEzNj
+k4MzMzXX0=
 -->
