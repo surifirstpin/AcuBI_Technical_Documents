@@ -101,7 +101,7 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/34f271bf782d072db5192b52b67c19f8d364c993/images/New_version5/TD_Settings_6.png)
 <b> <font color = "Black">  Image 6 </font> </b>
 
-> <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly in separate sections.
+> <b> Note :</b> <b>Global Functions</b> and <b>Global parameters</b> are discussed briefly as separate sections.
 
 
 [Global Parameters](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Global_Parameters_TD)
@@ -109,6 +109,6 @@ To change the password, Click on *Reset Password*, it will navigate to reset pas
 [Global Functions](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Global_Functions)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY4MzEyOSwxNDMzMTQ3MTY2LDkxMz
+eyJoaXN0b3J5IjpbMTE0NzQ1MDc3OCwxNDMzMTQ3MTY2LDkxMz
 Y5ODMzM119
 -->
