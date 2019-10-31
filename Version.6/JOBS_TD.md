@@ -83,7 +83,7 @@ Under Schedule Job Window, Enter Below details;
    
    - <b>Repeat after completion with delay:</b> schedule run once again with specified time delay
    
-   - <b>Cron expression:</b> it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
+   - <b>Cron Expression:</b> it is a string consisting of 6 or 7 fields that describe individual details of the schedule. that represents a schedule. These fields, separated by white space, can contain any of the allowed values with various combinations of the allowed characters for that field.
    
 ><b>For instance:</b>
  ( ' 0 0 0 * * * ' ) is a daily schedule, because it matches combinations of date and time where seconds, minutes and hours are 0. If you change the hours field to 8, (' 0 0 0 8 * * * '),  your string represents every day at 8:00 AM.
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjI4MTU4MiwyNjU4Mjc0NzAsOTIxMz
-U0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1MywtMjEyMTAxOTk5
-MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLTE3OTAwNzY3MDIsLT
-kzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIw
-NzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMDgxLDE4OTA0Mjg2Mz
-MsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2Mzg0NDE5OCw0MzMw
-MTA1MTRdfQ==
+eyJoaXN0b3J5IjpbLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNj
+U4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1
+MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLT
+E3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMy
+ODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMD
+gxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2
+Mzg0NDE5OF19
 -->
