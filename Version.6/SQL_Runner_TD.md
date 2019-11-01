@@ -94,7 +94,7 @@ To get started with derived view, Click on list icon and select create derived v
     
 -   <b>Field List</b>  On selecting the dialects all the fields used in query are reflected here.
         
--   Click on  <b>Create,</b>  to create a new custom view.
+-   Click on  <b>Create,</b>  to create a new derived view.
     
     
    
@@ -139,7 +139,9 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
 <b><Font color = " black">Image 11</font></b>
+
+Click on Play icon to under tagged section to re
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODkwNzMzNDMsMzgwNDMwOTg1LDE3Mj
-E4NjE5NjMsMjU2MzA4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbLTg2NTE5NjkzLDM4MDQzMDk4NSwxNzIxOD
+YxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
 -->
