@@ -135,15 +135,17 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccf284a91a406cad5b295159df179f06483cd6ee/images/New_version5/TD_SQL_IMAGE12.png)
 <b><Font color = " black">Image 11</font></b>
 
-
-<b>7.</b> Click <b>Delete</b> icon under tagged list to delete tag.
-
 The resultant.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
 <b><Font color = " black">Image 12</font></b> 
+
+<b>7.</b> Click <b>Delete</b> icon under tagged list to delete Query.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/213b58e85e4f6c5b77ac3d24f9a3d6951cc714ac/images/New_version5/TD_SQL_IMAGE14.png)
+<b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTExMz
-k3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2Mywy
-NTYzMDg5MzQsODU3OTA2NTg4XX0=
+eyJoaXN0b3J5IjpbLTI2NzM3Njc2Niw1NTA5NzY0MTYsNjMxNT
+k4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MDQzMDk4NSwx
+NzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
 -->
