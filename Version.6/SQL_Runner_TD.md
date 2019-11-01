@@ -43,12 +43,12 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cc6726e8dbfc000869585b981af2b09437a7e149/images/New_version5/TD_SQL_Image4.png)
 
- <b><Font color = " black">Image 4</font></b>
+ <b><Font color = " black">Image 3</font></b>
 
 ###  Sorting Query Result
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
- <b><Font color = " black">Image 5</font></b>
+ <b><Font color = " black">Image 4</font></b>
 
 <b>1.</b> Local Sorting can be applied directly to the data header in the result section. To enable this click on the desired field header to enable sorting.
 
@@ -72,7 +72,7 @@ To get started with derived view, Click on list icon and select create derived v
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/046dbed3d1d2595b7250ed3e1c4b57ef06d76ae2/images/New_version5/TD_SQL_Image5.png)
 
- <b><Font color = " black">Image 6</font></b>
+ <b><Font color = " black">Image 5</font></b>
 
 <b>Enter the below fields :</b>
 
@@ -90,13 +90,13 @@ To get started with derived view, Click on list icon and select create derived v
    
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b52a0977e50ba9bf53688b5eec4c52bd9ee25087/images/New_version5/TD_SQL_Image8.png)
 
- <b><Font color = " black">Image 7</font></b>
+ <b><Font color = " black">Image 6</font></b>
 
 To view the newly created derived view. Navigate to Model section under the view list as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cb8656e408f910d26846ad3382689421ae2e644/images/New_version5/TD_SQL_IMAGE11.png)
 
- <b><Font color = " black">Image 8</font></b>
+ <b><Font color = " black">Image 7</font></b>
 
 ## Tagged
 
@@ -107,7 +107,7 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 <b>5.</b> Click on <b>Tag</b>  tab, it will pop up create query Tag window :
 
 ![Image 9](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 8</font></b>
 
 <b><i>Enter Below Information :</i></b>
 
@@ -122,25 +122,25 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 -    Hit  <b>Create Tag button.</b>
  
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
- <b><Font color = " black">Image 10</font></b>
+ <b><Font color = " black">Image 9</font></b>
 
 
 -   All created tags are visible under <b>Tagged Section.</b>
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
-<b><Font color = " black">Image 11</font></b>
+<b><Font color = " black">Image 10</font></b>
 
 Click on <b>Play icon</b> under tagged section to recall the saved tagged query.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE12.png)
-<b><Font color = " black">Image 12</font></b>
+<b><Font color = " black">Image 11</font></b>
 
 The resultant.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
-<b><Font color = " black">Image 13</font></b> 
+<b><Font color = " black">Image 12</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTgwODg5OSwtMjExMTM5NzEyOCw4OD
-U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
-LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1OD
+Q3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4
+NTc5MDY1ODhdfQ==
 -->
