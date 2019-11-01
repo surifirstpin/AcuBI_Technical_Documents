@@ -36,26 +36,16 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 - Total <b>Numbers of Rows</b> fetched is displayed at the bottom of the screen.
 
 -  A maximum  <b>Record limit</b>  of 5000 can be fetched at a time.
-
-### Create SQL Query in Reports
-
-- Navigate to Reports section, create desired report and copy paste sql query from SQL section(Reports) to SQL Runner.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d49ce2fb758653d913874a2b3de20c2d788646fd/images/New_version5/TD_SQL_Image3.png) 
- <b><Font color = " black">Image 3</font></b>
-
--   Copy paste sql query from reports section to SQL Runner.
     
-- Hit the <b>Run</b> button, You can also customize the text as per your business needs and re-run the new query.
-    
-### SQL Runner History
+## SQL Runner History
 
 To view the recent run-history and to re-run them, click on history tab available at the top right of the SQL query area. history section displays all the query run on SQL runner. <b>Green color</b> indicates query is successful and<b> Red color</b> indicates unsuccessful query due to the error.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cc6726e8dbfc000869585b981af2b09437a7e149/images/New_version5/TD_SQL_Image4.png)
-**Image 4**
 
-## Sorting Query Result
+ <b><Font color = " black">Image 4</font></b>
+
+###  Sorting Query Result
 
 ![Image 5](https://raw.githubusercontent.com/sv18042016/fp1/7ce6cf259173da9056f59348c70d063764c1ba85/images/New_version5/TD_SQL_Image4.png)
  <b><Font color = " black">Image 5</font></b>
@@ -74,7 +64,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 <b>4.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
-### Derived View
+## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
 
@@ -150,7 +140,7 @@ The resultant.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MD
-QzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhd
-fQ==
+eyJoaXN0b3J5IjpbLTg1OTgwODg5OSwtMjExMTM5NzEyOCw4OD
+U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
+LDg1NzkwNjU4OF19
 -->
