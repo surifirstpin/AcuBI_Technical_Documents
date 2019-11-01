@@ -135,12 +135,15 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccf284a91a406cad5b295159df179f06483cd6ee/images/New_version5/TD_SQL_IMAGE12.png)
 <b><Font color = " black">Image 11</font></b>
 
+
+<b>7.</b> Click <b>Delete</b> icon under tagged list to delete tag.
+
 The resultant.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
 <b><Font color = " black">Image 12</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjI3NzcxODcsNjMxNTk4MTYsLTIxMT
-EzOTcxMjgsODg1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYz
-LDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTExMz
+k3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2Mywy
+NTYzMDg5MzQsODU3OTA2NTg4XX0=
 -->
