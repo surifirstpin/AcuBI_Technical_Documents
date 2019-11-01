@@ -140,8 +140,10 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
 <b><Font color = " black">Image 11</font></b>
 
-Click on Play icon to under tagged section to re
+Click on Play icon to under tagged section to recall the saved tagged query.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTE5NjkzLDM4MDQzMDk4NSwxNzIxOD
+eyJoaXN0b3J5IjpbODg1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxOD
 YxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
 -->
