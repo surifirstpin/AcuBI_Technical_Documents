@@ -130,9 +130,9 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
 <b><Font color = " black">Image 10</font></b>
 
-Click on <b>Play icon</b> under tagged section to recall the saved tagged query.
+<b>6.</b> Click on <b>Play icon</b> under tagged section to recall the saved tagged query.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE12.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccf284a91a406cad5b295159df179f06483cd6ee/images/New_version5/TD_SQL_IMAGE12.png)
 <b><Font color = " black">Image 11</font></b>
 
 The resultant.
@@ -140,7 +140,7 @@ The resultant.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
 <b><Font color = " black">Image 12</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1OD
-Q3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4
-NTc5MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbLTEzNjI3NzcxODcsNjMxNTk4MTYsLTIxMT
+EzOTcxMjgsODg1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYz
+LDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
 -->
