@@ -109,7 +109,8 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![Image 9](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
  <b><Font color = " black">Image 8</font></b>
 
-<b><i>Enter Below Information :</i></b>
+
+<b><i>Under Tag section, enter below information :</i></b>
 
 - <b>Tag Name</B>  Enter tag name
 
@@ -120,10 +121,13 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 - <b>Info</b>  enter query tag information.
 
 -    Hit  <b>Create Tag button.</b>
- 
+
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
  <b><Font color = " black">Image 9</font></b>
 
+
+
+ 
 
 -   All created tags are visible under <b>Tagged Section.</b>
 
@@ -146,8 +150,8 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMj
-Y3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEy
-OCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2Mz
-A4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMz
+Q3NDQxMzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2
+LC0yMTExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMT
+g2MTk2MywyNTYzMDg5MzQsODU3OTA2NTg4XX0=
 -->
