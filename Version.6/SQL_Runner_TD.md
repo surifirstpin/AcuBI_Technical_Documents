@@ -143,10 +143,11 @@ The resultant.
 <b>7.</b> Click <b>Delete</b> icon under tagged list to delete Query.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/213b58e85e4f6c5b77ac3d24f9a3d6951cc714ac/images/New_version5/TD_SQL_IMAGE14.png)
+
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NT
-A5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3
-LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MD
-Y1ODhdfQ==
+eyJoaXN0b3J5IjpbLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMj
+Y3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEy
+OCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2Mz
+A4OTM0LDg1NzkwNjU4OF19
 -->
