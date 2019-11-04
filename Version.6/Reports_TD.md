@@ -330,7 +330,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 			"show_drill_down_measures": "true",
 			"visualise": "true"
 		
-		},
+		}
 ```
 
 
@@ -368,11 +368,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMD
-E1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3
-MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OT
-YsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0
-MTQxODQyNzQsLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMDA2NT
-E4NzEsMTUxNjk2ODEzMCw4MTY3MTY4NDksLTExNTA4NjMxMjcs
-LTY2MTU0NzcwN119
+eyJoaXN0b3J5IjpbNDY3NDMxNzM5LDE2NjYyNDI5NzksLTE2OD
+g1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MDg3MywxNzEzMzAx
+MjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC
+0xMDg5NTMxOTk2LC0xMDU4OTExNjkwLDU4OTY2MjM3NSwtNDcx
+Mjk3OTA5LC0xNDE0MTg0Mjc0LC0xMTQxNTMxNzcsLTEwNjE3ND
+k1MDMsMTAwNjUxODcxLDE1MTY5NjgxMzAsODE2NzE2ODQ5LC0x
+MTUwODYzMTI3XX0=
 -->
