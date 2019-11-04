@@ -6,7 +6,7 @@
 Using SQL Runner, you can directly access the database and clout it in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema.  <b>Run</b> pre-written SQL queries and view the query run history. at the same time create your customs views here and perform useful task with them in model section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f127fd40abc4d77b566dd8186cea91b69a9bfd25/images/New_version5/TD_SQL_Image1.png)
- <b><Font color = " black">Image 1</font></b>
+ <b><Font color = " black">Image 1</font></b>0
 
 <b>Ways to create SQL queries in AcuBi</b>
 
@@ -145,7 +145,8 @@ The resultant.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/213b58e85e4f6c5b77ac3d24f9a3d6951cc714ac/images/New_version5/TD_SQL_IMAGE14.png)
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NzM3Njc2Niw1NTA5NzY0MTYsNjMxNT
-k4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MDQzMDk4NSwx
-NzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NT
+A5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3
+LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MD
+Y1ODhdfQ==
 -->
