@@ -105,7 +105,7 @@ The undo functions reverse the action performed earlier.
 
 ## Rows
 
-Displays number of rows fetched after running a report.
+Displays number of rows fetched after hitting a run button.
 
 ## Derived View
 
@@ -193,7 +193,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODgzNDM4LC0yMDQ5NjY4NjQzLC0yMD
+eyJoaXN0b3J5IjpbNDgyMDAxMDI3LC0yMDQ5NjY4NjQzLC0yMD
 A5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4NzM4LC0xNzEzMTg2
 ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC
 00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5
