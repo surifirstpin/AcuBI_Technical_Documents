@@ -160,7 +160,7 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 <b>5.</b> Click on <b>Tag</b>  tab, it will pop up create query Tag window :
 
 ![Image 9](https://raw.githubusercontent.com/sv18042016/fp1/1fea7f40bc70240194a4aeff0d4e11d2d69bcbfe/images/New_version5/TD_SQL_Image6.png)
- <b><Font color = " black">Image 8</font></b>
+ <b><Font color = " black">Image 15</font></b>
 
 
 <b><i>Under Tag section, enter below information :</i></b>
@@ -176,7 +176,7 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 -    Hit  <b>Create Tag button.</b>
 
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 16</font></b>
 
 
 
@@ -185,29 +185,29 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 -   All created tags are visible under <b>Tagged Section.</b>
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
-<b><Font color = " black">Image 10</font></b>
+<b><Font color = " black">Image 17</font></b>
 
 <b>6.</b> Click on <b>Play icon</b> under tagged section to recall the saved tagged query.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ccf284a91a406cad5b295159df179f06483cd6ee/images/New_version5/TD_SQL_IMAGE12.png)
-<b><Font color = " black">Image 11</font></b>
+<b><Font color = " black">Image 18</font></b>
 
 The resultant.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
-<b><Font color = " black">Image 12</font></b> 
+<b><Font color = " black">Image 19</font></b> 
 
 <b>7.</b> Click <b>Delete</b> icon under tagged list to delete Query.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/213b58e85e4f6c5b77ac3d24f9a3d6951cc714ac/images/New_version5/TD_SQL_IMAGE14.png)
 
-<b><Font color = " black">Image 13</font></b> 
+<b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzQ2NDI3OCw0ODIwMDEwMjcsLTIwND
-k2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3
-MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LD
-E5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3
-Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOC
-w4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4
-OTM0XX0=
+eyJoaXN0b3J5IjpbLTE3OTk4NDIzODcsNDgyMDAxMDI3LC0yMD
+Q5NjY4NjQzLC0yMDA5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4
+NzM4LC0xNzEzMTg2ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1Ni
+wxOTYzMzg3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2
+NzM3Njc2Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMj
+gsODg1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMw
+ODkzNF19
 -->
