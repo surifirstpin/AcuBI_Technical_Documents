@@ -68,7 +68,9 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 Structure displays entire information of the connections, schema, tables,  fields etc.
 
-## 
+## Content
+
+
 
 ## Derived View
 
@@ -156,9 +158,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTQ0NTE5NSwtNDY1MTY2NTU2LDE5Nj
-MzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2
-NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4OD
-U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
-LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbLTE4MDkwODY3MzIsLTQ2NTE2NjU1NiwxOT
+YzMzg3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3
+Njc2Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsOD
+g1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkz
+NCw4NTc5MDY1ODhdfQ==
 -->
