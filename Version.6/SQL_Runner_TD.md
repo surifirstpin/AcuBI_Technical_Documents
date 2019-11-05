@@ -101,10 +101,11 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 ## Undo, Redo
 
 The <b>redo</b> function restores any actions that have been previously performed.
-The undo functions 
+The undo functions reverse the action performed earlier.
 
 ## Rows
 
+Displays number of rows fetched after running a report.
 
 ## Derived View
 
@@ -192,11 +193,11 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjMwODExMTQsLTIwNDk2Njg2NDMsLT
-IwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMx
-ODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0ND
-EsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LDU1
-MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcxNj
-csMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0LDg1Nzkw
-NjU4OF19
+eyJoaXN0b3J5IjpbLTc5ODgzNDM4LC0yMDQ5NjY4NjQzLC0yMD
+A5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4NzM4LC0xNzEzMTg2
+ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC
+00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5
+NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LD
+M4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1
+ODhdfQ==
 -->
