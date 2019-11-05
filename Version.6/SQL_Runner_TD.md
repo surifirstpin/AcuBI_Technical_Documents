@@ -66,8 +66,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Exploring a Table Listed in SQL Runner
 
-
-## Structure
+StructureIn SQL Runner click the gear, and select the structure for the table in sql runner
 
 Structure displays entire information of the connections, schema, tables,  fields etc.
 
@@ -165,7 +164,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTIwODgyMiwtOTA5NjQ2NzQ1LC00Nj
+eyJoaXN0b3J5IjpbMTU3NTY5Njk5NSwtOTA5NjQ2NzQ1LC00Nj
 UxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQx
 Mzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMT
 ExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2
