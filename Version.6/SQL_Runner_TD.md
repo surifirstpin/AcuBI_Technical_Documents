@@ -94,11 +94,13 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 
-## Text Wrap
+## Text Wrap 
 
-Helps in text formatting.
+ Enables text formatting.
 
 ## Undo, Redo
+
+
 ## Rows
 
 
@@ -188,7 +190,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NzIwNTMxNiwtMjA0OTY2ODY0MywtMj
+eyJoaXN0b3J5IjpbMTUzODQyNTEzMywtMjA0OTY2ODY0MywtMj
 AwOTc2Mzg2NCwxODIzNTEwMDM1LDU1NDU3ODczOCwtMTcxMzE4
 NjgxNSwtOTA5NjQ2NzQ1LC00NjUxNjY1NTYsMTk2MzM4NzQ0MS
 wtNDAxMDAyMDQ2LC0xMzQ3NDQxMzg4LC0yNjczNzY3NjYsNTUw
