@@ -72,6 +72,9 @@ Structure displays entire information of the connections, schema, tables,  field
 
 Displays information about all the existing data in table.
 
+##  Relations
+
+Displays 
 
 ## Derived View
 
@@ -159,9 +162,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MTIwNzYsLTQ2NTE2NjU1NiwxOTYzMz
-g3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2
-Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1OD
-Q3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4
-NTc5MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbLTI1NzYyOTcyMiwtNDY1MTY2NTU2LDE5Nj
+MzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2
+NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4OD
+U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
+LDg1NzkwNjU4OF19
 -->
