@@ -95,6 +95,8 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 
 ## Text Wrap
+
+
 ## Undo, Redo
 ## Rows
 
@@ -185,10 +187,11 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMT
-gyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0
-Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0Ni
-wtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1
-OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LD
-E3MjE4NjE5NjMsMjU2MzA4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbLTIwMzQ3NDI4NTUsLTIwNDk2Njg2NDMsLT
+IwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMx
+ODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0ND
+EsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LDU1
+MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcxNj
+csMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0LDg1Nzkw
+NjU4OF19
 -->
