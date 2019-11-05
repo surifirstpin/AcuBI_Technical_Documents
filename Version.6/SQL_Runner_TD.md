@@ -82,7 +82,8 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_join.png)
 
-<b>8.</b> <b>Trigger</b>
+<b>8.</b> <b>Trigger</b>, displays actions performed on data.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_trigger.png)
 
 <b>9.</b> <b>Info</b> 
@@ -178,9 +179,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtND
-Y1MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0
-MTM4OCwtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMj
-ExMTM5NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5
-NjMsMjU2MzA4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbNTU0NTc4NzM4LC0xNzEzMTg2ODE1LC05MD
+k2NDY3NDUsLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC00MDEwMDIw
+NDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5NzY0MTYsNj
+MxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MDQzMDk4
+NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhdfQ==
 -->
