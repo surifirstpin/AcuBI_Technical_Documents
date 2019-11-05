@@ -94,6 +94,7 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 
+
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
@@ -180,10 +181,10 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MT
-MxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0
-NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LD
-U1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcx
-NjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0LDg1Nz
-kwNjU4OF19
+eyJoaXN0b3J5IjpbLTEzNDMwMTY3MDMsMTgyMzUxMDAzNSw1NT
+Q1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2
+NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OC
+wtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5
+NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMj
+U2MzA4OTM0LDg1NzkwNjU4OF19
 -->
