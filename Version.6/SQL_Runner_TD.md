@@ -76,9 +76,18 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 <b>6.</b> <b>Content,</b> displays information about all the existing data in table.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_content.png)
+
 <b> 7.</b> <b>Relations</b> displays the existing join conditions for table.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_join.png)
+
 <b>8.</b> <b>Trigger</b>
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_trigger.png)
+
 <b>9.</b> <b>Info</b> 
+
+
 <b>10.</b> <b> Count</b>, displays the count measure of the table.
 
 ## Derived View
@@ -167,7 +176,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTY3MTM3MSwtOTA5NjQ2NzQ1LC00Nj
+eyJoaXN0b3J5IjpbMTk5MzcwODcyNCwtOTA5NjQ2NzQ1LC00Nj
 UxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQx
 Mzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMT
 ExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2
