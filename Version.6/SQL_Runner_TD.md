@@ -12,7 +12,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
 
 <b>I.</b> Write SQL query from scratch and run the query.
 
- > <b>Note:</b> make sure the dialects used in SQL runner should match the database dialects.
+ > <b>Note:</b> make sure the dialects used in SQL runner should match the database dialects if not it displays error message.
     
 <b>II.</b> Create SQL query in Reports.
     
@@ -203,7 +203,7 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Njc4NDQ2MSwtMTc5OTg0MjM4Nyw0OD
+eyJoaXN0b3J5IjpbMTIxMTU3MDY2OCwtMTc5OTg0MjM4Nyw0OD
 IwMDEwMjcsLTIwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUx
 MDAzNSw1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NS
 wtNDY1MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0
