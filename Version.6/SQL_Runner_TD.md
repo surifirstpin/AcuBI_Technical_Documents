@@ -74,7 +74,7 @@ Displays information about all the existing data in table.
 
 ##  Relations
 
-Displays the existing join condo
+Displays the existing join conditions for table.
 
 ## Derived View
 
@@ -162,9 +162,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwMDA3NjQxLC00NjUxNjY1NTYsMTk2Mz
-M4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQxMzg4LC0yNjczNzY3
-NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTExMzk3MTI4LDg4NT
-g0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2MywyNTYzMDg5MzQs
-ODU3OTA2NTg4XX0=
+eyJoaXN0b3J5IjpbLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5Nj
+MzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2
+NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4OD
+U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
+LDg1NzkwNjU4OF19
 -->
