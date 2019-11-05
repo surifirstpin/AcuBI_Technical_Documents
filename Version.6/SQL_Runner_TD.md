@@ -66,9 +66,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Structure
 
-
-
-
+Structure displays entire information of the connections, schema, tables,  fields etc used in the 
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
@@ -155,9 +153,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC00MD
-EwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5NzY0
-MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MD
-QzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhd
-fQ==
+eyJoaXN0b3J5IjpbMzM0MzMzOTM0LC00NjUxNjY1NTYsMTk2Mz
+M4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQxMzg4LC0yNjczNzY3
+NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTExMzk3MTI4LDg4NT
+g0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2MywyNTYzMDg5MzQs
+ODU3OTA2NTg4XX0=
 -->
