@@ -86,9 +86,11 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_trigger.png)
 
 <b>9.</b> <b>Info</b> 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_info_image.png)
 
 <b>10.</b> <b> Count</b>, displays the count measure of the table.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 
 ## Derived View
 
@@ -176,9 +178,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MzcwODcyNCwtOTA5NjQ2NzQ1LC00Nj
-UxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQx
-Mzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMT
-ExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2
-MywyNTYzMDg5MzQsODU3OTA2NTg4XX0=
+eyJoaXN0b3J5IjpbLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtND
+Y1MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0
+MTM4OCwtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMj
+ExMTM5NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5
+NjMsMjU2MzA4OTM0LDg1NzkwNjU4OF19
 -->
