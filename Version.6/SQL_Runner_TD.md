@@ -66,7 +66,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Exploring a Table Listed in SQL Runner
 
-
+Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/TD_SQL_Image15.png)
 
@@ -167,7 +167,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODQxNTIyOCwtOTA5NjQ2NzQ1LC00Nj
+eyJoaXN0b3J5IjpbMTc0OTY3MTM3MSwtOTA5NjQ2NzQ1LC00Nj
 UxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQx
 Mzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMT
 ExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2
