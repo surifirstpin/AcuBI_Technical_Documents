@@ -64,11 +64,21 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 <b>4.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
+## Text Wrap 
+
+ Enables text formatting.
+
+## Undo, Redo
+
+The <b>redo</b> function restores any actions that have been previously performed.
+The <b>undo</b>, functions reverse the action performed earlier.
+
 ## Exploring a Table Listed in SQL Runner
 
 Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/TD_SQL_Image15.png)
+<b><Font color = " black">Image 5</font></b>
 
 <b>5.</b> In SQL Runner click the gear, and select the structure for the table in sql runner. <b> Structure</b> displays entire information of the connections, schema, tables,  fields etc.
 
@@ -94,14 +104,8 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 
-## Text Wrap 
 
- Enables text formatting.
 
-## Undo, Redo
-
-The <b>redo</b> function restores any actions that have been previously performed.
-The undo functions reverse the action performed earlier.
 
 ## Rows
 
@@ -193,11 +197,11 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMDAxMDI3LC0yMDQ5NjY4NjQzLC0yMD
-A5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4NzM4LC0xNzEzMTg2
-ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC
-00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5
-NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LD
-M4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1
-ODhdfQ==
+eyJoaXN0b3J5IjpbMjA2NDMwMzk2OSw0ODIwMDEwMjcsLTIwND
+k2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3
+MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LD
+E5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3
+Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOC
+w4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4
+OTM0XX0=
 -->
