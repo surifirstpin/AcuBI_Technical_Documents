@@ -64,6 +64,9 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 <b>4.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
+## Exploring a Table Listed in SQL Runner
+
+
 ## Structure
 
 Structure displays entire information of the connections, schema, tables,  fields etc.
@@ -162,9 +165,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5Nj
-MzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2
-NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4OD
-U4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0
-LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbMTA4OTIwODgyMiwtOTA5NjQ2NzQ1LC00Nj
+UxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQx
+Mzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMT
+ExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMTg2MTk2
+MywyNTYzMDg5MzQsODU3OTA2NTg4XX0=
 -->
