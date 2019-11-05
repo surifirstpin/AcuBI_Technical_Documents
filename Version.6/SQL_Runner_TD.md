@@ -64,6 +64,11 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 <b>4.</b> To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
+## Structure
+
+
+
+
 ## Derived View
 
 SQL Runner can create a derived view from the query build at the same time you can use this view in model section. the dialects used for creating a derived view should be same as in SQL runner.
@@ -150,8 +155,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMz
-Q3NDQxMzg4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2
-LC0yMTExMzk3MTI4LDg4NTg0NzE2NywzODA0MzA5ODUsMTcyMT
-g2MTk2MywyNTYzMDg5MzQsODU3OTA2NTg4XX0=
+eyJoaXN0b3J5IjpbLTQ2NTE2NjU1NiwxOTYzMzg3NDQxLC00MD
+EwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2Niw1NTA5NzY0
+MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1ODQ3MTY3LDM4MD
+QzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4NTc5MDY1ODhd
+fQ==
 -->
