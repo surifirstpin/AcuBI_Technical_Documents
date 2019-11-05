@@ -70,6 +70,7 @@ Structure displays entire information of the connections, schema, tables,  field
 
 ## Content
 
+Displays information about all the existing data in table.
 
 
 ## Derived View
@@ -158,9 +159,9 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDkwODY3MzIsLTQ2NTE2NjU1NiwxOT
-YzMzg3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3
-Njc2Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsOD
-g1ODQ3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkz
-NCw4NTc5MDY1ODhdfQ==
+eyJoaXN0b3J5IjpbMTA4MTIwNzYsLTQ2NTE2NjU1NiwxOTYzMz
+g3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Njc2
+Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1OD
+Q3MTY3LDM4MDQzMDk4NSwxNzIxODYxOTYzLDI1NjMwODkzNCw4
+NTc5MDY1ODhdfQ==
 -->
