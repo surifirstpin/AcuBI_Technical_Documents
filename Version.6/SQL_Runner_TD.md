@@ -84,26 +84,32 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_structure.png)
 
+<b><Font color = " black">Image 6</font></b>
+
 <b>6.</b> <b>Content,</b> displays information about all the existing data in table.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_content.png)
+<b><Font color = " black">Image 7</font></b>
 
 <b> 7.</b> <b>Relations</b> displays the existing join conditions for table.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_join.png)
+<b><Font color = " black">Image 8</font></b>
 
 <b>8.</b> <b>Trigger</b>, displays actions performed on data.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_trigger.png)
+<b><Font color = " black">Image 9</font></b>
 
 <b>9.</b> <b>Info</b> display entire information of the table being used.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_info_image.png)
+<b><Font color = " black">Image 10</font></b>
 
 <b>10.</b> <b> Count</b>, displays the count measure of the table.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
-
+<b><Font color = " black">Image 11</font></b>
 
 
 
@@ -119,7 +125,7 @@ To get started with derived view, Click on list icon and select create derived v
 
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/046dbed3d1d2595b7250ed3e1c4b57ef06d76ae2/images/New_version5/TD_SQL_Image5.png)
 
- <b><Font color = " black">Image 5</font></b>
+ <b><Font color = " black">Image 12</font></b>
 
 <b>Enter the below fields :</b>
 
@@ -137,13 +143,13 @@ To get started with derived view, Click on list icon and select create derived v
    
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b52a0977e50ba9bf53688b5eec4c52bd9ee25087/images/New_version5/TD_SQL_Image8.png)
 
- <b><Font color = " black">Image 6</font></b>
+ <b><Font color = " black">Image 13</font></b>
 
 To view the newly created derived view. Navigate to Model section under the view list as shown in below image.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3cb8656e408f910d26846ad3382689421ae2e644/images/New_version5/TD_SQL_IMAGE11.png)
 
- <b><Font color = " black">Image 7</font></b>
+ <b><Font color = " black">Image 14</font></b>
 
 ## Tagged
 
@@ -197,7 +203,7 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NDMwMzk2OSw0ODIwMDEwMjcsLTIwND
+eyJoaXN0b3J5IjpbLTk5MzQ2NDI3OCw0ODIwMDEwMjcsLTIwND
 k2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3
 MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LD
 E5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3
