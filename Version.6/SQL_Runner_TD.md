@@ -96,6 +96,7 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ## Text Wrap
 
+Helps in text formatting.
 
 ## Undo, Redo
 ## Rows
@@ -187,11 +188,11 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ3NDI4NTUsLTIwNDk2Njg2NDMsLT
-IwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMx
-ODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0ND
-EsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LDU1
-MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcxNj
-csMzgwNDMwOTg1LDE3MjE4NjE5NjMsMjU2MzA4OTM0LDg1Nzkw
-NjU4OF19
+eyJoaXN0b3J5IjpbMTE0NzIwNTMxNiwtMjA0OTY2ODY0MywtMj
+AwOTc2Mzg2NCwxODIzNTEwMDM1LDU1NDU3ODczOCwtMTcxMzE4
+NjgxNSwtOTA5NjQ2NzQ1LC00NjUxNjY1NTYsMTk2MzM4NzQ0MS
+wtNDAxMDAyMDQ2LC0xMzQ3NDQxMzg4LC0yNjczNzY3NjYsNTUw
+OTc2NDE2LDYzMTU5ODE2LC0yMTExMzk3MTI4LDg4NTg0NzE2Ny
+wzODA0MzA5ODUsMTcyMTg2MTk2MywyNTYzMDg5MzQsODU3OTA2
+NTg4XX0=
 -->
