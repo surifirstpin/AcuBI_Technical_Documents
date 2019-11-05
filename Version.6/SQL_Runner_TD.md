@@ -96,7 +96,7 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ## Text Wrap
 ## Undo, Redo
-# # 
+## Rows
 
 
 ## Derived View
@@ -185,10 +185,10 @@ The resultant.
 
 <b><Font color = " black">Image 13</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NT
-Q1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2
-NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OC
-wtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjExMTM5
-NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LDE3MjE4NjE5NjMsMj
-U2MzA4OTM0LDg1NzkwNjU4OF19
+eyJoaXN0b3J5IjpbLTIwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMT
+gyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0
+Njc0NSwtNDY1MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0Ni
+wtMTM0NzQ0MTM4OCwtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1
+OTgxNiwtMjExMTM5NzEyOCw4ODU4NDcxNjcsMzgwNDMwOTg1LD
+E3MjE4NjE5NjMsMjU2MzA4OTM0LDg1NzkwNjU4OF19
 -->
