@@ -16,7 +16,7 @@ Let us see in details how to configure visualization. Click on <b>Charts</b> tab
 
 ## Types of Visualization
 
-AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization have different setting which can be customized for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
+AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization chart has different customization option for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
 <b><font color = "Black"> Image 2</b>
@@ -546,7 +546,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc5MzkxOTQsLTEwMDQ2MTc2NjAsOT
+eyJoaXN0b3J5IjpbLTE5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOT
 AzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4
 MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNS
 wyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1
