@@ -71,6 +71,11 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 The <b>redo</b> function restores any actions that have been previously performed. The <b>undo</b>, functions reverse the action performed earlier.
 
+
+## Insert, Delete Truncate
+
+
+
 ## Exploring a Table Listed in SQL Runner
 
 Acubi enable user to explore the entire tables from SQL runner, as shown below
@@ -176,10 +181,6 @@ All the created tags are visible in tagged section.  <b>Follow the below steps t
 ![Image 10](https://raw.githubusercontent.com/sv18042016/fp1/f02a3a5d4407bbdc3cb6b1be6bd1654c6a7868a9/images/New_version5/TD_SQL_Image9.png)
  <b><Font color = " black">Image 16</font></b>
 
-
-
- 
-
 -   All created tags are visible under <b>Tagged Section.</b>
 
 ![Image 11](https://raw.githubusercontent.com/sv18042016/fp1/b3d9a0d4c9dd12b6dae1530c6f93a8ecd52be782/images/New_version5/TD_SQL_Image10.png)
@@ -201,11 +202,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2MjI0MTkwLDEwODk4NjQ0NzgsLTc3OD
-QxODE0MSwxMjExNTcwNjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAy
-NywtMjA0OTY2ODY0MywtMjAwOTc2Mzg2NCwxODIzNTEwMDM1LD
-U1NDU3ODczOCwtMTcxMzE4NjgxNSwtOTA5NjQ2NzQ1LC00NjUx
-NjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQxMz
-g4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTEx
-Mzk3MTI4XX0=
+eyJoaXN0b3J5IjpbMTAxODQzOTI2MCwxMDg5ODY0NDc4LC03Nz
+g0MTgxNDEsMTIxMTU3MDY2OCwtMTc5OTg0MjM4Nyw0ODIwMDEw
+MjcsLTIwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNS
+w1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1
+MTY2NTU2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MT
+M4OCwtMjY3Mzc2NzY2LDU1MDk3NjQxNiw2MzE1OTgxNiwtMjEx
+MTM5NzEyOF19
 -->
