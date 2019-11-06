@@ -72,7 +72,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 The <b>redo</b> function restores any actions that have been previously performed. The <b>undo</b>, functions reverse the action performed earlier.
 
 
-## Insert, Delete Truncate
+## Insert, delete, update, truncate & create
 
 
 
@@ -113,8 +113,6 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_count.png)
 <b><Font color = " black">Image 11</font></b>
-
-
 
 ## Rows
 
@@ -202,7 +200,7 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxODQzOTI2MCwxMDg5ODY0NDc4LC03Nz
+eyJoaXN0b3J5IjpbLTk4NjkzMzM2OSwxMDg5ODY0NDc4LC03Nz
 g0MTgxNDEsMTIxMTU3MDY2OCwtMTc5OTg0MjM4Nyw0ODIwMDEw
 MjcsLTIwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNS
 w1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1
