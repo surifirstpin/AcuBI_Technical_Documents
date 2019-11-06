@@ -213,7 +213,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
  <B><font color = " Black"> Image 17</font></b>
 
-In <b>Folder View</b>, on clicking on Settings Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
+In <b>Folder View</b>, on clicking on gear Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
 
 > <b>Note:</b> Tags are specific for editing, deleting and for thumbnail option.
 
@@ -276,11 +276,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTc5NDM0Niw2MjY0NTczNTQsMzYxNT
-M4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0
-LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMD
-A0ODY0LDE3MTM1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4
-OCwzMzczOTc5NTksLTE3MDk5ODUyOTAsLTE4NDUyMzQyMzIsLT
-E3MjI0MDE0NTcsMjA0Mzc5OTg5OCwtNzQ4MjcwODkxLC05ODgz
-NzkxNzVdfQ==
+eyJoaXN0b3J5IjpbMTc4NzU3ODU5MCwyMTA1Nzk0MzQ2LDYyNj
+Q1NzM1NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTks
+LTE0OTk0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MD
+kzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYw
+OCwtNzA5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMT
+g0NTIzNDIzMiwtMTcyMjQwMTQ1NywyMDQzNzk5ODk4LC03NDgy
+NzA4OTFdfQ==
 -->
