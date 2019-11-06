@@ -15,7 +15,7 @@ Using SQL Runner, you can directly access the database and clout it in variety o
  > <b>Note:</b> make sure the dialects used in SQL runner should match the database dialects if not it displays error message.
     
 
-### Steps to create SQL Query in SQL Runner
+### Steps to create SQL Query 
 
  Navigate to SQL runner by clicking on SQL Runner section.
  
@@ -202,11 +202,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODQxODE0MSwxMjExNTcwNjY4LC0xNz
-k5ODQyMzg3LDQ4MjAwMTAyNywtMjA0OTY2ODY0MywtMjAwOTc2
-Mzg2NCwxODIzNTEwMDM1LDU1NDU3ODczOCwtMTcxMzE4NjgxNS
-wtOTA5NjQ2NzQ1LC00NjUxNjY1NTYsMTk2MzM4NzQ0MSwtNDAx
-MDAyMDQ2LC0xMzQ3NDQxMzg4LC0yNjczNzY3NjYsNTUwOTc2ND
-E2LDYzMTU5ODE2LC0yMTExMzk3MTI4LDg4NTg0NzE2NywzODA0
-MzA5ODVdfQ==
+eyJoaXN0b3J5IjpbMTA4OTg2NDQ3OCwtNzc4NDE4MTQxLDEyMT
+E1NzA2NjgsLTE3OTk4NDIzODcsNDgyMDAxMDI3LC0yMDQ5NjY4
+NjQzLC0yMDA5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4NzM4LC
+0xNzEzMTg2ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1NiwxOTYz
+Mzg3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Nj
+c2Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1
+ODQ3MTY3XX0=
 -->
