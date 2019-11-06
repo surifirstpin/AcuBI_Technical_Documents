@@ -6,7 +6,7 @@
 Using SQL Runner, you can directly access the database and clout it in variety of ways. In SQL Runner you can easily set up the connection, and navigate the tables under your schema.  <b>Run</b> pre-written SQL queries and view the query run history. At the same time create your customs views here and perform useful task with them in model section.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f127fd40abc4d77b566dd8186cea91b69a9bfd25/images/New_version5/TD_SQL_Image1.png)
- <b><Font color = " black">Image 1</font></b>0
+ <b><Font color = " black">Image 1</font></b>
 
 <b>Ways to create SQL queries in AcuBi</b>
 
@@ -69,8 +69,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Undo, Redo
 
-The <b>redo</b> function restores any actions that have been previously performed.
-The <b>undo</b>, functions reverse the action performed earlier.
+The <b>redo</b> function restores any actions that have been previously performed. The <b>undo</b>, functions reverse the action performed earlier.
 
 ## Exploring a Table Listed in SQL Runner
 
@@ -202,11 +201,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTg2NDQ3OCwtNzc4NDE4MTQxLDEyMT
-E1NzA2NjgsLTE3OTk4NDIzODcsNDgyMDAxMDI3LC0yMDQ5NjY4
-NjQzLC0yMDA5NzYzODY0LDE4MjM1MTAwMzUsNTU0NTc4NzM4LC
-0xNzEzMTg2ODE1LC05MDk2NDY3NDUsLTQ2NTE2NjU1NiwxOTYz
-Mzg3NDQxLC00MDEwMDIwNDYsLTEzNDc0NDEzODgsLTI2NzM3Nj
-c2Niw1NTA5NzY0MTYsNjMxNTk4MTYsLTIxMTEzOTcxMjgsODg1
-ODQ3MTY3XX0=
+eyJoaXN0b3J5IjpbNzc2MjI0MTkwLDEwODk4NjQ0NzgsLTc3OD
+QxODE0MSwxMjExNTcwNjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAy
+NywtMjA0OTY2ODY0MywtMjAwOTc2Mzg2NCwxODIzNTEwMDM1LD
+U1NDU3ODczOCwtMTcxMzE4NjgxNSwtOTA5NjQ2NzQ1LC00NjUx
+NjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0xMzQ3NDQxMz
+g4LC0yNjczNzY3NjYsNTUwOTc2NDE2LDYzMTU5ODE2LC0yMTEx
+Mzk3MTI4XX0=
 -->
