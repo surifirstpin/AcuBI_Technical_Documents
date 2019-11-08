@@ -78,7 +78,8 @@ The <b>redo</b> function restores any actions that have been previously performe
 
 Acubi enable user to explore the entire tables from SQL runner, as shown below
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/TD_SQL_Image15.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c0bda34be7600e76152f42000afce40d0557287f/images/New_version5/TD_SQL_Image15.png)
+
 <b><Font color = " black">Image 5</font></b>
 
 <b>5.</b> In SQL Runner click the gear, and select the structure for the table in sql runner. <b> Structure</b> displays entire information of the connections, schema, tables,  fields etc.
@@ -197,11 +198,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNDc3NjU5MywtOTY3NjcyOTM5LDEwNT
-AyNDIxMDUsLTk4NjkzMzM2OSwxMDg5ODY0NDc4LC03Nzg0MTgx
-NDEsMTIxMTU3MDY2OCwtMTc5OTg0MjM4Nyw0ODIwMDEwMjcsLT
-IwNDk2Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1
-Nzg3MzgsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NT
-U2LDE5NjMzODc0NDEsLTQwMTAwMjA0NiwtMTM0NzQ0MTM4OCwt
-MjY3Mzc2NzY2XX0=
+eyJoaXN0b3J5IjpbLTgwNjM1NTI3NiwtOTA0Nzc2NTkzLC05Nj
+c2NzI5MzksMTA1MDI0MjEwNSwtOTg2OTMzMzY5LDEwODk4NjQ0
+NzgsLTc3ODQxODE0MSwxMjExNTcwNjY4LC0xNzk5ODQyMzg3LD
+Q4MjAwMTAyNywtMjA0OTY2ODY0MywtMjAwOTc2Mzg2NCwxODIz
+NTEwMDM1LDU1NDU3ODczOCwtMTcxMzE4NjgxNSwtOTA5NjQ2Nz
+Q1LC00NjUxNjY1NTYsMTk2MzM4NzQ0MSwtNDAxMDAyMDQ2LC0x
+MzQ3NDQxMzg4XX0=
 -->
