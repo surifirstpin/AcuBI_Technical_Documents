@@ -192,18 +192,18 @@ The resultant.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e5b86fc5839552dcfb820fbe31a379d3f506ba17/images/New_version5/TD_SQL_IMAGE13.png)
 <b><Font color = " black">Image 19</font></b> 
-z
+z	
 <b>7.</b> Click <b>Delete</b> icon under tagged list to delete Query.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/213b58e85e4f6c5b77ac3d24f9a3d6951cc714ac/images/New_version5/TD_SQL_IMAGE14.png)
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMjA4MDQ3MCwyMDA1NzA3ODEwLC04MD
-YzNTUyNzYsLTkwNDc3NjU5MywtOTY3NjcyOTM5LDEwNTAyNDIx
-MDUsLTk4NjkzMzM2OSwxMDg5ODY0NDc4LC03Nzg0MTgxNDEsMT
-IxMTU3MDY2OCwtMTc5OTg0MjM4Nyw0ODIwMDEwMjcsLTIwNDk2
-Njg2NDMsLTIwMDk3NjM4NjQsMTgyMzUxMDAzNSw1NTQ1Nzg3Mz
-gsLTE3MTMxODY4MTUsLTkwOTY0Njc0NSwtNDY1MTY2NTU2LDE5
-NjMzODc0NDFdfQ==
+eyJoaXN0b3J5IjpbNDAxMjExODU4LC05MDIwODA0NzAsMjAwNT
+cwNzgxMCwtODA2MzU1Mjc2LC05MDQ3NzY1OTMsLTk2NzY3Mjkz
+OSwxMDUwMjQyMTA1LC05ODY5MzMzNjksMTA4OTg2NDQ3OCwtNz
+c4NDE4MTQxLDEyMTE1NzA2NjgsLTE3OTk4NDIzODcsNDgyMDAx
+MDI3LC0yMDQ5NjY4NjQzLC0yMDA5NzYzODY0LDE4MjM1MTAwMz
+UsNTU0NTc4NzM4LC0xNzEzMTg2ODE1LC05MDk2NDY3NDUsLTQ2
+NTE2NjU1Nl19
 -->
