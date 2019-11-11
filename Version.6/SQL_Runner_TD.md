@@ -82,7 +82,7 @@ Acubi enable user to explore the entire tables from SQL runner, as shown below;
 
 <b><Font color = " black">Image 5</font></b>
 
-<b>5.</b> In SQL Runner click the gear, and select the structure for the table in sql runner. <b> Structure</b> displays entire information of the connections, schema, tables,  fields etc.
+<b>5.</b> In SQL Runner click the gear, and select the structure for the table in SQL runner. <b> Structure</b> displays entire information of the connections, schema, tables,  fields etc.
 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_structure.png)
@@ -199,11 +199,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNjUxOTg2MSwyMDA1NzA3ODEwLDQwMT
-IxMTg1OCwtOTAyMDgwNDcwLDIwMDU3MDc4MTAsLTgwNjM1NTI3
-NiwtOTA0Nzc2NTkzLC05Njc2NzI5MzksMTA1MDI0MjEwNSwtOT
-g2OTMzMzY5LDEwODk4NjQ0NzgsLTc3ODQxODE0MSwxMjExNTcw
-NjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAyNywtMjA0OTY2ODY0My
-wtMjAwOTc2Mzg2NCwxODIzNTEwMDM1LDU1NDU3ODczOCwtMTcx
-MzE4NjgxNV19
+eyJoaXN0b3J5IjpbLTE2OTQwODY2MTMsLTIzNjUxOTg2MSwyMD
+A1NzA3ODEwLDQwMTIxMTg1OCwtOTAyMDgwNDcwLDIwMDU3MDc4
+MTAsLTgwNjM1NTI3NiwtOTA0Nzc2NTkzLC05Njc2NzI5MzksMT
+A1MDI0MjEwNSwtOTg2OTMzMzY5LDEwODk4NjQ0NzgsLTc3ODQx
+ODE0MSwxMjExNTcwNjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAyNy
+wtMjA0OTY2ODY0MywtMjAwOTc2Mzg2NCwxODIzNTEwMDM1LDU1
+NDU3ODczOF19
 -->
