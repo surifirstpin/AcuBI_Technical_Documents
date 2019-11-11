@@ -76,7 +76,7 @@ The <b>redo</b> function restores any actions that have been previously performe
 
 ## Exploring a Table Listed in SQL Runner
 
-Acubi enable user to explore the entire tables from SQL runner, as shown below
+Acubi enable user to explore the entire tables from SQL runner, as shown below;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c0bda34be7600e76152f42000afce40d0557287f/images/New_version5/TD_SQL_Image15.png)
 
@@ -199,11 +199,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTcwNzgxMCw0MDEyMTE4NTgsLTkwMj
-A4MDQ3MCwyMDA1NzA3ODEwLC04MDYzNTUyNzYsLTkwNDc3NjU5
-MywtOTY3NjcyOTM5LDEwNTAyNDIxMDUsLTk4NjkzMzM2OSwxMD
-g5ODY0NDc4LC03Nzg0MTgxNDEsMTIxMTU3MDY2OCwtMTc5OTg0
-MjM4Nyw0ODIwMDEwMjcsLTIwNDk2Njg2NDMsLTIwMDk3NjM4Nj
-QsMTgyMzUxMDAzNSw1NTQ1Nzg3MzgsLTE3MTMxODY4MTUsLTkw
-OTY0Njc0NV19
+eyJoaXN0b3J5IjpbLTIzNjUxOTg2MSwyMDA1NzA3ODEwLDQwMT
+IxMTg1OCwtOTAyMDgwNDcwLDIwMDU3MDc4MTAsLTgwNjM1NTI3
+NiwtOTA0Nzc2NTkzLC05Njc2NzI5MzksMTA1MDI0MjEwNSwtOT
+g2OTMzMzY5LDEwODk4NjQ0NzgsLTc3ODQxODE0MSwxMjExNTcw
+NjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAyNywtMjA0OTY2ODY0My
+wtMjAwOTc2Mzg2NCwxODIzNTEwMDM1LDU1NDU3ODczOCwtMTcx
+MzE4NjgxNV19
 -->
