@@ -29,7 +29,7 @@ Navigate to <b><i>SQL Runner Section</i></b>-->Jobs-->Click <b><i>Create Job</b>
  
  - <b>Task Type:</b> Select task type using drop down list.
 
- ![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
+![Image 2](https://raw.githubusercontent.com/sv18042016/fp1/23513febf6e72c734c80e805c286346a21504fb4/images/New_version5/TD_JOBS_IMAGE2.png)
 
  <b><font color = "Black" >Image 2</font></b>
   
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1Nz
-EzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAs
-NzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3Mz
-kzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMzMzQz
-NTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3OTM2OS
-wxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5MDQyODYzMywtMjkx
-NzUxMjU0XX0=
+eyJoaXN0b3J5IjpbLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMD
+A0NDc4MCwtMTg1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3
+MCw5MjEzNTQ4NDAsNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMT
+IxMDE5OTkwLDE3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3
+NjcwMiwtOTMzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2My
+wtMTU4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5
+MDQyODYzM119
 -->
