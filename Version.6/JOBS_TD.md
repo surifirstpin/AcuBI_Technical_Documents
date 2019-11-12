@@ -100,7 +100,7 @@ Under Schedule Job Window, Enter Below details;
 
  - <b>Jobs to run after:</b> Select the job to run after your scheduled job.
  
- - <b>Tasks to run after():</b>
+ - <b>Tasks to run after ():</b>
  
      - <b>Sequential:</b> select sequential to run the jobs one after the other.
      
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyNzA3MTE4NCwtMTY3MDk1NzczOCw3Mj
-k0NjY1NDQsNDEwMDQ0NzgwLC0xODU3MTM4NTQ2LDIwNjYyODE1
-ODIsMjY1ODI3NDcwLDkyMTM1NDg0MCw3MjUxODAxMDEsLTEyND
-cyNDA2NTMsLTIxMjEwMTk5OTAsMTczOTM4MzYwNSwtMzQ4ODg5
-NzMwLC0xNzkwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1NjE3OC
-wxNzUzMjgwODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2
-NTkxMTA4MV19
+eyJoaXN0b3J5IjpbMTE1NTA4ODI0MiwtMzI3MDcxMTg0LC0xNj
+cwOTU3NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1
+NDYsMjA2NjI4MTU4MiwyNjU4Mjc0NzAsOTIxMzU0ODQwLDcyNT
+E4MDEwMSwtMTI0NzI0MDY1MywtMjEyMTAxOTk5MCwxNzM5Mzgz
+NjA1LC0zNDg4ODk3MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOS
+wxNjc4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5
+ODg4NDUxMF19
 -->
