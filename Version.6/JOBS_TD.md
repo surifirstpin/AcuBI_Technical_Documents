@@ -212,7 +212,6 @@ Enter following information;
 - <b>Field Mapping:</b> enable field mapping for source and target data.
 
 > <b>Note:</b> Schedule and Run the Job
-ki,gs,,,,e,
 
 ## Log
 
@@ -264,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTQzNjU4Nyw4OTIwOTQ1MjUsLTE3NT
-YxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzExODQsLTE2NzA5NTc3
-MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEzODU0NiwyMD
-Y2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAsNzI1MTgwMTAx
-LC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3MzkzODM2MDUsLT
-M0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMzMzQzNTE5LDE2Nzgz
-NTYxNzhdfQ==
+eyJoaXN0b3J5IjpbLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNz
+U2MTM5OTc4LDgwNzgxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3
+NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMj
+A2NjI4MTU4MiwyNjU4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEw
+MSwtMTI0NzI0MDY1MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC
+0zNDg4ODk3MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4
+MzU2MTc4XX0=
 -->
