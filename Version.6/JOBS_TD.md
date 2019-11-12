@@ -212,7 +212,7 @@ Enter following information;
 - <b>Field Mapping:</b> enable field mapping for source and target data.
 
 > <b>Note:</b> Schedule and Run the Job
-
+ki,gs,,,,e,
 ## Log
 
 <b>4.</b> Navigate to Log window by clicking on <b>Log</b> button to view execution status.
@@ -263,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMj
-cwNzExODQsLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4
-MCwtMTg1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5Mj
-EzNTQ4NDAsNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5
-OTkwLDE3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMi
-wtOTMzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4
-MjA3OTM2OV19
+eyJoaXN0b3J5IjpbODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNz
+gxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0
+NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNj
+U4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1
+MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLT
+E3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMy
+ODA4NjNdfQ==
 -->
