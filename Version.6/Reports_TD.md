@@ -1,7 +1,7 @@
 
 <center><h2>Reports</h2></center>
 
-<b>Reports</b> are the starting point for building a query.  It is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained, in fraction of seconds.
+<b>Reports</b> are the starting point for building a query.  It is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs : </i></b>
  
@@ -368,11 +368,11 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NDMxNzM5LDE2NjYyNDI5NzksLTE2OD
-g1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MDg3MywxNzEzMzAx
-MjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC
-0xMDg5NTMxOTk2LC0xMDU4OTExNjkwLDU4OTY2MjM3NSwtNDcx
-Mjk3OTA5LC0xNDE0MTg0Mjc0LC0xMTQxNTMxNzcsLTEwNjE3ND
-k1MDMsMTAwNjUxODcxLDE1MTY5NjgxMzAsODE2NzE2ODQ5LC0x
-MTUwODYzMTI3XX0=
+eyJoaXN0b3J5IjpbMjExOTYxNTE2NSw0Njc0MzE3MzksMTY2Nj
+I0Mjk3OSwtMTY4ODUyODQzMSwxMDE1NTI2Nzc5LC0xNDU3NTYw
+ODczLDE3MTMzMDEyMDksMTc0MDM3MzY5MCwyMTExNjI5NTQ2LD
+ExMTA0NTUxNTEsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5
+NjYyMzc1LC00NzEyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1Mz
+E3NywtMTA2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4
+MTY3MTY4NDldfQ==
 -->
