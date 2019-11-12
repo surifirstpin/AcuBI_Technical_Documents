@@ -90,7 +90,7 @@ Under Schedule Job Window, Enter Below details;
 
 | Field |Allowed Value  |Allowed Special Character|
 |--|--|--|
-| Seconds |  0-59|, - * /  |
+|Seconds |  0-59|, - * /  |
 |minutes|0-59|  , - * /|
 |Hours|0-23|  , - * /|
 |Day of month|0-31|, - * ? / L W|
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMD
-A0NDc4MCwtMTg1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3
-MCw5MjEzNTQ4NDAsNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMT
-IxMDE5OTkwLDE3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3
-NjcwMiwtOTMzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2My
-wtMTU4MjA3OTM2OSwxODk4ODg0NTEwLDE3NjU5MTEwODEsMTg5
-MDQyODYzM119
+eyJoaXN0b3J5IjpbLTMyNzA3MTE4NCwtMTY3MDk1NzczOCw3Mj
+k0NjY1NDQsNDEwMDQ0NzgwLC0xODU3MTM4NTQ2LDIwNjYyODE1
+ODIsMjY1ODI3NDcwLDkyMTM1NDg0MCw3MjUxODAxMDEsLTEyND
+cyNDA2NTMsLTIxMjEwMTk5OTAsMTczOTM4MzYwNSwtMzQ4ODg5
+NzMwLC0xNzkwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1NjE3OC
+wxNzUzMjgwODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MTAsMTc2
+NTkxMTA4MV19
 -->
