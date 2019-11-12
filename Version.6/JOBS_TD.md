@@ -68,7 +68,7 @@ Click on Task button to create multiple Task in Jobs.
 
 ## Schedule Job
 
-</b>1.</b> Click Settings Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
+</b>1.</b> Click <b>Gear</b> Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
  <b><font color = "Black" >Image 4</font></b>
@@ -145,7 +145,7 @@ Similarly, for <b>Task Type:  Email Report.</b>
 
 - <b>Save:</b> Click on save button to save the task created.
 
-<b> Note 1: </b> Navigate to settings icon and click Schedule as explained above ( Refer image 5 ) and click run.
+<b> Note 1: </b> Navigate to <b>Gear</b> icon and click Schedule as explained above ( Refer image 5 ) and click run.
 
 <b>Note 2:</b> Email recipient will receive the mail displaying the result for the report selected.
 
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNj
-U4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1
-MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLT
-E3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMy
-ODA4NjMsLTE1ODIwNzkzNjksMTg5ODg4NDUxMCwxNzY1OTExMD
-gxLDE4OTA0Mjg2MzMsLTI5MTc1MTI1NCwxNDI3NTEwMDU4LDk2
-Mzg0NDE5OF19
+eyJoaXN0b3J5IjpbNDEwMDQ0NzgwLC0xODU3MTM4NTQ2LDIwNj
+YyODE1ODIsMjY1ODI3NDcwLDkyMTM1NDg0MCw3MjUxODAxMDEs
+LTEyNDcyNDA2NTMsLTIxMjEwMTk5OTAsMTczOTM4MzYwNSwtMz
+Q4ODg5NzMwLC0xNzkwMDc2NzAyLC05MzMzNDM1MTksMTY3ODM1
+NjE3OCwxNzUzMjgwODYzLC0xNTgyMDc5MzY5LDE4OTg4ODQ1MT
+AsMTc2NTkxMTA4MSwxODkwNDI4NjMzLC0yOTE3NTEyNTQsMTQy
+NzUxMDA1OF19
 -->
