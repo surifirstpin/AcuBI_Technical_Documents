@@ -187,26 +187,26 @@ Enter following information;
 > <b>Block Key From:</b> Block Key: ${key_start}
 > <b>Block Key To:</b> Block Key: ${key_end}
 
-- <b>Target Connection:</b> select target database connection.
+- <b>Target Connection:</b> Select target database connection.
 
-- <b>Schema:</b> select schema from drop down list.
+- <b>Schema:</b> Select schema from drop down list.
 
-- <b>Table:</b> select the target table from drop down list.
+- <b>Table:</b> Select the target table from drop down list.
 
-  - <b>Insert/Update:</b>  insert or update target table.
+  - <b>Insert/Update:</b>  Insert or update target table.
   
-  - <b>Delete before insert:</b>  delete existing data before inserting target data.
+  - <b>Delete before insert:</b>  Delete existing data before inserting target data.
   - <b>Truncate Table before insert:</b> delete entire table before inserting target data.
   
-- <b>Delete Reference Query:</b>deletes previously existing records for blocks and reloads fresh data.
+- <b>Delete Reference Query:</b>Deletes previously existing records for blocks and reloads fresh data.
 
 - <b>Update Reference Fields:</b>  it is a primary key based on given combination, data over writes the existing data.
 
 - <b>Custom Field:</b>  Re-writes the give value for specified field
 
-    - <b>Field name :</b> enter field name for which you would like to re-write the value.
+    - <b>Field name :</b> Enter field name for which you would like to re-write the value.
   
-  -  <b>Value:</b> enter field value to be written.
+  -  <b>Value:</b> Enter field value to be written.
   
  
 - <b>Field Mapping:</b> enable field mapping for source and target data.
@@ -263,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3ODE5NzY2LC0zMjcwNzExODQsLTE2Nz
-A5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEzODU0
-NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAsNzI1MT
-gwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3MzkzODM2
-MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMzMzQzNTE5LD
-E2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3OTM2OSwxODk4
-ODg0NTEwXX0=
+eyJoaXN0b3J5IjpbLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMj
+cwNzExODQsLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4
+MCwtMTg1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5Mj
+EzNTQ4NDAsNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5
+OTkwLDE3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMi
+wtOTMzMzQzNTE5LDE2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4
+MjA3OTM2OV19
 -->
