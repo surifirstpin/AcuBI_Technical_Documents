@@ -53,9 +53,7 @@ On selecting Query Execute, it display following functionalities;
 
 Click <b>Save,</b> to save the Job created.
 
-
 > <b>Note: </b> Block type is applicable only for Date fields.
-
 
 All the saved jobs are visible under SQL Jobs list.
 
@@ -75,7 +73,7 @@ Click on Task button to create multiple Task in Jobs.
 
 Under Schedule Job Window, Enter Below details;
 
-- <b>Start delay:</b> enter time delay to run the file
+- <b>Start delay:</b> Enter time delay to run the file
 
 - <b>Schedule:</b>  A schema for carrying out a process or a procedure.
 
@@ -265,11 +263,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTA4ODI0MiwtMzI3MDcxMTg0LC0xNj
-cwOTU3NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1
-NDYsMjA2NjI4MTU4MiwyNjU4Mjc0NzAsOTIxMzU0ODQwLDcyNT
-E4MDEwMSwtMTI0NzI0MDY1MywtMjEyMTAxOTk5MCwxNzM5Mzgz
-NjA1LC0zNDg4ODk3MzAsLTE3OTAwNzY3MDIsLTkzMzM0MzUxOS
-wxNjc4MzU2MTc4LDE3NTMyODA4NjMsLTE1ODIwNzkzNjksMTg5
-ODg4NDUxMF19
+eyJoaXN0b3J5IjpbODA3ODE5NzY2LC0zMjcwNzExODQsLTE2Nz
+A5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEzODU0
+NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAsNzI1MT
+gwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3MzkzODM2
+MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMzMzQzNTE5LD
+E2NzgzNTYxNzgsMTc1MzI4MDg2MywtMTU4MjA3OTM2OSwxODk4
+ODg0NTEwXX0=
 -->
