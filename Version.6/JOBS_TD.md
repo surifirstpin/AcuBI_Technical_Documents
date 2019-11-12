@@ -213,6 +213,7 @@ Enter following information;
 
 > <b>Note:</b> Schedule and Run the Job
 ki,gs,,,,e,
+
 ## Log
 
 <b>4.</b> Navigate to Log window by clicking on <b>Log</b> button to view execution status.
@@ -263,11 +264,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNz
-gxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0
-NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNj
-U4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1
-MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLT
-E3OTAwNzY3MDIsLTkzMzM0MzUxOSwxNjc4MzU2MTc4LDE3NTMy
-ODA4NjNdfQ==
+eyJoaXN0b3J5IjpbMTc1OTQzNjU4Nyw4OTIwOTQ1MjUsLTE3NT
+YxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzExODQsLTE2NzA5NTc3
+MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEzODU0NiwyMD
+Y2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAsNzI1MTgwMTAx
+LC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3MzkzODM2MDUsLT
+M0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMzMzQzNTE5LDE2Nzgz
+NTYxNzhdfQ==
 -->
