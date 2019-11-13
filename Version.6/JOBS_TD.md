@@ -6,7 +6,7 @@ Jobs are used for scheduling tasks to run on the server. They are most commonly 
 
 ## Functionalities
 
-- Jobs can be set to run in time interval such as by minute,hour,month, year or any of these combinations.
+- Jobs can be set to run in time interval such as by minute, hour, month, year or any of these combinations.
 
 - You can run jobs as many times as desired.
 
@@ -263,7 +263,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDY1NDc3NCwtMTc1NjEzOTk3OCw4OT
+eyJoaXN0b3J5IjpbLTk4MjU3NTA5OCwtMTc1NjEzOTk3OCw4OT
 IwOTQ1MjUsLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzEx
 ODQsLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMT
 g1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4
