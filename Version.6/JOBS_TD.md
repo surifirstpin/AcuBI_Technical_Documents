@@ -53,6 +53,7 @@ On selecting Query Execute, it display following functionalities;
 
 Click <b>Save,</b> to save the Job created.
 
+
 > <b>Note: </b> Block type is applicable only for Date fields.
 
 All the saved jobs are visible under SQL Jobs list.
@@ -263,11 +264,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MjU3NTA5OCwtMTc1NjEzOTk3OCw4OT
-IwOTQ1MjUsLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzEx
-ODQsLTE2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMT
-g1NzEzODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4
-NDAsNzI1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLD
-E3MzkzODM2MDUsLTM0ODg4OTczMCwtMTc5MDA3NjcwMiwtOTMz
-MzQzNTE5XX0=
+eyJoaXN0b3J5IjpbNjY4Mjg5MDEyLC05ODI1NzUwOTgsLTE3NT
+YxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNzgxOTc2
+NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0NCw0MT
+AwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNjU4Mjc0
+NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1MywtMj
+EyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4ODk3MzAsLTE3OTAw
+NzY3MDJdfQ==
 -->
