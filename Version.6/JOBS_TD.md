@@ -1,6 +1,7 @@
 
 
-<h1><center>Jobs</center></h1>
+<h1><center>Jobs</center>
+</h1>
 
 Jobs are used for scheduling tasks to run on the server. They are most commonly used                                                                                                                                                                                                                                                                                                                     for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
 
@@ -264,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC05OD
-I1NzUwOTgsLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5
-OTc4LDgwNzgxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LD
-cyOTQ2NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4
-MTU4MiwyNjU4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMT
-I0NzI0MDY1MywtMjEyMTAxOTk5MCwxNzM5MzgzNjA1LC0zNDg4
-ODk3MzBdfQ==
+eyJoaXN0b3J5IjpbMTU3Mjg5MzQ0NiwtMTc4NzE2MjUwOCw2Nj
+gyODkwMTIsLTk4MjU3NTA5OCwtMTc1NjEzOTk3OCw4OTIwOTQ1
+MjUsLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzExODQsLT
+E2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEz
+ODU0NiwyMDY2MjgxNTgyLDI2NTgyNzQ3MCw5MjEzNTQ4NDAsNz
+I1MTgwMTAxLC0xMjQ3MjQwNjUzLC0yMTIxMDE5OTkwLDE3Mzkz
+ODM2MDVdfQ==
 -->
