@@ -20,6 +20,7 @@ Navigate to <b><i>SQL Runner Section</i></b>-->Jobs-->Click <b><i>Create Job</b>
  Enter the following information in Create Job Window;
  
  - <b>Job Name:</b> Name identifier for Job
+ \
  
  - <b>Info:</b> Job description
  
@@ -264,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1MDAzMjQ2LDE0MTE0OTIzODgsLTE3OD
-cxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUwOTgsLTE3NTYxMzk5
-NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNzgxOTc2NiwtMz
-I3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3
-ODAsLTE4NTcxMzg1NDYsMjA2NjI4MTU4MiwyNjU4Mjc0NzAsOT
-IxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0MDY1MywtMjEyMTAx
-OTk5MF19
+eyJoaXN0b3J5IjpbLTE1NjQzNTQ1NjIsODI1MDAzMjQ2LDE0MT
+E0OTIzODgsLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUw
+OTgsLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LD
+gwNzgxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2
+NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4MTU4Mi
+wyNjU4Mjc0NzAsOTIxMzU0ODQwLDcyNTE4MDEwMSwtMTI0NzI0
+MDY1M119
 -->
