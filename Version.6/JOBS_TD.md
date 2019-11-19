@@ -61,7 +61,7 @@ All the saved jobs are visible under SQL Jobs list.
 
 ![Image 3](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
  <b><font color = "Black" >Image 3</font></b>
-
+0
 ## Multiple Task
 
 Click on Task button to create multiple Task in Jobs.
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzY1MDg1MCw4ODkxNDUyMzIsODg5MT
-Q1MjMyLC0xNTY0MzU0NTYyLDgyNTAwMzI0NiwxNDExNDkyMzg4
-LC0xNzg3MTYyNTA4LDY2ODI4OTAxMiwtOTgyNTc1MDk4LC0xNz
-U2MTM5OTc4LDg5MjA5NDUyNSwtMTc1NjEzOTk3OCw4MDc4MTk3
-NjYsLTMyNzA3MTE4NCwtMTY3MDk1NzczOCw3Mjk0NjY1NDQsND
-EwMDQ0NzgwLC0xODU3MTM4NTQ2LDIwNjYyODE1ODIsMjY1ODI3
-NDcwXX0=
+eyJoaXN0b3J5IjpbMTQ0NTMyNjkzOCwxNTczNjUwODUwLDg4OT
+E0NTIzMiw4ODkxNDUyMzIsLTE1NjQzNTQ1NjIsODI1MDAzMjQ2
+LDE0MTE0OTIzODgsLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC05OD
+I1NzUwOTgsLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5
+OTc4LDgwNzgxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LD
+cyOTQ2NjU0NCw0MTAwNDQ3ODAsLTE4NTcxMzg1NDYsMjA2NjI4
+MTU4Ml19
 -->
