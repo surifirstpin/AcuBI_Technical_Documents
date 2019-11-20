@@ -61,7 +61,6 @@ All the saved jobs are visible under SQL Jobs list.
 
 ![Image 3](https://raw.githubusercontent.com/sv18042016/fp1/b679c7e6d82f09c9795d0fc4c32bbe7ef5430c8d/images/New_version5/TD_JOBS_IMAGE3.png)
  <b><font color = "Black" >Image 3</font></b>
-0
 
 ## Multiple Task
 
@@ -266,7 +265,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MzU4NjY4MCwxNDQ1MzI2OTM4LDE1Nz
+eyJoaXN0b3J5IjpbMTU3MzY1MDg1MCwxNDQ1MzI2OTM4LDE1Nz
 M2NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2NDM1NDU2
 Miw4MjUwMDMyNDYsMTQxMTQ5MjM4OCwtMTc4NzE2MjUwOCw2Nj
 gyODkwMTIsLTk4MjU3NTA5OCwtMTc1NjEzOTk3OCw4OTIwOTQ1
