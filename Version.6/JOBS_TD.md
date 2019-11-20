@@ -118,7 +118,7 @@ Under Schedule Job Window, Enter Below details;
 
 ## Job Email Reports
 
-Similarly, for <b>Task Type:  Email Report.</b>
+Similarly, for <b>Task Type:</b>  Email Report.
 
 ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
  <b><font color = "Black" >Image 7</font></b>
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MzY1MDg1MCwxNDQ1MzI2OTM4LDE1Nz
-M2NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2NDM1NDU2
-Miw4MjUwMDMyNDYsMTQxMTQ5MjM4OCwtMTc4NzE2MjUwOCw2Nj
-gyODkwMTIsLTk4MjU3NTA5OCwtMTc1NjEzOTk3OCw4OTIwOTQ1
-MjUsLTE3NTYxMzk5NzgsODA3ODE5NzY2LC0zMjcwNzExODQsLT
-E2NzA5NTc3MzgsNzI5NDY2NTQ0LDQxMDA0NDc4MCwtMTg1NzEz
-ODU0Nl19
+eyJoaXN0b3J5IjpbNDIwNDY3NDI0LDE1NzM2NTA4NTAsMTQ0NT
+MyNjkzOCwxNTczNjUwODUwLDg4OTE0NTIzMiw4ODkxNDUyMzIs
+LTE1NjQzNTQ1NjIsODI1MDAzMjQ2LDE0MTE0OTIzODgsLTE3OD
+cxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUwOTgsLTE3NTYxMzk5
+NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNzgxOTc2NiwtMz
+I3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3
+ODBdfQ==
 -->
