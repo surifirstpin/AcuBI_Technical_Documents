@@ -31,7 +31,8 @@ To view existing report in AcuBi click on report name in My Space report list. I
     -   A closed interval [a,b] includes the end points.
         
     -   An open interval (a,b) excludes them.
-        
+    
+    - An open interval (  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
 <b><font color = "Black"> Image 4</b>
 
@@ -55,5 +56,5 @@ To view existing report in AcuBi click on report name in My Space report list. I
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTExNzcxNV19
+eyJoaXN0b3J5IjpbMjA4MjI1ODgxNCwxNTAxMTE3NzE1XX0=
 -->
