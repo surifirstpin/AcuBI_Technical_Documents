@@ -156,7 +156,7 @@ Under this task type data is transmitted from source to target destination, this
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79e64fae91a66f8962b7d2845e8b3c6ced52ecf0/images/New_version5/TD_JOBS_IMAGE10.png)
  <b><font color = "Black" >Image 9</font></b>
 
-<b>Select task type:</b> Query sync full from drop-down list.
+<b>Select Task Type:</b> Query sync full from drop-down list.
 
 Enter following details in create Job window;
 
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNDY3NDI0LDE1NzM2NTA4NTAsMTQ0NT
-MyNjkzOCwxNTczNjUwODUwLDg4OTE0NTIzMiw4ODkxNDUyMzIs
-LTE1NjQzNTQ1NjIsODI1MDAzMjQ2LDE0MTE0OTIzODgsLTE3OD
-cxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUwOTgsLTE3NTYxMzk5
-NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNzgxOTc2NiwtMz
-I3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2NjU0NCw0MTAwNDQ3
-ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mzc3NDU0NDAsNDIwNDY3NDI0LDE1Nz
+M2NTA4NTAsMTQ0NTMyNjkzOCwxNTczNjUwODUwLDg4OTE0NTIz
+Miw4ODkxNDUyMzIsLTE1NjQzNTQ1NjIsODI1MDAzMjQ2LDE0MT
+E0OTIzODgsLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUw
+OTgsLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LD
+gwNzgxOTc2NiwtMzI3MDcxMTg0LC0xNjcwOTU3NzM4LDcyOTQ2
+NjU0NF19
 -->
