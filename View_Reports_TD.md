@@ -21,7 +21,7 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 
 <b>3.</b> To restore the previously applied filter click default.
 
-<b>For Example :</b>  in case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
+<b>For Example :</b> In case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/40e942e774c02238eb5c6a69120dd5e500e74b95/images/New_version5/td_view_report_image3.png)
 <b><font color = "Black"> Image 3</b>
@@ -55,6 +55,6 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MD
-ExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbMTUxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1Mj
+QzMjU2OTEsMTUwMTExNzcxNV19
 -->
