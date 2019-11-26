@@ -72,16 +72,16 @@ Created Tag is Visible under My Space-->Tags as shown in below image.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fddce2eee41e81c4d4db348c696b653e80891944/images/New_version5/td_tag_image6.png)
  <b><Font color = " black">Image 5</font></b>
 
-Create dashboards under Animated Tag.
+Create dashboards under animated tag.
 
-> Note :  Animated tags are only applicable for Dashboards ( Charts, Table view) not for Reports. It can have multiple layout or single layout.
+> Note :  Animated tags are only applicable for dashboards ( Charts, Table view) not for reports. It can have multiple layout or single layout.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTgwNzc5MywtMTIxMDg0MzQ3MywxND
-Q1MjYxNDQxLC02MjM1MjI2NTUsODQxOTI4MjMxLDQxMTAxMDA0
-MiwtNjQyNjQ1MTU5LC0xNDc1MjEzMjM1LDE5MjI5MDE1NiwtNT
-M4NDQwOTAyLC0xMDg0NjQ1MDIsMTI1OTg5MjY2NCwxMzI3MjQ2
-MTQ4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LD
-E0MzU0MDE0ODAsLTU5ODg1NjMxMl19
+eyJoaXN0b3J5IjpbLTE2MTY3NDc5NTMsLTgwMTgwNzc5MywtMT
+IxMDg0MzQ3MywxNDQ1MjYxNDQxLC02MjM1MjI2NTUsODQxOTI4
+MjMxLDQxMTAxMDA0MiwtNjQyNjQ1MTU5LC0xNDc1MjEzMjM1LD
+E5MjI5MDE1NiwtNTM4NDQwOTAyLC0xMDg0NjQ1MDIsMTI1OTg5
+MjY2NCwxMzI3MjQ2MTQ4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC
+0xMjg4MjU0OTI4LDE0MzU0MDE0ODAsLTU5ODg1NjMxMl19
 -->
