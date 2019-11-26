@@ -5,7 +5,7 @@ Reports in  <b> AcuBi</b>  extract the data effectively and collaborate efficien
 
 ## View Report
 
-To view existing report in AcuBi click on report name in My Space report list. It displays the report and the filter applied to a report.
+To view existing report in AcuBi, click on report name under My Space report list. It displays the report and the filter applied to a report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ccc66f6bc28c68e3c17becce4f804f2e6f2845f/images/New_version5/td_view_report_image1.png)
 <b><font color = "Black"> Image 1</b>
@@ -55,5 +55,6 @@ To view existing report in AcuBi click on report name in My Space report list. I
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbLTE4OTg5OTEwNiw1MjQzMjU2OTEsMTUwMT
+ExNzcxNV19
 -->
