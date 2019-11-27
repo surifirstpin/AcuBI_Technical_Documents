@@ -1,7 +1,7 @@
 
 <center><h2>Dashboard</h2></center>
 
-Dashboard provides access to view multiple reports in single dashboard layout and provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. You can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
+Dashboard provides access to view multiple reports in single dashboard layout and provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. User can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
 
 ## View Dashboard
 
@@ -276,11 +276,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODIzNDUxNSwtMTI3Nzc5NjkzLDIxMD
-U3OTQzNDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3ODMy
-LDU2OTgwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0LDEwMz
-cwNTUwMzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2
-LC0xOTkyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5LC0xNz
-A5OTg1MjkwLC0xODQ1MjM0MjMyLC0xNzIyNDAxNDU3LDIwNDM3
-OTk4OThdfQ==
+eyJoaXN0b3J5IjpbNjU4NjQzMTY3LDE2MTgyMzQ1MTUsLTEyNz
+c3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1NCwzNjE1Mzg3NTEs
+MTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMj
+UxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQs
+MTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNz
+M5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQw
+MTQ1N119
 -->
