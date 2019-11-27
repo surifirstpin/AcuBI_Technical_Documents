@@ -384,7 +384,7 @@ Gauge chart displays current status in the context of goal.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
- # Data 
+ ## Data 
 
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
@@ -422,7 +422,7 @@ Gauge chart displays current status in the context of goal.
 
 <b><font color = "Black"> Image 21</b>
 
-# X-Axis 
+## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 <b><font color = "Black"> Image 22</b>
@@ -457,7 +457,7 @@ Gauge chart displays current status in the context of goal.
  
  > <b>Note </b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-# Y-Axis
+## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
 <b><font color = "Black"> Image 23</b>
@@ -546,7 +546,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4Nzk3MTQ0MSwtOTQ4MTU3MzI0LC0xOT
+eyJoaXN0b3J5IjpbLTgzMDk5NTM5NiwtOTQ4MTU3MzI0LC0xOT
 E3NDc3MTM1LC0xMDA0NjE3NjYwLDkwMzE4NzI5OCwtMTgxOTU2
 NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNC
 wxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNTE0
