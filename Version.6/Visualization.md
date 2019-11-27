@@ -3,12 +3,12 @@
 <center><h1>Visualization</h1></center>
 
 
-<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained in reports section. Charts displays different type of pictorial representation of the data.  Acubi keeps query details and visualization configuration data together, so user can see data and visualization charts together when it is shared to them.
+<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained in reports section. Charts displays different type of pictorial representation of the data.  Acubi keeps query details and visualization( Charts) configuration data together, so user can see data and visualization charts together when it is shared to them.
 
 
 ## Getting Started With Visualization.
 
-Let us see in details how to configure visualization. Click on <b>Charts</b> tab to configure visualization option for the result obtained. This will connect you to visualization section.
+Let us see in details how to configure visualization. Click on <b>Charts</b> tab to configure visualization option for the result obtained. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/52de5df82ef6986d3c2224728e8100490c41ad22/images/New_version5/TD_Visu_Image1.png)
 <b><font color = "Black"> Image 1</b>
@@ -16,7 +16,7 @@ Let us see in details how to configure visualization. Click on <b>Charts</b> tab
 
 ## Types of Visualization
 
-AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of visualization chart has different customization option for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
+AcuBi visualization charts are used based on the priority of what specific information you want to view about the data retrieved. Each type of  chart has different customization option for its appearance. It Provides an ability to visualize the data in 11 different types of charts with some standard editing options. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
 <b><font color = "Black"> Image 2</b>
@@ -546,7 +546,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTAxMTcwNiwtMTkxNzQ3NzEzNSwtMT
+eyJoaXN0b3J5IjpbMTI0NDA5OTgyNSwtMTkxNzQ3NzEzNSwtMT
 AwNDYxNzY2MCw5MDMxODcyOTgsLTE4MTk1Njc4MzQsMTUxODc5
 ODM4OCwxNjE3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNC
 wtMjYxNTQ1NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUy
