@@ -219,7 +219,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 ## Bubble chart 
 
-It is used to display the data in circles. We can define each bubble using Dimension value and size by Measure value.
+It is used to display the data in circles. We can define each bubble using dimension value and size by Measure value.
  
  <b>8.</b> Choose chart type <b>BUBBLE</b> from given drop-down list compare the data.
  
@@ -325,7 +325,7 @@ Gauge chart displays current status in the context of goal.
 
 # Fine Tuning Visualization Charts
 
-## General Section 
+# General Section 
 
 - <b>Title</b> specify title for the chart selected.
 
@@ -384,7 +384,7 @@ Gauge chart displays current status in the context of goal.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
- ## Data 
+ # Data 
 
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
@@ -422,7 +422,7 @@ Gauge chart displays current status in the context of goal.
 
 <b><font color = "Black"> Image 21</b>
 
-## X-Axis 
+# X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
 <b><font color = "Black"> Image 22</b>
@@ -457,7 +457,7 @@ Gauge chart displays current status in the context of goal.
  
  > <b>Note </b>  X-Axis is enabled only for Line, Bar and Bubble chart only.
 
-## Y-Axis
+# Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
 <b><font color = "Black"> Image 23</b>
@@ -493,7 +493,7 @@ editing options for y-axis in Line, Bar and bubble chart.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
  
-## Format   
+# Format   
       
  Format arranges a pattern for information which is stored in database.
 
@@ -526,7 +526,7 @@ editing options for y-axis in Line, Bar and bubble chart.
    ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b84cdf8d077562656baf6f5c2d08d36c54abc760/images/New_version5/TD_Visu_Image25.png)
   
    
-## Custom Color
+# Custom Color
 
 To create Custom color, First click on <b> Custom Color</b>. Use the color picker to choose the colour. 
 
@@ -546,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOT
-AzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4
-MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUxMDQsLTI2MTU0NTYwNS
-wyMTAyNzc5MzM0LDE1MTQ1MzM2MjYsLTU1MjI1NTY3OCw2MTY1
-OTY3NzcsMTQ0MDMyNDQzNCwtMTUyMjA0MDY3NCwxNDgxNzM4Nj
-YwLDE0ODE3Mzg2NjAsLTY0NTY3NzAxMiw4MjE4OTYzMTIsMTUz
-NjMzOTQwOV19
+eyJoaXN0b3J5IjpbMjEyNDY2OTI4OSwtMTkxNzQ3NzEzNSwtMT
+AwNDYxNzY2MCw5MDMxODcyOTgsLTE4MTk1Njc4MzQsMTUxODc5
+ODM4OCwxNjE3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNC
+wtMjYxNTQ1NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUy
+MjU1Njc4LDYxNjU5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNj
+c0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgy
+MTg5NjMxMl19
 -->
