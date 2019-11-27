@@ -233,7 +233,7 @@ In <b>Folder View</b>, on clicking on gear Icon, it displays <b>Info ( informati
 
 ## Edit 
 
-To edit a file click on <b>Setting</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click on save to update the changes made.
+To edit a file click on <b>Gear</b> icon and click <b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click on save to update the changes made.
 
 <b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below image. 
 
@@ -276,7 +276,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzU3ODU5MCwyMTA1Nzk0MzQ2LDYyNj
+eyJoaXN0b3J5IjpbLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNj
 Q1NzM1NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTks
 LTE0OTk0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MD
 kzNDQyMyw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYw
