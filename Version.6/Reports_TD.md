@@ -368,16 +368,18 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
 
-## Visualisation charts
+## Visualization charts
 
-Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail infor mation om 
+Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail information charts.
+
+[Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk4MDE4ODcsMjExOTYxNTE2NSw0Nj
-c0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMDE1NTI2
-Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3MzY5MC
-wyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OTYsLTEw
-NTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0MTQxOD
-QyNzQsLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMDA2NTE4NzEs
-MTUxNjk2ODEzMF19
+eyJoaXN0b3J5IjpbLTgzNjM0MDY5NiwyMTE5NjE1MTY1LDQ2Nz
+QzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1MjY3
+NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNjkwLD
+IxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1
+ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwtMTQxNDE4ND
+I3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1MTg3MSwx
+NTE2OTY4MTMwXX0=
 -->
