@@ -325,7 +325,7 @@ Gauge chart displays current status in the context of goal.
 
 # Fine Tuning Visualization Charts
 
-# General Section 
+## General Section 
 
 - <b>Title</b> specify title for the chart selected.
 
@@ -546,11 +546,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMT
-AwNDYxNzY2MCw5MDMxODcyOTgsLTE4MTk1Njc4MzQsMTUxODc5
-ODM4OCwxNjE3NzgwNDM4LDEwODYzNzUxMDQsMTA4NjM3NTEwNC
-wtMjYxNTQ1NjA1LDIxMDI3NzkzMzQsMTUxNDUzMzYyNiwtNTUy
-MjU1Njc4LDYxNjU5Njc3NywxNDQwMzI0NDM0LC0xNTIyMDQwNj
-c0LDE0ODE3Mzg2NjAsMTQ4MTczODY2MCwtNjQ1Njc3MDEyLDgy
-MTg5NjMxMl19
+eyJoaXN0b3J5IjpbMTQ4Nzk3MTQ0MSwtOTQ4MTU3MzI0LC0xOT
+E3NDc3MTM1LC0xMDA0NjE3NjYwLDkwMzE4NzI5OCwtMTgxOTU2
+NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNC
+wxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNTE0
+NTMzNjI2LC01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0Mz
+QsLTE1MjIwNDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02
+NDU2NzcwMTJdfQ==
 -->
