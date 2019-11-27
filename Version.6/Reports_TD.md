@@ -367,12 +367,17 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 - <b>Reset Data Drill:</b> To navigate to  previous page click <b>Rest Data Drill.</b>
 
 > <b>Note :</b> To attain drill down features it need to be specified in model section, refer <b>Model Documentation</b> for more information about drill down feature.
+
+## Visualisation charts
+
+Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail infor mation om 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTYxNTE2NSw0Njc0MzE3MzksMTY2Nj
-I0Mjk3OSwtMTY4ODUyODQzMSwxMDE1NTI2Nzc5LC0xNDU3NTYw
-ODczLDE3MTMzMDEyMDksMTc0MDM3MzY5MCwyMTExNjI5NTQ2LD
-ExMTA0NTUxNTEsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5
-NjYyMzc1LC00NzEyOTc5MDksLTE0MTQxODQyNzQsLTExNDE1Mz
-E3NywtMTA2MTc0OTUwMywxMDA2NTE4NzEsMTUxNjk2ODEzMCw4
-MTY3MTY4NDldfQ==
+eyJoaXN0b3J5IjpbLTE2Mzk4MDE4ODcsMjExOTYxNTE2NSw0Nj
+c0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMDE1NTI2
+Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3MzY5MC
+wyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OTYsLTEw
+NTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0MTQxOD
+QyNzQsLTExNDE1MzE3NywtMTA2MTc0OTUwMywxMDA2NTE4NzEs
+MTUxNjk2ODEzMF19
 -->
