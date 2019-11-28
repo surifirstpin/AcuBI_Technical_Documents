@@ -387,6 +387,8 @@ Gauge chart displays current status in the context of goal.
  
 ## DATA
 
+<a href="#/">EN</a>
+
 
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
@@ -548,7 +550,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzcxNDc2MTIsLTg2MjkwNDA1NSwzMj
+eyJoaXN0b3J5IjpbLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMj
 A2NjM1NTcsMTk4MzE3NzE0MCwtMTU5MDI1MjMsLTEwMDk5ODQ2
 NjIsLTgzMDk5NTM5NiwtOTQ4MTU3MzI0LC0xOTE3NDc3MTM1LC
 0xMDA0NjE3NjYwLDkwMzE4NzI5OCwtMTgxOTU2NzgzNCwxNTE4
