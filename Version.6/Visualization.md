@@ -387,6 +387,7 @@ Gauge chart displays current status in the context of goal.
  
 ## Data
 
+
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
 - <b>Explore Enabled </b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
@@ -547,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMD
-cwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcx
-NDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLT
-k0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMx
-ODcyOTgsLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwND
-M4LDEwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIx
-MDI3NzkzMzRdfQ==
+eyJoaXN0b3J5IjpbNjkyOTI2NzI0LDEyNjg1MDg4MjIsLTYyNj
+U2MTcxNSwtMTA3MDY1NTkxMCwtODYyOTA0MDU1LDMyMDY2MzU1
+NywxOTgzMTc3MTQwLC0xNTkwMjUyMywtMTAwOTk4NDY2MiwtOD
+MwOTk1Mzk2LC05NDgxNTczMjQsLTE5MTc0NzcxMzUsLTEwMDQ2
+MTc2NjAsOTAzMTg3Mjk4LC0xODE5NTY3ODM0LDE1MTg3OTgzOD
+gsMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEwODYzNzUxMDQsLTI2
+MTU0NTYwNV19
 -->
