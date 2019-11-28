@@ -39,10 +39,11 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
+ 
  <b><font color = "Black"> Image 4</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjI4OTc1MSwtMTQ0NDY2MTkxOSwxMz
-M0NzAxNzc1LC03NTQyMzQ3MCwxNzkzMzU1OTU5LC04MjAwMjc4
-MDldfQ==
+eyJoaXN0b3J5IjpbMjEwODMyMDM1MywtNjg2Mjg5NzUxLC0xND
+Q0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5
+NTksLTgyMDAyNzgwOV19
 -->
