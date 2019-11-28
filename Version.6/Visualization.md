@@ -385,11 +385,7 @@ Gauge chart displays current status in the context of goal.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
-## DATA ([enter link description here](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization?id=data)
-```
-window.$docsify =  { DATA:  '#app'  };
-
-```
+## Data
 
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
@@ -551,7 +547,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Njc2MDI3OSwtNjI2NTYxNzE1LC0xMD
+eyJoaXN0b3J5IjpbMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMD
 cwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcx
 NDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLT
 k0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMx
