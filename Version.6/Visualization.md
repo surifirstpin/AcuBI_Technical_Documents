@@ -385,7 +385,7 @@ Gauge chart displays current status in the context of goal.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
-## DATA
+## DATA ([enter link description here](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization?id=data)
 ```
 window.$docsify =  { DATA:  '#app'  };
 
@@ -551,11 +551,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjU2MTcxNSwtMTA3MDY1NTkxMCwtOD
-YyOTA0MDU1LDMyMDY2MzU1NywxOTgzMTc3MTQwLC0xNTkwMjUy
-MywtMTAwOTk4NDY2MiwtODMwOTk1Mzk2LC05NDgxNTczMjQsLT
-E5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOTAzMTg3Mjk4LC0xODE5
-NTY3ODM0LDE1MTg3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1MT
-A0LDEwODYzNzUxMDQsLTI2MTU0NTYwNSwyMTAyNzc5MzM0LDE1
-MTQ1MzM2MjZdfQ==
+eyJoaXN0b3J5IjpbMTI2Njc2MDI3OSwtNjI2NTYxNzE1LC0xMD
+cwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcx
+NDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLT
+k0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMx
+ODcyOTgsLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwND
+M4LDEwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIx
+MDI3NzkzMzRdfQ==
 -->
