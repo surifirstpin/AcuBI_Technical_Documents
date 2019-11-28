@@ -385,7 +385,7 @@ Gauge chart displays current status in the context of goal.
     
 - <b>Align Negative</b> It will enable the negative values to be displayed below range  `0`.
  
-## DATA (<a href="/tutorial/?hello">DATA </a>)
+<h2 id="header2">header 2</h2>
 
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEwMTI4ODEsMTk4MzE3NzE0MCwtMT
-U5MDI1MjMsLTEwMDk5ODQ2NjIsLTgzMDk5NTM5NiwtOTQ4MTU3
-MzI0LC0xOTE3NDc3MTM1LC0xMDA0NjE3NjYwLDkwMzE4NzI5OC
-wtMTgxOTU2NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4
-NjM3NTEwNCwxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OT
-MzNCwxNTE0NTMzNjI2LC01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0
-NDAzMjQ0MzRdfQ==
+eyJoaXN0b3J5IjpbMzIwNjYzNTU3LDE5ODMxNzcxNDAsLTE1OT
+AyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLTk0ODE1NzMy
+NCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMxODcyOTgsLT
+E4MTk1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwNDM4LDEwODYz
+NzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3NzkzMz
+QsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3NywxNDQw
+MzI0NDM0XX0=
 -->
