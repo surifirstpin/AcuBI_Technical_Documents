@@ -327,6 +327,7 @@ Gauge chart displays current status in the context of goal.
 
 ## General Section 
 
+
 - <b>Title</b> specify title for the chart selected.
 
 - <b>Position</b> align title to top, bottom, left, right position.
@@ -386,6 +387,8 @@ Gauge chart displays current status in the context of goal.
  
  ## Data 
 
+
+<a  href="A2">DAta </a>
 - <b>Row Grouping </b> displays the grouped value of the duplicate fields.
 
 - <b>Explore Enabled </b> on selecting the checkbox, it allows you to view the  data which has been grouped or else it displays only the consolidated value.
@@ -546,11 +549,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDk5NTM5NiwtOTQ4MTU3MzI0LC0xOT
-E3NDc3MTM1LC0xMDA0NjE3NjYwLDkwMzE4NzI5OCwtMTgxOTU2
-NzgzNCwxNTE4Nzk4Mzg4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNC
-wxMDg2Mzc1MTA0LC0yNjE1NDU2MDUsMjEwMjc3OTMzNCwxNTE0
-NTMzNjI2LC01NTIyNTU2NzgsNjE2NTk2Nzc3LDE0NDAzMjQ0Mz
-QsLTE1MjIwNDA2NzQsMTQ4MTczODY2MCwxNDgxNzM4NjYwLC02
-NDU2NzcwMTJdfQ==
+eyJoaXN0b3J5IjpbNDE5ODgyMjI2LC04MzA5OTUzOTYsLTk0OD
+E1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMxODcy
+OTgsLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwNDM4LD
+EwODYzNzUxMDQsMTA4NjM3NTEwNCwtMjYxNTQ1NjA1LDIxMDI3
+NzkzMzQsMTUxNDUzMzYyNiwtNTUyMjU1Njc4LDYxNjU5Njc3Ny
+wxNDQwMzI0NDM0LC0xNTIyMDQwNjc0LDE0ODE3Mzg2NjAsMTQ4
+MTczODY2MF19
 -->
