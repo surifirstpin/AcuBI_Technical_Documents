@@ -11,7 +11,7 @@
  
  <b><Font color = " black">Image 1</font></b>
 
-- To create a new report click on <b>Reset Visualization</b> ( refresh icon).
+- To create a new report click on <b>Reset Visualization</b> (refresh icon).
 
 ## Adding Dimension and Measure
 
@@ -375,11 +375,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjM0MDY5NiwyMTE5NjE1MTY1LDQ2Nz
-QzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1MjY3
-NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNjkwLD
-IxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1
-ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwtMTQxNDE4ND
-I3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAzLDEwMDY1MTg3MSwx
-NTE2OTY4MTMwXX0=
+eyJoaXN0b3J5IjpbLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMT
+E5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4
+NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOS
+wxNzQwMzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4
+OTUzMTk5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5Nz
+kwOSwtMTQxNDE4NDI3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAz
+LDEwMDY1MTg3MV19
 -->
