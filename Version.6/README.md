@@ -9,7 +9,7 @@ AcuBi is collection of business analytics tools that provides a standard insight
 
 ### Explore from any device
 
-AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. iIt create, explore and operate on any device, directly at the point of decision.
+AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. It create, explore and operate on any device, directly at the point of decision.
 
 #### Embedded Analytics
 
@@ -32,10 +32,10 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, AcuBi  software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDI0ODYyMiwtMTU3MjY1ODE0MiwxND
-Y3NzM0OTcsLTE3NDQwMTY4MjQsLTI3MzA1NDMyLC04NjgyODcx
-NCwtMTQwNTA5NzMxMCwxMjUyOTE1MjE2LC0yNDE5MzcwNzMsOD
-c2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2MjE0NjU4MDMsLTM3NzQ5
-OTMxLDE4ODg3ODczMzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC
-0yNjYwODc5MTUsLTIwNzI4NTEwODUsNDI0MzU3ODMxXX0=
+eyJoaXN0b3J5IjpbLTExMzk5NTU2MTksLTE1NzI2NTgxNDIsMT
+Q2NzczNDk3LC0xNzQ0MDE2ODI0LC0yNzMwNTQzMiwtODY4Mjg3
+MTQsLTE0MDUwOTczMTAsMTI1MjkxNTIxNiwtMjQxOTM3MDczLD
+g3NjE3NTEzNywxODQ4ODk0NTY3LC0xNjIxNDY1ODAzLC0zNzc0
+OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OC
+wtMjY2MDg3OTE1LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
 -->
