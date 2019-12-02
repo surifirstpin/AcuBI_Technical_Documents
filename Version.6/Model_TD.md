@@ -171,6 +171,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 To filter data from a view and the respective mapping views, the filter criteria can be defined in “filters” section.
 
+
 ```
 {
 "name": "View_Name",
@@ -744,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mj
-k5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIx
-MTQsLTk2OTgxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMT
-EwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcy
-LDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2Mz
-Q4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0
-XX0=
+eyJoaXN0b3J5IjpbOTk2MjM5OSwxOTUzNTM2MDc3LDE1OTEyNT
+UxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2NTAs
+MTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NTMxNT
+M4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODYsLTE1
+NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Njk4Nj
+Y3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4XX0=
+
 -->
