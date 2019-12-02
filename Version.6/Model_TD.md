@@ -164,7 +164,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 | |filterKey_mapping|The column mapping for a field against which the bindkey is used|
 |  2B | <b>Joins characteristics</b> |  |
 |   | join | derive the relationship between 2 views based on the condition. |
-|   | join_type | derives type of join condition to be applied (Left,Right,inner join) |
+|   | join_type | derives type of join condition to be applied (Left,Right,Inner Join) |
 |   | join_on | defines the relationship between views by associated fields. |
 
 <b>2.A Filters in Model :</b>
@@ -744,11 +744,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTI1NTE4MSwzNzI5OTAxNTUsMTI1Mj
-AyMDcwMywtMTQ0MjM1NzY1MCwxMDM3MTAyMTE0LC05Njk4MTE3
-OSwxODMxMzg2OTkxLDc1MzE1Mzg2LC0xMDExMDMxNzA4LDg4ND
-cyNzY3LDg0NzU1NTU4NiwtMTU2NDQ0Mjc3MiwxODU1MDI1MzE2
-LDY2MDcwNzI0LC02OTc2OTg2NjcsLTM3NjM0ODkyMSwxNzU5MT
-UxMDM0LDIwMTIyNjQ0NTgsMTIzMDQ4OTU5NCwtMTA0Nzk5NDE1
-MF19
+eyJoaXN0b3J5IjpbMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mj
+k5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIx
+MTQsLTk2OTgxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMT
+EwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcy
+LDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2Mz
+Q4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1OCwxMjMwNDg5NTk0
+XX0=
 -->
