@@ -2,7 +2,7 @@
 
 <center><h1>Why AcuBi  </h1></center> 
 
-AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business. AcuBi  is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
+AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the business. AcuBi is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
 
 ## AcuBi  Advantages
@@ -29,13 +29,14 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 
 #### Customer Success
 
-When it comes to business establishment and success, AcuBi  software is an innovation that has ability to share and collaborate ideas efficiently.
+When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk5NTU2MTksLTE1NzI2NTgxNDIsMT
-Q2NzczNDk3LC0xNzQ0MDE2ODI0LC0yNzMwNTQzMiwtODY4Mjg3
-MTQsLTE0MDUwOTczMTAsMTI1MjkxNTIxNiwtMjQxOTM3MDczLD
-g3NjE3NTEzNywxODQ4ODk0NTY3LC0xNjIxNDY1ODAzLC0zNzc0
-OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcxMzAsMTM0MzM3MDU3OC
-wtMjY2MDg3OTE1LC0yMDcyODUxMDg1LDQyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTUzNTUxODczNywtMTEzOTk1NTYxOSwtMT
+U3MjY1ODE0MiwxNDY3NzM0OTcsLTE3NDQwMTY4MjQsLTI3MzA1
+NDMyLC04NjgyODcxNCwtMTQwNTA5NzMxMCwxMjUyOTE1MjE2LC
+0yNDE5MzcwNzMsODc2MTc1MTM3LDE4NDg4OTQ1NjcsLTE2MjE0
+NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMzksMTMxMTAxNzEzMC
+wxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIwNzI4NTEwODUsNDI0
+MzU3ODMxXX0=
 -->
