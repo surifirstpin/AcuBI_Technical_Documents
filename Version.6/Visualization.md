@@ -21,7 +21,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0dc367172608197f5a129c93f4c0c2992c7bb50c/images/New_version5/TD_Visu_Image2.png)
 <b><font color = "Black"> Image 2</b>
 
-<b><font color = " Purple" >List of chart types </b>
+#### List of chart types 
  - <b>Line</b>
  - <b>Horizontal Bar</b>
  - <b>Pie</b>
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02Mj
-Y1NjE3MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMjA2NjM1
-NTcsMTk4MzE3NzE0MCwtMTU5MDI1MjMsLTEwMDk5ODQ2NjIsLT
-gzMDk5NTM5NiwtOTQ4MTU3MzI0LC0xOTE3NDc3MTM1LC0xMDA0
-NjE3NjYwLDkwMzE4NzI5OCwtMTgxOTU2NzgzNCwxNTE4Nzk4Mz
-g4LDE2MTc3ODA0MzgsMTA4NjM3NTEwNCwxMDg2Mzc1MTA0LC0y
-NjE1NDU2MDVdfQ==
+eyJoaXN0b3J5IjpbLTk5NDk3OTQzMCwxMjY4NTA4ODIyLDEyNj
+g1MDg4MjIsLTYyNjU2MTcxNSwtMTA3MDY1NTkxMCwtODYyOTA0
+MDU1LDMyMDY2MzU1NywxOTgzMTc3MTQwLC0xNTkwMjUyMywtMT
+AwOTk4NDY2MiwtODMwOTk1Mzk2LC05NDgxNTczMjQsLTE5MTc0
+NzcxMzUsLTEwMDQ2MTc2NjAsOTAzMTg3Mjk4LC0xODE5NTY3OD
+M0LDE1MTg3OTgzODgsMTYxNzc4MDQzOCwxMDg2Mzc1MTA0LDEw
+ODYzNzUxMDRdfQ==
 -->
