@@ -2,14 +2,14 @@
 
 <center><h1>Why AcuBi  </h1></center> 
 
-AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Business. AcuBi  is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
+AcuBi is collection of business analytics tools that provides a standard insights throughout the organization and streamline the process by providing an ability to use live data by predicting needs of the Bbusiness. AcuBi  is a single integrated analytical platform that delivers faster and better insights for entire business process, Regardless of any action or industry.
 
 
 ## AcuBi  Advantages
 
 ### Explore from any device
 
-AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. it create, explore and operate on any device, directly at the point of decision.
+AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. iIt creates, explore and operate on any device, directly at the point of decision.
 
 #### Embedded Analytics
 
@@ -32,10 +32,10 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, AcuBi  software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NzczNDk3LC0xNzQ0MDE2ODI0LC0yNz
-MwNTQzMiwtODY4Mjg3MTQsLTE0MDUwOTczMTAsMTI1MjkxNTIx
-NiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0NTY3LC0xNj
-IxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LDEzMTEwMTcx
-MzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcyODUxMDg1LD
-QyNDM1NzgzMV19
+eyJoaXN0b3J5IjpbLTQ3NDcxNzAxNywxNDY3NzM0OTcsLTE3ND
+QwMTY4MjQsLTI3MzA1NDMyLC04NjgyODcxNCwtMTQwNTA5NzMx
+MCwxMjUyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3LDE4ND
+g4OTQ1NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODcz
+MzksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLT
+IwNzI4NTEwODUsNDI0MzU3ODMxXX0=
 -->
