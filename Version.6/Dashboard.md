@@ -125,7 +125,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
  <b><font color = " Black"> Image 10 </font></b>
 
 
--   <b>Dashboard Report:</b>  selects reports to add filters.
+-   <b>Dashboard report:</b>  selects reports to add filters.
     
 -   <b>Listen to filter:</b>  refers to filter option available.
     
@@ -276,7 +276,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYyNTYwNjEsNjU4NjQzMTY3LDE2MT
+eyJoaXN0b3J5IjpbLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MT
 gyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1
 NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
 k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
