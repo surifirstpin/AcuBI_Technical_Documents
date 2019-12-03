@@ -7,23 +7,23 @@ AcuBi is collection of business analytics tools that provides a standard insight
 
 <center> <h2> AcuBi  Advantages </h2></center>
 
-### Explore from any device
+### <b> Explore from any device</b>
 
 AcuBi  is developed with responsive mobile design and touch interaction and they’ll work efficiently on desktop, tablet, or mobile devices. It create, explore and operate on any device, directly at the point of decision.
 
-#### Embedded Analytics
+### <b>Embedded Analytics</b>
 
 Get a powerful BI tool installed within your own product, application, portal, or website as it is embedded in many popular software solutions and technologies.
 
-#### Variety of Reporting Components
+### <b> Variety of Reporting Components</b>
 
 Usage of different type of charts, widgets, pivot tables and tabular view components to create smart and insightful reports and dashboards.
 
-#### Smarter Visualization
+### <b> Smarter Visualization</b>
 
 AcuBi  delivers fine tuned, easy-to-read reports and publish them throughout the organisation and easily accessed from web and mobile devices.
 
-#### Beautiful Dashboards
+### <b> Beautiful Dashboards</b>
 
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
@@ -32,11 +32,11 @@ Join multiple report layouts into single good-looking dashboard, by customizing 
 When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkxNDk1NTksLTUzNTUxODczNywtMT
-EzOTk1NTYxOSwtMTU3MjY1ODE0MiwxNDY3NzM0OTcsLTE3NDQw
-MTY4MjQsLTI3MzA1NDMyLC04NjgyODcxNCwtMTQwNTA5NzMxMC
-wxMjUyOTE1MjE2LC0yNDE5MzcwNzMsODc2MTc1MTM3LDE4NDg4
-OTQ1NjcsLTE2MjE0NjU4MDMsLTM3NzQ5OTMxLDE4ODg3ODczMz
-ksMTMxMTAxNzEzMCwxMzQzMzcwNTc4LC0yNjYwODc5MTUsLTIw
-NzI4NTEwODVdfQ==
+eyJoaXN0b3J5IjpbMTk2OTYyMDc0NCwtNTM1NTE4NzM3LC0xMT
+M5OTU1NjE5LC0xNTcyNjU4MTQyLDE0Njc3MzQ5NywtMTc0NDAx
+NjgyNCwtMjczMDU0MzIsLTg2ODI4NzE0LC0xNDA1MDk3MzEwLD
+EyNTI5MTUyMTYsLTI0MTkzNzA3Myw4NzYxNzUxMzcsMTg0ODg5
+NDU2NywtMTYyMTQ2NTgwMywtMzc3NDk5MzEsMTg4ODc4NzMzOS
+wxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4NzkxNSwtMjA3
+Mjg1MTA4NV19
 -->
