@@ -27,16 +27,16 @@ AcuBi  delivers fine tuned, easy-to-read reports and publish them throughout the
 
 Join multiple report layouts into single good-looking dashboard, by customizing it as per your business needs.
 
-#### Customer Success
+### <b> Customer Success</b>
 
 When it comes to business establishment and success, AcuBi software is an innovation that has ability to share and collaborate ideas efficiently.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTYyMDc0NCwtNTM1NTE4NzM3LC0xMT
-M5OTU1NjE5LC0xNTcyNjU4MTQyLDE0Njc3MzQ5NywtMTc0NDAx
-NjgyNCwtMjczMDU0MzIsLTg2ODI4NzE0LC0xNDA1MDk3MzEwLD
-EyNTI5MTUyMTYsLTI0MTkzNzA3Myw4NzYxNzUxMzcsMTg0ODg5
-NDU2NywtMTYyMTQ2NTgwMywtMzc3NDk5MzEsMTg4ODc4NzMzOS
-wxMzExMDE3MTMwLDEzNDMzNzA1NzgsLTI2NjA4NzkxNSwtMjA3
-Mjg1MTA4NV19
+eyJoaXN0b3J5IjpbMjEyMDM3NDQ0LC01MzU1MTg3MzcsLTExMz
+k5NTU2MTksLTE1NzI2NTgxNDIsMTQ2NzczNDk3LC0xNzQ0MDE2
+ODI0LC0yNzMwNTQzMiwtODY4Mjg3MTQsLTE0MDUwOTczMTAsMT
+I1MjkxNTIxNiwtMjQxOTM3MDczLDg3NjE3NTEzNywxODQ4ODk0
+NTY3LC0xNjIxNDY1ODAzLC0zNzc0OTkzMSwxODg4Nzg3MzM5LD
+EzMTEwMTcxMzAsMTM0MzM3MDU3OCwtMjY2MDg3OTE1LC0yMDcy
+ODUxMDg1XX0=
 -->
