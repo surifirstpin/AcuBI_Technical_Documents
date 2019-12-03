@@ -92,11 +92,11 @@ Based on requirement multiple reports are added to layout selected.
 
  <B><font color = " Black"> Image 8 </font></b>
 
-<b>4.</b> To add new lookup to dashboard click on , Add Lookups.
+<b>4.</b> To add new lookup to dashboard click on Add Lookups.
 
 -   <b>Lookup name:</b>  name of the lookup field.
     
--   <b>Lookup Type:</b>  refers to item or query type.
+-   <b>Lookup Type:</b>  refers to items or query type.
 
 - <b>Connection:</b> Connection established for the query  
     
@@ -127,7 +127,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 -   <b>Dashboard Report:</b>  selects reports to add filters.
     
--   <b>Listen Filter:</b>  refers to filter option available.
+-   <b>Listen to filter:</b>  refers to filter option available.
     
 -   <b>Apply to field:</b>  applies filter options to available field list in report.
     
@@ -276,11 +276,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4NjQzMTY3LDE2MTgyMzQ1MTUsLTEyNz
-c3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1NCwzNjE1Mzg3NTEs
-MTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMj
-UxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjQs
-MTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNzA5MzQyODg4LDMzNz
-M5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIzNDIzMiwtMTcyMjQw
-MTQ1N119
+eyJoaXN0b3J5IjpbLTE1NDYyNTYwNjEsNjU4NjQzMTY3LDE2MT
+gyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1
+NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
+k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
+Myw3MDIwMDQ4NjQsMTcxMzUxODgwNiwtMTk5MjUwNDYwOCwtNz
+A5MzQyODg4LDMzNzM5Nzk1OSwtMTcwOTk4NTI5MCwtMTg0NTIz
+NDIzMl19
 -->
