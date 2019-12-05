@@ -100,7 +100,7 @@ Based on requirement multiple reports are added to layout selected.
 
 - <b>Connection:</b> Connection established for the query  
     
--   <b>Test Lookup:</b> it runs the lookup.
+-   <b>Test Lookup:</b> it runs and verifies the lookup.
     
 -   <b>Multiple Selections:</b>  Enables the selection list for multiple data. If disabled, user can select only single data.
   
@@ -284,11 +284,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4ODU5NDE1LDg2MzgyMTAwNSwtNjk0MD
-E0ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2Mzks
-LTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MTgyMzQ1MTUsLTEyNz
-c3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1NCwzNjE1Mzg3NTEs
-MTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OTk0NzUzNTQsMTkyMj
-UxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQyMyw3MDIwMDQ4NjRd
-fQ==
+eyJoaXN0b3J5IjpbMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5ND
+AxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5
+LC0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNjE4MjM0NTE1LC0xMj
+c3Nzk2OTMsMjEwNTc5NDM0Niw2MjY0NTczNTQsMzYxNTM4NzUx
+LDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5Mj
+I1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0
+XX0=
 -->
