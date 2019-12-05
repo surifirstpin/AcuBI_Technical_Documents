@@ -177,6 +177,7 @@ b. click on Apply button
   <B><font color = " Black"> Image 13 </font></b>
 
 The resultant  of this is displayed in image below.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1e75bd88bdb6bb49d99ec1ba011c8ccb00142934/images/New_version5/TD_Dashboard_image21.png)
 
   <B><font color = " Black"> Image 14 </font></b>
@@ -205,6 +206,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
  
   <B><font color = " Black"> Image 17</font></b>
+
 ## Delete Dashboard
 
 <b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
@@ -284,11 +286,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5ND
-AxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5
-LC0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNjE4MjM0NTE1LC0xMj
-c3Nzk2OTMsMjEwNTc5NDM0Niw2MjY0NTczNTQsMzYxNTM4NzUx
-LDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5Mj
-I1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0
-XX0=
+eyJoaXN0b3J5IjpbLTk4NDc2NDA3MSwxNDU4MjQzODY1LDg2Mz
+gyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0
+LC0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MT
+gyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1
+NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
+k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
+M119
 -->
