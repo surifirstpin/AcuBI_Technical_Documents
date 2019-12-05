@@ -173,7 +173,7 @@ a. Choose grouping fields in global filter section.
 b. Click on <b>Apply button</b> to apply the newly added filters.
 c. Click <b>save</b> to save the changes made.
 
-<b> Default </b>: on selecting default button it will trigger
+<b> Default </b>: on selecting default button it will trigger back to the previously applied filters.
 
 
 > Note : similarly you can also change all the available fields in global filters
@@ -182,7 +182,7 @@ c. Click <b>save</b> to save the changes made.
 
   <B><font color = " Black"> Image 13 </font></b>
 
-The resultant  of this is displayed in image below.
+The resultant for the applied filters are displayed in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1e75bd88bdb6bb49d99ec1ba011c8ccb00142934/images/New_version5/TD_Dashboard_image21.png)
 
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDc3OTQ1MCwtMTYyMzY1OTQ2LC0xNz
-A4Njg0ODI2LC0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYzODIx
-MDA1LC02OTQwMTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0ODQsLT
-EzMTcwMDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIz
-NDUxNSwtMTI3Nzc5NjkzLDIxMDU3OTQzNDYsNjI2NDU3MzU0LD
-M2MTUzODc1MSwxNDA1MjA3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3
-NTM1NF19
+eyJoaXN0b3J5IjpbLTE0Mzk0MzQ1MjgsLTE2MjM2NTk0NiwtMT
+cwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQzODY1LDg2Mzgy
+MTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC
+0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MTgy
+MzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1NC
+wzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OTk0
+NzUzNTRdfQ==
 -->
