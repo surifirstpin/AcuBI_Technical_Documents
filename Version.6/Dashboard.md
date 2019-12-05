@@ -182,6 +182,7 @@ The resultant  of this is displayed in image below.
 
   <B><font color = " Black"> Image 14 </font></b>
 
+
 ## List View
 
 To view the list of reports and dashboards in List View click on <b>List View.</b>
@@ -284,11 +285,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4Nj
-M4MjEwMDUsLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4
-NCwtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNj
-E4MjM0NTE1LC0xMjc3Nzk2OTMsMjEwNTc5NDM0Niw2MjY0NTcz
-NTQsMzYxNTM4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xND
-k5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0
-MjNdfQ==
+eyJoaXN0b3J5IjpbLTIwODY5MTI3MDEsLTE5OTEwMzA2MzUsMT
+Q1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5NDAxNDg2MCw2MjE2NjA2
+NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LD
+Y1ODY0MzE2NywxNjE4MjM0NTE1LC0xMjc3Nzk2OTMsMjEwNTc5
+NDM0Niw2MjY0NTczNTQsMzYxNTM4NzUxLDE0MDUyMDc4MzIsNT
+Y5ODA0ODU5LC0xNDk5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1
+NTAzNl19
 -->
