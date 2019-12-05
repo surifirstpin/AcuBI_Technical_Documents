@@ -195,12 +195,16 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
-> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
  <B><font color = " Black"> Image 16 </font></b>
+
+> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
+
+![](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
  
+  <B><font color = " Black"> Image 17</font></b>
 ## Delete Dashboard
 
 <b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
@@ -215,7 +219,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 17</font></b>
+ <B><font color = " Black"> Image 18</font></b>
 
 In <b>Folder View</b>, on clicking on gear Icon, it displays <b>Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage</b> options for reports and dashboard. 
 
@@ -224,7 +228,7 @@ In <b>Folder View</b>, on clicking on gear Icon, it displays <b>Info ( informati
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 18</font></b>
+ <B><font color = " Black"> Image 19</font></b>
 
 ## Info
 
@@ -232,7 +236,7 @@ In <b>Folder View</b>, on clicking on gear Icon, it displays <b>Info ( informati
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 20</font></b>
 
 
 ## Edit 
@@ -243,13 +247,13 @@ To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
 
- <B><font color = " Black"> Image 20</font></b>
+ <B><font color = " Black"> Image 21</font></b>
 
 Click save then click <b>update</b> in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
- <B><font color = " Black"> Image 21</font></b>
+ <B><font color = " Black"> Image 22</font></b>
  
 ## Delete
 
@@ -268,7 +272,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
-<B><font color = " Black"> Image 22</font></b>
+<B><font color = " Black"> Image 23</font></b>
 
 ## Set Home Page
 
@@ -276,11 +280,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
-<B><font color = " Black"> Image 23</font></b>
+<B><font color = " Black"> Image 24</font></b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ4MjY3NzIxLC02OTQwMTQ4NjAsNjIxNj
+eyJoaXN0b3J5IjpbODYzODIxMDA1LC02OTQwMTQ4NjAsNjIxNj
 YwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAzNTExNDcx
 Nyw2NTg2NDMxNjcsMTYxODIzNDUxNSwtMTI3Nzc5NjkzLDIxMD
 U3OTQzNDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3ODMy
