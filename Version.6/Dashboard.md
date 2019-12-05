@@ -245,7 +245,7 @@ To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>
 
  <B><font color = " Black"> Image 20</font></b>
 
-Click save and click update in Save dashboard window.
+Click save then click <b>update</b> in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
@@ -280,11 +280,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNz
-Q4NzQ4NCwtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LDY1ODY0MzE2
-NywxNjE4MjM0NTE1LC0xMjc3Nzk2OTMsMjEwNTc5NDM0Niw2Mj
-Y0NTczNTQsMzYxNTM4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5
-LC0xNDk5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OT
-A5MzQ0MjMsNzAyMDA0ODY0LDE3MTM1MTg4MDYsLTE5OTI1MDQ2
-MDhdfQ==
+eyJoaXN0b3J5IjpbNjQ4MjY3NzIxLC02OTQwMTQ4NjAsNjIxNj
+YwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAzNTExNDcx
+Nyw2NTg2NDMxNjcsMTYxODIzNDUxNSwtMTI3Nzc5NjkzLDIxMD
+U3OTQzNDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3ODMy
+LDU2OTgwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0LDEwMz
+cwNTUwMzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2
+XX0=
 -->
