@@ -218,7 +218,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 <b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
 
-  <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
+ <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
 ## Folder View
 
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzk0MzQ1MjgsLTE2MjM2NTk0NiwtMT
-cwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQzODY1LDg2Mzgy
-MTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC
-0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MTgy
-MzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1NC
-wzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OTk0
-NzUzNTRdfQ==
+eyJoaXN0b3J5IjpbMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNz
+A4Njg0ODI2LC0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYzODIx
+MDA1LC02OTQwMTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0ODQsLT
+EzMTcwMDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIz
+NDUxNSwtMTI3Nzc5NjkzLDIxMDU3OTQzNDYsNjI2NDU3MzU0LD
+M2MTUzODc1MSwxNDA1MjA3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3
+NTM1NF19
 -->
