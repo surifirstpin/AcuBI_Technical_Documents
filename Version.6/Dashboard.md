@@ -213,8 +213,6 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
   <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
-
-
 ## Folder View
 
 To view the list of reports and dashboards in Folder View click <b> Folder View</b>.
@@ -278,7 +276,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ## Set Home Page
 
-To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up <b> HomePage Window</b> with success message as shown below.
+To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up <b> Homepage Window</b> with success message as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
@@ -286,11 +284,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDc2NDA3MSwxNDU4MjQzODY1LDg2Mz
-gyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0
-LC0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MT
-gyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1NzM1
-NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4NTksLTE0OT
-k0NzUzNTQsMTkyMjUxMjA4NCwxMDM3MDU1MDM2LDk5MDkzNDQy
-M119
+eyJoaXN0b3J5IjpbLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4Nj
+M4MjEwMDUsLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4
+NCwtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNj
+E4MjM0NTE1LC0xMjc3Nzk2OTMsMjEwNTc5NDM0Niw2MjY0NTcz
+NTQsMzYxNTM4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5LC0xND
+k5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OTA5MzQ0
+MjNdfQ==
 -->
