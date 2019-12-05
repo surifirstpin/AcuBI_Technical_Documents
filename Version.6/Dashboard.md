@@ -181,7 +181,17 @@ The resultant  of this is displayed in image below.
 
   <B><font color = " Black"> Image 14 </font></b>
 
-## Edit / Delete Dashboard
+## List View
+
+To view the list of reports and dashboards in List View click on <b>List View.</b>
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
+
+ <B><font color = " Black"> Image 15</font></b>
+
+
+
+## Edit / Delete Dashboard (List View)
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
@@ -189,7 +199,7 @@ The resultant  of this is displayed in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
- <B><font color = " Black"> Image 15 </font></b>
+ <B><font color = " Black"> Image 16 </font></b>
  
 ## Delete Dashboard
 
@@ -197,13 +207,7 @@ The resultant  of this is displayed in image below.
 
   <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
-## List View
 
-To view the list of reports and dashboards in List View click on <b>List View.</b>
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
-
- <B><font color = " Black"> Image 16</font></b>
 
 ## Folder View
 
@@ -276,11 +280,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMT
-cwMDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIzNDUx
-NSwtMTI3Nzc5NjkzLDIxMDU3OTQzNDYsNjI2NDU3MzU0LDM2MT
-UzODc1MSwxNDA1MjA3ODMyLDU2OTgwNDg1OSwtMTQ5OTQ3NTM1
-NCwxOTIyNTEyMDg0LDEwMzcwNTUwMzYsOTkwOTM0NDIzLDcwMj
-AwNDg2NCwxNzEzNTE4ODA2LC0xOTkyNTA0NjA4LC03MDkzNDI4
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNz
+Q4NzQ4NCwtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LDY1ODY0MzE2
+NywxNjE4MjM0NTE1LC0xMjc3Nzk2OTMsMjEwNTc5NDM0Niw2Mj
+Y0NTczNTQsMzYxNTM4NzUxLDE0MDUyMDc4MzIsNTY5ODA0ODU5
+LC0xNDk5NDc1MzU0LDE5MjI1MTIwODQsMTAzNzA1NTAzNiw5OT
+A5MzQ0MjMsNzAyMDA0ODY0LDE3MTM1MTg4MDYsLTE5OTI1MDQ2
+MDhdfQ==
 -->
