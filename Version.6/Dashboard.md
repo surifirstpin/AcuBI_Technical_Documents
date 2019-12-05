@@ -185,7 +185,7 @@ The resultant  of this is displayed in image below.
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
-> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button to save the changes made.
+> <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
@@ -276,11 +276,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTcwMDYzOSwtMjAzNTExNDcxNyw2NT
-g2NDMxNjcsMTYxODIzNDUxNSwtMTI3Nzc5NjkzLDIxMDU3OTQz
-NDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3ODMyLDU2OT
-gwNDg1OSwtMTQ5OTQ3NTM1NCwxOTIyNTEyMDg0LDEwMzcwNTUw
-MzYsOTkwOTM0NDIzLDcwMjAwNDg2NCwxNzEzNTE4ODA2LC0xOT
-kyNTA0NjA4LC03MDkzNDI4ODgsMzM3Mzk3OTU5LC0xNzA5OTg1
-MjkwXX0=
+eyJoaXN0b3J5IjpbMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC0yMD
+M1MTE0NzE3LDY1ODY0MzE2NywxNjE4MjM0NTE1LC0xMjc3Nzk2
+OTMsMjEwNTc5NDM0Niw2MjY0NTczNTQsMzYxNTM4NzUxLDE0MD
+UyMDc4MzIsNTY5ODA0ODU5LC0xNDk5NDc1MzU0LDE5MjI1MTIw
+ODQsMTAzNzA1NTAzNiw5OTA5MzQ0MjMsNzAyMDA0ODY0LDE3MT
+M1MTg4MDYsLTE5OTI1MDQ2MDgsLTcwOTM0Mjg4OCwzMzczOTc5
+NTldfQ==
 -->
