@@ -175,7 +175,6 @@ c. Click <b>save</b> to save the changes made.
 
 <b> Default </b>: on selecting default button it will trigger back to the previously applied filters.
 
-
 > Note : similarly you can also change all the available fields in global filters
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c2671e29a835554b91bc7f56a8992573fcc24cf/images/New_version5/TD_Dashboard_image20.png)
@@ -291,11 +290,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OT
-k0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMw
-NjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4NjAsNj
-IxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAzNTEx
-NDcxNyw2NTg2NDMxNjcsMTYxODIzNDUxNSwtMTI3Nzc5NjkzLD
-IxMDU3OTQzNDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3
-ODMyXX0=
+eyJoaXN0b3J5IjpbLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4OD
+UwOTkwMDIsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0
+ODI2LC0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC
+02OTQwMTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcw
+MDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIzNDUxNS
+wtMTI3Nzc5NjkzLDIxMDU3OTQzNDYsNjI2NDU3MzU0LDM2MTUz
+ODc1MV19
 -->
