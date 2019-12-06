@@ -148,7 +148,7 @@ Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b
     
     -   <b>Private()</b>  It enable access for user itself.
         
-    -   <b>Public()</b>  It enable access for a4ll the users.
+    -   <b>Public()</b>  It enable access for all the users.
         
     -   <b>Share()</b>  It enable access for specific set of users.
 
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2Mj
-M2NTk0NiwtMTcwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQz
-ODY1LDg2MzgyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMT
-M3NDg3NDg0LC0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQz
-MTY3LDE2MTgyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LD
-YyNjQ1NzM1NCwzNjE1Mzg3NTEsMTQwNTIwNzgzMiw1Njk4MDQ4
-NTldfQ==
+eyJoaXN0b3J5IjpbMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OT
+k0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMw
+NjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4NjAsNj
+IxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAzNTEx
+NDcxNyw2NTg2NDMxNjcsMTYxODIzNDUxNSwtMTI3Nzc5NjkzLD
+IxMDU3OTQzNDYsNjI2NDU3MzU0LDM2MTUzODc1MSwxNDA1MjA3
+ODMyXX0=
 -->
