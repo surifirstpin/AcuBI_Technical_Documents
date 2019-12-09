@@ -196,6 +196,28 @@ The resultant for the applied filters are displayed in image below.
   <B><font color = " Black"> Image 14 </font></b>
 
 
+## Full Screen (Maximize/Minimize)
+
+a). To enable full screen for dashboard  reports click <b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
+b). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
+c). Select drop-down button to display number of rows.
+
+
+## [Download CSV, Download CSV ; Download XLXS & Image Formats]
+
+-   <b>Download CSV </b>  download the dashboard report in CSV format.
+
+- <b>Download CSV; </b>  download the grouped list.
+
+- <b>Download XLXS </b>  download the dashboard report in Excel format.
+
+## [Refresh & Hard Refresh]
+
+-   <b>Refresh</b>  displays the most recent data information of the report.
+    
+-   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
+    
+
 ## List View
 
 To view the list of reports and dashboards in List View click on <b>List View.</b>
@@ -298,11 +320,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTE0NjAxNCwtMjI4Mjk2NDg2LC0xOD
-IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
-MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAyLD
-EwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMTk5
-MTAzMDYzNSwxNDU4MjQzODY1LDg2MzgyMTAwNSwtNjk0MDE0OD
-YwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2MzksLTIw
-MzUxMTQ3MTddfQ==
+eyJoaXN0b3J5IjpbLTEzMzMzOTc2MjcsLTIyODI5NjQ4NiwtMT
+gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
+NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMi
+wxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5
+OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5NDAxND
+g2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC0y
+MDM1MTE0NzE3XX0=
 -->
