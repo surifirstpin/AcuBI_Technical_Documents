@@ -202,7 +202,7 @@ a). To enable full screen for dashboard  reports click <b>Maximize icon </b> sim
 b). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
 c). Select drop-down button and choose number of rows to display in output.
 
-> <b>Note :</b> 
+> <b>Note :</b> Run time display 
 
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
@@ -322,11 +322,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk5NTQyMjAsLTIyODI5NjQ4NiwtMTgyMj
-MyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1
-MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMiwxMD
-k5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5OTEw
-MzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5NDAxNDg2MC
-w2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC0yMDM1
-MTE0NzE3XX0=
+eyJoaXN0b3J5IjpbNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4Mj
+IzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcx
+NTAsLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMT
+A5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkx
+MDMwNjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4Nj
+AsNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAz
+NTExNDcxN119
 -->
