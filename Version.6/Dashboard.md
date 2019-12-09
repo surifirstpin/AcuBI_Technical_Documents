@@ -35,7 +35,8 @@ AcuBi has ability to create multiple report layouts. Depending on requirement th
 
  <b>Flow Layout</b>  defines multiple layout options for reports provided scroll bar. 
 
-- To add reports in flow layout, select the grid and click <b>Add</b>  available next to report name under <b>Workspace.</b>
+- To add reports in flow layout, select the grid and click on report available under <b>Workspace.</b>
+- Select <b>Add</b> to add new grid to existing layout.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fd205f8416f11b873203f9f1915b436a996b1096/images/New_version5/TD_Dashboard_image12.png)
  
@@ -331,11 +332,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MD
-U2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0
-NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLT
-E3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0
-MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMwNj
-M1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4NjAsNjIx
-NjYwNjc0XX0=
+eyJoaXN0b3J5IjpbMjAyMzE0MjA1OSwxOTg0MTI2NzMwLC0zMD
+c3NTcwMDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4
+NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLT
+QzNTk4NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5
+OTAwMiwxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4Mj
+YsLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5
+NDAxNDg2MF19
 -->
