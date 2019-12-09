@@ -168,7 +168,7 @@ From above shown image we are changing global filter, by selecting all the field
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image22.png)
 
-After applying new filter values, click <b>Apply</b> button and save.  The resultant would display the data based on applied filter values.
+After applying new filter values, click <b>Apply</b> button and save.  The resultant would display the data based on applied filter values as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image23.png)
 ## Time-Frame Grouping
@@ -296,11 +296,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzYyMTg2MzYsLTIyODI5NjQ4NiwtMT
-gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
-NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMi
-wxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5
-OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5NDAxND
-g2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC0y
-MDM1MTE0NzE3XX0=
+eyJoaXN0b3J5IjpbLTgzMDg1MjYwMiwtMjI4Mjk2NDg2LC0xOD
+IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
+MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAyLD
+EwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMTk5
+MTAzMDYzNSwxNDU4MjQzODY1LDg2MzgyMTAwNSwtNjk0MDE0OD
+YwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2MzksLTIw
+MzUxMTQ3MTddfQ==
 -->
