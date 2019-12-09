@@ -202,12 +202,13 @@ a). To enable full screen for dashboard reports click <b>Maximize icon </b> simi
 b). Select drop-down button and choose number of rows to display in output.
 c). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
 To download dashboard in any of the following formats, click gear icon;
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -324,11 +325,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyOD
-I5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0Nzkx
-MDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LD
-g4NTA5OTAwMiwxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2
-ODQ4MjYsLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMD
-UsLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMx
-NzAwNjM5XX0=
+eyJoaXN0b3J5IjpbLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NT
+kyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1
+Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LD
+EwOTk5NDExMDQsODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2MjM2
+NTk0NiwtMTcwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQzOD
+Y1LDg2MzgyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3
+NDg3NDg0XX0=
 -->
