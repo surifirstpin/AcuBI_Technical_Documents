@@ -168,7 +168,7 @@ From above shown image we are changing global filter by selecting all the fields
 
 ## Time-Frame Grouping
  
- On enabling time-frame grouping ( in Model Section ), dashboard global filters displays field grouping available for date parameters.
+On enabling time-frame grouping ( in Model Section ), dashboard global filters displays field grouping available for date parameters.
 
 a. Choose grouping fields in global filter section.
 b. Click on <b>Apply button</b> to apply the newly added filters.
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTY1NzgxNCwtMTIwNTQ0NTI5OCw1NT
-k0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQx
-MTA0LDg4NTA5OTAwMiwxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLT
-E3MDg2ODQ4MjYsLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4
-MjEwMDUsLTY5NDAxNDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NC
-wtMTMxNzAwNjM5LC0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNjE4
-MjM0NTE1XX0=
+eyJoaXN0b3J5IjpbLTE4MjIzMjY0NzYsLTEyMDU0NDUyOTgsNT
+U5NDc5MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMjYsMTA5OTk0
+MTEwNCw4ODUwOTkwMDIsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC
+0xNzA4Njg0ODI2LC0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYz
+ODIxMDA1LC02OTQwMTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0OD
+QsLTEzMTcwMDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYx
+ODIzNDUxNV19
 -->
