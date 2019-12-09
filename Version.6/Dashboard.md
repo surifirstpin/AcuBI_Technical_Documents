@@ -172,7 +172,7 @@ After applying new filter values, click <b>Apply</b> button and save.  The resul
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image23.png)
 
-## Full screen (Maximize/Minimize)
+## Full Screen (Maximize/Minimize)
 
 
 
@@ -302,11 +302,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTMwNzAyNywtMjI4Mjk2NDg2LC0xOD
-IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
-MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAyLD
-EwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMTk5
-MTAzMDYzNSwxNDU4MjQzODY1LDg2MzgyMTAwNSwtNjk0MDE0OD
-YwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2MzksLTIw
-MzUxMTQ3MTddfQ==
+eyJoaXN0b3J5IjpbNjg5ODUzNTE3LC0yMjgyOTY0ODYsLTE4Mj
+IzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcx
+NTAsLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMT
+A5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkx
+MDMwNjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4Nj
+AsNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOSwtMjAz
+NTExNDcxN119
 -->
