@@ -171,6 +171,12 @@ From above shown image we are changing global filter, by selecting all the field
 After applying new filter values, click <b>Apply</b> button and save.  The resultant would display the data based on applied filter values as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image23.png)
+
+## Full screen (Maximize/Minimize)
+
+
+
+
 ## Time-Frame Grouping
  
 On enabling time-frame grouping ( in Model Section ), dashboard global filters displays field grouping available for date parameters.
@@ -296,7 +302,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMDg1MjYwMiwtMjI4Mjk2NDg2LC0xOD
+eyJoaXN0b3J5IjpbLTIwMTMwNzAyNywtMjI4Mjk2NDg2LC0xOD
 IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
 MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAyLD
 EwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMTk5
