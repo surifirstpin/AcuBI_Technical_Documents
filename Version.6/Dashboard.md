@@ -206,7 +206,7 @@ c). Select drop-down button and choose number of rows to display in output.
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
-To download dashboard in any of the folowing formats, click gear icon;
+To download dashboard in any of the following formats, click gear icon;
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -323,7 +323,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTQ0MjgyMzksNjg1OTIxNDIyLC0yMj
+eyJoaXN0b3J5IjpbLTE1NjQ3OTYwODMsNjg1OTIxNDIyLC0yMj
 gyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5
 MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMjYsMTA5OTk0MTEwNC
 w4ODUwOTkwMDIsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4
