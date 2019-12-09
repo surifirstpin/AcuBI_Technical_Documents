@@ -164,7 +164,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
   <B><font color = " Black"> Image 12 </font></b>
 
-From above shown image we are selecting filter value stationcode 
+From above shown image we are selecting all the fields avail
 
 ## Time-Frame Grouping
  
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIxODgzOTUsNTU5NDc5MTA4LC00Mz
-U5ODcxNTAsLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkw
-MDIsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC
-0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQw
-MTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcwMDYzOS
-wtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIzNDUxNSwtMTI3
-Nzc5NjkzXX0=
+eyJoaXN0b3J5IjpbNTk2NjY4NjE3LDU1OTQ3OTEwOCwtNDM1OT
+g3MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAy
+LDEwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMT
+k5MTAzMDYzNSwxNDU4MjQzODY1LDg2MzgyMTAwNSwtNjk0MDE0
+ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2MzksLT
+IwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MTgyMzQ1MTUsLTEyNzc3
+OTY5M119
 -->
