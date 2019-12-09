@@ -162,16 +162,19 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-  <B><font color = " Black"> Image 12 </font></b>
+  <b><font color = " Black"> Image 12 </font></b>
 
 From above shown image we are changing global filter, by selecting all the fields (Refer image below)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image22.png)
 
+ <B><font color = " Black"> Image 13 </font></b>
+ 
 After applying new filter values, click <b>Apply</b> button and save.  The resultant would display the data based on applied filter values as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image23.png)
 
+ <B><font color = " Black"> Image 14 </font></b>
     
 ## Time-Frame Grouping
  
@@ -187,13 +190,13 @@ c. Click <b>save</b> to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c2671e29a835554b91bc7f56a8992573fcc24cf/images/New_version5/TD_Dashboard_image20.png)
 
-  <B><font color = " Black"> Image 13 </font></b>
+  <B><font color = " Black"> Image 15 </font></b>
 
 The resultant for the applied filters are displayed in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1e75bd88bdb6bb49d99ec1ba011c8ccb00142934/images/New_version5/TD_Dashboard_image21.png)
 
-  <B><font color = " Black"> Image 14 </font></b>
+  <B><font color = " Black"> Image 16</font></b>
 
 
 ## Full Screen (Maximize/Minimize)
@@ -204,12 +207,15 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
+ <B><font color = " Black"> Image 17 </font></b>
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
 To download dashboard in any of the following formats, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
 
+ <B><font color = " Black"> Image 18 </font></b>
+ 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
 - <b>Download CSV; </b>  download the grouped list.
@@ -229,7 +235,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
- <B><font color = " Black"> Image 15</font></b>
+ <B><font color = " Black"> Image 19</font></b>
 
 
 
@@ -240,13 +246,13 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
- <B><font color = " Black"> Image 16 </font></b>
+ <B><font color = " Black"> Image 20 </font></b>
 
 > <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
  
-  <B><font color = " Black"> Image 17</font></b>
+  <B><font color = " Black"> Image 21</font></b>
 
 ## Delete Dashboard
 
@@ -260,7 +266,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 18</font></b>
+ <B><font color = " Black"> Image 22</font></b>
 
 In <b>Folder View</b>, Click gear Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. 
 
@@ -269,7 +275,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 23</font></b>
 
 ## Info
 
@@ -277,7 +283,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
- <B><font color = " Black"> Image 20</font></b>
+ <B><font color = " Black"> Image 24</font></b>
 
 
 ## Edit 
@@ -325,11 +331,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NT
-kyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1
-Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LD
-EwOTk5NDExMDQsODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2MjM2
-NTk0NiwtMTcwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQzOD
-Y1LDg2MzgyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3
-NDg3NDg0XX0=
+eyJoaXN0b3J5IjpbMTE1OTI3MTU1NCwtMzA3NzU3MDA0LC00MD
+U2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0
+NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLT
+E3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0
+MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMwNj
+M1LDE0NTgyNDM4NjUsODYzODIxMDA1LC02OTQwMTQ4NjAsNjIx
+NjYwNjc0XX0=
 -->
