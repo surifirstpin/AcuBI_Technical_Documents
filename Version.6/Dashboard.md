@@ -74,15 +74,15 @@ Based on requirement multiple reports are added to layout selected.
     
 -   <b>Filter Type:</b> Type of filter used (String,date,number).
     
-    -   <b>String -</B>  For fields that contain letters or special characters.
+    -   <b>String </B>  For fields that contain letters or special characters.
         
-    -   <b>Number -</b>  For fields that contain numeric values.
+    -   <b>Number </b>  For fields that contain numeric values.
        
-    -   <b>Date -</b>  For fields that contain dates.
+    -   <b>Date </b>  For fields that contain dates.
         
-    -   <b>Lookup - </b>  To view the lookup in dashboard filters it should be defined in lookup section.  (Refer Lookup Section)
+    -   <b>Lookup </b>  To view the lookup in dashboard filters it should be defined in lookup section.  (Refer Lookup Section)
         
-    -   <b>Operator - </b> Filter operation applicable on data.
+    -   <b>Operator </b> Filter operation applicable on data.
         
 ## LOOKUP
 
@@ -290,11 +290,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4OD
-UwOTkwMDIsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0
-ODI2LC0xOTkxMDMwNjM1LDE0NTgyNDM4NjUsODYzODIxMDA1LC
-02OTQwMTQ4NjAsNjIxNjYwNjc0LDExMzc0ODc0ODQsLTEzMTcw
-MDYzOSwtMjAzNTExNDcxNyw2NTg2NDMxNjcsMTYxODIzNDUxNS
-wtMTI3Nzc5NjkzLDIxMDU3OTQzNDYsNjI2NDU3MzU0LDM2MTUz
-ODc1MV19
+eyJoaXN0b3J5IjpbNzEyMjA0ODMxLC0xNzc5MzE3MDI2LDEwOT
+k5NDExMDQsODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2MjM2NTk0
+NiwtMTcwODY4NDgyNiwtMTk5MTAzMDYzNSwxNDU4MjQzODY1LD
+g2MzgyMTAwNSwtNjk0MDE0ODYwLDYyMTY2MDY3NCwxMTM3NDg3
+NDg0LC0xMzE3MDA2MzksLTIwMzUxMTQ3MTcsNjU4NjQzMTY3LD
+E2MTgyMzQ1MTUsLTEyNzc3OTY5MywyMTA1Nzk0MzQ2LDYyNjQ1
+NzM1NF19
 -->
