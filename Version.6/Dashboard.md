@@ -294,13 +294,13 @@ To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
 
- <B><font color = " Black"> Image 21</font></b>
+ <B><font color = " Black"> Image 25</font></b>
 
 Click save then click <b>update</b> in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
- <B><font color = " Black"> Image 22</font></b>
+ <B><font color = " Black"> Image 26</font></b>
  
 ## Delete
 
@@ -319,7 +319,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
-<B><font color = " Black"> Image 23</font></b>
+<B><font color = " Black"> Image 27</font></b>
 
 ## Set Home Page
 
@@ -327,11 +327,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
-<B><font color = " Black"> Image 24</font></b>
+<B><font color = " Black"> Image 28</font></b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1OTI3MTU1NCwtMzA3NzU3MDA0LC00MD
+eyJoaXN0b3J5IjpbMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MD
 U2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0
 NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLT
 E3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0
