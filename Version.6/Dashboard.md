@@ -164,7 +164,7 @@ To view the saved dashboard open it from dashboard section and click on dashboar
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
   <B><font color = " Black"> Image 12 </font></b>
 
-From above shown image we are changing global filter 
+From above shown image we are changing global filter by selecting all the fields (Refer image below)
 
 ## Time-Frame Grouping
  
@@ -291,11 +291,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU3NzQ0NzU5LDU1OTQ3OTEwOCwtNDM1OT
-g3MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAy
-LDEwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMT
-k5MTAzMDYzNSwxNDU4MjQzODY1LDg2MzgyMTAwNSwtNjk0MDE0
-ODYwLDYyMTY2MDY3NCwxMTM3NDg3NDg0LC0xMzE3MDA2MzksLT
-IwMzUxMTQ3MTcsNjU4NjQzMTY3LDE2MTgyMzQ1MTUsLTEyNzc3
-OTY5M119
+eyJoaXN0b3J5IjpbLTEyNTY1NzgxNCw1NTk0NzkxMDgsLTQzNT
+k4NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAw
+MiwxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLT
+E5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4NjM4MjEwMDUsLTY5NDAx
+NDg2MCw2MjE2NjA2NzQsMTEzNzQ4NzQ4NCwtMTMxNzAwNjM5LC
+0yMDM1MTE0NzE3LDY1ODY0MzE2NywxNjE4MjM0NTE1LC0xMjc3
+Nzk2OTNdfQ==
 -->
