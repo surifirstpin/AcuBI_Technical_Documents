@@ -314,8 +314,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 >   <b><i>Note 1:</i></b> For " TRUE " option it will display both dimensions and measure field.
 
 ```
-{
-			
+{	
 			"name": "stationcode",
 			"label": "stationcode",
 			"data_type": "string",
@@ -327,7 +326,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 			"drill_down_fields": "wayused,areacode",
 			"show_drill_down_measures": "true",
 			"visualise": "true"
-		
+	
 		}
 ```
 
@@ -373,11 +372,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNT
-EwMzkwMiwtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUx
-NjUsNDY3NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMT
-AxNTUyNjc3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAz
-NzM2OTAsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOT
-k2LC0xMDU4OTExNjkwLDU4OTY2MjM3NSwtNDcxMjk3OTA5LC0x
-NDE0MTg0Mjc0XX0=
+eyJoaXN0b3J5IjpbMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OT
+Y3NTkwNiwtMTA1MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2
+OTYsMjExOTYxNTE2NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMT
+Y4ODUyODQzMSwxMDE1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMz
+MDEyMDksMTc0MDM3MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNT
+EsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00
+NzEyOTc5MDldfQ==
 -->
