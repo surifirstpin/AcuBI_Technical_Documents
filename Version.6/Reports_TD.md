@@ -1,5 +1,5 @@
 
-<center><h2>Reports</h2></center>
+<center><h1>Reports</h1></center>
 
 <b>Reports</b> are the starting point for building a query.  It is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
  
@@ -375,11 +375,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMT
-E5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4
-NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOS
-wxNzQwMzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4
-OTUzMTk5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5Nz
-kwOSwtMTQxNDE4NDI3NCwtMTE0MTUzMTc3LC0xMDYxNzQ5NTAz
-LDEwMDY1MTg3MV19
+eyJoaXN0b3J5IjpbLTEwNTEwMzkwMiwtMTQ0ODYwMDAzMiwtOD
+M2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNzM5LDE2NjYyNDI5
+NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MDg3My
+wxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0NiwxMTEw
+NDU1MTUxLC0xMDg5NTMxOTk2LC0xMDU4OTExNjkwLDU4OTY2Mj
+M3NSwtNDcxMjk3OTA5LC0xNDE0MTg0Mjc0LC0xMTQxNTMxNzcs
+LTEwNjE3NDk1MDNdfQ==
 -->
