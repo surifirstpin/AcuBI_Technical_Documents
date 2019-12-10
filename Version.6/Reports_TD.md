@@ -89,7 +89,7 @@ Filters  in AcuBi pull out the data by displaying the filtered information from 
 |<b>equal</b>                         |data from specific date                                     |
 |<b>not equal</b>                     |data excluding from specific date
 |<b>between</b>                       |data in between the specified dates
-|<b>not between</b>                   |excluding the data between the specified range
+|<b>not between</b>                   |exclude the data between the specified range
 |<b>less or equal</b>                 |data up to specified date 
 |<b>greater or equal</b>              |data from the specified date 
 |<b>is not null</b>                   |data which is not equal to null
@@ -373,11 +373,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzkwNDM1NTAsNjk5Njc1OTA2LC0xMD
-UxMDM5MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1
-MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLD
-EwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQw
-MzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMT
-k5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwt
-MTQxNDE4NDI3NF19
+eyJoaXN0b3J5IjpbMzI1MDUyNzk5LDY5OTY3NTkwNiwtMTA1MT
+AzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjExOTYxNTE2
+NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMD
+E1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3
+MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OT
+YsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0
+MTQxODQyNzRdfQ==
 -->
