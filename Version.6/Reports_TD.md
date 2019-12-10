@@ -117,7 +117,7 @@ The data is retrieved based on hidden filters applied, this applied hidden filte
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/14efb4f1288ae05b0362008394c9f6ee9cd53a51/images/New_version5/TD_Reports_3.png)
 
- <b><Font color = " black">Image 3</font></b>
+ <b><Font color = "black">Image 3</font></b>
 
 - To add more filters click <b>Add Filter.</b>
 
@@ -172,8 +172,6 @@ In times summary of your data may be useful. You can add column totals to your r
 available at top right side of <b>Data</b> section and then <b>Run</b> the report.
 
 <b>9.</b>    On selecting  <b>Check box</b> for totals, the report is displayed with total sum values of the measure fields obtained.
-
-
 
 ## Download Report
 
@@ -375,11 +373,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTEwMzkwMiwtMTQ0ODYwMDAzMiwtOD
-M2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNzM5LDE2NjYyNDI5
-NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MDg3My
-wxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0NiwxMTEw
-NDU1MTUxLC0xMDg5NTMxOTk2LC0xMDU4OTExNjkwLDU4OTY2Mj
-M3NSwtNDcxMjk3OTA5LC0xNDE0MTg0Mjc0LC0xMTQxNTMxNzcs
-LTEwNjE3NDk1MDNdfQ==
+eyJoaXN0b3J5IjpbNjk5Njc1OTA2LC0xMDUxMDM5MDIsLTE0ND
+g2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1MTY1LDQ2NzQzMTcz
+OSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1MjY3NzksLT
+E0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNjkwLDIxMTE2
+Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1ODkxMT
+Y5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwtMTQxNDE4NDI3NCwt
+MTE0MTUzMTc3XX0=
 -->
