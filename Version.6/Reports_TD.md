@@ -302,7 +302,7 @@ Click <b>OK</b> after deriving the expression,  all the values based on calculat
 
 ## SQL Query 
 
-To view the SQL query built on retrieving data in report, click on <b>SQL section.</b>
+To view the SQL query built on retrieving data in report, navigate to <b>SQL section.</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d39c0b745320159eca8019120ab0a47d8fbd61e/images/New_version5/TD_Reports_15.png)
  <b><Font color = " black">Image 14</font></b>
@@ -373,11 +373,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYwOTE2NjgsNjk5Njc1OTA2LC0xMD
-UxMDM5MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1
-MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLD
-EwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQw
-MzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMT
-k5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwt
-MTQxNDE4NDI3NF19
+eyJoaXN0b3J5IjpbMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNT
+EwMzkwMiwtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUx
+NjUsNDY3NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMT
+AxNTUyNjc3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAz
+NzM2OTAsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOT
+k2LC0xMDU4OTExNjkwLDU4OTY2MjM3NSwtNDcxMjk3OTA5LC0x
+NDE0MTg0Mjc0XX0=
 -->
