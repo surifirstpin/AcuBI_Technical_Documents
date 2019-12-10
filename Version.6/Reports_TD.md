@@ -368,16 +368,16 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 
 ## Visualization charts
 
-Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail information charts.
+Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail information on charts.
 
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1MDUyNzk5LDY5OTY3NTkwNiwtMTA1MT
-AzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjExOTYxNTE2
-NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwxMD
-E1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDksMTc0MDM3
-MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNTEsLTEwODk1MzE5OT
-YsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00NzEyOTc5MDksLTE0
-MTQxODQyNzRdfQ==
+eyJoaXN0b3J5IjpbLTIxMTYwOTE2NjgsNjk5Njc1OTA2LC0xMD
+UxMDM5MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1
+MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLD
+EwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQw
+MzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMT
+k5NiwtMTA1ODkxMTY5MCw1ODk2NjIzNzUsLTQ3MTI5NzkwOSwt
+MTQxNDE4NDI3NF19
 -->
