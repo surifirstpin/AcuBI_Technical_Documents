@@ -368,7 +368,6 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ## Visualization charts
 
 Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail information on charts.
-
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 ## Save Reports
@@ -377,11 +376,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzQ5Njc4MiwxNTE2MTE1OTg1LDE1MT
-YxMTU5ODUsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkw
-MiwtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsND
-Y3NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUy
-Njc3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OT
-AsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOTk2LC0x
-MDU4OTExNjkwXX0=
+eyJoaXN0b3J5IjpbLTIxNDI2MjgyOTIsMTUxNjExNTk4NSwxNT
+E2MTE1OTg1LDE1NjI4MTkzODMsNjk5Njc1OTA2LC0xMDUxMDM5
+MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1MTY1LD
+Q2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1
+MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNj
+kwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5Niwt
+MTA1ODkxMTY5MF19
 -->
