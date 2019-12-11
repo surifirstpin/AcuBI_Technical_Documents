@@ -55,11 +55,15 @@ Cache saves the data, so the future request for the data is provided faster.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
 <b><font color = "Black"> Image 3</b>
+
+## Check Data
+
+To view weather the data ext
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTQyNjIxOTgsLTQ0ODc1MDI4NCwxMj
-k4OTE5NDk1LC0zNzg4MjAzOTcsLTI5MTAzMzczMywxMjkzNjE3
-ODMsNDQzNjU2OTM0LDUwNzgxNTYwMCwtMjAwMzIwNTkyNCwxMD
-EzNTY5NzM4LC00ODYwNjE4NDYsMTg3Njc5OTkzMiw5NTM4NzYy
-ODgsMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNjM4NTE2NTYsMj
-A2MDUxODk5LC0xMTcyNDgwMzg2XX0=
+eyJoaXN0b3J5IjpbNDk3MjgzNDA0LC00NDg3NTAyODQsMTI5OD
+kxOTQ5NSwtMzc4ODIwMzk3LC0yOTEwMzM3MzMsMTI5MzYxNzgz
+LDQ0MzY1NjkzNCw1MDc4MTU2MDAsLTIwMDMyMDU5MjQsMTAxMz
+U2OTczOCwtNDg2MDYxODQ2LDE4NzY3OTk5MzIsOTUzODc2Mjg4
+LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNj
+A1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
