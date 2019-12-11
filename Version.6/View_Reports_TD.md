@@ -56,12 +56,7 @@ To delete a report, click on delete from list, it will display pop-up message as
 
 To set report to full screen click full-screen from the list.
 
-## [Refresh & Hard Refresh]
-
--   <b>Refresh</b>  displays the most recent data information of the report.
-    
--   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
-    
+To download report in any of the following formats, click gear icon and choose as follow;
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
@@ -74,13 +69,17 @@ To set report to full screen click full-screen from the list.
 -   <b>Image format</b>  download the dashboard report in image format.
     
 
+## [Refresh & Hard Refresh]
 
+-   <b>Refresh</b>  displays the most recent data information of the report.
+    
+-   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
+    
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzUyOTQ2NjQsLTMwOTI5NDMwOCwxOD
-IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
-NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5Ni
-wxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0
-NTQ1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5Mz
-I4LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
-
+eyJoaXN0b3J5IjpbNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMD
+A1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1
+NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMT
+YwMjkzMzU2OSwtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0
+NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMyOC
+wtODU0NDI1MjUzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
 -->
