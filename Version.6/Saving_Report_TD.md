@@ -60,10 +60,17 @@ Cache saves the data, so the future request for the data is provided faster.
 
 To know weather the data extracted in reports contains <b> Today </b> or <b> Yesterdays </b> information in list. To carry out this function enable check data with today or yesterday as shown below;
 
+ - Select <b> Check Data</b> (Today).
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
 <b><font color = "Black"> Image 4</b>
+
+ - Select <b>Check Data Field</b> (Date field).
+ 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
+<b><font color = "Black"> Image 5</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODkyNTM2NiwtNDQ4NzUwMjg0LDEyOT
+eyJoaXN0b3J5IjpbLTIyOTgwNjg0NywtNDQ4NzUwMjg0LDEyOT
 g5MTk0OTUsLTM3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4
 Myw0NDM2NTY5MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMT
 M1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4
