@@ -48,6 +48,7 @@ To Edit or delete a report, click on <b>List</b> icon and click edit make any ch
 
 To Delete a report, click on delete from list and 
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
 
 
 
@@ -71,7 +72,7 @@ To Delete a report, click on delete from list and
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjM3Mjk2MzksLTMwOTI5NDMwOCwxOD
+eyJoaXN0b3J5IjpbLTIwMjEzMzg4MDMsLTMwOTI5NDMwOCwxOD
 IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
 NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5Ni
 wxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0
