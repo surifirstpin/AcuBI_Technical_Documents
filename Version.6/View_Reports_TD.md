@@ -17,7 +17,8 @@ Clicking on report will navigate to specific report.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
 
--  To add more filters in existing report, click  <b>Add Filters.</b>
+-  To add more filters in existing report, click  <b>Add Filters</b> as shown below.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image13.png)
 <b><font color = "Black"> Image 3</b>
 
@@ -61,10 +62,10 @@ Clicking on report will navigate to specific report.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNT
-EyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3
-NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OSwtMjAwMjMxNzA2My
-wzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC04ODQy
-MzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1My
-wtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTE4MDI2Nzg0NzYsMTgyMDA1MzI1MCwtMT
+ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
+NTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OS
+wtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0
+NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1Mj
+UzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
 -->
