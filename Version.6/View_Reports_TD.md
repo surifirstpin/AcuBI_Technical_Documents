@@ -42,6 +42,13 @@ As shown in below image, it navigates to report selected.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
 <b><font color = "Black"> Image 4</b>
 
+## Edit/Delete
+
+To Edit or delete a report, click on <b>List</b> icon and cli
+
+
+
+
 ## [Refresh & Hard Refresh]
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
@@ -62,10 +69,11 @@ As shown in below image, it navigates to report selected.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTI5NDMwOCwxODIwMDUzMjUwLC0xMT
-E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
-NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC
-0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC0zNDQ2
-NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NTQ0MjUyNT
-MsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+eyJoaXN0b3J5IjpbMTg1MDY1MTMyNiwtMzA5Mjk0MzA4LDE4Mj
+AwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMTM3ODQ3
+NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4Njk2LD
+E2MDI5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1
+NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMj
+gsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
+
 -->
