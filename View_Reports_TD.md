@@ -24,9 +24,9 @@ Clicking on report will navigate to specific report.
 
 <b>1.</b> To apply the newly added filter click on <b>Apply</b>  Button.
 
-<b>2.</b> To Save the added filter click save.
+<b>2.</b> To Save the added filter click <b>Save</b>.
 
-<b>3.</b> To restore the previously ex applied filter click default.
+<b>3.</b> To restore the previously existing filter click <b>Default</b>.
 
 <b>For Example :</b> In case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
@@ -62,7 +62,7 @@ Clicking on report will navigate to specific report.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzc2NDQ5OSwxODIwMDUzMjUwLC0xMT
+eyJoaXN0b3J5IjpbLTIwOTQ1MTA1NiwxODIwMDUzMjUwLC0xMT
 E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
 NjkxLDE1MDExMTc3MTVdfQ==
 -->
