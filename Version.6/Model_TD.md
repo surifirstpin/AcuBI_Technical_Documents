@@ -1,5 +1,5 @@
 
-<center><h2>MODEL</h2></center>
+<center><h1>MODEL</h1></center>
 
 This section introduces steps to create a new project and accordingly generates a basic model from the database.
 A model is a customized gateway into the database for accessing data as per business logic. AcuBi provides an IDE, which allows mappings between views (database tables) and apply several filters on the data as per business requirement. It is designed in such a way that it provides a spontaneous data analysis to specific business users.
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk2MjM5OSwxOTUzNTM2MDc3LDE1OTEyNT
-UxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2NTAs
-MTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NTMxNT
-M4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODYsLTE1
-NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Njk4Nj
-Y3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNCwyMDEyMjY0NDU4XX0=
-
+eyJoaXN0b3J5IjpbLTE3MzEyODY1NjMsMTk1MzUzNjA3NywxNT
+kxMjU1MTgxLDM3Mjk5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3
+NjUwLDEwMzcxMDIxMTQsLTk2OTgxMTc5LDE4MzEzODY5OTEsNz
+UzMTUzODYsLTEwMTEwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2
+LC0xNTY0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNzA3MjQsLTY5Nz
+Y5ODY2NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzQsMjAxMjI2NDQ1
+OF19
 -->
