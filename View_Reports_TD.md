@@ -44,7 +44,9 @@ As shown in below image, it navigates to report selected.
 
 ## Edit/Delete
 
-To Edit or delete a report, click on <b>List</b> icon and clic
+To Edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
+
+To Delete a report, click on delete from list and 
 
 
 
@@ -69,7 +71,7 @@ To Edit or delete a report, click on <b>List</b> icon and clic
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4Njg3ODE3LC0zMDkyOTQzMDgsMTgyMD
-A1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1
-NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
+eyJoaXN0b3J5IjpbLTEwNjM3Mjk2MzksLTMwOTI5NDMwOCwxOD
+IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
+NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ==
 -->
