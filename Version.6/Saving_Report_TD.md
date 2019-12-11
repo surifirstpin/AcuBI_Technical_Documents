@@ -3,9 +3,7 @@
 
 <center><h1>Saving Reports</h1></center>
 
-All the work donefiles in AcuBi are saved under save explore section, this will save all the filter, sorting, pivot, visualization and so on.
-Both reports and dashboards can be organised via Work Spaces and later edited as per requirement.
-
+All  files created in AcuBi are saved under save explore section, this will save all the filter, sorting, pivot, visualization and so on.
 
 ### Saving a Report
 
@@ -58,10 +56,10 @@ Cache saves the data, so the future request for the data is provided faster.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
 <b><font color = "Black"> Image 3</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMTIwOTkxLDEyOTg5MTk0OTUsLTM3OD
-gyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4Myw0NDM2NTY5MzQs
-NTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMTM1Njk3MzgsLTQ4Nj
-A2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4ODQz
-LDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4OTksLTExNz
-I0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbLTQ0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNz
+g4MjAzOTcsLTI5MTAzMzczMywxMjkzNjE3ODMsNDQzNjU2OTM0
+LDUwNzgxNTYwMCwtMjAwMzIwNTkyNCwxMDEzNTY5NzM4LC00OD
+YwNjE4NDYsMTg3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0
+MywxODkzNzczODQ5LC0xNjM4NTE2NTYsMjA2MDUxODk5LC0xMT
+cyNDgwMzg2XX0=
 -->
