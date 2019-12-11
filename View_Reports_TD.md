@@ -12,10 +12,14 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image11.png)
 <b><font color = "Black"> Image 1</b>
 
-On click
+Clicking on report will navigate to specific report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
+
+-  To add more filters in existing report, click  <b>Add Filters.</b>
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image13.png)
+<b><font color = "Black"> Image 3</b>
 
 <b>1.</b> To apply the newly added filter click on <b>Apply</b>  Button.
 
@@ -57,7 +61,7 @@ On click
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU2NDIzMiwtMTExNzg1ODQ5OCwxNTEyOD
-M0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1
-XX0=
+eyJoaXN0b3J5IjpbMTgyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNT
+EyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3
+NzE1XX0=
 -->
