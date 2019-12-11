@@ -48,11 +48,13 @@ To Edit or delete a report, click on <b>List</b> icon and click edit make any ch
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
 
-To delete a report, click on delete from list, it will display pop-up message as shown below 
+To delete a report, click on delete from list, it will display pop-up message as shown below click delete to delete report permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
 
+## Full-screen
 
+To set report to full screen click full-screen from the list.
 
 ## [Refresh & Hard Refresh]
 
@@ -74,10 +76,11 @@ To delete a report, click on delete from list, it will display pop-up message as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTU1MzAwLC0zMDkyOTQzMDgsMTgyMD
-A1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1
-NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMT
-YwMjkzMzU2OSwtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0
-NTM4NywtMzQ0NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMyOC
-wtODU0NDI1MjUzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTEyNzUyOTQ2NjQsLTMwOTI5NDMwOCwxOD
+IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
+NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5Ni
+wxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0
+NTQ1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5Mz
+I4LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
+
 -->
