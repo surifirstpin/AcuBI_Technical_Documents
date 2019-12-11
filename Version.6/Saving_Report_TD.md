@@ -58,12 +58,12 @@ Cache saves the data, so the future request for the data is provided faster.
 
 ## Check Data
 
-To know weather the data extracted in reports contains <b> Today </b> or <b> Yesterdays </b> data in the list. To carry out this function select enable
+To know weather the data extracted in reports contains <b> Today </b> or <b> Yesterdays </b> data in the list. To carry out this function enable check data with today or yesterday as shown below
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI2NjYzNCwtNDQ4NzUwMjg0LDEyOT
-g5MTk0OTUsLTM3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4
-Myw0NDM2NTY5MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMT
-M1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4
-OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMD
-YwNTE4OTksLTExNzI0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbNDI1NDg2MTEyLC00NDg3NTAyODQsMTI5OD
+kxOTQ5NSwtMzc4ODIwMzk3LC0yOTEwMzM3MzMsMTI5MzYxNzgz
+LDQ0MzY1NjkzNCw1MDc4MTU2MDAsLTIwMDMyMDU5MjQsMTAxMz
+U2OTczOCwtNDg2MDYxODQ2LDE4NzY3OTk5MzIsOTUzODc2Mjg4
+LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNj
+A1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
