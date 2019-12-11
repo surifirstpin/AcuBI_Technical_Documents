@@ -1,7 +1,9 @@
 
-<center><h2>View Reports</h2></center>
+<center><h1>View Reports</h1></center>
 
 Reports in  <b> AcuBi</b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
+
+Both reports and dashboards can be organised via Work Spaces and later edited as per requirement.
 
 ## View Report
 
@@ -55,9 +57,10 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1Mj
-QzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4Njk2LDE2MDI5MzM1
-NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1NDUzODcsLT
-M0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMjgsLTg1NDQy
-NTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
+eyJoaXN0b3J5IjpbLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMT
+M3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4
+Njk2LDE2MDI5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC
+05NzQ1NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0
+MzkzMjgsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0ND
+ddfQ==
 -->
