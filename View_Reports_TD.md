@@ -42,6 +42,13 @@ As shown in below image, it navigates to report selected.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
 <b><font color = "Black"> Image 4</b>
 
+## Edit/Delete
+
+To Edit or delete a report, click on <b>List</b> icon and clic
+
+
+
+
 ## [Refresh & Hard Refresh]
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
@@ -62,7 +69,7 @@ As shown in below image, it navigates to report selected.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTI5NDMwOCwxODIwMDUzMjUwLC0xMT
-E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
-NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbNjc4Njg3ODE3LC0zMDkyOTQzMDgsMTgyMD
+A1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1
+NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
 -->
