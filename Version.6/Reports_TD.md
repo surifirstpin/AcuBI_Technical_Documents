@@ -373,9 +373,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 
 ## Save Reports
 
-All the reports created are saved under specific tag. Kindly follow the below link for more detailed inform
+All the reports created are saved under specific tag. Kindly follow the below link for more detailed information on saving reports.
+[Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODg1MTI3NiwxNTE2MTE1OTg1LDE1MT
+eyJoaXN0b3J5IjpbMTI0MzQ5Njc4MiwxNTE2MTE1OTg1LDE1MT
 YxMTU5ODUsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkw
 MiwtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsND
 Y3NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUy
