@@ -56,7 +56,7 @@ To delete a report, click on delete from list, it will display pop-up message as
 
 To set report to full screen click full-screen from the list.
 
-To download report in any of the following formats, click gear icon and choose as follow;
+To download a report in any of the following formats, click gear icon;
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
@@ -76,7 +76,8 @@ To download report in any of the following formats, click gear icon and choose a
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMD
-A1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1
-NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
+eyJoaXN0b3J5IjpbLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLTMwOT
+I5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3
+NjUsLTEzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ
+==
 -->
