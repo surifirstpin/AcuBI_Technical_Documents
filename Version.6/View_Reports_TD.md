@@ -44,7 +44,9 @@ As shown in below image, it navigates to report selected.
 
 ## Edit/Delete
 
-To Edit or delete a report, click on <b>List</b> icon and cli
+To Edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
+
+To Delete a report, click on delete from list and 
 
 
 
@@ -69,11 +71,11 @@ To Edit or delete a report, click on <b>List</b> icon and cli
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDY1MTMyNiwtMzA5Mjk0MzA4LDE4Mj
-AwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMTM3ODQ3
-NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4Njk2LD
-E2MDI5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1
-NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0MzkzMj
-gsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0NDddfQ==
+eyJoaXN0b3J5IjpbLTEwNjM3Mjk2MzksLTMwOTI5NDMwOCwxOD
+IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
+NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5Ni
+wxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0
+NTQ1Mzg3LC0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5Mz
+I4LC04NTQ0MjUyNTMsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 
 -->
