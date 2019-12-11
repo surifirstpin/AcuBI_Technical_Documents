@@ -9,12 +9,12 @@ Both reports and dashboards can be organised via Work Spaces and later edited as
 
 To view existing report in AcuBi, click on report name under <b>My Space </b>report list. It displays the report and the filter applied to a report.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6ccc66f6bc28c68e3c17becce4f804f2e6f2845f/images/New_version5/td_view_report_image1.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image11.png)
 <b><font color = "Black"> Image 1</b>
 
--  To add more filters click  <b>Add Filters.</b>
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/970e317b2fcf1e9fa777b7a05d73c1ca7b122947/images/New_version5/td_view_report_image2.png)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
 
 <b>1.</b> To apply the newly added filter click on <b>Apply</b>  Button.
@@ -57,10 +57,10 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMT
-M3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4
-Njk2LDE2MDI5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC
-05NzQ1NDUzODcsLTM0NDY3MjUzMSwtODg0MjMwMTA3LC0xNzI0
-MzkzMjgsLTg1NDQyNTI1MywyMzMzMjA1NTMsLTExODg1Mzg0ND
-ddfQ==
+eyJoaXN0b3J5IjpbMTIxMTgzOTMxMSwtMTExNzg1ODQ5OCwxNT
+EyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3
+NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OSwtMjAwMjMxNzA2My
+wzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC04ODQy
+MzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMyMDU1My
+wtMTE4ODUzODQ0N119
 -->
