@@ -345,6 +345,7 @@ Using drill down you can view more deeper insights of the data. To enable this f
 			"data_type": "string",
 			"type": "dimension",
 			"lookup": "",
+	
 			"operators": "",
 			"sql": "${TABLE}.stationcode",
 			"summary": "",
@@ -372,11 +373,11 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OT
-Y3NTkwNiwtMTA1MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2
-OTYsMjExOTYxNTE2NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMT
-Y4ODUyODQzMSwxMDE1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMz
-MDEyMDksMTc0MDM3MzY5MCwyMTExNjI5NTQ2LDExMTA0NTUxNT
-EsLTEwODk1MzE5OTYsLTEwNTg5MTE2OTAsNTg5NjYyMzc1LC00
-NzEyOTc5MDldfQ==
+eyJoaXN0b3J5IjpbLTYwNDA3NTEzLDE1MTYxMTU5ODUsMTU2Mj
+gxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMiwtMTQ0ODYwMDAz
+MiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNzM5LDE2Nj
+YyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2
+MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0Ni
+wxMTEwNDU1MTUxLC0xMDg5NTMxOTk2LC0xMDU4OTExNjkwLDU4
+OTY2MjM3NV19
 -->
