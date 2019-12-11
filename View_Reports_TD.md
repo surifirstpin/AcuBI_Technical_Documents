@@ -17,7 +17,8 @@ Clicking on report will navigate to specific report.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
 
--  To add more filters in existing report, click  <b>Add Filters.</b>
+-  To add more filters in existing report, click  <b>Add Filters</b> as shown below.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image13.png)
 <b><font color = "Black"> Image 3</b>
 
@@ -25,7 +26,7 @@ Clicking on report will navigate to specific report.
 
 <b>2.</b> To Save the added filter click save.
 
-<b>3.</b> To restore the previously applied filter click default.
+<b>3.</b> To restore the previously ex applied filter click default.
 
 <b>For Example :</b> In case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
@@ -61,7 +62,7 @@ Clicking on report will navigate to specific report.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNT
-EyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3
-NzE1XX0=
+eyJoaXN0b3J5IjpbLTQ3Mzc2NDQ5OSwxODIwMDUzMjUwLC0xMT
+E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
+NjkxLDE1MDExMTc3MTVdfQ==
 -->
