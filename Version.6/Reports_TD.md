@@ -371,12 +371,15 @@ Pictorial representation of data obtained is visible under charts sections. Kind
 
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
+## Save Reports
+
+All the reports created are saved under specific tag. Kindly follow the below link for more detailed inform
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjExNTk4NSwxNTE2MTE1OTg1LDE1Nj
-I4MTkzODMsNjk5Njc1OTA2LC0xMDUxMDM5MDIsLTE0NDg2MDAw
-MzIsLTgzNjM0MDY5NiwyMTE5NjE1MTY1LDQ2NzQzMTczOSwxNj
-Y2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1MjY3NzksLTE0NTc1
-NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNjkwLDIxMTE2Mjk1ND
-YsMTExMDQ1NTE1MSwtMTA4OTUzMTk5NiwtMTA1ODkxMTY5MCw1
-ODk2NjIzNzVdfQ==
+eyJoaXN0b3J5IjpbLTMyODg1MTI3NiwxNTE2MTE1OTg1LDE1MT
+YxMTU5ODUsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkw
+MiwtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsND
+Y3NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUy
+Njc3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OT
+AsMjExMTYyOTU0NiwxMTEwNDU1MTUxLC0xMDg5NTMxOTk2LC0x
+MDU4OTExNjkwXX0=
 -->
