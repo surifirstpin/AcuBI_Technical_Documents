@@ -12,7 +12,7 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image11.png)
 <b><font color = "Black"> Image 1</b>
 
-Clicking on report will navigate to specific report.
+As show
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
@@ -62,7 +62,7 @@ Clicking on report will navigate to specific report.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ1MTA1NiwxODIwMDUzMjUwLC0xMT
+eyJoaXN0b3J5IjpbLTYwMzQyNDQ2OCwxODIwMDUzMjUwLC0xMT
 E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
 NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC
 0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC0zNDQ2
