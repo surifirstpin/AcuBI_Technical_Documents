@@ -24,9 +24,9 @@ Clicking on report will navigate to specific report.
 
 <b>1.</b> To apply the newly added filter click on <b>Apply</b>  Button.
 
-<b>2.</b> To Save the added filter click save.
+<b>2.</b> To Save the added filter click <b>Save</b>.
 
-<b>3.</b> To restore the previously applied filter click default.
+<b>3.</b> To restore the previously existing filter click <b>Default</b>.
 
 <b>For Example :</b> In case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
@@ -62,10 +62,10 @@ Clicking on report will navigate to specific report.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI2Nzg0NzYsMTgyMDA1MzI1MCwtMT
-ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
-NTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OS
-wtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0
-NjcyNTMxLC04ODQyMzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1Mj
-UzLDIzMzMyMDU1MywtMTE4ODUzODQ0N119
+eyJoaXN0b3J5IjpbLTIwOTQ1MTA1NiwxODIwMDUzMjUwLC0xMT
+E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
+NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC
+0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC0zNDQ2
+NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NTQ0MjUyNT
+MsMjMzMzIwNTUzLC0xMTg4NTM4NDQ3XX0=
 -->
