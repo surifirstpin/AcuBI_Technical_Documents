@@ -69,11 +69,16 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
 <b><font color = "Black"> Image 5</b>
+
+## Report Definition
+
+To view weather today data existed in the list, go to dashboard-->Reports, Click on report
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyOTgwNjg0NywtNDQ4NzUwMjg0LDEyOT
-g5MTk0OTUsLTM3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4
-Myw0NDM2NTY5MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMT
-M1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4
-OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMD
-YwNTE4OTksLTExNzI0ODAzODZdfQ==
+eyJoaXN0b3J5IjpbLTkzNzI2Njc2OCwtMjI5ODA2ODQ3LC00ND
+g3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIwMzk3LC0yOTEwMzM3
+MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAsLTIwMD
+MyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4NzY3OTk5
+MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMT
+YzODUxNjU2LDIwNjA1MTg5OSwtMTE3MjQ4MDM4Nl19
 -->
