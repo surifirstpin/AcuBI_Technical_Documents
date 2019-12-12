@@ -1,7 +1,7 @@
 
 <center><h1>Reports</h1></center>
 
-<b>Reports</b> are the starting point for building a query.  It is designed in such a way, that it retrieves the data in desired combinations as per your business needs and explores particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
+<b>Reports</b> are the starting point for building a query.  It is designed in such a way that it retrieves the data in desired combinations as per your business needs and explore particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs : </i></b>
  
@@ -376,11 +376,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDI2MjgyOTIsMTUxNjExNTk4NSwxNT
-E2MTE1OTg1LDE1NjI4MTkzODMsNjk5Njc1OTA2LC0xMDUxMDM5
-MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5NiwyMTE5NjE1MTY1LD
-Q2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4NTI4NDMxLDEwMTU1
-MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMTIwOSwxNzQwMzczNj
-kwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwtMTA4OTUzMTk5Niwt
-MTA1ODkxMTY5MF19
+eyJoaXN0b3J5IjpbLTEyMjE1MTI0NzcsLTIxNDI2MjgyOTIsMT
+UxNjExNTk4NSwxNTE2MTE1OTg1LDE1NjI4MTkzODMsNjk5Njc1
+OTA2LC0xMDUxMDM5MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5Ni
+wyMTE5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4
+NTI4NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMT
+IwOSwxNzQwMzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwt
+MTA4OTUzMTk5Nl19
 -->
