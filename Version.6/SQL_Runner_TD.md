@@ -11,8 +11,7 @@ Using SQL Runner, you can directly access the database and clout in variety of w
 <b>I.</b> Write SQL query from scratch and run the query.
 
  > <b>Note:</b> make sure the dialects used in SQL runner should match the database dialects if not it displays error message.
-    
-
+ 
 ### Steps to create SQL Query 
 
  Navigate to SQL runner by clicking on SQL Runner section.
@@ -199,7 +198,7 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2OTU0ODkxOSwxMzM3MTEwMzQ4LC0xNj
+eyJoaXN0b3J5IjpbLTUwODgxOTE3NSwxMzM3MTEwMzQ4LC0xNj
 k0MDg2NjEzLC0yMzY1MTk4NjEsMjAwNTcwNzgxMCw0MDEyMTE4
 NTgsLTkwMjA4MDQ3MCwyMDA1NzA3ODEwLC04MDYzNTUyNzYsLT
 kwNDc3NjU5MywtOTY3NjcyOTM5LDEwNTAyNDIxMDUsLTk4Njkz
