@@ -72,13 +72,13 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
 
 ## Report Definition
 
-To view weather today data existed in the list, go to dashboard-->Reports, Click on report
+To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a green 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzI2Njc2OCwtMjI5ODA2ODQ3LC00ND
-g3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIwMzk3LC0yOTEwMzM3
-MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAsLTIwMD
-MyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4NzY3OTk5
-MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMT
-YzODUxNjU2LDIwNjA1MTg5OSwtMTE3MjQ4MDM4Nl19
+eyJoaXN0b3J5IjpbLTIwOTI1NjQ0NDQsLTIyOTgwNjg0NywtND
+Q4NzUwMjg0LDEyOTg5MTk0OTUsLTM3ODgyMDM5NywtMjkxMDMz
+NzMzLDEyOTM2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAwLC0yMD
+AzMjA1OTI0LDEwMTM1Njk3MzgsLTQ4NjA2MTg0NiwxODc2Nzk5
+OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4ODQzLDE4OTM3NzM4NDksLT
+E2Mzg1MTY1NiwyMDYwNTE4OTksLTExNzI0ODAzODZdfQ==
 -->
