@@ -291,7 +291,7 @@ Click on <b>Calculated Column</b> button to enable table calculations as shown i
 
   <b><Font color = " black">Image 12</font></b>
 
-Click <b>OK</b> after deriving the expression,  all the values based on calculation is shown up in green color. (Refer Image 13)
+Click <b>OK</b> after deriving the expression, all the values based on calculation is shown up in green color. (Refer Image 13)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5e4fcbcc95b377692d8894aca3698b98701f0b18/images/New_version5/TD_Reports_13.png)
  
@@ -376,11 +376,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjE1MTI0NzcsLTIxNDI2MjgyOTIsMT
-UxNjExNTk4NSwxNTE2MTE1OTg1LDE1NjI4MTkzODMsNjk5Njc1
-OTA2LC0xMDUxMDM5MDIsLTE0NDg2MDAwMzIsLTgzNjM0MDY5Ni
-wyMTE5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOTc5LC0xNjg4
-NTI4NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMsMTcxMzMwMT
-IwOSwxNzQwMzczNjkwLDIxMTE2Mjk1NDYsMTExMDQ1NTE1MSwt
-MTA4OTUzMTk5Nl19
+eyJoaXN0b3J5IjpbLTQwNjc0ODkyMywtMTIyMTUxMjQ3NywtMj
+E0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYxMTU5ODUsMTU2Mjgx
+OTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMiwtMTQ0ODYwMDAzMi
+wtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNzM5LDE2NjYy
+NDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MD
+g3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0Niwx
+MTEwNDU1MTUxXX0=
 -->
