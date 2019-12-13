@@ -124,13 +124,15 @@ In below example we are selecting referred checkbox for Lookup-1 and mention a s
 select distinct orderattdid from biplus.orders where stationcode in (#stationcode#)
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c0cb1fb3a06d74036c3f2f63167997eaa485f64/images/New_version5/TD_Dashboard_image26.png)
-
+  <b><font color = " Black" > Image 10 </font></b>
+  
 To view how this dependency filters works, open Dashboard report-->Filters screen.
 
 From below image as we can see on selecting lookup stationcode-->Stationcode_2 ( which as been referred), it displays Stationcode_2 details for lookup_2 orderattdid.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/aee43eafcba340f0ecbcf189c36da0e2b34d7922/images/New_version5/TD_Dashboard_image27.png)
-
+  <b><font color = " Black" > Image 11</font></b>
+  
 ## Report Listeners
 
 <b>Listeners</b> enables to register callbacks to be notified when an event is detected on a specific label. AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
@@ -138,7 +140,7 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/647c988be461bddb8f73631b10bda0beb4da5e4a/images/New_version5/TD_Dashboard_image7.png)
  
- <b><font color = " Black"> Image 10 </font></b>
+ <b><font color = " Black"> Image 11 </font></b>
 
 
 -   <b>Dashboard report:</b>  selects reports to add filters.
@@ -172,26 +174,26 @@ Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
 
- <B><font color = " Black"> Image 11 </font></b>
+ <B><font color = " Black"> Image 12 </font></b>
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
 
 - it displays below screen with dashboard reports and applied global filters 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ab627f79baffd061b5bbf8c1596bd4580c68b29c/images/New_version5/TD_Dashboard_image9.png)
-  <b><font color = " Black"> Image 12 </font></b>
+  <b><font color = " Black"> Image 13 </font></b>
 
 From above shown image we are changing global filter, by selecting all the fields (Refer image below)
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image22.png)
 
- <B><font color = " Black"> Image 13 </font></b>
+ <B><font color = " Black"> Image 14 </font></b>
  
 After applying new filter values, click <b>Apply</b> button and save.  The resultant would display the data based on applied filter values as shown in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9d6ca772337647ea123412094216ad4f2372f7a2/images/New_version5/TD_Dashboard_image23.png)
 
- <B><font color = " Black"> Image 14 </font></b>
+ <B><font color = " Black"> Image 15</font></b>
     
 ## Time-Frame Grouping
  
@@ -207,13 +209,13 @@ c. Click <b>save</b> to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c2671e29a835554b91bc7f56a8992573fcc24cf/images/New_version5/TD_Dashboard_image20.png)
 
-  <B><font color = " Black"> Image 15 </font></b>
+  <B><font color = " Black"> Image 16 </font></b>
 
 The resultant for the applied filters are displayed in image below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1e75bd88bdb6bb49d99ec1ba011c8ccb00142934/images/New_version5/TD_Dashboard_image21.png)
 
-  <B><font color = " Black"> Image 16</font></b>
+  <B><font color = " Black"> Image 17</font></b>
 
 
 ## Full Screen (Maximize/Minimize)
@@ -224,14 +226,14 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
- <B><font color = " Black"> Image 17 </font></b>
+ <B><font color = " Black"> Image 18 </font></b>
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
 To download dashboard in any of the following formats, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
 
- <B><font color = " Black"> Image 18 </font></b>
+ <B><font color = " Black"> Image 19</font></b>
  
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -252,7 +254,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 20</font></b>
 
 
 
@@ -263,13 +265,13 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
- <B><font color = " Black"> Image 20 </font></b>
+ <B><font color = " Black"> Image 21</font></b>
 
 > <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
  
-  <B><font color = " Black"> Image 21</font></b>
+  <B><font color = " Black"> Image 2</font></b>
 
 ## Delete Dashboard
 
@@ -348,7 +350,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc0NDc5NTIsMTkzMzUyMzI0NCw1Nz
+eyJoaXN0b3J5IjpbLTIwMTc3MTY3MTAsMTkzMzUyMzI0NCw1Nz
 k3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2
 NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLT
 IyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0
