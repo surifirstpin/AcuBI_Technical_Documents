@@ -153,13 +153,7 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
     
     ## Save Dashboard
 
- <b>5.</b> Click  <b>Save Button,</b> this will navigate to save dashboard window.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
-
- <B><font color = " Black"> Image 12 </font></b>
- 
-##  Privacy & Share option for Dashboards
+ <b>5.</b> Click  <b>Save Button,</b> this will navigate to save dashboard window. Enter the below information in save dashboard window;
 
 Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
 -   <b>Name:</b> name identifier for dashboard created.
@@ -167,7 +161,12 @@ Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b
 -   <b>Title:</b> title to refer the dashboard.
     
 -   <b>Info:</b>  summary information of the dashboard created.
-    
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
+
+ <B><font color = " Black"> Image 12 </font></b>
+ 
+##  Privacy & Share option for Dashboards
+   
 -   <b>Privacy:</b>  you can save the report in any one of the following privacy option.
     
     -   <b>Private()</b>  It enable access for user itself.
@@ -350,11 +349,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MTI0MTY1NywtNzU3MDU3NTE3LDE5Mz
-M1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4
-MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNj
-g1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0
-NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMj
-YsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0MTEwNCwtMTYy
-MzY1OTQ2XX0=
+eyJoaXN0b3J5IjpbLTE1OTUxODczNTYsLTc1NzA1NzUxNywxOT
+MzNTIzMjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3
+ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLD
+Y4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1
+NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MD
+I2LDEwOTk5NDExMDQsODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2
+MjM2NTk0Nl19
 -->
