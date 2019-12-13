@@ -154,6 +154,7 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
     ## Save Dashboard
 
  <b>5.</b> Click  <b>Save Button,</b> this will navigate to save dashboard window. Enter the below information in save dashboard window;
+## Tag
 
 Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
 
@@ -382,11 +383,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NT
-I5LDczNDUzMDI4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1
-OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MT
-M3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAs
-LTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mj
-k2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEw
+eyJoaXN0b3J5IjpbNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMj
+MyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcx
+NzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMz
+I0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwx
+OTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5Mj
+E0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5
 OF19
 -->
