@@ -219,9 +219,9 @@ The resultant for the applied filters are displayed in image below.
   <B><font color = " Black"> Image 17</font></b>
 
 
-## Full Screen (Maximize/Minimize)
+## Full Screen 
 
-a). To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
+ To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
  <B><font color = " Black"> Image 18</font></b>
@@ -231,6 +231,8 @@ To exit Full screen, press ESC (escape) on your keyboard.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
  <B><font color = " Black"> Image 19</font></b>
  
+ ## Maximize/Minimize
+  
 a). To maximize a report in dashboard click<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
 
 b). Select drop-down button and choose number of rows to display in output.
@@ -351,7 +353,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
-<B><font color = " Black"> Image 28</font></b>
+<B><font color = " Black"> Image 30</font></b>
 
 ## Set Home Page
 
@@ -359,15 +361,15 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
 
-<B><font color = " Black"> Image 29</font></b>
+<B><font color = " Black"> Image 31</font></b>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODgwNzM1MzYsMTI4Njg5MTIxMywxMj
-cxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUy
-MzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOS
-wxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5
-MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NT
-I5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwx
-MDk5OTQxMTA0XX0=
+eyJoaXN0b3J5IjpbMTk2NDc4MjQ0MSwxMjg2ODkxMjEzLDEyNz
+E3MzczODAsLTE1OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIz
+MjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LD
+E5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTky
+MTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mj
+k4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LDEw
+OTk5NDExMDRdfQ==
 -->
