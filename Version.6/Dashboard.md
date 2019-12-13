@@ -151,9 +151,14 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
     
 - <b>Add Listener</b> adds multiple filters to reports.
     
-    ## SAve
- <b>5.</b> Click  <b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
+    ## Save Dashboard
 
+ <b>5.</b> Click  <b>Save Button,</b> this will navigate to save dashboard window.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
+
+ <B><font color = " Black"> Image 12 </font></b>
+ 
 ##  Privacy & Share option for Dashboards
 
 Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
@@ -170,12 +175,6 @@ Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b
     -   <b>Public()</b>  It enable access for all the users.
         
     -   <b>Share()</b>  It enable access for specific set of users.
-
-## 
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
-
- <B><font color = " Black"> Image 12 </font></b>
 
 To view the saved dashboard open it from dashboard section and click on dashboard report name.
 
@@ -351,7 +350,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNDExNzAyMCwtNzU3MDU3NTE3LDE5Mz
+eyJoaXN0b3J5IjpbMTA2MTI0MTY1NywtNzU3MDU3NTE3LDE5Mz
 M1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4
 MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNj
 g1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0
