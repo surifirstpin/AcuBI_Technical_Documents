@@ -151,6 +151,7 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
     
 - <b>Add Listener</b> adds multiple filters to reports.
     
+    ## SAve
  <b>5.</b> Click  <b>Save Button</b>  to save the dashboard.<b><i>(Refer Image 9)</i></b>
 
 ##  Privacy & Share option for Dashboards
@@ -350,11 +351,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OT
-c1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3
-MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMj
-I4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3
-OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LDEwOTk5NDExMD
-QsODg1MDk5MDAyLDEwOTk5NDExMDQsLTE2MjM2NTk0NiwtMTcw
-ODY4NDgyNl19
+eyJoaXN0b3J5IjpbMTAxNDExNzAyMCwtNzU3MDU3NTE3LDE5Mz
+M1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4
+MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNj
+g1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0
+NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMj
+YsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0MTEwNCwtMTYy
+MzY1OTQ2XX0=
 -->
