@@ -213,7 +213,7 @@ c. Click <b>save</b> to save the changes made.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8c2671e29a835554b91bc7f56a8992573fcc24cf/images/New_version5/TD_Dashboard_image20.png)
 
-  <B><font color = " Black"> Image 16 </font></b>
+  <b><font color = " Black"> Image 16 </font></b>
 
 The resultant for the applied filters are displayed in image below.
 
@@ -383,11 +383,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMj
-MyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcx
-NzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMz
-I0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwx
-OTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5Mj
-E0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5
-OF19
+eyJoaXN0b3J5IjpbLTE4NDk0NTIwODIsNTY4Njg3MDIyLDQ3NT
+gwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4
+Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNT
+c1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwt
+MTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNT
+Y3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3
+Nl19
 -->
