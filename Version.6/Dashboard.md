@@ -245,7 +245,7 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
  <B><font color = " Black"> Image 20 </font></b>
 
-## Download CSV, Download CSV ; Download XLXS 
+## Download CSV, CSV ; or XLXS 
 
 To download dashboard in any of the following formats, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
@@ -367,11 +367,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MT
-czNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMy
-NDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4MzksMT
-k4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNjg1OTIx
-NDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0NDUyOT
-gsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMjYsMTA5
-OTk0MTEwNF19
+eyJoaXN0b3J5IjpbMTQ5Mzc0MTQ0Nyw3MzQ1MzAyODYsMTI4Nj
+g5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1
+MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMT
+EyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3
+NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3Ni
+wtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3
+OTMxNzAyNl19
 -->
