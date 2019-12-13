@@ -11,7 +11,6 @@ To view already existing dashboard navigate to dashboard section under <b><i> My
  
  <B><font color = " Black"> Image 1 </font></b>
 
-> Note : sharing status
 ### Create Dashboard
 
 > <b> Navigation : Dashboard→ New Dashboard</b>
@@ -384,7 +383,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjc0NTE0LDQ3NTgwNzcxNCw0NjEyMj
+eyJoaXN0b3J5IjpbNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMj
 MyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcx
 NzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMz
 I0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwx
