@@ -116,6 +116,9 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 
 -   <b> Referred: </b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
+For instance:
+In below example wea re ]
+
 ## Report Listeners
 
 <b>Listeners</b> enables to register callbacks to be notified when an event is detected on a specific label. AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
@@ -333,11 +336,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwxOT
-g0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5MjE0
-MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5OC
-w1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwxMDk5
-OTQxMTA0LDg4NTA5OTAwMiwxMDk5OTQxMTA0LC0xNjIzNjU5ND
-YsLTE3MDg2ODQ4MjYsLTE5OTEwMzA2MzUsMTQ1ODI0Mzg2NSw4
-NjM4MjEwMDVdfQ==
+eyJoaXN0b3J5IjpbNjc5ODk0OTI0LDE5MjE2ODYwNTksLTExMj
+M3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYz
+ODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLT
+EyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3Nzkz
+MTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0MTEwNC
+wtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMwNjM1LDE0
+NTgyNDM4NjVdfQ==
 -->
