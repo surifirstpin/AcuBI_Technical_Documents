@@ -373,6 +373,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1a9529f30132d283df1e8ee8960245888a61bbe2/images/New_version5/TD_Dashboard_image32.png)
 
 <B><font color = " Black"> Image 32</font></b>
+
 > <b>Note</b> : Pin option is applicable for more than one dimension only.
 
 ## Find
@@ -381,11 +382,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMj
-g2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1Niwt
-NzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2OD
-YwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0
-LC00MDU2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4Mj
-IzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcx
-NTBdfQ==
+eyJoaXN0b3J5IjpbNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NT
+I5LDczNDUzMDI4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1
+OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MT
+M3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAs
+LTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mj
+k2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEw
+OF19
 -->
