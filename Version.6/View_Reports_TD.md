@@ -31,7 +31,7 @@ As shown in below image, it navigates to report selected.
 <b>For Example :</b> In case if we are choosing timeline under date filters, you have an ability to check the present , previous or a specific range of data as per your business requirement ( Refer below image).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/40e942e774c02238eb5c6a69120dd5e500e74b95/images/New_version5/td_view_report_image3.png)
-<b><font color = "Black"> Image 3</b>
+<b><font color = "Black"> Image 4</b>
 
 -   You can also make use of inclusive, exclusive braces to filter the data.
     
@@ -40,25 +40,26 @@ As shown in below image, it navigates to report selected.
     -   An open interval (a,b) excludes them.
 	    
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6bdae69c9ab5be4b6e6306c6044098f43935a69/images/New_version5/td_view_report_image4.png)
-<b><font color = "Black"> Image 4</b>
+<b><font color = "Black"> Image 5</b>
 
 ## Edit/Delete
 
 To Edit or delete a report, click on <b>List</b> icon and click edit make any changes to report and save changes to the same.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4cf90c1b89eb4c3002bcc0f1de094babbc3834d4/images/New_version5/td_view_report_image15.png)
+<b><font color = "Black"> Image 6</b>
 
 To delete a report, choose delete from list, it will display pop-up message as shown below click delete to delete report permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
-
+<b><font color = "Black"> Image 7</b>
 ## Full-screen
 
 To set report to full screen click full-screen from the list.
 
 To download a report in any of the following formats, click gear icon;
 
-## [Download CSV, Download CSV ; Download XLXS & Image Formats]
+## Download CSV, CSV ; or XLXS 
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -66,21 +67,19 @@ To download a report in any of the following formats, click gear icon;
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
--   <b>Image format</b>  download the dashboard report in image format.
-    
 
-## [Refresh & Hard Refresh]
+## Refresh & Hard Refresh
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA5MDYzNTQ1LC00NDE3NzE2ODcsNjIzMD
-k2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMTExNzg1ODQ5
-OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNT
-AxMTE3NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OSwtMjAwMjMx
-NzA2MywzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0NjcyNTMxLC
-04ODQyMzAxMDcsLTE3MjQzOTMyOCwtODU0NDI1MjUzLDIzMzMy
-MDU1M119
+eyJoaXN0b3J5IjpbLTkxNzk3NDQyOCw5MDkwNjM1NDUsLTQ0MT
+c3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMwOCwxODIwMDUzMjUw
+LC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNT
+I0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5NiwxNjAyOTMz
+NTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0NTQ1Mzg3LC
+0zNDQ2NzI1MzEsLTg4NDIzMDEwNywtMTcyNDM5MzI4LC04NTQ0
+MjUyNTNdfQ==
 -->
