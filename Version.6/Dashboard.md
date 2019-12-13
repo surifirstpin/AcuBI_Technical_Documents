@@ -296,6 +296,14 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
  <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
+  ## Set Home Page
+
+To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up <b> Homepage Window</b> with success message as shown below.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
+
+<B><font color = " Black"> Image 25</font></b>
+
   
 ## Folder View
 
@@ -303,7 +311,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 25</font></b>
+ <B><font color = " Black"> Image 26</font></b>
 
 In <b>Folder View</b>, Click gear Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. 
 
@@ -312,7 +320,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 26</font></b>
+ <B><font color = " Black"> Image 27</font></b>
 
 ## Info
 
@@ -320,7 +328,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
- <B><font color = " Black"> Image 27</font></b>
+ <B><font color = " Black"> Image 28</font></b>
 
 
 ## Edit 
@@ -331,13 +339,13 @@ To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
 
- <B><font color = " Black"> Image 28</font></b>
+ <B><font color = " Black"> Image 29</font></b>
 
 Click save then click <b>update</b> in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
- <B><font color = " Black"> Image 29</font></b>
+ <B><font color = " Black"> Image 30</font></b>
  
 ## Delete
 
@@ -356,23 +364,17 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3d26c0f3df14f01438f447f5b9b577478f082e84/images/New_version5/TD_Dashboard_image18.png)
 
-<B><font color = " Black"> Image 30</font></b>
-
-## Set Home Page
-
-To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up <b> Homepage Window</b> with success message as shown below.
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94069dc9818aca3458fd8263fd070a732be4dab3/images/New_version5/TD_Dashboard_image19.png)
-
 <B><font color = " Black"> Image 31</font></b>
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDk3NTIwNyw3MzQ1MzAyODYsMTI4Nj
-g5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1
-MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMT
-EyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3
-NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3Ni
-wtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3
-OTMxNzAyNl19
+eyJoaXN0b3J5IjpbNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MT
+IxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcs
+MTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMz
+c3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4
+MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMT
+IwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMx
+NzAyNl19
 -->
