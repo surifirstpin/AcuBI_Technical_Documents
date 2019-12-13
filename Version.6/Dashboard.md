@@ -125,7 +125,7 @@ select distinct orderattdid from biplus.orders where stationcode in (#stationcod
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c0cb1fb3a06d74036c3f2f63167997eaa485f64/images/New_version5/TD_Dashboard_image26.png)
 
-To view how this dependency filters works, navigate to
+To view how this dependency filters works, open Dashboard report-->Filters screen
 
 ## Report Listeners
 
@@ -344,7 +344,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NjYyMzk1NSw1Nzk3NTEzNzgsMTkyMT
+eyJoaXN0b3J5IjpbLTU4MzUwODI1OCw1Nzk3NTEzNzgsMTkyMT
 Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
 MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
 gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
