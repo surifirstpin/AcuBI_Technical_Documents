@@ -221,13 +221,15 @@ The resultant for the applied filters are displayed in image below.
 
 ## Full Screen (Maximize/Minimize)
 
-a). To enable full screen for dashboard reports click list icon and select Fullscreen, it enables full screen for 
+a). To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
 
+To exit Full screen, press ESC (escape) on your keyboard.
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
 
-<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
+To maximize a report in dashboard click<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
 b). Select drop-down button and choose number of rows to display in output.
 c). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
 
@@ -357,11 +359,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTIwNjg1NDksMTI4Njg5MTIxMywxMj
-cxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUy
-MzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOS
-wxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5
-MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NT
-I5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwx
-MDk5OTQxMTA0XX0=
+eyJoaXN0b3J5IjpbLTYxNjU0NDI5MywxMjg2ODkxMjEzLDEyNz
+E3MzczODAsLTE1OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIz
+MjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LD
+E5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTky
+MTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mj
+k4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LDEw
+OTk5NDExMDRdfQ==
 -->
