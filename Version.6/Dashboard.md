@@ -290,7 +290,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
  
   <B><font color = " Black"> Image 24</font></b>
 
-## Delete Dashboard
+## Delete 
 
 <b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
 
@@ -370,11 +370,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MT
-IxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcs
-MTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMz
-c3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4
-MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMT
-IwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMx
-NzAyNl19
+eyJoaXN0b3J5IjpbLTE3MTg1MjM5NzEsNzI0NTUyOSw3MzQ1Mz
+AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
+LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMT
+Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
+MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
+gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
+NzE1MF19
 -->
