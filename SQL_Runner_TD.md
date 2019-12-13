@@ -54,7 +54,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 ## Group / Un-Group
 
-<b>3.</b> By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on <b>Group</b> in field drop down and <b>To release</b>the same click on <b>Un-Group.</b> 
+<b>3.</b> By selecting group option for fields you can group the data and display the consolidated value of the field. To carry out this function click on <b>Group</b> in field drop down and <b>To release</b>the same click on <b>Un-Group.</b>
 
 ## Pin or Remove Pin
 
@@ -64,7 +64,7 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
  Enables text formatting.
 
-## Undo, Redo
+## Undo/Redo
 
 The <b>redo</b> function restores any actions that have been previously performed. The <b>undo</b>, functions reverse the action performed earlier.
 
@@ -198,6 +198,6 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwODgxOTE3NSwxMzM3MTEwMzQ4LC0xNj
-k0MDg2NjEzXX0=
+eyJoaXN0b3J5IjpbMjA3NjMwNzQwOCwtNTA4ODE5MTc1LDEzMz
+cxMTAzNDgsLTE2OTQwODY2MTNdfQ==
 -->
