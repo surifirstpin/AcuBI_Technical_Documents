@@ -156,11 +156,13 @@ From below image as we can see on selecting lookup stationcode-->Stationcode_2 (
  <b>5.</b> Click  <b>Save Button,</b> this will navigate to save dashboard window. Enter the below information in save dashboard window;
 
 Select tag in which you want to save  <b>Dashboard Reports</b>  and click on  <b>Save.</b> 
+
 -   <b>Name:</b> name identifier for dashboard created.
     
 -   <b>Title:</b> title to refer the dashboard.
     
 -   <b>Info:</b>  summary information of the dashboard created.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/39160f7dbc8681aed71596479a2b6bb11b656289/images/New_version5/TD_Dashboard_image8.png)
 
  <B><font color = " Black"> Image 12 </font></b>
@@ -365,11 +367,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDc4MjQ0MSwxMjg2ODkxMjEzLDEyNz
-E3MzczODAsLTE1OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIz
-MjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LD
-E5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTky
-MTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mj
-k4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LDEw
-OTk5NDExMDRdfQ==
+eyJoaXN0b3J5IjpbNDA2NjI2ODU3LDEyODY4OTEyMTMsMTI3MT
+czNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMy
+NDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4MzksMT
+k4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNjg1OTIx
+NDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0NDUyOT
+gsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3NzkzMTcwMjYsMTA5
+OTk0MTEwNF19
 -->
