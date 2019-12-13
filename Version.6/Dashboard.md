@@ -332,7 +332,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>, it will navigate to report or dashboard you want to edit after editing the dashboard file click  update the changes made.
 
-> Note: Click <b> Save As</b> to save the dashboard report separately without 
+> Note: Click <b> Save As</b> to save the dashboard report separately with new updates.
 
 <b> For Instance: </b> Click edit for dashboard under folder view, it will navigate orders dashboard, Add new report Timeline Filters_Hd to Layout as shown in below image. 
 
@@ -369,11 +369,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk1OTgwMzksNzI0NTUyOSw3MzQ1Mz
-AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
-LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMT
-Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
-MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
-gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
-NzE1MF19
+eyJoaXN0b3J5IjpbLTQ4NTQ4NjcyMSw3MjQ1NTI5LDczNDUzMD
+I4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxODczNTYs
+LTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwxOTIxNj
+g2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAw
+NCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xOD
+IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
+MTUwXX0=
 -->
