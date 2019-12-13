@@ -72,7 +72,7 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
 
 ## Report Definition
 
-To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b>green circle</b></i>, click on it to view report definition.
+To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b>green circle</b></i>, click on it to view report definition. Displays <i><b>  Red circle</i></b> if data does not exist.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
 <b><font color = "Black"> Image 6</b>
@@ -87,11 +87,11 @@ Similarly, for report definition for yesterdays data:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTYzMzc0MCwtMjA5MjU2NDQ0NCwtMj
-I5ODA2ODQ3LC00NDg3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIw
-Mzk3LC0yOTEwMzM3MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MD
-c4MTU2MDAsLTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYx
-ODQ2LDE4NzY3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMT
-g5Mzc3Mzg0OSwtMTYzODUxNjU2LDIwNjA1MTg5OSwtMTE3MjQ4
-MDM4Nl19
+eyJoaXN0b3J5IjpbMzYwMzY3MjQwLDEwMzk2MzM3NDAsLTIwOT
+I1NjQ0NDQsLTIyOTgwNjg0NywtNDQ4NzUwMjg0LDEyOTg5MTk0
+OTUsLTM3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4Myw0ND
+M2NTY5MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMTM1Njk3
+MzgsLTQ4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxND
+I3NDQ4ODQzLDE4OTM3NzM4NDksLTE2Mzg1MTY1NiwyMDYwNTE4
+OTldfQ==
 -->
