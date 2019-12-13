@@ -119,6 +119,10 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 For instance:
 In below example we are selecting referred checkbox for Lookup-1 and mention a suitable query for Lookup-2  as shown in below image.
 
+```
+select distinct orderattdid from biplus.orders where stationcode in (#stationcode#)
+```
+
 
 
 ## Report Listeners
@@ -338,11 +342,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDU1NTgyMDEsMTkyMTY4NjA1OSwtMT
-EyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3
-NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3Ni
-wtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3
-OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMiwxMDk5OTQxMT
-A0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5OTEwMzA2MzUs
-MTQ1ODI0Mzg2NV19
+eyJoaXN0b3J5IjpbNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMj
+M3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYz
+ODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLT
+EyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcxNTAsLTE3Nzkz
+MTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMDIsMTA5OTk0MTEwNC
+wtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0xOTkxMDMwNjM1LDE0
+NTgyNDM4NjVdfQ==
 -->
