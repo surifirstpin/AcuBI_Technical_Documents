@@ -117,7 +117,7 @@ You can refer the existing lookup, based on which a new lookup is created to ret
 -   <b> Referred: </b> on selecting the referred checkbox the following lookup will extract the data based on the previously created lookup for which the referred checkbox is enabled.
 
 For instance:
-In below example we are selecting referred checkbox for Lookup <b>Stationcode</b> and mention below cod
+In below example we are selecting referred checkbox for Lookup-1 and mention a suitable query for Lookup-2  as shown in
 
 ## Report Listeners
 
@@ -336,11 +336,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Nzg5MjcxNzQsMTkyMTY4NjA1OSwtMT
-EyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3
-NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3Ni
-wtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3
-OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMiwxMDk5OTQxMT
-A0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5OTEwMzA2MzUs
-MTQ1ODI0Mzg2NV19
+eyJoaXN0b3J5IjpbMjAwODI4NDk3MywxOTIxNjg2MDU5LC0xMT
+IzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2
+MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC
+0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5
+MzE3MDI2LDEwOTk5NDExMDQsODg1MDk5MDAyLDEwOTk5NDExMD
+QsLTE2MjM2NTk0NiwtMTcwODY4NDgyNiwtMTk5MTAzMDYzNSwx
+NDU4MjQzODY1XX0=
 -->
