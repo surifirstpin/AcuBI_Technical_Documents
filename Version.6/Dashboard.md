@@ -128,7 +128,7 @@ select distinct orderattdid from biplus.orders where stationcode in (#stationcod
 To view how this dependency filters works, open Dashboard report-->Filters screen
 
 
-From below image as we can see on selecting lookup stationcode-->Stationcoe_2( which as been reffereed), it displays 
+From below image as we can see on selecting lookup stationcode-->Stationcode_2 ( which as been referred), it displays Stationcode_2 details for lookup_2 ordera
 
 ## Report Listeners
 
@@ -347,11 +347,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MTYwMzQ0OSw1Nzk3NTEzNzgsMTkyMT
-Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
-MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
-gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
-NzE1MCwtMTc3OTMxNzAyNiwxMDk5OTQxMTA0LDg4NTA5OTAwMi
-wxMDk5OTQxMTA0LC0xNjIzNjU5NDYsLTE3MDg2ODQ4MjYsLTE5
-OTEwMzA2MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1Mjk4MjgwMzksNTc5NzUxMzc4LDE5Mj
+E2ODYwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3
+MDA0LC00MDU2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLT
+E4MjIzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5
+ODcxNTAsLTE3NzkzMTcwMjYsMTA5OTk0MTEwNCw4ODUwOTkwMD
+IsMTA5OTk0MTEwNCwtMTYyMzY1OTQ2LC0xNzA4Njg0ODI2LC0x
+OTkxMDMwNjM1XX0=
 -->
