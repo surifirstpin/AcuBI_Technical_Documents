@@ -370,6 +370,9 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
  To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1a9529f30132d283df1e8ee8960245888a61bbe2/images/New_version5/TD_Dashboard_image32.png)
+
+<B><font color = " Black"> Image 32</font></b>
 > <b>Note</b> : Pin option is applicable for more than one dimension only.
 
 ## Find
@@ -378,7 +381,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzg5MjMwLDcyNDU1MjksNzM0NTMwMj
+eyJoaXN0b3J5IjpbNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMj
 g2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1Niwt
 NzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2OD
 YwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0
