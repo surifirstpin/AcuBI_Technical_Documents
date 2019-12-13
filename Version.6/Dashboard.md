@@ -366,14 +366,23 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 <B><font color = " Black"> Image 31</font></b>
 
 
+## Pin or Remove Pin
+
+ To freeze the column field values while scrolling the data, click <b>Pin</b> in field drop down provided and to release the same click <b>Remove Pin.</b>
+
+> <b>Note</b> : Pin option is applicable for more than one dimension only.
+
+## Find
+
+ To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTQ4NjcyMSw3MjQ1NTI5LDczNDUzMD
-I4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxODczNTYs
-LTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwxOTIxNj
-g2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAw
-NCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xOD
-IyMzI2NDc2LC0xMjA1NDQ1Mjk4LDU1OTQ3OTEwOCwtNDM1OTg3
-MTUwXX0=
+eyJoaXN0b3J5IjpbLTYzNzg5MjMwLDcyNDU1MjksNzM0NTMwMj
+g2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1Niwt
+NzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2OD
+YwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0
+LC00MDU2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4Mj
+IzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcx
+NTBdfQ==
 -->
