@@ -315,9 +315,6 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 In <b>Folder View</b>, Click gear Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. 
 
-> <b>Note:</b> Tags are specific for editing, deleting and for thumbnail option.
-
-
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
  <B><font color = " Black"> Image 27</font></b>
@@ -370,11 +367,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMxNjM0ODksNzI0NTUyOSw3MzQ1Mz
-AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
-LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMT
-Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
-MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
-gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
-NzE1MF19
+eyJoaXN0b3J5IjpbNzU4NTM2MDkzLDcyNDU1MjksNzM0NTMwMj
+g2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1Niwt
+NzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2OD
+YwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0
+LC00MDU2NzYzODEsNjg1OTIxNDIyLC0yMjgyOTY0ODYsLTE4Mj
+IzMjY0NzYsLTEyMDU0NDUyOTgsNTU5NDc5MTA4LC00MzU5ODcx
+NTBdfQ==
 -->
