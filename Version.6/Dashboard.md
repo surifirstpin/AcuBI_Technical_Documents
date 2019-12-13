@@ -275,7 +275,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 
 
-## Edit / Delete Dashboard (List View)
+## Edit  (List View)
 
 <b>6.</b> Click  <b>Edit Button</b> to make changes to dashboard created.
 
@@ -290,7 +290,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
  
   <B><font color = " Black"> Image 24</font></b>
 
-## Delete 
+## Delete (List View)
 
 <b>7.</b>  Click on  <b>Delete icon</b>  to delete the dashboard created.
 
@@ -370,7 +370,7 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg1MjM5NzEsNzI0NTUyOSw3MzQ1Mz
+eyJoaXN0b3J5IjpbLTE3OTMxNjM0ODksNzI0NTUyOSw3MzQ1Mz
 AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
 LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMT
 Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
