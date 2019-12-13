@@ -11,6 +11,7 @@ To view already existing dashboard navigate to dashboard section under <b><i> My
  
  <B><font color = " Black"> Image 1 </font></b>
 
+> Note : 
 ### Create Dashboard
 
 > <b> Navigation : Dashboard→ New Dashboard</b>
@@ -383,11 +384,11 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMj
-MyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcx
-NzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMz
-I0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOSwx
-OTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5Mj
-E0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NTI5
-OF19
+eyJoaXN0b3J5IjpbMTI4NjU5ODA4OCw0NzU4MDc3MTQsNDYxMj
+IzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3
+MTczNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3LDE5MzM1Mj
+MyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4Mzks
+MTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNjg1OT
+IxNDIyLC0yMjgyOTY0ODYsLTE4MjIzMjY0NzYsLTEyMDU0NDUy
+OThdfQ==
 -->
