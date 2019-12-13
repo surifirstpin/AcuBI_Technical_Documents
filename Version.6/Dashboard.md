@@ -381,13 +381,23 @@ Click on <b>Thumbnail</b> option, it will navigate to <b>Upload Thumbnail</b> wi
 
  To find the specific field value from the data extracted click on <b>Find</b> in the  field drop down.
 
+## Share Status
+
+The sharing status displays type of privacy setting enabled for a dashboard.
+
+-   **Public:**  Green color with 'map Icon' indicates dashboard saved under public section.
+    
+-   **Share:**  Orange color with 'group icon' indicates dashboard shared to specific set of groups.
+    
+-   **Private:**  Grey color with 'lock icon' indicates dashboard  saved under private section.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk0NTIwODIsNTY4Njg3MDIyLDQ3NT
-gwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4
-Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNT
-c1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwt
-MTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNT
-Y3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3
-Nl19
+eyJoaXN0b3J5IjpbLTcwMDc5MzQ3NCw1Njg2ODcwMjIsNDc1OD
+A3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5LDczNDUzMDI4NiwxMjg2
+ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxODczNTYsLTc1NzA1Nz
+UxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0x
+MTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Nj
+c2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2
+XX0=
 -->
