@@ -296,6 +296,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
  <b>8.</b> To set dashboard on home page click <b>Set Home Page</b> Icon.
   
+  
 ## Folder View
 
 To view the list of reports and dashboards in Folder View click <b> Folder View</b>.
@@ -367,7 +368,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mzc0MTQ0Nyw3MzQ1MzAyODYsMTI4Nj
+eyJoaXN0b3J5IjpbLTM5MDk3NTIwNyw3MzQ1MzAyODYsMTI4Nj
 g5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1
 MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMT
 EyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3
