@@ -224,25 +224,29 @@ The resultant for the applied filters are displayed in image below.
 a). To enable full screen for dashboard reports click list icon and select Full screen, it enables full screen for dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image28.png)
-
+ <B><font color = " Black"> Image 18</font></b>
+ 
 To exit Full screen, press ESC (escape) on your keyboard.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4a0a40f34ba11548fec0b86c8a6b53335c3f5f86/images/New_version5/TD_Dashboard_image29.png)
+ <B><font color = " Black"> Image 19</font></b>
+ 
+a). To maximize a report in dashboard click<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
 
-To maximize a report in dashboard click<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
 b). Select drop-down button and choose number of rows to display in output.
+
 c). Filter icon display under dashboard denotes filters applicable to that particular dashboard report.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image24.png)
 
- <B><font color = " Black"> Image 18 </font></b>
+ <B><font color = " Black"> Image 20 </font></b>
 
 ## [Download CSV, Download CSV ; Download XLXS & Image Formats]
 
 To download dashboard in any of the following formats, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
 
- <B><font color = " Black"> Image 19</font></b>
+ <B><font color = " Black"> Image 21</font></b>
  
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
@@ -263,7 +267,7 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
- <B><font color = " Black"> Image 20</font></b>
+ <B><font color = " Black"> Image 22</font></b>
 
 
 
@@ -274,13 +278,13 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/97f823b6cc1611600a983cdac5977d2a8e3cbfc7/images/New_version5/TD_Edit_Dashboard_Image1.png)
 
- <B><font color = " Black"> Image 21</font></b>
+ <B><font color = " Black"> Image 23</font></b>
 
 > <b>Note :</b>  After editing the dashboard click on  <b><i>Save</i></b>  button and then click update to save the changes made.
 
 ![](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
  
-  <B><font color = " Black"> Image 22</font></b>
+  <B><font color = " Black"> Image 24</font></b>
 
 ## Delete Dashboard
 
@@ -294,7 +298,7 @@ To view the list of reports and dashboards in Folder View click <b> Folder View<
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 23</font></b>
+ <B><font color = " Black"> Image 25</font></b>
 
 In <b>Folder View</b>, Click gear Icon, it displays Info ( information given while saving any report), Edit , Delete, Thumbnail, Set Homepage options for reports and dashboard. 
 
@@ -303,7 +307,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c97594b985cd884b42d5ca4c992061f338443160/images/New_version5/TD_Dashboard_image14.png)
 
- <B><font color = " Black"> Image 24</font></b>
+ <B><font color = " Black"> Image 26</font></b>
 
 ## Info
 
@@ -311,7 +315,7 @@ In <b>Folder View</b>, Click gear Icon, it displays Info ( information given whi
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/36dbf9152ecc0c6382b569122c8e7fa15f8814ff/images/New_version5/TD_Dashboard_image15.png) 
  
- <B><font color = " Black"> Image 25</font></b>
+ <B><font color = " Black"> Image 27</font></b>
 
 
 ## Edit 
@@ -322,13 +326,13 @@ To edit a file under folder view, click  <b>Gear</b> icon and  select<b>Edit</b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e12a694bb21c74293f6b391f8a81602b64454c3b/images/New_version5/TD_Dashboard_image16.png)
 
- <B><font color = " Black"> Image 26</font></b>
+ <B><font color = " Black"> Image 28</font></b>
 
 Click save then click <b>update</b> in Save dashboard window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a927ad6ca18c7a2c729d2324f2e92f567abb0a90/images/New_version5/TD_Dashboard_image17.png)
 
- <B><font color = " Black"> Image 27</font></b>
+ <B><font color = " Black"> Image 29</font></b>
  
 ## Delete
 
@@ -359,11 +363,11 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjU0NDI5MywxMjg2ODkxMjEzLDEyNz
-E3MzczODAsLTE1OTUxODczNTYsLTc1NzA1NzUxNywxOTMzNTIz
-MjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0xMTIzNzc3ODM5LD
-E5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Njc2MzgxLDY4NTky
-MTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2LC0xMjA1NDQ1Mj
-k4LDU1OTQ3OTEwOCwtNDM1OTg3MTUwLC0xNzc5MzE3MDI2LDEw
-OTk5NDExMDRdfQ==
+eyJoaXN0b3J5IjpbLTEyODgwNzM1MzYsMTI4Njg5MTIxMywxMj
+cxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUy
+MzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMzc3NzgzOS
+wxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4MSw2ODU5
+MjE0MjIsLTIyODI5NjQ4NiwtMTgyMjMyNjQ3NiwtMTIwNTQ0NT
+I5OCw1NTk0NzkxMDgsLTQzNTk4NzE1MCwtMTc3OTMxNzAyNiwx
+MDk5OTQxMTA0XX0=
 -->
