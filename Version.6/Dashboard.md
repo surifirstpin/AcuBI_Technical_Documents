@@ -125,7 +125,8 @@ select distinct orderattdid from biplus.orders where stationcode in (#stationcod
 ```
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c0cb1fb3a06d74036c3f2f63167997eaa485f64/images/New_version5/TD_Dashboard_image26.png)
 
-To view how this dependency filters works
+To view how this dependency filters works, navigate to
+
 ## Report Listeners
 
 <b>Listeners</b> enables to register callbacks to be notified when an event is detected on a specific label. AcuBi has an ability to assign a defined filters to report column (fields of views based on which the report is created). For suppose if a filter is defined for dashboard containing 2 reports and listener is added on particular field for report 1, it is applicable only on report 1 and report 2 will remain unaffected.
@@ -343,7 +344,7 @@ To set dashboard to home page click <b>Set Homepage</b>, it will navigate pop-up
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Nzg4MzM1OSw1Nzk3NTEzNzgsMTkyMT
+eyJoaXN0b3J5IjpbMTM2NjYyMzk1NSw1Nzk3NTEzNzgsMTkyMT
 Y4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcw
 MDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4NiwtMT
 gyMjMyNjQ3NiwtMTIwNTQ0NTI5OCw1NTk0NzkxMDgsLTQzNTk4
