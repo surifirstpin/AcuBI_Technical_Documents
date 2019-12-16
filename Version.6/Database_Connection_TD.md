@@ -82,7 +82,7 @@ Enable SSH connection by select checkbox for SSH. Select SSH encryption to prote
 
 - <b>Username and Password</b> on the tunnel server for the SSH connection (the standard is looker).
   
-<b>Browse Key File:</b> upload a private key for secure access.
+<b>Browse Key File:</b> Upload a private key for secure access.
 
   ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/6098c6fb2f28bc21db1e3fe579d670fd7ff80452/images/New_version5/TD_Database_Connection_image2.png)
@@ -118,7 +118,7 @@ Click <b>Save</b> to update database connection with new changes.
 
 ## Delete connection
 
-<b>7.</b>Click <b> Delete</b>  to delete the connection from database.
+<b>7.</b> Click <b> Delete</b>  to delete the connection from database.
 
 ##  Dialects supported
 
@@ -127,10 +127,11 @@ Click <b>Save</b> to update database connection with new changes.
 
 ><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjcyNTE2MCwtMTk0ODQ4MTM2LC0xNT
-g1MjY0MTg2LC0xNzkxMTc3NTAwLDEwMzkzMjU1MDAsMzUzOTc1
-Nzk0LC0xMjEyNDk3MzEyLDE5ODAxODU4MTgsLTE0MDkyMzk0ND
-MsMTg3NTQ5MDczMSwtMTY3OTg4NjM1NiwyMTM4NDU4NTQ2LC0x
-MzYyNDExNTksNjQ4MDAyNDU0LDcwNTA0NDk2MSwzOTU1OTcxMj
-MsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
+eyJoaXN0b3J5IjpbLTkyNTExMjIwOCwtNTY2NzI1MTYwLC0xOT
+Q4NDgxMzYsLTE1ODUyNjQxODYsLTE3OTExNzc1MDAsMTAzOTMy
+NTUwMCwzNTM5NzU3OTQsLTEyMTI0OTczMTIsMTk4MDE4NTgxOC
+wtMTQwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2MzU2LDIx
+Mzg0NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OT
+YxLDM5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
+
 -->
