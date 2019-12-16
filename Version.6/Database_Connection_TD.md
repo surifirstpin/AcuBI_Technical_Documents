@@ -88,7 +88,7 @@ Enable SSH connection by select checkbox for SSH.
 
 <b>4. Test Connection:</b> check if the entered information is running accurately.
 
-> on hitting the test connection button, it displays a success message if all the entered information is correct, if not displays a error message. 
+> On hitting test connection button, it displays a success message if entered information is correct, if not displays a error message. 
 
 <b>5. Add Connection:</b> Establish and save the connection.
 
@@ -114,7 +114,7 @@ Enable SSH connection by select checkbox for SSH.
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMT
-M2MjQxMTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIz
-LDE2Mjk3Nzc5NTQsMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbMTg3NTQ5MDczMSwtMTY3OTg4NjM1NiwyMT
+M4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAyNDU0LDcwNTA0NDk2
+MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
 -->
