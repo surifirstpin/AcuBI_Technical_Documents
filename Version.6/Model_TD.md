@@ -70,10 +70,10 @@ A model is a customized gateway into the database for accessing data as per busi
  <b><Font color = " black">Image 5</font></b>
  
 
-<b>3.</b> Once all the entries are done, click on  <b>
+<b>3.</b> Once all the entries are made, click on  <b>
 Save Project</b>  to save the project created.
 
-> <b>Note:</b> All the saved projects are visible on left hand side under projects.
+> <b>Note:</b> All the saved projects are visible under projects list.
 
 ## Edit Project
 
@@ -93,7 +93,7 @@ To delete the project created hit the  <b>Delete </b> icon, on far right of the 
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
- <b><Font color = " black">Image 7</font></b>
+ <b><Font color = "black">Image 7</font></b>
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/df368df5684e0a888b88d3673406f7525e1c4275/images/New_version5/td_model_image19.png)
 
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDM3MzQ4MiwyMzM3MTAwMTMsMTk1Mz
-UzNjA3NywxNTkxMjU1MTgxLDM3Mjk5MDE1NSwxMjUyMDIwNzAz
-LC0xNDQyMzU3NjUwLDEwMzcxMDIxMTQsLTk2OTgxMTc5LDE4Mz
-EzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgsODg0NzI3Njcs
-ODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNz
-A3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzRd
-fQ==
+eyJoaXN0b3J5IjpbMjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNT
+M2MDc3LDE1OTEyNTUxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMs
+LTE0NDIzNTc2NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMT
+M4Njk5MSw3NTMxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4
+NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MD
+cyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNF19
+
 -->
