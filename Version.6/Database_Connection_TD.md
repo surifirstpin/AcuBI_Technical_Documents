@@ -95,7 +95,7 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 
 ## Test and Save Connection
 
-<b>4. Test Connection:</b> check if the entered information is running accurately.
+<b>4. Test Connection:</b> check if the entered information is running accurately and weather the database is ab.
 
 > On hitting test connection button, it displays a success message if entered information is correct, if not displays a error message. 
 
@@ -123,9 +123,9 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTMyNTUwMCwzNTM5NzU3OTQsLTEyMT
-I0OTczMTIsMTk4MDE4NTgxOCwtMTQwOTIzOTQ0MywxODc1NDkw
-NzMxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0MTE1OS
-w2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nzc3
-OTU0LDEyMDkyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbMTc3Njg4MjI2LDEwMzkzMjU1MDAsMzUzOT
+c1Nzk0LC0xMjEyNDk3MzEyLDE5ODAxODU4MTgsLTE0MDkyMzk0
+NDMsMTg3NTQ5MDczMSwtMTY3OTg4NjM1NiwyMTM4NDU4NTQ2LC
+0xMzYyNDExNTksNjQ4MDAyNDU0LDcwNTA0NDk2MSwzOTU1OTcx
+MjMsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
 -->
