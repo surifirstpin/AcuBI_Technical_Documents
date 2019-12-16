@@ -1,7 +1,7 @@
 
 
 
-<center><h2>DATABASE CONNECTION</h2></center>
+<center><h1>DATABASE CONNECTION</h1></center>
 
 <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
@@ -127,11 +127,11 @@ Click <b>Save</b> to update database connection with new changes.
 
 ><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTExMjIwOCwtNTY2NzI1MTYwLC0xOT
-Q4NDgxMzYsLTE1ODUyNjQxODYsLTE3OTExNzc1MDAsMTAzOTMy
-NTUwMCwzNTM5NzU3OTQsLTEyMTI0OTczMTIsMTk4MDE4NTgxOC
-wtMTQwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2MzU2LDIx
-Mzg0NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OT
-YxLDM5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
-
+eyJoaXN0b3J5IjpbLTU2Mjk5NTUzNCwtOTI1MTEyMjA4LC01Nj
+Y3MjUxNjAsLTE5NDg0ODEzNiwtMTU4NTI2NDE4NiwtMTc5MTE3
+NzUwMCwxMDM5MzI1NTAwLDM1Mzk3NTc5NCwtMTIxMjQ5NzMxMi
+wxOTgwMTg1ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3MzEsLTE2
+Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0ODAwMj
+Q1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIw
+OTIyOTkyMl19
 -->
