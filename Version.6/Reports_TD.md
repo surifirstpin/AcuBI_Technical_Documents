@@ -5,7 +5,7 @@
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs : </i></b>
  
-<b>1.</b> Click on <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
+<b>1.</b> Navigate to <b>Reports Section</b> and select the desired <b>Project</b> and <b>Model</b> based on which the data is retrieved.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/e7c72243df91b0fcd018780e982ee015c35b468a/images/New_version5/TD_Reports_1.png)
  
@@ -376,11 +376,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjc0ODkyMywtMTIyMTUxMjQ3NywtMj
-E0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYxMTU5ODUsMTU2Mjgx
-OTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMiwtMTQ0ODYwMDAzMi
-wtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNzM5LDE2NjYy
-NDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwtMTQ1NzU2MD
-g3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAsMjExMTYyOTU0Niwx
-MTEwNDU1MTUxXX0=
+eyJoaXN0b3J5IjpbLTE3NjEzNTg0MzgsLTQwNjc0ODkyMywtMT
+IyMTUxMjQ3NywtMjE0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYx
+MTU5ODUsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMi
+wtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3
+NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNj
+c3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAs
+MjExMTYyOTU0Nl19
 -->
