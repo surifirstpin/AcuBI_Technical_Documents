@@ -125,13 +125,13 @@ Click <b>Save</b> to update database connection with new changes.
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
   <b><font color = "Black" >Image 6</font></b>
 
-><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi.
+><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTQ1MjUwNzgsLTE1ODUyNjQxODYsLT
-E3OTExNzc1MDAsMTAzOTMyNTUwMCwzNTM5NzU3OTQsLTEyMTI0
-OTczMTIsMTk4MDE4NTgxOCwtMTQwOTIzOTQ0MywxODc1NDkwNz
-MxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0MTE1OSw2
-NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nzc3OT
-U0LDEyMDkyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTUzMTg3OTI1OCwtMTU4NTI2NDE4NiwtMT
+c5MTE3NzUwMCwxMDM5MzI1NTAwLDM1Mzk3NTc5NCwtMTIxMjQ5
+NzMxMiwxOTgwMTg1ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3Mz
+EsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0
+ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NT
+QsMTIwOTIyOTkyMl19
 -->
