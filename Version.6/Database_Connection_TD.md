@@ -113,22 +113,25 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
    
 Click <b>Save</b> to update database connection with new changes.
 
-## Delete a connection
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c53a27bb2c0f17d60d85c087add37207e24d31b2/images/New_version5/TD_Database_Connection_image5.png)
+  <b><font color = "Black" >Image 5</font></b>
+
+## Delete connection
 
 <b>7.</b>Click <b> Delete</b>  to delete the connection from database.
 
 ##  Dialects supported
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3bbaa9982fbbf193443bb882f359d2b1cf683390/images/dialects.png)	
-  <b><font color = "Black" >Image 5</font></b>
+  <b><font color = "Black" >Image 6</font></b>
 
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUyNjQxODYsLTE3OTExNzc1MDAsMT
-AzOTMyNTUwMCwzNTM5NzU3OTQsLTEyMTI0OTczMTIsMTk4MDE4
-NTgxOCwtMTQwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2Mz
-U2LDIxMzg0NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1
-MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5Mj
-JdfQ==
+eyJoaXN0b3J5IjpbMTM4ODI5OTMyLC0xNTg1MjY0MTg2LC0xNz
+kxMTc3NTAwLDEwMzkzMjU1MDAsMzUzOTc1Nzk0LC0xMjEyNDk3
+MzEyLDE5ODAxODU4MTgsLTE0MDkyMzk0NDMsMTg3NTQ5MDczMS
+wtMTY3OTg4NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4
+MDAyNDU0LDcwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NC
+wxMjA5MjI5OTIyXX0=
 -->
