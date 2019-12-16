@@ -5,7 +5,7 @@
 
 <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
- <b>To set up database connection;</b>
+ <b>To set up database connection, Follow the below instructions;
     
 <b>I.</b>  Get the connection details for database such as Host, Dialects, Port, Username, Password, etc from <b>Database Administrator.</b>
 
@@ -17,7 +17,7 @@
 
  ## Set-Up Database Connection
 
- Login <b>AcuBi</b> using following navigation path :
+ Login <b>AcuBi</b> using following navigation path with your username and  :
 
 <b>Link :</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)
 
@@ -84,7 +84,7 @@ Enable SSH connection by select checkbox for SSH.
 
 <b>3. Dialects:</b> select the accurate dialect from the list using drop down option.
 
-AcuBi allows wide range of SQL database dialects and will continue to improve the feature implementation for existing dialects used as well as for newly added dialects to be added.
+AcuBi allows wide range of SQL database dialects and will continue to improve the feature implementation for existing dialects used as well as for newly added dialects.
 
 
 ## Test and Save Connection
@@ -117,8 +117,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5MjMzNTUxLDE4NzU0OTA3MzEsLTE2Nz
-k4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0ODAwMjQ1
-NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOT
-IyOTkyMl19
+eyJoaXN0b3J5IjpbLTE2OTAwMDYzMjgsMTg3NTQ5MDczMSwtMT
+Y3OTg4NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAy
+NDU0LDcwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMj
+A5MjI5OTIyXX0=
 -->
