@@ -73,7 +73,7 @@ Enable SSH connection by select checkbox for SSH. Select SSH encryption to prote
   
 - <b>Database port number</b> as seen from the tunnel server.
 
--<b> IP address or DNS name</b> of the tunnel server as seen from the public internet.
+- <b> IP address or DNS name</b> of the tunnel server as seen from the public internet.
 
 - <b>SSH port</b> of the tunnel server as seen from the public internet.
 
@@ -120,8 +120,9 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTI0OTczMTIsMTk4MDE4NTgxOCwtMT
-QwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0
-NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLD
-M5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbMzUzOTc1Nzk0LC0xMjEyNDk3MzEyLDE5OD
+AxODU4MTgsLTE0MDkyMzk0NDMsMTg3NTQ5MDczMSwtMTY3OTg4
+NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAyNDU0LD
+cwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMjA5MjI5
+OTIyXX0=
 -->
