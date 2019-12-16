@@ -84,9 +84,7 @@ Enable SSH connection by select checkbox for SSH.
 
 <b>3. Dialects:</b> select the accurate dialect from the list using drop down option.
 
-AcuBi allows wide range of SQL database dialects and will continue to improve the feature impleme
-
-oker supports a wide range of SQL database dialects and will continue to improve the feature implementations for existing dialect options as well as add new dialects.
+AcuBi allows wide range of SQL database dialects and will continue to improve the feature implementation for existing dialects used as well as for newly added dialects to be added.
 
 
 ## Test and Save Connection
@@ -119,8 +117,8 @@ oker supports a wide range of SQL database dialects and will continue to improve
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzYxNTQ0OSwxODc1NDkwNzMxLC0xNj
-c5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0
-NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMD
-kyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbNDc5MjMzNTUxLDE4NzU0OTA3MzEsLTE2Nz
+k4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0ODAwMjQ1
+NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOT
+IyOTkyMl19
 -->
