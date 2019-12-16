@@ -33,9 +33,9 @@
 
 <b><i><u>Enter the following details in New connection page ;</u></i></b>
 
--  <b>Name:</b> specify a name to define connection.
+-  <b>Name:</b> Specify a name to define connection.
  
-- <b>Dialect:</b> choose appropriate dialect based on  connection being established. 
+- <b>Dialect:</b> Choose appropriate dialect based on  connection being established. 
  
 - <b>Host:</b>  Database host path.
 
@@ -49,7 +49,7 @@
 
 - <b>Additional Parameters:</B> Additional JDBC parameter used.
 
-You can include additional Java Database Connectivity (JDBC) parameters for your queries if needed.
+You can include here additional Java Database Connectivity (JDBC) parameters for your queries if needed.
 
 ## SSH 
 
@@ -119,8 +119,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMjcwMTU2LC0xNDA5MjM5NDQzLDE4Nz
-U0OTA3MzEsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQx
-MTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mj
-k3Nzc5NTQsMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbMTk4MDE4NTgxOCwtMTQwOTIzOTQ0MywxOD
+c1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0
+MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNj
+I5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
 -->
