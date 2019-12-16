@@ -45,7 +45,7 @@ A model is a customized gateway into the database for accessing data as per busi
  
 ### Step 4:
 
- <b>Tables</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
+ <b>Tables:</b> Select the required tables from which data should be retrieved. Select the desired table fields from table section, All the selected tables are visible under <b>Selected Tables</b> section.
 
 <b>2.</b> <b>Auto Build Joins: (check box)</b> On selecting auto build checkbox,  it will adopt all the defined mappings or relations between different tables of a database and displays it in model. Else only tables with no mappings will be adopted as views in model.
 
@@ -58,7 +58,7 @@ A model is a customized gateway into the database for accessing data as per busi
  
 ### Step 5:
 
-<b>Privacy</b> you can save the project in any one of the following privacy option.
+<b>Privacy:</b> you can save project in any one of the following privacy option.
    -   <b>Private:</b>  report saved in private section are accessed by the existing user only.
    
    -   <b>Public:</b>  report is saved in public section are accessed by all the users.
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMzNzEwMDEzLDE5NTM1MzYwNzcsMTU5MT
-I1NTE4MSwzNzI5OTAxNTUsMTI1MjAyMDcwMywtMTQ0MjM1NzY1
-MCwxMDM3MTAyMTE0LC05Njk4MTE3OSwxODMxMzg2OTkxLDc1Mz
-E1Mzg2LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4Niwt
-MTU2NDQ0Mjc3MiwxODU1MDI1MzE2LDY2MDcwNzI0LC02OTc2OT
-g2NjcsLTM3NjM0ODkyMSwxNzU5MTUxMDM0LDIwMTIyNjQ0NThd
+eyJoaXN0b3J5IjpbLTE4NDM3MzQ4MiwyMzM3MTAwMTMsMTk1Mz
+UzNjA3NywxNTkxMjU1MTgxLDM3Mjk5MDE1NSwxMjUyMDIwNzAz
+LC0xNDQyMzU3NjUwLDEwMzcxMDIxMTQsLTk2OTgxMTc5LDE4Mz
+EzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgsODg0NzI3Njcs
+ODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMjUzMTYsNjYwNz
+A3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxLDE3NTkxNTEwMzRd
 fQ==
 -->
