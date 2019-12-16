@@ -89,7 +89,7 @@ Click Projects, select the desired project and hit the <b>Edit</b> button.
 
 ## Delete Project
 
-To delete the project created hit the  <b>Delete </b> icon, on far right of the project list.
+To delete a project click  <b>Delete </b> icon available on far right of the project name under projects list.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/66530cb4c6a170b9703c654fdad1927190ba7a60/images/New_version5/TD_Model_image7.png)
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNT
-M2MDc3LDE1OTEyNTUxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMs
-LTE0NDIzNTc2NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMT
-M4Njk5MSw3NTMxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4
-NDc1NTU1ODYsLTE1NjQ0NDI3NzIsMTg1NTAyNTMxNiw2NjA3MD
-cyNCwtNjk3Njk4NjY3LC0zNzYzNDg5MjEsMTc1OTE1MTAzNF19
+eyJoaXN0b3J5IjpbNDMyODAyNTQ1LDI5MTY2Mzg2MSwyMzM3MT
+AwMTMsMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mjk5MDE1NSwx
+MjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIxMTQsLTk2OT
+gxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgs
+ODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMj
+UzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxXX0=
 
 -->
