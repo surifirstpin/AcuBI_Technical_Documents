@@ -49,6 +49,8 @@
 
 - <b>Additional Parameters:</B> Additional JDBC parameter used.
 
+You can include additional Java Database Connectivity (JDBC) parameters for your queries if needed.
+
 ## SSH 
 
 Enable SSH connection by select checkbox for SSH.
@@ -117,8 +119,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDg0NjIwNCwtMTQwOTIzOTQ0MywxOD
-c1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0
-MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNj
-I5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbNDEyMjcwMTU2LC0xNDA5MjM5NDQzLDE4Nz
+U0OTA3MzEsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQx
+MTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mj
+k3Nzc5NTQsMTIwOTIyOTkyMl19
 -->
