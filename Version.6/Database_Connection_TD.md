@@ -93,7 +93,7 @@ Enable SSH connection by select checkbox for SSH. Select SSH encryption to prote
 AcuBi allows wide range of SQL database dialects and will continue to improve the feature implementation for existing dialects used as well as for newly added dialects.
 
 
-## Test and Save Connection
+## Test Connection
 
 <b>4. Test Connection:</b> Click <b> Test Connection </b> to check if entered information is running accurately and weather the database is able to connect.
 
@@ -113,7 +113,7 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
    
 Click <b>Save</b> to update database connection with new changes.
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c53a27bb2c0f17d60d85c087add37207e24d31b2/images/New_version5/TD_Database_Connection_image5.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d43f3b8e82b3e4becd848180fdf4de5c655a64a5/images/New_version5/TD_Database_Connection_image5.png)
   <b><font color = "Black" >Image 5</font></b>
 
 ## Delete connection
@@ -127,10 +127,10 @@ Click <b>Save</b> to update database connection with new changes.
 
 ><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDg0ODEzNiwtMTU4NTI2NDE4NiwtMT
-c5MTE3NzUwMCwxMDM5MzI1NTAwLDM1Mzk3NTc5NCwtMTIxMjQ5
-NzMxMiwxOTgwMTg1ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3Mz
-EsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0
-ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5NT
-QsMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbLTU2NjcyNTE2MCwtMTk0ODQ4MTM2LC0xNT
+g1MjY0MTg2LC0xNzkxMTc3NTAwLDEwMzkzMjU1MDAsMzUzOTc1
+Nzk0LC0xMjEyNDk3MzEyLDE5ODAxODU4MTgsLTE0MDkyMzk0ND
+MsMTg3NTQ5MDczMSwtMTY3OTg4NjM1NiwyMTM4NDU4NTQ2LC0x
+MzYyNDExNTksNjQ4MDAyNDU0LDcwNTA0NDk2MSwzOTU1OTcxMj
+MsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX0=
 -->
