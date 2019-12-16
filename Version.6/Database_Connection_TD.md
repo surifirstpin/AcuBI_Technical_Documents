@@ -99,7 +99,7 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 
 > On hitting test connection button, it displays a success message if entered information is correct, if not displays a error message. 
 
-<b>5. Add Connection:</b> Once the data is configured and tested your database connection click <b> Add Connections.</b>  once connection is established, you can see the list of connections names on left side toolbar of database section.
+<b>5. Add Connection:</b> Once the data is configured and tested your database connection, click <b> Add Connections.</b>  once connection is established, you can see the list of connections names under database connection list.
 
 ## Edit Connection
 
@@ -121,7 +121,7 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTUyOTQ5OSwtMTc5MTE3NzUwMCwxMD
+eyJoaXN0b3J5IjpbLTE2MTk2MDE4MywtMTc5MTE3NzUwMCwxMD
 M5MzI1NTAwLDM1Mzk3NTc5NCwtMTIxMjQ5NzMxMiwxOTgwMTg1
 ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3MzEsLTE2Nzk4ODYzNT
 YsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0ODAwMjQ1NCw3MDUw
