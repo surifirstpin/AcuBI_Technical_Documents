@@ -110,7 +110,9 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
    <b>6.</b> Click <b>Edit</b> option to make any changes to connection established.
    
    ## Save
-Click Save to update database connection with new ch
+   
+Click <b>Save</b> to update database connection with new changes.
+
 ## Delete a connection
 
 <b>7.</b>Click <b> Delete</b>  to delete the connection from database.
@@ -123,10 +125,10 @@ Click Save to update database connection with new ch
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU2ODg0MjU5LC0xNzkxMTc3NTAwLDEwMz
-kzMjU1MDAsMzUzOTc1Nzk0LC0xMjEyNDk3MzEyLDE5ODAxODU4
-MTgsLTE0MDkyMzk0NDMsMTg3NTQ5MDczMSwtMTY3OTg4NjM1Ni
-wyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAyNDU0LDcwNTA0
-NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMjA5MjI5OTIyXX
-0=
+eyJoaXN0b3J5IjpbLTE1ODUyNjQxODYsLTE3OTExNzc1MDAsMT
+AzOTMyNTUwMCwzNTM5NzU3OTQsLTEyMTI0OTczMTIsMTk4MDE4
+NTgxOCwtMTQwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2Mz
+U2LDIxMzg0NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1
+MDQ0OTYxLDM5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5Mj
+JdfQ==
 -->
