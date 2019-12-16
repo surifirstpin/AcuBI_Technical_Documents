@@ -126,9 +126,8 @@ Click <b>Save</b> to update database connection with new changes.
   <b><font color = "Black" >Image 6</font></b>
 
 ><b>Note:</b> Based on requirement, more dialects can be introduced in Acubi. 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMTg3OTI1OCwtMTU4NTI2NDE4NiwtMT
+eyJoaXN0b3J5IjpbLTE5NDg0ODEzNiwtMTU4NTI2NDE4NiwtMT
 c5MTE3NzUwMCwxMDM5MzI1NTAwLDM1Mzk3NTc5NCwtMTIxMjQ5
 NzMxMiwxOTgwMTg1ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3Mz
 EsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LDY0
