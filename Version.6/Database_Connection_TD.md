@@ -5,7 +5,7 @@
 
 <b>Connection</b> Specifies a database connection from which a model can retrieve the data.
    
- <b>To set up database connection, Follow the below instructions;
+ <b>To set up database connection, Follow the below instructions;</b>
     
 <b>I.</b>  Get the connection details for database such as Host, Dialects, Port, Username, Password, etc from <b>Database Administrator.</b>
 
@@ -117,7 +117,7 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzIxMTI2MTIsMTg3NTQ5MDczMSwtMT
+eyJoaXN0b3J5IjpbLTE0MDkyMzk0NDMsMTg3NTQ5MDczMSwtMT
 Y3OTg4NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAy
 NDU0LDcwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMj
 A5MjI5OTIyXX0=
