@@ -73,11 +73,11 @@ Enable SSH connection by select checkbox for SSH. Select SSH encryption to prote
   
 - <b>Database port number</b> as seen from the tunnel server.
 
--<b> IP address or DNS name</b of the tunnel server as seen from the public internet.
+-<b> IP address or DNS name</b> of the tunnel server as seen from the public internet.
 
-- SSH port of the tunnel server as seen from the public internet.
+- <b>SSH port</b> of the tunnel server as seen from the public internet.
 
-- Username and Password on the tunnel server for the SSH connection (the standard is looker).
+- <b>Username and Password</b> on the tunnel server for the SSH connection (the standard is looker).
   
 <b>Browse Key File:</b> upload a private key for secure access.
 
@@ -120,8 +120,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1ODM2NTY5MiwxOTgwMTg1ODE4LC0xND
-A5MjM5NDQzLDE4NzU0OTA3MzEsLTE2Nzk4ODYzNTYsMjEzODQ1
-ODU0NiwtMTM2MjQxMTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMz
-k1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOTIyOTkyMl19
+eyJoaXN0b3J5IjpbLTEyMTI0OTczMTIsMTk4MDE4NTgxOCwtMT
+QwOTIzOTQ0MywxODc1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0
+NTg1NDYsLTEzNjI0MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLD
+M5NTU5NzEyMywxNjI5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
 -->
