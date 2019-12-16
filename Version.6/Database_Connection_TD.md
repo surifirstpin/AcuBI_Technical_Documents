@@ -53,7 +53,7 @@ You can include here additional Java Database Connectivity (JDBC) parameters for
 
 ## SSH 
 
-Enable SSH connection by select checkbox for SSH.
+Enable SSH connection by select checkbox for SSH. Select SSH encryption to protect the data as it passes between AcuBi and database. This is one
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ae5840d5f43f11702ee7a826f1a77aaed42ba463/images/New_version5/TD_Database_Connection_image4.png)
  <b><font color = "Black" >Image 2</font></b>
@@ -119,8 +119,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDE4NTgxOCwtMTQwOTIzOTQ0MywxOD
-c1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0
-MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNj
-I5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
+eyJoaXN0b3J5IjpbLTg3NTEwODU0OCwxOTgwMTg1ODE4LC0xND
+A5MjM5NDQzLDE4NzU0OTA3MzEsLTE2Nzk4ODYzNTYsMjEzODQ1
+ODU0NiwtMTM2MjQxMTU5LDY0ODAwMjQ1NCw3MDUwNDQ5NjEsMz
+k1NTk3MTIzLDE2Mjk3Nzc5NTQsMTIwOTIyOTkyMl19
 -->
