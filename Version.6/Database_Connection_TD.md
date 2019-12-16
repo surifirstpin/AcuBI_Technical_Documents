@@ -41,7 +41,7 @@
 
 - <b>Database:</b> Name of the database used.
 
-- <b>Username and Password:</b> Credentials used to connect the database.
+- <b>Username & Password:</b> Credentials used to connect the database.
 
 - <b>Temporary Database:</b>  To get the data path location of local files for user.
 
@@ -117,8 +117,8 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDkyMzk0NDMsMTg3NTQ5MDczMSwtMT
-Y3OTg4NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAy
-NDU0LDcwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMj
-A5MjI5OTIyXX0=
+eyJoaXN0b3J5IjpbMTkxMDg0NjIwNCwtMTQwOTIzOTQ0MywxOD
+c1NDkwNzMxLC0xNjc5ODg2MzU2LDIxMzg0NTg1NDYsLTEzNjI0
+MTE1OSw2NDgwMDI0NTQsNzA1MDQ0OTYxLDM5NTU5NzEyMywxNj
+I5Nzc3OTU0LDEyMDkyMjk5MjJdfQ==
 -->
