@@ -47,6 +47,7 @@
 
 - <b>Maximum connection:</b> Concurrent connection used by  database.
 
+Here you can set up maximum number of connections that Aci
 - <b>Additional Parameters:</B> Additional JDBC parameter used.
 
 You can include here additional Java Database Connectivity (JDBC) parameters for your queries if needed.
@@ -120,9 +121,9 @@ AcuBi allows wide range of SQL database dialects and will continue to improve th
 ><b> Note:</b> Based on requirement, more dialects can be introduced in Acubi.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzOTc1Nzk0LC0xMjEyNDk3MzEyLDE5OD
-AxODU4MTgsLTE0MDkyMzk0NDMsMTg3NTQ5MDczMSwtMTY3OTg4
-NjM1NiwyMTM4NDU4NTQ2LC0xMzYyNDExNTksNjQ4MDAyNDU0LD
-cwNTA0NDk2MSwzOTU1OTcxMjMsMTYyOTc3Nzk1NCwxMjA5MjI5
-OTIyXX0=
+eyJoaXN0b3J5IjpbMTg2NzkyNTkxLDM1Mzk3NTc5NCwtMTIxMj
+Q5NzMxMiwxOTgwMTg1ODE4LC0xNDA5MjM5NDQzLDE4NzU0OTA3
+MzEsLTE2Nzk4ODYzNTYsMjEzODQ1ODU0NiwtMTM2MjQxMTU5LD
+Y0ODAwMjQ1NCw3MDUwNDQ5NjEsMzk1NTk3MTIzLDE2Mjk3Nzc5
+NTQsMTIwOTIyOTkyMl19
 -->
