@@ -107,7 +107,7 @@ To view and access existing <b>Projects and Views,</b> hit projects button on to
 ## Model and Customization
 
 After saving a project, AcuBi will display the views and relevant information of the project as a <b>Model</b>, which can be further customized as per the business requirement. 
-Once the project is saved, model screen is triggered.(Refer Image 8)
+Once the project is saved, model screen is triggered.
 Depending on the table joins applied the code is retrieved in <b>JSON</b> format. To refresh the data, hit the refresh icon of model, project and tables.
 
 <b>4.</b>  To undo the changes done click <b>Undo</b>.
@@ -745,7 +745,7 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDcwNzYzOSwtMTYzMzQwMzM3NSwtOT
+eyJoaXN0b3J5IjpbMTM3Mjg0NzcxNSwtMTYzMzQwMzM3NSwtOT
 U5NDczNjQ3LDEzOTE3MTU5MzEsNDMyODAyNTQ1LDI5MTY2Mzg2
 MSwyMzM3MTAwMTMsMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mj
 k5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIx
