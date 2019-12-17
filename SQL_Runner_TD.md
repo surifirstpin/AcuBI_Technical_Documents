@@ -79,8 +79,7 @@ AcuBi enable user to explore the entire tables from SQL runner, as shown below;
 
 <b><Font color = " black">Image 5</font></b>
 
-<b>5.</b> In SQL Runner click the gear, and select the structure for the table in SQL runner. <b> Structure</b> displays entire information of the connections, schema, tables,  fields etc.
-
+<b>5.</b> In SQL Runner click the gear, and select the structure for the table in SQL runner. <b> Structure</b> displays entire information of the connections, schema, tables, fields etc.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/3fbc92761bba53da64e77da27425242e77e24710/images/New_version5/td_sql_structure.png)
 
@@ -196,6 +195,7 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjY3MzMyNjIsMjA3NjMwNzQwOCwtNT
-A4ODE5MTc1LDEzMzcxMTAzNDgsLTE2OTQwODY2MTNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDg1NjYyMDAsLTE4MjY3MzMyNjIsMj
+A3NjMwNzQwOCwtNTA4ODE5MTc1LDEzMzcxMTAzNDgsLTE2OTQw
+ODY2MTNdfQ==
 -->
