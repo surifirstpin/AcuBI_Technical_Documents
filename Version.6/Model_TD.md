@@ -472,7 +472,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 ### Create New Custom View
 
-<b>1.</b> Hit drop-down button nect to viewsClick on <b>New Empty view</b> to create or derive a new custom view table.
+<b>1.</b> Hit drop-down button next to views, Click on <b>New Empty View</b> to create or derive a new custom view table.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cf5946b2b83468c906303fc1b8480de242f0d17b/images/New_version5/TD_Model_image10.png)
@@ -750,11 +750,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDM5MTA0MTIsLTk4MTQwNjc2OSwtMT
-YzMzQwMzM3NSwtOTU5NDczNjQ3LDEzOTE3MTU5MzEsNDMyODAy
-NTQ1LDI5MTY2Mzg2MSwyMzM3MTAwMTMsMTk1MzUzNjA3NywxNT
-kxMjU1MTgxLDM3Mjk5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3
-NjUwLDEwMzcxMDIxMTQsLTk2OTgxMTc5LDE4MzEzODY5OTEsNz
-UzMTUzODYsLTEwMTEwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2
-XX0=
+eyJoaXN0b3J5IjpbMTgwNDIwNjE3MywtOTgxNDA2NzY5LC0xNj
+MzNDAzMzc1LC05NTk0NzM2NDcsMTM5MTcxNTkzMSw0MzI4MDI1
+NDUsMjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OT
+EyNTUxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2
+NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NT
+MxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODZd
+fQ==
 -->
