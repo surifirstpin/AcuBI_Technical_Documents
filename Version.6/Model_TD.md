@@ -30,7 +30,7 @@ A model is a customized gateway into the database for accessing data as per busi
 
 ### Step 2:    
 
-<b>Connection:</b>  Choose the database connection from the drop-down list provided.
+<b>Connection :</b>  Choose the database connection from the drop-down list provided.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/67d93f76cb8e582b7157b1f8e696925b97fa4abd/images/New_version5/TD_Model_image2.png)
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMyODAyNTQ1LDI5MTY2Mzg2MSwyMzM3MT
-AwMTMsMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mjk5MDE1NSwx
-MjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIxMTQsLTk2OT
-gxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMTEwMzE3MDgs
-ODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcyLDE4NTUwMj
-UzMTYsNjYwNzA3MjQsLTY5NzY5ODY2NywtMzc2MzQ4OTIxXX0=
+eyJoaXN0b3J5IjpbMTM5MTcxNTkzMSw0MzI4MDI1NDUsMjkxNj
+YzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OTEyNTUxODEs
+MzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2NTAsMTAzNz
+EwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NTMxNTM4Niwt
+MTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODYsLTE1NjQ0ND
+I3NzIsMTg1NTAyNTMxNiw2NjA3MDcyNCwtNjk3Njk4NjY3XX0=
 
 -->
