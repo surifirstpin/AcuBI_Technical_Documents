@@ -99,7 +99,7 @@ To delete a project click  <b>Delete </b> icon available on far right of the pro
 
 ## Existing Projects and Views
 
-To view and access existing <b>Projects and Views,</b> click on newly created projects on top right of the screen, it will display number of projects created. Tables added to a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
+To view and access existing <b>Projects and Views,</b> hit projects button on top right of the screen, it will display list of projects created. Tables added to a project are visible as views on initial screen. on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/685d353bb1f288ee590b8a6ac3a2994c7ef6eb23/images/New_version5/TD_Model_image12.png)
 <b><Font color = " black">Image 8</font></b>
@@ -745,11 +745,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzM0MDMzNzUsLTk1OTQ3MzY0NywxMz
-kxNzE1OTMxLDQzMjgwMjU0NSwyOTE2NjM4NjEsMjMzNzEwMDEz
-LDE5NTM1MzYwNzcsMTU5MTI1NTE4MSwzNzI5OTAxNTUsMTI1Mj
-AyMDcwMywtMTQ0MjM1NzY1MCwxMDM3MTAyMTE0LC05Njk4MTE3
-OSwxODMxMzg2OTkxLDc1MzE1Mzg2LC0xMDExMDMxNzA4LDg4ND
-cyNzY3LDg0NzU1NTU4NiwtMTU2NDQ0Mjc3MiwxODU1MDI1MzE2
+eyJoaXN0b3J5IjpbLTcwMDcwNzYzOSwtMTYzMzQwMzM3NSwtOT
+U5NDczNjQ3LDEzOTE3MTU5MzEsNDMyODAyNTQ1LDI5MTY2Mzg2
+MSwyMzM3MTAwMTMsMTk1MzUzNjA3NywxNTkxMjU1MTgxLDM3Mj
+k5MDE1NSwxMjUyMDIwNzAzLC0xNDQyMzU3NjUwLDEwMzcxMDIx
+MTQsLTk2OTgxMTc5LDE4MzEzODY5OTEsNzUzMTUzODYsLTEwMT
+EwMzE3MDgsODg0NzI3NjcsODQ3NTU1NTg2LC0xNTY0NDQyNzcy
 XX0=
 -->
