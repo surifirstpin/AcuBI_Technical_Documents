@@ -102,18 +102,17 @@ To delete a project click  <b>Delete </b> icon available on far right of the pro
 To view and access existing <b>Projects and Views,</b> hit projects button on top right of the screen, it will display list of projects created.  on selecting a project using a drop-down, it will display the list of views that fall under projects.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/a7598abcf90c0b79199f02f9eaae652de00108e0/images/New_version5/TD_Model_image20.png)
-
+<b><Font color = " black">Image 8</font></b>
 > Note : Tables added to a project are visible as views on initial screen.
 
-Below image displays list of projects created. Select project name under the list to view the project
+Below image displays list of projects created. Select project name under the list to view the project.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/685d353bb1f288ee590b8a6ac3a2994c7ef6eb23/images/New_version5/TD_Model_image12.png)
-<b><Font color = " black">Image 8</font></b>
+<b><Font color = " black">Image 9</font></b>
 
 ## Model and Customization
 
-After saving a project, AcuBi will display the views and relevant information of the project as a <b>Model</b>, which can be further customized as per the business requirement. 
-Once the project is saved, model screen is triggered.
+After saving a project, AcuBi will display the views and relevant information of the project as a <b>Model</b>, which can be further customized as per the business requirement. Once the project is saved, model screen is triggered.
 Depending on the table joins applied the code is retrieved in <b>JSON</b> format. To refresh the data, hit the refresh icon of model, project and tables.
 
 <b>4.</b>  To undo the changes done click <b>Undo</b>.
@@ -751,11 +750,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzkwOTUxNywtOTgxNDA2NzY5LC0xNj
-MzNDAzMzc1LC05NTk0NzM2NDcsMTM5MTcxNTkzMSw0MzI4MDI1
-NDUsMjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OT
-EyNTUxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2
-NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NT
-MxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODZd
-fQ==
+eyJoaXN0b3J5IjpbLTUwNTk5NCwtOTgxNDA2NzY5LC0xNjMzND
+AzMzc1LC05NTk0NzM2NDcsMTM5MTcxNTkzMSw0MzI4MDI1NDUs
+MjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OTEyNT
+UxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2NTAs
+MTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NTMxNT
+M4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODZdfQ==
+
 -->
