@@ -68,14 +68,12 @@ To view the recent run-history and to re-run them, click on history tab availabl
 
 The <b>redo</b> function restores any actions that have been previously performed. The <b>undo</b>, functions reverse the action performed earlier.
 
-
-## Insert, delete, update, truncate & create
-> Note : SQL Runner works for following Insert, delete, update, truncate & create
+> Note : SQL Runner also works for Insert, delete, update, truncate & create statements
  
 
 ## Exploring a Table Listed in SQL Runner
 
-Acubi enable user to explore the entire tables from SQL runner, as shown below;
+AcuBi enable user to explore the entire tables from SQL runner, as shown below;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c0bda34be7600e76152f42000afce40d0557287f/images/New_version5/TD_SQL_Image15.png)
 
@@ -198,6 +196,6 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjQwNTc2NSwyMDc2MzA3NDA4LC01MD
-g4MTkxNzUsMTMzNzExMDM0OCwtMTY5NDA4NjYxM119
+eyJoaXN0b3J5IjpbLTE4MjY3MzMyNjIsMjA3NjMwNzQwOCwtNT
+A4ODE5MTc1LDEzMzcxMTAzNDgsLTE2OTQwODY2MTNdfQ==
 -->
