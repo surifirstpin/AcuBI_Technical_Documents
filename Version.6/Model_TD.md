@@ -119,7 +119,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 <b>5.</b>  To redo the changes click  <b>Redo.</b>
 
-<b>6.</b> To format the code, for a proper alignment, click <b>Format Code</b>.
+<b>6.</b> For proper alignment of code, click <b>Format Code</b>.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
@@ -750,11 +750,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTk5NCwtOTgxNDA2NzY5LC0xNjMzND
-AzMzc1LC05NTk0NzM2NDcsMTM5MTcxNTkzMSw0MzI4MDI1NDUs
-MjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OTEyNT
-UxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2NTAs
-MTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NTMxNT
-M4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODZdfQ==
+eyJoaXN0b3J5IjpbODk2MDYxODE3LC05ODE0MDY3NjksLTE2Mz
+M0MDMzNzUsLTk1OTQ3MzY0NywxMzkxNzE1OTMxLDQzMjgwMjU0
+NSwyOTE2NjM4NjEsMjMzNzEwMDEzLDE5NTM1MzYwNzcsMTU5MT
+I1NTE4MSwzNzI5OTAxNTUsMTI1MjAyMDcwMywtMTQ0MjM1NzY1
+MCwxMDM3MTAyMTE0LC05Njk4MTE3OSwxODMxMzg2OTkxLDc1Mz
+E1Mzg2LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4Nl19
 
 -->
