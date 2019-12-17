@@ -123,7 +123,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/4822775225f357a86fd13bbd40a05c88bd0fca0a/images/New_version5/TD_Model_image8.png)
- <b><Font color = " black">Image 9</font></b>
+ <b><Font color = " black">Image 10</font></b>
 
 <b>7.</b>  To hide and un-hide model and views list click on <b>Angle double left</b> and <b>Angle double right</b> Icon.
 
@@ -134,7 +134,7 @@ Depending on the table joins applied the code is retrieved in <b>JSON</b> format
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/277037f93bc45d7c04c5c27d596cc7e7e3adf0d5/images/New_version5/TD_Model_image9.png)
- <b><Font color = " black">Image 10</font></b>
+ <b><Font color = " black">Image 11</font></b>
 
 <b><i><u>Customization for a model can be carried out in following ways :</u></i></b>
 
@@ -476,7 +476,7 @@ Custom fields are user defined fields for which we apply arithmetic  and logical
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/cf5946b2b83468c906303fc1b8480de242f0d17b/images/New_version5/TD_Model_image10.png)
- <b><Font color = " black">Image 11</font></b>
+ <b><Font color = " black">Image 12</font></b>
 
 Once the view is created, label the database field and derive the custom table using a SQL query as a result a derived table is created.
 ``` 
@@ -529,7 +529,7 @@ Once the view is created, label the database field and derive the custom table u
 Click <b>Save</b> to Save the View in database.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/21c1e57f8188409ca0cc91dcabefc75cf50ed3be/images/New_version5/td_model_image18.png)
- <b><Font color = " black">Image 12</font></b>
+ <b><Font color = " black">Image 13</font></b>
 
 ##  Arithmetical operations in Custom Fields
 ```
@@ -750,11 +750,11 @@ To carryout maps under visualization you need to derive the data fields in Model
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2MDYxODE3LC05ODE0MDY3NjksLTE2Mz
-M0MDMzNzUsLTk1OTQ3MzY0NywxMzkxNzE1OTMxLDQzMjgwMjU0
-NSwyOTE2NjM4NjEsMjMzNzEwMDEzLDE5NTM1MzYwNzcsMTU5MT
-I1NTE4MSwzNzI5OTAxNTUsMTI1MjAyMDcwMywtMTQ0MjM1NzY1
-MCwxMDM3MTAyMTE0LC05Njk4MTE3OSwxODMxMzg2OTkxLDc1Mz
-E1Mzg2LC0xMDExMDMxNzA4LDg4NDcyNzY3LDg0NzU1NTU4Nl19
-
+eyJoaXN0b3J5IjpbLTE1NjU5MjIzNiwtOTgxNDA2NzY5LC0xNj
+MzNDAzMzc1LC05NTk0NzM2NDcsMTM5MTcxNTkzMSw0MzI4MDI1
+NDUsMjkxNjYzODYxLDIzMzcxMDAxMywxOTUzNTM2MDc3LDE1OT
+EyNTUxODEsMzcyOTkwMTU1LDEyNTIwMjA3MDMsLTE0NDIzNTc2
+NTAsMTAzNzEwMjExNCwtOTY5ODExNzksMTgzMTM4Njk5MSw3NT
+MxNTM4NiwtMTAxMTAzMTcwOCw4ODQ3Mjc2Nyw4NDc1NTU1ODZd
+fQ==
 -->
