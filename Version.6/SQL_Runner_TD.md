@@ -70,7 +70,7 @@ The <b>redo</b> function restores any actions that have been previously performe
 
 
 ## Insert, delete, update, truncate & create
-
+> Note : SQL Runner works for following Insert, delete, update, truncate & create
  
 
 ## Exploring a Table Listed in SQL Runner
@@ -198,11 +198,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NjMwNzQwOCwtNTA4ODE5MTc1LDEzMz
-cxMTAzNDgsLTE2OTQwODY2MTMsLTIzNjUxOTg2MSwyMDA1NzA3
-ODEwLDQwMTIxMTg1OCwtOTAyMDgwNDcwLDIwMDU3MDc4MTAsLT
-gwNjM1NTI3NiwtOTA0Nzc2NTkzLC05Njc2NzI5MzksMTA1MDI0
-MjEwNSwtOTg2OTMzMzY5LDEwODk4NjQ0NzgsLTc3ODQxODE0MS
-wxMjExNTcwNjY4LC0xNzk5ODQyMzg3LDQ4MjAwMTAyNywtMjA0
-OTY2ODY0M119
+eyJoaXN0b3J5IjpbMTI3MjQwNTc2NSwyMDc2MzA3NDA4LC01MD
+g4MTkxNzUsMTMzNzExMDM0OCwtMTY5NDA4NjYxMywtMjM2NTE5
+ODYxLDIwMDU3MDc4MTAsNDAxMjExODU4LC05MDIwODA0NzAsMj
+AwNTcwNzgxMCwtODA2MzU1Mjc2LC05MDQ3NzY1OTMsLTk2NzY3
+MjkzOSwxMDUwMjQyMTA1LC05ODY5MzMzNjksMTA4OTg2NDQ3OC
+wtNzc4NDE4MTQxLDEyMTE1NzA2NjgsLTE3OTk4NDIzODcsNDgy
+MDAxMDI3XX0=
 -->
