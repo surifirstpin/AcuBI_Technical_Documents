@@ -69,9 +69,9 @@ To download a report in any of the following formats, click gear icon;
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
-- <b> Download Image </b>  download the report in image format. ( applicable for dashboard reports grid saved with visualization image)
+- <b> Download Image </b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
 
-- <b>b
+- <b> Show Data</b> Displays report data.
  
 
 
@@ -82,9 +82,9 @@ To download a report in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0OTYzMjgxLDE0Nzc0MTY1MDMsMTkyMD
-c3MTcwNSwtMjA0NDY1MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4
-Nyw2MjMwOTY3NjksLTMwOTI5NDMwOCwxODIwMDUzMjUwLC0xMT
-E3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1
-NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbMTIyNDk4NjQyOSwxNDc3NDE2NTAzLDE5Mj
+A3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2
+ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMT
+ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
+NTY5MSwxNTAxMTE3NzE1XX0=
 -->
