@@ -69,7 +69,9 @@ To download a report in any of the following formats, click gear icon;
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
-- <b> Download Image </b>  downloads the report in image format.
+- <b> Download Image </b>  download the report in image format. ( applicable for dashboard reports grid saved with visualization image)
+
+- <b>
  
 
 
@@ -80,11 +82,11 @@ To download a report in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC0yMD
-Q0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5Njc2
-OSwtMzA5Mjk0MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OTgsMT
-UxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTEx
-NzcxNSwtNDQzODc4Njk2LDE2MDI5MzM1NjksLTIwMDIzMTcwNj
-MsMzI1NTQ1MTE2LC05NzQ1NDUzODcsLTM0NDY3MjUzMSwtODg0
-MjMwMTA3XX0=
+eyJoaXN0b3J5IjpbMTkwNDUxNzQyMywxNDc3NDE2NTAzLDE5Mj
+A3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2
+ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMT
+ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
+NTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OS
+wtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0
+NjcyNTMxXX0=
 -->
