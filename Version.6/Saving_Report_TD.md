@@ -4,12 +4,13 @@
 <center><h1>Saving Reports</h1></center>
 
 All  files created in AcuBi are saved under save report window, this will save all the filter, sorting, pivot, calculated columns visualization and so on.
+
 ### Saving a Report
 
-<b>1.</b> After creating a report, click <b>Save</b> button  this will connect you to Save report window.
+<b>1.</b> After creating a report, click <b>Save</b> button this will connect you to Save report window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
-
+<b><font color = "Black"> Image 1</b>
 provide all the below information in <b>Save Report</b> window, to save a report for further accessing.
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows special character but does not  support any spaces )
@@ -30,7 +31,10 @@ provide all the below information in <b>Save Report</b> window, to save a report
 
 ## Saving under specific tag
 
+
 All the reports build in analysis section are saved under <b>work space</b> tag. ( Refer Image 1)
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
 
 ## Defining Filter fields
 
@@ -88,11 +92,11 @@ Similarly, for report definition for yesterdays data:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3NTIzNTkxLDM2MDM2NzI0MCwxMDM5Nj
-MzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4NDcsLTQ0ODc1MDI4
-NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLTI5MTAzMzczMywxMj
-kzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYwMCwtMjAwMzIwNTky
-NCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMTg3Njc5OTkzMiw5NT
-M4NzYyODgsMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNjM4NTE2
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTExMDQ5ODA3MDcsODg3NTIzNTkxLDM2MD
+M2NzI0MCwxMDM5NjMzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4
+NDcsLTQ0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLT
+I5MTAzMzczMywxMjkzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYw
+MCwtMjAwMzIwNTkyNCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMT
+g3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0MywxODkzNzcz
+ODQ5XX0=
 -->
