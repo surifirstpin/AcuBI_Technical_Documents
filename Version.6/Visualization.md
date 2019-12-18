@@ -73,7 +73,7 @@ Below are the following point styles available in AcuBi.
 
 Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on Y-axis and a measure on X-axis.
 
- <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from drop-down list compare the data using horizontal chart.
+ <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from drop-down list to compare the data using horizontal chart.
  
 - <b>Stacked (Data)</b> Series of values are added on the Y-axis by displaying each consecutive values above the last. 
 
@@ -86,14 +86,14 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
 Pie Chart are divided into slices to illustrate numerical proportions of the data.
 
- <b>3.</b>  Choose chart type <b>PIE</b> from given drop-down list compare the data using Pie chart.
+ <b>3.</b>  Choose chart type <b>PIE</b> from drop-down list compare the data using Pie chart.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/342ffdef70f63d84c311d6a89e8697fc0b4f932b/images/New_version5/TD_Visu_Image5.png)
 <b><font color = "Black"> Image 5</b>
 
 ### Editing Options for Pie Chart
  
-- <b>Show percentage</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it  displays dimension name. 
+- <b>Show percentage</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it displays dimension name. 
 
 - <b>Polar Area</b> On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDE0MzkwOCw5ODk0OTk2MDAsOTg4MD
-Q5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMwNiwtOTk0OTc5NDMw
-LDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMD
-cwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcx
-NDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLT
-k0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMx
-ODcyOThdfQ==
+eyJoaXN0b3J5IjpbLTE5OTUyNjM4NjAsOTg5NDk5NjAwLDk4OD
+A0OTY2MCwxMDI5NTIxNjMwLDExODM5OTczMDYsLTk5NDk3OTQz
+MCwxMjY4NTA4ODIyLDEyNjg1MDg4MjIsLTYyNjU2MTcxNSwtMT
+A3MDY1NTkxMCwtODYyOTA0MDU1LDMyMDY2MzU1NywxOTgzMTc3
+MTQwLC0xNTkwMjUyMywtMTAwOTk4NDY2MiwtODMwOTk1Mzk2LC
+05NDgxNTczMjQsLTE5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOTAz
+MTg3Mjk4XX0=
 -->
