@@ -50,10 +50,11 @@ To Edit or delete a report, click on <b>List</b> icon and click edit make any ch
 To delete a report, choose delete from list, it will display pop-up message as shown below click delete to delete report permanently.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
+
 <b><font color = "Black"> Image 7</b>
 ## Full-screen
 
-To set report to full screen click full-screen from the list.
+To set report to full screen click full-screen from the list. (refer image 6)
 
 To download a report in any of the following formats, click gear icon;
 
@@ -73,8 +74,8 @@ To download a report in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00ND
-E3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1
-MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLD
-UyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
+eyJoaXN0b3J5IjpbMTkyMDc3MTcwNSwtMjA0NDY1MzYyMSw5MD
+kwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMw
+OCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLT
+EzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ==
 -->
