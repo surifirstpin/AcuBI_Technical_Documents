@@ -95,7 +95,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
  
 - <b>Show percentage</b>  on selecting this checkbox, it displays percentage value for each measure in pie chart. if disabled it displays dimension name. 
 
-- <b>Polar Area</b> On selecting polar area check box it enables polar view for each dimensions field in a pie chart.
+- <b>Polar Area</b> On enabling polar area it displays polar region  each dimensions field in a pie chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image6.png)
 <b><font color = "Black"> Image 6</b>
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTUyNjM4NjAsOTg5NDk5NjAwLDk4OD
-A0OTY2MCwxMDI5NTIxNjMwLDExODM5OTczMDYsLTk5NDk3OTQz
-MCwxMjY4NTA4ODIyLDEyNjg1MDg4MjIsLTYyNjU2MTcxNSwtMT
-A3MDY1NTkxMCwtODYyOTA0MDU1LDMyMDY2MzU1NywxOTgzMTc3
-MTQwLC0xNTkwMjUyMywtMTAwOTk4NDY2MiwtODMwOTk1Mzk2LC
-05NDgxNTczMjQsLTE5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOTAz
-MTg3Mjk4XX0=
+eyJoaXN0b3J5IjpbLTQ0Njc5ODc5MiwtMTk5NTI2Mzg2MCw5OD
+k0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMw
+NiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNj
+I2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYz
+NTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC
+04MzA5OTUzOTYsLTk0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAw
+NDYxNzY2MF19
 -->
