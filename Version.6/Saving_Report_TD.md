@@ -60,7 +60,7 @@ Cache saves the data, so the future request for the data is provided faster.
 - <b>Repeat every</b> Enables automatic repeat in specified time range.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f9fdd23f5f62ead411830f4a98d2984c76abf33b/images/New_version5/TD_SAVE_REPORT_3.png)
-<b><font color = "Black"> Image 3</b>
+<b><font color = "Black"> Image 5</b>
 
 ## Check Data
 
@@ -69,35 +69,37 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  - Select <b> Check Data</b> (Today).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
-<b><font color = "Black"> Image 4</b>
+<b><font color = "Black"> Image 6</b>
 
  - Select <b>Check Data Field</b> (Date field).
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
-<b><font color = "Black"> Image 5</b>
+<b><font color = "Black"> Image 7</b>
 
 ## Report Definition
 
 To view weather today's data existed in the list, go to Dashboard section-->Reports-->Click on report, on top right of the screen it display a <i><b>green circle</b></i>, click on it to view report definition. Displays <i><b>  Red circle</i></b> if data does not exist.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 8</b>
 
 Report definition for today's data.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_8.png)
-<b><font color = "Black"> Image 7</b>
+
+<b><font color = "Black"> Image 9</b>
 
 Similarly, for report definition for yesterdays data:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
-<b><font color = "Black"> Image 8</b>
+
+<b><font color = "Black"> Image 10</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzOTE3MDQ2MSw4ODc1MjM1OTEsMzYwMz
-Y3MjQwLDEwMzk2MzM3NDAsLTIwOTI1NjQ0NDQsLTIyOTgwNjg0
-NywtNDQ4NzUwMjg0LDEyOTg5MTk0OTUsLTM3ODgyMDM5NywtMj
-kxMDMzNzMzLDEyOTM2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAw
-LC0yMDAzMjA1OTI0LDEwMTM1Njk3MzgsLTQ4NjA2MTg0NiwxOD
-c2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4ODQzLDE4OTM3NzM4
-NDldfQ==
+eyJoaXN0b3J5IjpbLTU2OTI3NTI0LDg4NzUyMzU5MSwzNjAzNj
+cyNDAsMTAzOTYzMzc0MCwtMjA5MjU2NDQ0NCwtMjI5ODA2ODQ3
+LC00NDg3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIwMzk3LC0yOT
+EwMzM3MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAs
+LTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4Nz
+Y3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0
+OV19
 -->
