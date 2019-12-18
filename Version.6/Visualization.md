@@ -75,7 +75,7 @@ Horizontal Bar charts are used to compare data across different categories horiz
 
  <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from given drop-down list compare the data using horizontal chart.
  
-- <b>Stacked (Data)</b> Series of values are added on the Y-axis by displaying  each consecutive values above the last. 
+- <b>Stacked (Data)</b> Series of values are added on the Y-axis by displaying each consecutive values above the last. 
 
 - <b>100% Stacked (Data)</b>  Series of values are presented as percentages stacked on the y-axis, where all values add up to 100%.
 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mz
-k5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2ODUwODgy
-MiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MDQwNTUsMz
-IwNjYzNTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0xMDA5OTg0
-NjYyLC04MzA5OTUzOTYsLTk0ODE1NzMyNCwtMTkxNzQ3NzEzNS
-wtMTAwNDYxNzY2MCw5MDMxODcyOTgsLTE4MTk1Njc4MzQsMTUx
-ODc5ODM4OF19
+eyJoaXN0b3J5IjpbOTg5NDk5NjAwLDk4ODA0OTY2MCwxMDI5NT
+IxNjMwLDExODM5OTczMDYsLTk5NDk3OTQzMCwxMjY4NTA4ODIy
+LDEyNjg1MDg4MjIsLTYyNjU2MTcxNSwtMTA3MDY1NTkxMCwtOD
+YyOTA0MDU1LDMyMDY2MzU1NywxOTgzMTc3MTQwLC0xNTkwMjUy
+MywtMTAwOTk4NDY2MiwtODMwOTk1Mzk2LC05NDgxNTczMjQsLT
+E5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOTAzMTg3Mjk4LC0xODE5
+NTY3ODM0XX0=
 -->
