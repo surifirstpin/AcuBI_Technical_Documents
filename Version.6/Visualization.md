@@ -140,7 +140,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 - <b>Arc field</b> select the dimension field to apply arc lines.
 
-- <b>Curve</b> it maximum and minimize the surface area in radar chart.
+- <b>Curve</b> it maximize and minimize the surface area in radar chart.
 
 ## Widget chart 
 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDYwMDk5NiwtMTk5NTI2Mzg2MCw5OD
-k0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMw
-NiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNj
-I2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYz
-NTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC
-04MzA5OTUzOTYsLTk0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAw
-NDYxNzY2MF19
+eyJoaXN0b3J5IjpbLTIwMzY4NzA4NjgsLTUzMDYwMDk5NiwtMT
+k5NTI2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2
+MzAsMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMT
+I2ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5
+MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC
+0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLTk0ODE1NzMyNCwtMTkx
+NzQ3NzEzNV19
 -->
