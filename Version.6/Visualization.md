@@ -55,7 +55,7 @@ AcuBi visualization charts are used based on the priority of what specific infor
    - Area-Step
    - Scatter
     
-- <b>Points</b>  will display the data by specifying the points on the chart.
+- <b>Points</b>  will display the data by specifying the pointers on chart.
 
 - <b>Point style</b> will specify how the data points will appear on chart. 
 Below are the following point styles available in AcuBi. 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNj
-g1MDg4MjIsMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1
-OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcxNDAsLT
-E1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLTk0ODE1
-NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMxODcyOT
-gsLTE4MTk1Njc4MzQsMTUxODc5ODM4OCwxNjE3NzgwNDM4LDEw
-ODYzNzUxMDRdfQ==
+eyJoaXN0b3J5IjpbMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05OT
+Q5Nzk0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1NjE3
+MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMjA2NjM1NTcsMT
+k4MzE3NzE0MCwtMTU5MDI1MjMsLTEwMDk5ODQ2NjIsLTgzMDk5
+NTM5NiwtOTQ4MTU3MzI0LC0xOTE3NDc3MTM1LC0xMDA0NjE3Nj
+YwLDkwMzE4NzI5OCwtMTgxOTU2NzgzNCwxNTE4Nzk4Mzg4LDE2
+MTc3ODA0MzhdfQ==
 -->
