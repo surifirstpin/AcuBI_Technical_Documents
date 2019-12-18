@@ -3,14 +3,14 @@
 
 <center><h1>Saving Reports</h1></center>
 
-All  files created in AcuBi are saved under save explore section, this will save all the filter, sorting, pivot, visualization and so on.
+All  files created in AcuBi are saved under save report window, this will save all the filter, sorting, pivot, calculated columns visualization and so on.
 ### Saving a Report
 
-<b>1.</b> After creating a report, click <b>Save</b> button to save the data this will connect you to Save Explore section.
+<b>1.</b> After creating a report, click <b>Save</b> button  this will connect you to Save report window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
 
-Under <b>Save Report</b> page provide all the below information to save a report for further accessing.
+provide all the below information to save a report for further accessing.
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
 
@@ -88,11 +88,11 @@ Similarly, for report definition for yesterdays data:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxOTU2Nzc4MywzNjAzNjcyNDAsMTAzOT
-YzMzc0MCwtMjA5MjU2NDQ0NCwtMjI5ODA2ODQ3LC00NDg3NTAy
-ODQsMTI5ODkxOTQ5NSwtMzc4ODIwMzk3LC0yOTEwMzM3MzMsMT
-I5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAsLTIwMDMyMDU5
-MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4NzY3OTk5MzIsOT
-UzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0OSwtMTYzODUx
-NjU2XX0=
+eyJoaXN0b3J5IjpbLTg3ODE5MTIwLDM2MDM2NzI0MCwxMDM5Nj
+MzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4NDcsLTQ0ODc1MDI4
+NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLTI5MTAzMzczMywxMj
+kzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYwMCwtMjAwMzIwNTky
+NCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMTg3Njc5OTkzMiw5NT
+M4NzYyODgsMTQyNzQ0ODg0MywxODkzNzczODQ5LC0xNjM4NTE2
+NTZdfQ==
 -->
