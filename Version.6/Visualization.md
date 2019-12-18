@@ -100,7 +100,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image6.png)
 <b><font color = "Black"> Image 6</b>
 
--  <b>Donut</b> donut chart are equal to pie chart. They show relationships of parts to a whole. select **Check Box** to enables the donut view.
+-  <b>Donut</b> donut chart are equal to pie chart. They show relationships of parts to a whole. To enable this, choose <b>Check Box</b> for donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image7.png)
 <b><font color = "Black"> Image 7</b>
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA1MDg2MjczLC0xOTk1MjYzODYwLDk4OT
-Q5OTYwMCw5ODgwNDk2NjAsMTAyOTUyMTYzMCwxMTgzOTk3MzA2
-LC05OTQ5Nzk0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02Mj
-Y1NjE3MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMjA2NjM1
-NTcsMTk4MzE3NzE0MCwtMTU5MDI1MjMsLTEwMDk5ODQ2NjIsLT
-gzMDk5NTM5NiwtOTQ4MTU3MzI0LC0xOTE3NDc3MTM1LC0xMDA0
-NjE3NjYwXX0=
+eyJoaXN0b3J5IjpbLTUzMDYwMDk5NiwtMTk5NTI2Mzg2MCw5OD
+k0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMw
+NiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNj
+I2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYz
+NTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC
+04MzA5OTUzOTYsLTk0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAw
+NDYxNzY2MF19
 -->
