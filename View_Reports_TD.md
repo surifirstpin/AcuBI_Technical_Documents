@@ -1,9 +1,7 @@
 
 <center><h1>View Reports</h1></center>
 
-Reports in  <b> AcuBi</b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds, you can confess a story in what way your organisation is making a difference to the world.
-
-Both reports and dashboards can be organised via Work Spaces and later edited as per requirement.
+Reports in  <b> AcuBi</b>  extract the data effectively and collaborate efficiently, instead of accessing the data in a regular traditional manner. Just in matters of seconds you can confess a story on how your organisation is making a difference to the world. Both reports and dashboards can be organised via Work Spaces and later edited as per requirement.
 
 ## View Report
 
@@ -75,8 +73,8 @@ To download a report in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNzk3NDQyOCw5MDkwNjM1NDUsLTQ0MT
-c3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMwOCwxODIwMDUzMjUw
-LC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NTEsNT
-I0MzI1NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00ND
+E3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1
+MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLD
+UyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
 -->
