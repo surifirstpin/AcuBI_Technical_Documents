@@ -52,11 +52,14 @@ To delete a report, choose delete from list, it will display pop-up message as s
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0711e4822adc1e6fc82e353e54ef5a7f4343b01e/images/New_version5/td_view_report_image14.png)
 
 <b><font color = "Black"> Image 7</b>
-## Full-screen
+
+## Full-Screen
 
 To set report to full screen click full-screen from the list. (refer image 6)
 
 To download a report in any of the following formats, click gear icon;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
 ## Download CSV, CSV ; or XLXS 
 
@@ -66,6 +69,9 @@ To download a report in any of the following formats, click gear icon;
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
+- <b> Download Image </b>  downloads the report in image format.
+ 
+
 
 ## Refresh & Hard Refresh
 
@@ -74,8 +80,9 @@ To download a report in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDc3MTcwNSwtMjA0NDY1MzYyMSw5MD
-kwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMw
-OCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLT
-EzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC0yMD
+Q0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5Njc2
+OSwtMzA5Mjk0MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OTgsMT
+UxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTEx
+NzcxNV19
 -->
