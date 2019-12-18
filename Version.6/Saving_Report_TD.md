@@ -10,15 +10,15 @@ All  files created in AcuBi are saved under save report window, this will save a
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
 
-provide all the below information to save a report for further accessing.
+provide all the below information in <b>Save Report</b> window, to save a report for further accessing.
 
-- <b>Report Name :</b> Name identifier for a report. ( AcuBi allows  special character but does not  support any spaces )
+- <b>Report Name :</b> Name identifier for a report. ( AcuBi allows special character but does not  support any spaces )
 
-- <b>Title :</b> label for the report the way you want it to appear.
+- <b>Title:</b> label for the report the way you want it to appear.
 
-- <b>Info :</B> Displays any specific information about the report.
+- <b>Info:</B> Displays any specific information about the report.
 
-- <b>Privacy :</b> You can save the report in any one of the following privacy option.
+- <b>Privacy:</b> You can save the report in any one of the following privacy option.
 
   - <b>Private ()</b> report saved in private section and accessed by the user itself.
   - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
@@ -88,7 +88,7 @@ Similarly, for report definition for yesterdays data:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3ODE5MTIwLDM2MDM2NzI0MCwxMDM5Nj
+eyJoaXN0b3J5IjpbODg3NTIzNTkxLDM2MDM2NzI0MCwxMDM5Nj
 MzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4NDcsLTQ0ODc1MDI4
 NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLTI5MTAzMzczMywxMj
 kzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYwMCwtMjAwMzIwNTky
