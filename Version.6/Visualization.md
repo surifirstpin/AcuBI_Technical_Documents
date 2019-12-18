@@ -71,9 +71,9 @@ Below are the following point styles available in AcuBi.
 
 ## Horizontal Bar Chart 
 
-Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on the Y-axis and a measure on X-axis.
+Horizontal Bar charts are used to compare data across different categories horizontally. You can build a bar chart by placing a dimension on Y-axis and a measure on X-axis.
 
- <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from given drop-down list compare the data using horizontal chart.
+ <b>2.</b> Choose chart type <b>HORIZONTAL BAR</b> from drop-down list compare the data using horizontal chart.
  
 - <b>Stacked (Data)</b> Series of values are added on the Y-axis by displaying each consecutive values above the last. 
 
@@ -547,11 +547,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NDk5NjAwLDk4ODA0OTY2MCwxMDI5NT
-IxNjMwLDExODM5OTczMDYsLTk5NDk3OTQzMCwxMjY4NTA4ODIy
-LDEyNjg1MDg4MjIsLTYyNjU2MTcxNSwtMTA3MDY1NTkxMCwtOD
-YyOTA0MDU1LDMyMDY2MzU1NywxOTgzMTc3MTQwLC0xNTkwMjUy
-MywtMTAwOTk4NDY2MiwtODMwOTk1Mzk2LC05NDgxNTczMjQsLT
-E5MTc0NzcxMzUsLTEwMDQ2MTc2NjAsOTAzMTg3Mjk4LC0xODE5
-NTY3ODM0XX0=
+eyJoaXN0b3J5IjpbMTk1MDE0MzkwOCw5ODk0OTk2MDAsOTg4MD
+Q5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMwNiwtOTk0OTc5NDMw
+LDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMD
+cwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNTU3LDE5ODMxNzcx
+NDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04MzA5OTUzOTYsLT
+k0ODE1NzMyNCwtMTkxNzQ3NzEzNSwtMTAwNDYxNzY2MCw5MDMx
+ODcyOThdfQ==
 -->
