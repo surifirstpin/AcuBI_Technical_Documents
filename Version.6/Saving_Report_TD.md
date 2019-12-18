@@ -5,12 +5,13 @@
 
 All  files created in AcuBi are saved under save report window, this will save all the filter, sorting, pivot, calculated columns visualization and so on.
 
-### Saving a Report
+## Saving a Report
 
 <b>1.</b> After creating a report, click <b>Save</b> button this will connect you to Save report window.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
 <b><font color = "Black"> Image 1</b>
+
 provide all the below information in <b>Save Report</b> window, to save a report for further accessing.
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows special character but does not  support any spaces )
@@ -27,14 +28,14 @@ provide all the below information in <b>Save Report</b> window, to save a report
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_4.png)
 
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 2</b>
 
 ## Saving under specific tag
 
+All the reports build in analysis section are saved under <b>work space</b> tag.
 
-All the reports build in analysis section are saved under <b>work space</b> tag. ( Refer Image 1)
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/cf7f7721fe0d23eba5afed717b681b6768b8fcbb/images/New_version5/TD_SAVE_REPORT_11.png)
+<b><font color = "Black"> Image 3</b>
 
 ## Defining Filter fields
 
@@ -44,7 +45,7 @@ Filter are used to extract only specific data you want to view. This function is
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/5c20a9d86f105fcc871e95e0dfc3ccb1b2d05a6d/images/New_version5/TD_SAVE_REPORT_2.png)
 
-<b><font color = "Black"> Image 2</b>
+<b><font color = "Black"> Image 4</b>
 
 ><b>Note:</b> This filter field derived in save report window should be derived initially in report window.
 
@@ -92,11 +93,11 @@ Similarly, for report definition for yesterdays data:
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 <b><font color = "Black"> Image 8</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ5ODA3MDcsODg3NTIzNTkxLDM2MD
-M2NzI0MCwxMDM5NjMzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4
-NDcsLTQ0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLT
-I5MTAzMzczMywxMjkzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYw
-MCwtMjAwMzIwNTkyNCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMT
-g3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0MywxODkzNzcz
-ODQ5XX0=
+eyJoaXN0b3J5IjpbMjAzOTE3MDQ2MSw4ODc1MjM1OTEsMzYwMz
+Y3MjQwLDEwMzk2MzM3NDAsLTIwOTI1NjQ0NDQsLTIyOTgwNjg0
+NywtNDQ4NzUwMjg0LDEyOTg5MTk0OTUsLTM3ODgyMDM5NywtMj
+kxMDMzNzMzLDEyOTM2MTc4Myw0NDM2NTY5MzQsNTA3ODE1NjAw
+LC0yMDAzMjA1OTI0LDEwMTM1Njk3MzgsLTQ4NjA2MTg0NiwxOD
+c2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4ODQzLDE4OTM3NzM4
+NDldfQ==
 -->
