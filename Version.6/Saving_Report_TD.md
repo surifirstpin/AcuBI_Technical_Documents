@@ -69,11 +69,13 @@ To know weather the data extracted in reports contains <b> Today </b> or <b> Yes
  - Select <b> Check Data</b> (Today).
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_5.png)
+
 <b><font color = "Black"> Image 6</b>
 
  - Select <b>Check Data Field</b> (Date field).
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/eeacf708948fafc3fe1370acd16b40d2f1c1ee27/images/New_version5/TD_SAVE_REPORT_6.png)
+
 <b><font color = "Black"> Image 7</b>
 
 ## Report Definition
@@ -95,11 +97,11 @@ Similarly, for report definition for yesterdays data:
 
 <b><font color = "Black"> Image 10</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2OTI3NTI0LDg4NzUyMzU5MSwzNjAzNj
-cyNDAsMTAzOTYzMzc0MCwtMjA5MjU2NDQ0NCwtMjI5ODA2ODQ3
-LC00NDg3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIwMzk3LC0yOT
-EwMzM3MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MDc4MTU2MDAs
-LTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYxODQ2LDE4Nz
-Y3OTk5MzIsOTUzODc2Mjg4LDE0Mjc0NDg4NDMsMTg5Mzc3Mzg0
-OV19
+eyJoaXN0b3J5IjpbLTIwMzA1OTM0MDgsODg3NTIzNTkxLDM2MD
+M2NzI0MCwxMDM5NjMzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4
+NDcsLTQ0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLT
+I5MTAzMzczMywxMjkzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYw
+MCwtMjAwMzIwNTkyNCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMT
+g3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0MywxODkzNzcz
+ODQ5XX0=
 -->
