@@ -254,7 +254,7 @@ The resultant for this expression would be seen in green color;
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
 <b><font color = "Black"> Image 16</b>
 
-In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. ( Applicable only for table chart). 
+In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. (Applicable only for table chart). 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
 <b><font color = "Black"> Image 17</b>
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM0MjMxMTAsLTE0MTA1OTkzMzQsLT
-IwMzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5NTI2Mzg2MCw5ODk0
-OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMwNi
-wtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2ODUwODgyMiwtNjI2
-NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MDQwNTUsMzIwNjYzNT
-U3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0xMDA5OTg0NjYyLC04
-MzA5OTUzOTZdfQ==
+eyJoaXN0b3J5IjpbLTEyNDEwNDEzMzYsLTE0ODM0MjMxMTAsLT
+E0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5
+NTI2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2Mz
+AsMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2
+ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MD
+QwNTUsMzIwNjYzNTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0x
+MDA5OTg0NjYyXX0=
 -->
