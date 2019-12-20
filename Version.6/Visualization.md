@@ -335,7 +335,7 @@ Gauge chart displays current status in the context of goal.
 
 - <b>Label</b> Specify label text.
 
-- <b>Padding</b> Specifies spacing at the top, bottom, left and right side of the charts and Axis. it accepts the number range in between 0 to 100.
+- <b>Padding</b> Specifies spacing at the top, bottom, left and right side of the charts and axis. It accepts the number range in between 0 to 100.
 
 - <b>Tooltips</b> if the underlying field defines a description for a measure, that description is displayed on moving the hover over the column.
 
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEwNDEzMzYsLTE0ODM0MjMxMTAsLT
-E0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5
-NTI2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2Mz
-AsMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MDg4MjIsMTI2
-ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEwLC04NjI5MD
-QwNTUsMzIwNjYzNTU3LDE5ODMxNzcxNDAsLTE1OTAyNTIzLC0x
-MDA5OTg0NjYyXX0=
+eyJoaXN0b3J5IjpbLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMT
+Q4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMw
+NjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYwMCw5ODgwNDk2Nj
+AsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05OTQ5Nzk0MzAsMTI2
+ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1NjE3MTUsLTEwNzA2NT
+U5MTAsLTg2MjkwNDA1NSwzMjA2NjM1NTcsMTk4MzE3NzE0MCwt
+MTU5MDI1MjNdfQ==
 -->
