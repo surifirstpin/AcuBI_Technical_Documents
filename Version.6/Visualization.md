@@ -55,11 +55,11 @@ AcuBi visualization charts are used based on the priority of what specific infor
    - Area-Spline
    - Area-Step
    - Scatter
-    
+  
 - <b>Points</b>  will display the data by specifying pointers on chart.
 
 - <b>Point style</b> will specify how the data pointers will appear on chart. 
--
+
 Below are the following point styles available in AcuBi. 
   - Circle
   - Triangle
@@ -549,11 +549,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjYxMzAxMSwtMTAzMjAzNTE5NCwtMT
-U2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgz
-NDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01MzA2MD
-A5OTYsLTE5OTUyNjM4NjAsOTg5NDk5NjAwLDk4ODA0OTY2MCwx
-MDI5NTIxNjMwLDExODM5OTczMDYsLTk5NDk3OTQzMCwxMjY4NT
-A4ODIyLDEyNjg1MDg4MjIsLTYyNjU2MTcxNSwtMTA3MDY1NTkx
-MCwtODYyOTA0MDU1XX0=
+eyJoaXN0b3J5IjpbNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNT
+YwMTM0NTU0LC00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0
+MjMxMTAsLTE0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMD
+k5NiwtMTk5NTI2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEw
+Mjk1MjE2MzAsMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MD
+g4MjIsMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEw
+LC04NjI5MDQwNTVdfQ==
 -->
