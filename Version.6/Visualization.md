@@ -4,7 +4,7 @@
 <center><h1>Visualization Charts</h1></center>
 
 
-<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained in reports section. Charts displays different type of pictorial representation of the data.  AcuBi keeps query details and visualization( Charts) configuration data together, so user can see data and visualization charts together when it is shared to them.
+<b>AcuBi</b> has an ability to create graphics and charts based on the result obtained in reports section. Charts displays different type of pictorial representation of the data.  AcuBi keeps query details and visualization(Charts) configuration data together, so user can see data and visualization charts together when it is shared to them.
 
 
 ## Getting Started With Visualization.
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMT
-Q4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMw
-NjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYwMCw5ODgwNDk2Nj
-AsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05OTQ5Nzk0MzAsMTI2
-ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1NjE3MTUsLTEwNzA2NT
-U5MTAsLTg2MjkwNDA1NSwzMjA2NjM1NTcsMTk4MzE3NzE0MCwt
-MTU5MDI1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMT
+I0MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAz
+Njg3MDg2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OT
+YwMCw5ODgwNDk2NjAsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05
+OTQ5Nzk0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1Nj
+E3MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMjA2NjM1NTcs
+MTk4MzE3NzE0MF19
 -->
