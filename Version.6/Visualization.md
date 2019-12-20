@@ -220,7 +220,7 @@ Bar charts are used to compare data across different categories. You can build a
 
 ## Bubble chart 
 
-It is used to display the data in circles. We can define each bubble using dimension value and size by Measure value.
+It is used to display the data in circles. We can define each bubble using dimension value and size by measure value.
  
  <b>8.</b> Choose chart type <b>BUBBLE</b> from given drop-down list compare the data.
  
@@ -548,11 +548,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMT
-I0MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAz
-Njg3MDg2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OT
-YwMCw5ODgwNDk2NjAsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05
-OTQ5Nzk0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1Nj
-E3MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1NSwzMjA2NjM1NTcs
-MTk4MzE3NzE0MF19
+eyJoaXN0b3J5IjpbLTEwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLT
+QyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQx
+MDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMwNjAwOTk2LC0xOTk1Mj
+YzODYwLDk4OTQ5OTYwMCw5ODgwNDk2NjAsMTAyOTUyMTYzMCwx
+MTgzOTk3MzA2LC05OTQ5Nzk0MzAsMTI2ODUwODgyMiwxMjY4NT
+A4ODIyLC02MjY1NjE3MTUsLTEwNzA2NTU5MTAsLTg2MjkwNDA1
+NSwzMjA2NjM1NTddfQ==
 -->
