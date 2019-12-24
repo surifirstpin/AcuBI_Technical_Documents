@@ -250,7 +250,7 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
 
 To download dashboard, click gear icon;
- ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
+ ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
  <B><font color = " Black"> Image 21</font></b>
  
@@ -262,27 +262,13 @@ To download dashboard, click gear icon;
 
 -   <b>Download Image</b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
     
--   <b>Show Data</b>  Displays report data.
-
+-   <b>Show Data</b>  Displays report data. ( applicable for dashboard report grid saved with visualization image)
 
 ## [Refresh & Hard Refresh]
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
-    
-## Download ( Charts)
-
-To download a report saved with charts section, click gear icon;
-
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
-
-
--   **Download CSV** download the dashboard report in CSV format.
-    
--   **Download CSV;** download the grouped list.
-    
--   **Download XLXS** download the dashboard report in Excel format.
     
 
 
@@ -413,11 +399,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMjIxODExLC03MDA3OTM0NzQsNTY4Nj
-g3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1
-MzAyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3Mz
-U2LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTky
-MTY4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NT
-cwMDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4Nl19
-
+eyJoaXN0b3J5IjpbLTEyOTA4NzMxNjEsLTcwMDc5MzQ3NCw1Nj
+g2ODcwMjIsNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5LDcz
+NDUzMDI4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxOD
+czNTYsLTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwx
+OTIxNjg2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNz
+c1NzAwNCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2
+XX0=
 -->
