@@ -12,9 +12,9 @@ All the existing reports and dashboards are visible under *My Space* and can be 
   
 <b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page. 
 
- > Note : Dashboard or Report which are set ton homepage indicates orange color.
+ > Note : Dashboard or Report which are set ton homepage indicates with Orange color Home Icon.
 
-<b>2.</b> To delete a dashboard, report  click  <b>Delete Icon</b>.
+<b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>.
 
 <b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>.
 
@@ -32,7 +32,7 @@ Considering image 2,
 -   <b>Grey color</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjczNzkzNjcwLC0xMjg1NTEyOTY2LDE1Nj
-QyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1ODk2
-NTksNzI4Nzg1ODI1XX0=
+eyJoaXN0b3J5IjpbMjAzMjAyNjQyOCwtMTI4NTUxMjk2NiwxNT
+Y0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYzNTg5
+NjU5LDcyODc4NTgyNV19
 -->
