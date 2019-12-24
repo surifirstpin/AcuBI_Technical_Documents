@@ -8,7 +8,7 @@ This Section explains how to organize the reports and dashboard under specific n
   
 <b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page. 
 
- > Note : Dashboard or Report which are set ton homepage indicates with Orange color Home Icon.
+ > Note : Dashboard or Report which are set on homepage displays Orange color Home Icon.
 
 <b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>.
 
@@ -28,7 +28,7 @@ Considering image 2,
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4OTIyMzg2LC0xMTkxNDc0NjI2LC0xMj
-g1NTEyOTY2LDE1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMy
-MTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX0=
+eyJoaXN0b3J5IjpbLTE3ODUzNjA2MTMsLTExOTE0NzQ2MjYsLT
+EyODU1MTI5NjYsMTU2NDI5OTE3OSwtMzQzOTMxOTM5LC04Mzc2
+MzIxOTIsLTk2MzU4OTY1OSw3Mjg3ODU4MjVdfQ==
 -->
