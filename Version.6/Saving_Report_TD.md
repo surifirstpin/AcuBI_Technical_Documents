@@ -16,11 +16,11 @@ Enter below information in <b>Save Report</b> window for further accessing.
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows special character but does not  support any spaces )
 
-- <b>Title:</b> label for the report the way you want it to appear.
+- <b>Title:</b> label a report the way you want it to appear.
 
 - <b>Info:</B> Displays any specific information about the report.
 
-- <b>Privacy:</b> You can save the report in any one of the following privacy option.
+- <b>Privacy:</b> You can save a report in any one of the following privacy option.
 
   - <b>Private ()</b> report saved in private section and accessed by the user itself.
   - <b>Public  ()</b> the report is saved in public section and accessed by all the users.
@@ -97,7 +97,7 @@ Similarly, for report definition for yesterdays data:
 
 <b><font color = "Black"> Image 10</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NjgyOTE5NCwtMjAzMDU5MzQwOCw4OD
+eyJoaXN0b3J5IjpbMTM3MjkyMDgxOSwtMjAzMDU5MzQwOCw4OD
 c1MjM1OTEsMzYwMzY3MjQwLDEwMzk2MzM3NDAsLTIwOTI1NjQ0
 NDQsLTIyOTgwNjg0NywtNDQ4NzUwMjg0LDEyOTg5MTk0OTUsLT
 M3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4Myw0NDM2NTY5
