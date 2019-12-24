@@ -3,7 +3,7 @@
 
 This Section explains how to organize the reports and dashboard under specific nested tag structure.
 
-To get started navigate to dashboard section.
+ To get started navigate to dashboard section.
 
 All the existing reports and dashboards are visible under *My Space* and can be viewed either in <b>Folder</b> or <b>List</b> view.
 
@@ -12,7 +12,7 @@ All the existing reports and dashboards are visible under *My Space* and can be 
   
 <b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page. 
 
- > Note : Dashboard or Report which are set to homepage indicates orange color.
+ > Note : Dashboard or Report which are set ton homepage indicates orange color.
 
 <b>2.</b> To delete a dashboard, report  click  <b>Delete Icon</b>.
 
@@ -32,7 +32,7 @@ Considering image 2,
 -   <b>Grey color</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODU1MTI5NjYsMTU2NDI5OTE3OSwtMz
-QzOTMxOTM5LC04Mzc2MzIxOTIsLTk2MzU4OTY1OSw3Mjg3ODU4
-MjVdfQ==
+eyJoaXN0b3J5IjpbNjczNzkzNjcwLC0xMjg1NTEyOTY2LDE1Nj
+QyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1ODk2
+NTksNzI4Nzg1ODI1XX0=
 -->
