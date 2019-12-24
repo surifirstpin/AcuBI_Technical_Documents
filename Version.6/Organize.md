@@ -27,12 +27,12 @@ All the existing reports and dashboards are visible under *My Space* and can be 
 
 Considering image 2,
 
--   <b>Green color</b> indicates dashboard or report saved under public section.
--   <b>Orange color</b> indicates dashboard or report saved under shared section.
--   <b>Grey color</b> indicates dashboard or report saved under private section.
+-   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
+-   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
+-   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzgyODg4NjIsLTEyODU1MTI5NjYsMT
+eyJoaXN0b3J5IjpbLTExOTE0NzQ2MjYsLTEyODU1MTI5NjYsMT
 U2NDI5OTE3OSwtMzQzOTMxOTM5LC04Mzc2MzIxOTIsLTk2MzU4
 OTY1OSw3Mjg3ODU4MjVdfQ==
 -->
