@@ -246,7 +246,8 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
  <B><font color = " Black"> Image 20 </font></b>
 
-## Download CSV, CSV ; or XLXS 
+## Download 
+
 
 To download dashboard in any of the following formats, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
@@ -265,6 +266,23 @@ To download dashboard in any of the following formats, click gear icon;
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
     
+
+To download a report in any of the following formats, click gear icon;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
+
+## [Download CSV, CSV ; or XLXS](http://firstpin.in/documentation/acubi_technical_documentation.html#/View_Reports_TD?id=download-csv-csv-or-xlxs)
+
+-   **Download CSV** download the dashboard report in CSV format.
+    
+-   **Download CSV;** download the grouped list.
+    
+-   **Download XLXS** download the dashboard report in Excel format.
+    
+-   **Download Image** download the report in image format. ( applicable for dashboard report grid saved with visualization image)
+    
+-   **Show Data**  Displays report data.
+
 
 ## List View
 
@@ -393,11 +411,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMDc5MzQ3NCw1Njg2ODcwMjIsNDc1OD
-A3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5LDczNDUzMDI4NiwxMjg2
-ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxODczNTYsLTc1NzA1Nz
-UxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwxOTIxNjg2MDU5LC0x
-MTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNzc1NzAwNCwtNDA1Nj
-c2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2LC0xODIyMzI2NDc2
-XX0=
+eyJoaXN0b3J5IjpbNDg5OTYwNzEyLC03MDA3OTM0NzQsNTY4Nj
+g3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1
+MzAyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3Mz
+U2LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTky
+MTY4NjA1OSwtMTEyMzc3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NT
+cwMDQsLTQwNTY3NjM4MSw2ODU5MjE0MjIsLTIyODI5NjQ4Nl19
+
 -->
