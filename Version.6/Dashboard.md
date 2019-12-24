@@ -260,12 +260,18 @@ To download dashboard, click gear icon;
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
+-   <b>Download Image</b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
+    
+-   <b>Show Data</b>  Displays report data.
+
+
 ## [Refresh & Hard Refresh]
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
     
+## Download ( Charts)
 
 To download a report saved with charts section, click gear icon;
 
@@ -278,9 +284,6 @@ To download a report saved with charts section, click gear icon;
     
 -   **Download XLXS** download the dashboard report in Excel format.
     
--   **Download Image** download the report in image format. ( applicable for dashboard report grid saved with visualization image)
-    
--   **Show Data**  Displays report data.
 
 
 ## List View
@@ -410,7 +413,7 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ0NDAyNjA3LC03MDA3OTM0NzQsNTY4Nj
+eyJoaXN0b3J5IjpbNDcwMjIxODExLC03MDA3OTM0NzQsNTY4Nj
 g3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1
 MzAyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3Mz
 U2LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTky
