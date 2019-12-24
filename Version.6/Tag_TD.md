@@ -1,6 +1,6 @@
 
 
-<center><h2>TAG</h2></center>
+<center><h1>TAG</h1></center>
 
 AcuBi Provides a nested layered structure to save reports in any of the hierarchical tag location. Depending on your business requirements, You can create your own number of parent and child tags to save the files.
 
@@ -78,11 +78,11 @@ Create dashboards under animated tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5NzM2ODEsLTE2MTY3NDc5NTMsLT
-gwMTgwNzc5MywtMTIxMDg0MzQ3MywxNDQ1MjYxNDQxLC02MjM1
-MjI2NTUsODQxOTI4MjMxLDQxMTAxMDA0MiwtNjQyNjQ1MTU5LC
-0xNDc1MjEzMjM1LDE5MjI5MDE1NiwtNTM4NDQwOTAyLC0xMDg0
-NjQ1MDIsMTI1OTg5MjY2NCwxMzI3MjQ2MTQ4LDg5OTQzMTA2Ny
-wtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0MzU0MDE0ODAsLTU5
-ODg1NjMxMl19
+eyJoaXN0b3J5IjpbLTEzMjU1MDM2NjcsLTIwOTc5NzM2ODEsLT
+E2MTY3NDc5NTMsLTgwMTgwNzc5MywtMTIxMDg0MzQ3MywxNDQ1
+MjYxNDQxLC02MjM1MjI2NTUsODQxOTI4MjMxLDQxMTAxMDA0Mi
+wtNjQyNjQ1MTU5LC0xNDc1MjEzMjM1LDE5MjI5MDE1NiwtNTM4
+NDQwOTAyLC0xMDg0NjQ1MDIsMTI1OTg5MjY2NCwxMzI3MjQ2MT
+Q4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0
+MzU0MDE0ODBdfQ==
 -->
