@@ -85,23 +85,23 @@ To view whether today's data existed in the list, go to Dashboard section-->Repo
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_7.png)
 <b><font color = "Black"> Image 8</b>
 
-Report definition for today's data.
+Report definition with today's data.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_8.png)
 
 <b><font color = "Black"> Image 9</b>
 
-Similarly, for report definition for yesterdays data:
+Similarly, for report definition with yesterdays data:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0ea91ea8655307f440ff769e578e875b5873bca1/images/New_version5/TD_SAVE_REPORT_9.png)
 
 <b><font color = "Black"> Image 10</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTk3NzMxMCwtNDYyNTY1MTk4LC0yMT
-kwOTIyNjYsLTIwMzA1OTM0MDgsODg3NTIzNTkxLDM2MDM2NzI0
-MCwxMDM5NjMzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4NDcsLT
-Q0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLTI5MTAz
-MzczMywxMjkzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYwMCwtMj
-AwMzIwNTkyNCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMTg3Njc5
-OTkzMl19
+eyJoaXN0b3J5IjpbODU5Mzc0NTU4LDEyMzk5NzczMTAsLTQ2Mj
+U2NTE5OCwtMjE5MDkyMjY2LC0yMDMwNTkzNDA4LDg4NzUyMzU5
+MSwzNjAzNjcyNDAsMTAzOTYzMzc0MCwtMjA5MjU2NDQ0NCwtMj
+I5ODA2ODQ3LC00NDg3NTAyODQsMTI5ODkxOTQ5NSwtMzc4ODIw
+Mzk3LC0yOTEwMzM3MzMsMTI5MzYxNzgzLDQ0MzY1NjkzNCw1MD
+c4MTU2MDAsLTIwMDMyMDU5MjQsMTAxMzU2OTczOCwtNDg2MDYx
+ODQ2XX0=
 -->
