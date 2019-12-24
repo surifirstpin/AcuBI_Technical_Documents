@@ -12,7 +12,7 @@ All  files created in AcuBi are saved under save report window, this will save a
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/8fab061c9acea55e419ee5301cf185abf66488d5/images/New_version5/TD_SAVE_REPORT_10.png)
 <b><font color = "Black"> Image 1</b>
 
-provide all the below information in <b>Save Report</b> window, to save a report for further accessing.
+Enter below information in <b>Save Report</b> window for further accessing.
 
 - <b>Report Name :</b> Name identifier for a report. ( AcuBi allows special character but does not  support any spaces )
 
@@ -97,11 +97,11 @@ Similarly, for report definition for yesterdays data:
 
 <b><font color = "Black"> Image 10</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzA1OTM0MDgsODg3NTIzNTkxLDM2MD
-M2NzI0MCwxMDM5NjMzNzQwLC0yMDkyNTY0NDQ0LC0yMjk4MDY4
-NDcsLTQ0ODc1MDI4NCwxMjk4OTE5NDk1LC0zNzg4MjAzOTcsLT
-I5MTAzMzczMywxMjkzNjE3ODMsNDQzNjU2OTM0LDUwNzgxNTYw
-MCwtMjAwMzIwNTkyNCwxMDEzNTY5NzM4LC00ODYwNjE4NDYsMT
-g3Njc5OTkzMiw5NTM4NzYyODgsMTQyNzQ0ODg0MywxODkzNzcz
-ODQ5XX0=
+eyJoaXN0b3J5IjpbMTA5NjgyOTE5NCwtMjAzMDU5MzQwOCw4OD
+c1MjM1OTEsMzYwMzY3MjQwLDEwMzk2MzM3NDAsLTIwOTI1NjQ0
+NDQsLTIyOTgwNjg0NywtNDQ4NzUwMjg0LDEyOTg5MTk0OTUsLT
+M3ODgyMDM5NywtMjkxMDMzNzMzLDEyOTM2MTc4Myw0NDM2NTY5
+MzQsNTA3ODE1NjAwLC0yMDAzMjA1OTI0LDEwMTM1Njk3MzgsLT
+Q4NjA2MTg0NiwxODc2Nzk5OTMyLDk1Mzg3NjI4OCwxNDI3NDQ4
+ODQzXX0=
 -->
