@@ -8,9 +8,9 @@ Using SQL Runner, you can directly access the database and clout them in variety
 
 <b>Ways to create SQL queries in AcuBi</b>
 
-<b>I.</b> Write SQL query from scratch and run the query.
+## Writing SQL query from scratch
 
- > <b>Note:</b> make sure the dialects used in SQL runner should match the database dialects if not it displays error message.
+ > <b>Note:</b> Make sure the dialects used in SQL runner should match the database dialects if not it displays error message.
  
 ### Steps to create SQL Query 
 
@@ -195,11 +195,11 @@ The resultant.
 
 <b><Font color = " black">Image 20</font></b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzA2MjIxMCwtMTc0ODU2NjIwMCwtMT
-gyNjczMzI2MiwyMDc2MzA3NDA4LC01MDg4MTkxNzUsMTMzNzEx
-MDM0OCwtMTY5NDA4NjYxMywtMjM2NTE5ODYxLDIwMDU3MDc4MT
-AsNDAxMjExODU4LC05MDIwODA0NzAsMjAwNTcwNzgxMCwtODA2
-MzU1Mjc2LC05MDQ3NzY1OTMsLTk2NzY3MjkzOSwxMDUwMjQyMT
-A1LC05ODY5MzMzNjksMTA4OTg2NDQ3OCwtNzc4NDE4MTQxLDEy
-MTE1NzA2NjhdfQ==
+eyJoaXN0b3J5IjpbMTMzMDcwNzUyNCwyMDE3MDYyMjEwLC0xNz
+Q4NTY2MjAwLC0xODI2NzMzMjYyLDIwNzYzMDc0MDgsLTUwODgx
+OTE3NSwxMzM3MTEwMzQ4LC0xNjk0MDg2NjEzLC0yMzY1MTk4Nj
+EsMjAwNTcwNzgxMCw0MDEyMTE4NTgsLTkwMjA4MDQ3MCwyMDA1
+NzA3ODEwLC04MDYzNTUyNzYsLTkwNDc3NjU5MywtOTY3NjcyOT
+M5LDEwNTAyNDIxMDUsLTk4NjkzMzM2OSwxMDg5ODY0NDc4LC03
+Nzg0MTgxNDFdfQ==
 -->
