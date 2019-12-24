@@ -348,6 +348,7 @@ Gauge chart displays current status in the context of goal.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6b12c66e409436d4be04517aaa3b98f09dc668f/images/New_version5/td_visu4.png)
 
+<b><font color = "Black"> Image 21</b>
 
 - <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
@@ -423,12 +424,12 @@ Gauge chart displays current status in the context of goal.
 
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
-<b><font color = "Black"> Image 21</b>
+<b><font color = "Black"> Image 22</b>
 
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
-<b><font color = "Black"> Image 22</b>
+<b><font color = "Black"> Image 23</b>
 
 - <b>Axis type </b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -463,7 +464,7 @@ Gauge chart displays current status in the context of goal.
 ## Y-Axis
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
-<b><font color = "Black"> Image 23</b>
+<b><font color = "Black"> Image 24</b>
 
 - <b>Axis  </b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -503,7 +504,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 > Note:  Consider below image, which displays the format section for table chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-<b><font color = "Black"> Image 24</b>
+<b><font color = "Black"> Image 25</b>
 
 - <b>Condition : </b> Specify any of the following condition types  
    - Greater than
@@ -549,11 +550,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNT
-YwMTM0NTU0LC00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0
-MjMxMTAsLTE0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMD
-k5NiwtMTk5NTI2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEw
-Mjk1MjE2MzAsMTE4Mzk5NzMwNiwtOTk0OTc5NDMwLDEyNjg1MD
-g4MjIsMTI2ODUwODgyMiwtNjI2NTYxNzE1LC0xMDcwNjU1OTEw
-LC04NjI5MDQwNTVdfQ==
+eyJoaXN0b3J5IjpbMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMz
+IwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0
+MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MD
+g2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYwMCw5
+ODgwNDk2NjAsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05OTQ5Nz
+k0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1NjE3MTUs
+LTEwNzA2NTU5MTBdfQ==
 -->
