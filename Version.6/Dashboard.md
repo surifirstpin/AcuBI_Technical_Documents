@@ -246,10 +246,10 @@ c). Filter icon display under dashboard denotes filters applicable to that parti
 
  <B><font color = " Black"> Image 20 </font></b>
 
-## Download 
+## Download (Data)
 
 
-To download dashboard in any of the following formats, click gear icon;
+To download dashboard, click gear icon;
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d9ba9b9b2511f182a2a490b8ad5290aaab0c14e5/images/New_version5/TD_Dashboard_image25.png)
 
  <B><font color = " Black"> Image 21</font></b>
@@ -267,11 +267,10 @@ To download dashboard in any of the following formats, click gear icon;
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
     
 
-To download a report in any of the following formats, click gear icon;
+To download a report saved with charts section, click gear icon;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
-## [Download CSV, CSV ; or XLXS](http://firstpin.in/documentation/acubi_technical_documentation.html#/View_Reports_TD?id=download-csv-csv-or-xlxs)
 
 -   **Download CSV** download the dashboard report in CSV format.
     
@@ -411,7 +410,7 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5OTYwNzEyLC03MDA3OTM0NzQsNTY4Nj
+eyJoaXN0b3J5IjpbMjQ0NDAyNjA3LC03MDA3OTM0NzQsNTY4Nj
 g3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1
 MzAyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3Mz
 U2LC03NTcwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTky
