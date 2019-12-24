@@ -20,14 +20,14 @@ This Section explains how to organize the reports and dashboard under specific n
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fb52c98e4e0d8753ac65f509d5bb179c853b962c/images/New_version5/TD_Organize_Image2.png)
  <b><Font color = " black">Image 2</font></b>
 
-Considering image 2,
+<b>Considering image 2,</b>
 
 -   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
 -   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjcyMjg4LC0xMTkxNDc0NjI2LC0xMj
-g1NTEyOTY2LDE1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMy
-MTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX0=
+eyJoaXN0b3J5IjpbMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMT
+I4NTUxMjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYz
+MjE5MiwtOTYzNTg5NjU5LDcyODc4NTgyNV19
 -->
