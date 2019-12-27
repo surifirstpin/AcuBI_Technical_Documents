@@ -14,21 +14,12 @@ To get started with AcuBi, Follow below instructions:
 
 -  Enter  <b>Username</b> and <b>Password</b>
 
-- Hit the  <b>Login</b> button, it will navigate to AcuBi  Homepage
+- Hit the  <b>Login</b> button, this will navigate to AcuBi  Homepage
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
 
 <b><font color = "Black"> Image 2</b>
-
-## Logout
-
-Hit <b>Logout</b> button to logout from AcuBi homepage.
-
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
-
-<b><font color = "Black"> Image 3</b>
 
 ## Forgot Password
 
@@ -40,9 +31,18 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
  
  <b><font color = "Black"> Image 4</b>
 
+## Logout
+
+Hit <b>Logout</b> button to logout from AcuBi homepage.
+
+![
+](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
+
+<b><font color = "Black"> Image 3</b>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkwMjQxNjIxLDEwMzkzODU1OTUsMTcyOT
-U2Mzc4MSwxODQzNDU5MjA1LDIxMDgzMjAzNTMsLTY4NjI4OTc1
-MSwtMTQ0NDY2MTkxOSwxMzM0NzAxNzc1LC03NTQyMzQ3MCwxNz
-kzMzU1OTU5LC04MjAwMjc4MDldfQ==
+eyJoaXN0b3J5IjpbLTE4MTc0NjgwMDQsMTAzOTM4NTU5NSwxNz
+I5NTYzNzgxLDE4NDM0NTkyMDUsMjEwODMyMDM1MywtNjg2Mjg5
+NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLD
+E3OTMzNTU5NTksLTgyMDAyNzgwOV19
 -->
