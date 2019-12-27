@@ -37,7 +37,7 @@ All the saved tags are visible under <b><i>My Space</i></b> list.
 
 <b>2.</b>  To edit a tag click edit icon.
 
-<b>3.</b>To set Thumbnail for a tag click Thumbnail icon.
+<b>3.</b>To set thumbnail for a tag click <b>Upload Thumbnail Icon</b>.
 
 <b>4.</b>Tags can be saved in Public, Private or Share under sharing status. 
 
@@ -78,11 +78,11 @@ Create dashboards under animated tag.
 
 <b>5.</b>  Click Play button to  view animated version of info boards.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU1MDM2NjcsLTIwOTc5NzM2ODEsLT
-E2MTY3NDc5NTMsLTgwMTgwNzc5MywtMTIxMDg0MzQ3MywxNDQ1
-MjYxNDQxLC02MjM1MjI2NTUsODQxOTI4MjMxLDQxMTAxMDA0Mi
-wtNjQyNjQ1MTU5LC0xNDc1MjEzMjM1LDE5MjI5MDE1NiwtNTM4
-NDQwOTAyLC0xMDg0NjQ1MDIsMTI1OTg5MjY2NCwxMzI3MjQ2MT
-Q4LDg5OTQzMTA2NywtNTU1NDcxOTAxLC0xMjg4MjU0OTI4LDE0
-MzU0MDE0ODBdfQ==
+eyJoaXN0b3J5IjpbMjEzODk2ODg3LC0xMzI1NTAzNjY3LC0yMD
+k3OTczNjgxLC0xNjE2NzQ3OTUzLC04MDE4MDc3OTMsLTEyMTA4
+NDM0NzMsMTQ0NTI2MTQ0MSwtNjIzNTIyNjU1LDg0MTkyODIzMS
+w0MTEwMTAwNDIsLTY0MjY0NTE1OSwtMTQ3NTIxMzIzNSwxOTIy
+OTAxNTYsLTUzODQ0MDkwMiwtMTA4NDY0NTAyLDEyNTk4OTI2Nj
+QsMTMyNzI0NjE0OCw4OTk0MzEwNjcsLTU1NTQ3MTkwMSwtMTI4
+ODI1NDkyOF19
 -->
