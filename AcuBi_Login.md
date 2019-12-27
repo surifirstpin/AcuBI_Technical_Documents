@@ -6,19 +6,13 @@
 ##  How to access AcuBI?
 
 
-Organization helps you to access  AcuBI by sending a welcome mail on your email. Hit the <b> Lets Get Started</b> 
+Organization helps you to access  AcuBI by sending a welcome mail on your email. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c91a926156b87ab9716f0bb33f208e23f0aee55b/images/New_version5/UD_Acubi_Login.png)
 
 <b><font color = "Black"> Image 1</b>
 
-
-
-## How to Login AcuBi ?
-
-To get started with AcuBi, Follow below instructions:
-
-<b>Click the following link</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)  to Navigate to AcuBi login page as shown in below image.
+Hit the <b> Lets Get Started</b> button to navigate to login page, then enter the below information;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
@@ -53,7 +47,7 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczOTIzMTM1LDQ1Mzg5ODkyNCw2MjQ4ND
+eyJoaXN0b3J5IjpbMzgxODM2NzQ1LDQ1Mzg5ODkyNCw2MjQ4ND
 Y1NjQsLTE4MTc0NjgwMDQsMTAzOTM4NTU5NSwxNzI5NTYzNzgx
 LDE4NDM0NTkyMDUsMjEwODMyMDM1MywtNjg2Mjg5NzUxLC0xND
 Q0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5
