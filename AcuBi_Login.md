@@ -12,15 +12,17 @@ Organization helps you to access  AcuBI by sending a welcome mail on your email.
 
 <b><font color = "Black"> Image 1</b>
 
-Clicking on the link <b> Lets Get Started</b> button will directly take you to our sign up page navigate to login page, then enter the below information;
+Clicking on the link will directly take you to our sign up page. 
+
+-  Enter  <b>Username</b> and <b>Password</b>
+
+- Click  <b>Login</b> button, this will navigate to AcuBi  Homepage
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
 <b><font color = "Black"> Image 1</b>
 
--  Enter  <b>Username</b> and <b>Password</b>
 
-- Click  <b>Login</b> button, this will navigate to AcuBi  Homepage
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
@@ -47,9 +49,9 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Njg2MTE5OCw0NTM4OTg5MjQsNjI0OD
-Q2NTY0LC0xODE3NDY4MDA0LDEwMzkzODU1OTUsMTcyOTU2Mzc4
-MSwxODQzNDU5MjA1LDIxMDgzMjAzNTMsLTY4NjI4OTc1MSwtMT
-Q0NDY2MTkxOSwxMzM0NzAxNzc1LC03NTQyMzQ3MCwxNzkzMzU1
-OTU5LC04MjAwMjc4MDldfQ==
+eyJoaXN0b3J5IjpbLTE0MzY4ODIzNDgsNDUzODk4OTI0LDYyND
+g0NjU2NCwtMTgxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3
+ODEsMTg0MzQ1OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLT
+E0NDQ2NjE5MTksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1
+NTk1OSwtODIwMDI3ODA5XX0=
 -->
