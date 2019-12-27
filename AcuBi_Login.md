@@ -17,7 +17,7 @@ Clicking on the link will directly take you to our sign up page.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/bb5d4c9f6814109a9645827e267e716c0d044c2a/images/New_version5/Homepage_v5.png)
 
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 2</b>
 
 -  Enter  <b>Username</b> and <b>Password</b>
 
@@ -26,7 +26,7 @@ Clicking on the link will directly take you to our sign up page.
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/Homepage_v5.png)
 
-<b><font color = "Black"> Image 2</b>
+<b><font color = "Black"> Image 3</b>
 
 ## Reset Password
 
@@ -49,9 +49,9 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzc3ODYxMyw0NTM4OTg5MjQsNjI0OD
-Q2NTY0LC0xODE3NDY4MDA0LDEwMzkzODU1OTUsMTcyOTU2Mzc4
-MSwxODQzNDU5MjA1LDIxMDgzMjAzNTMsLTY4NjI4OTc1MSwtMT
-Q0NDY2MTkxOSwxMzM0NzAxNzc1LC03NTQyMzQ3MCwxNzkzMzU1
-OTU5LC04MjAwMjc4MDldfQ==
+eyJoaXN0b3J5IjpbMjc0ODI0NDA1LDQ1Mzg5ODkyNCw2MjQ4ND
+Y1NjQsLTE4MTc0NjgwMDQsMTAzOTM4NTU5NSwxNzI5NTYzNzgx
+LDE4NDM0NTkyMDUsMjEwODMyMDM1MywtNjg2Mjg5NzUxLC0xND
+Q0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5
+NTksLTgyMDAyNzgwOV19
 -->
