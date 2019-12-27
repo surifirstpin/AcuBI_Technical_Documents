@@ -5,6 +5,8 @@
 
 ## Welcome Mail to Login AcuBI
 
+Organization helps you to Access the AcuBI by sending a Welcome mail on your email.
+
 
 
 
@@ -51,7 +53,7 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MzE5ODIzLDYyNDg0NjU2NCwtMTgxNz
+eyJoaXN0b3J5IjpbNDUzODk4OTI0LDYyNDg0NjU2NCwtMTgxNz
 Q2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3ODEsMTg0MzQ1OTIw
 NSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLTE0NDQ2NjE5MTksMT
 MzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1NTk1OSwtODIwMDI3
