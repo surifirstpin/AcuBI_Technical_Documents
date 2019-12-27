@@ -4,6 +4,10 @@
 
 ## How to Login AcuBi ?
 
+
+
+
+
 To get started with AcuBi, Follow below instructions:
 
 <b>Click the following link</b>  [http://18.196.122.102:8081/acubiLogin](http://18.196.122.102:8081/acubiLogin)  to Navigate to AcuBi login page as shown in below image.
@@ -41,8 +45,8 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc0NjgwMDQsMTAzOTM4NTU5NSwxNz
-I5NTYzNzgxLDE4NDM0NTkyMDUsMjEwODMyMDM1MywtNjg2Mjg5
-NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLD
-E3OTMzNTU5NTksLTgyMDAyNzgwOV19
+eyJoaXN0b3J5IjpbNjI0ODQ2NTY0LC0xODE3NDY4MDA0LDEwMz
+kzODU1OTUsMTcyOTU2Mzc4MSwxODQzNDU5MjA1LDIxMDgzMjAz
+NTMsLTY4NjI4OTc1MSwtMTQ0NDY2MTkxOSwxMzM0NzAxNzc1LC
+03NTQyMzQ3MCwxNzkzMzU1OTU5LC04MjAwMjc4MDldfQ==
 -->
