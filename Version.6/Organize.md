@@ -28,16 +28,16 @@ This Section explains how to organize the reports and dashboard under specific n
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fb52c98e4e0d8753ac65f509d5bb179c853b962c/images/New_version5/TD_Organize_Image2.png)
- <b><Font color = " black">Image 2</font></b>
 
-<b>Considering image 2,</b>
+ <b><Font color = " black">Image 4</font></b>
+
 
 -   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
 -   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwOTEwMTUwOSwxMjQ4NzU1MTgxLC0xMT
+eyJoaXN0b3J5IjpbLTY1OTg3MTU2MiwxMjQ4NzU1MTgxLC0xMT
 kxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0Mzkz
 MTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX
 0=
