@@ -32,7 +32,7 @@ Clicking on the link will directly take you to our sign up page.
 
   - To Reset your password, Click <b>Forgot Password.</b>
   
-  - It will navigate to reset password screen. Enter email id to access reset password link to set new password.
+  - It will navigate to reset password screen. Enter email id and click <b> 
   
  ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
@@ -49,9 +49,9 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0ODI0NDA1LDQ1Mzg5ODkyNCw2MjQ4ND
-Y1NjQsLTE4MTc0NjgwMDQsMTAzOTM4NTU5NSwxNzI5NTYzNzgx
-LDE4NDM0NTkyMDUsMjEwODMyMDM1MywtNjg2Mjg5NzUxLC0xND
-Q0NjYxOTE5LDEzMzQ3MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5
-NTksLTgyMDAyNzgwOV19
+eyJoaXN0b3J5IjpbLTExNjM2NjAxMjMsNDUzODk4OTI0LDYyND
+g0NjU2NCwtMTgxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3
+ODEsMTg0MzQ1OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLT
+E0NDQ2NjE5MTksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1
+NTk1OSwtODIwMDI3ODA5XX0=
 -->
