@@ -24,7 +24,9 @@ This Section explains how to organize the reports and dashboard under specific n
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/92133e0dc108c61f31b1c9f83a70fc58307581f8/images/New_version5/TD_Organize_Image5.png)
 
 
-<b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>.
+<b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>. It will navigate to dashboard report as show below.
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20d14f3f25bb74d93059efb55c8ac118064c337a/images/New_version5/TD_Organize_Image6.png)
 
 <b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b>
 
@@ -39,8 +41,8 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjg3MjY3OCwxNTI0NjUxNzE2LDEyND
-g3NTUxODEsLTExOTE0NzQ2MjYsLTEyODU1MTI5NjYsMTU2NDI5
-OTE3OSwtMzQzOTMxOTM5LC04Mzc2MzIxOTIsLTk2MzU4OTY1OS
-w3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTM4MDg4NzY0MSwtMTIyODcyNjc4LDE1Mj
+Q2NTE3MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUx
+Mjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5Mi
+wtOTYzNTg5NjU5LDcyODc4NTgyNV19
 -->
