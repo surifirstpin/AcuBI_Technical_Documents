@@ -74,10 +74,13 @@ Resultant for above selection is displayed as follow:
 -   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
+## Folder View
+
+All Reports and dashboards are 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTE2MDU2ODgsLTE5MjE0NDAxNzEsNz
-gxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3
-MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2Ni
-wxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYz
-NTg5NjU5LDcyODc4NTgyNV19
+eyJoaXN0b3J5IjpbMTU2MTIyNjc3MywtMTkyMTQ0MDE3MSw3OD
+EzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcx
+NiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LD
+E1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1
+ODk2NTksNzI4Nzg1ODI1XX0=
 -->
