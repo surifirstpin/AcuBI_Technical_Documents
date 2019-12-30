@@ -6,7 +6,10 @@ This Section explains how to organize the reports and dashboard under specific n
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7cf68f6c7bf54d8d9a4a70104087c9f1618ace6e/images/New_version5/TD_Organize_Image1.png)
   <b><Font color = " black">Image 1</font></b>
   
-<b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page. 
+<b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page.  This will display pop-up box with success message.
+
+
+
  > Note : Dashboard or Report which are set on homepage displays Orange color Home Icon.
 
 <b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>.
@@ -27,7 +30,8 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMT
-I4NTUxMjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYz
-MjE5MiwtOTYzNTg5NjU5LDcyODc4NTgyNV19
+eyJoaXN0b3J5IjpbMTQxODY5MjUxNSwxMjQ4NzU1MTgxLC0xMT
+kxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0Mzkz
+MTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX
+0=
 -->
