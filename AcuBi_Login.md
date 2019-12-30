@@ -37,12 +37,12 @@ Clicking on the activation link, will directly take you to our sign up page. Ent
 
 ## Reset Password
 
-  To Reset your password, Click <b>Forgot Password.</b>
+  To reset your password, Click <b>Forgot Password.</b>
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d699fdaa0ce671092b5221c2b237a80837b2e442/images/New_version5/UD_Acubi_Login1.png)
  <b><font color = "Black"> Image 5</b>
 
-  It will navigate to reset password screen. Enter email id, then click <b>Reset Password link</b> 
+  It will navigate to reset password screen. Enter your email address, then click <b>Reset Password link</b> 
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d4e2f8591d8f987195c49e386f89047fa0c3ebde/images/New_version5/UD_Acubi_Login4.png)
 
@@ -59,7 +59,7 @@ Hit <b>Logout</b> button to logout from AcuBi homepage. This action will take yo
 <b><font color = "Black"> Image 6</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MTY3ODI4OSwtMTE5MDIxMTAzNywtMj
+eyJoaXN0b3J5IjpbMTcxNzc5NDA5MSwtMTE5MDIxMTAzNywtMj
 A3ODQyNjg4MSw5NjQzMzU4MywtNTI0MjAxOTc1LDIxMjQ1OTk0
 NDAsLTExNjM2NjAxMjMsNDUzODk4OTI0LDYyNDg0NjU2NCwtMT
 gxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3ODEsMTg0MzQ1
