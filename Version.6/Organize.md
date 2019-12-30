@@ -21,6 +21,9 @@ This Section explains how to organize the reports and dashboard under specific n
 
 <b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>.
 
+
+
+
 <b>3.</b>  To edit a Dashboard or Report click on <b>Edit Icon</b>.
 
 <b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b>
@@ -31,13 +34,12 @@ This Section explains how to organize the reports and dashboard under specific n
 
  <b><Font color = " black">Image 4</font></b>
 
-
 -   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
 -   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTg3MTU2MiwxMjQ4NzU1MTgxLC0xMT
+eyJoaXN0b3J5IjpbLTg3MzExOTgyNiwxMjQ4NzU1MTgxLC0xMT
 kxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0Mzkz
 MTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX
 0=
