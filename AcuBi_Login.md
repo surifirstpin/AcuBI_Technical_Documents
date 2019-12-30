@@ -8,6 +8,10 @@
 
 We as a Organization helps you to access  AcuBI by sending a invitation mail on your personal email address as shown below. 
 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/311b38f5dc38623d9e5d7ad399b080eff943e655/images/New_version5/UD_Acubi_Login2.png)
+
+Open
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/c91a926156b87ab9716f0bb33f208e23f0aee55b/images/New_version5/UD_Acubi_Login.png)
 
 <b><font color = "Black"> Image 1</b>
@@ -47,10 +51,10 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDIwMTk3NSwyMTI0NTk5NDQwLC0xMT
-YzNjYwMTIzLDQ1Mzg5ODkyNCw2MjQ4NDY1NjQsLTE4MTc0Njgw
-MDQsMTAzOTM4NTU5NSwxNzI5NTYzNzgxLDE4NDM0NTkyMDUsMj
-EwODMyMDM1MywtNjg2Mjg5NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3
-MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5NTksLTgyMDAyNzgwOV
-19
+eyJoaXN0b3J5IjpbLTQzNDQyNDEyMCwtNTI0MjAxOTc1LDIxMj
+Q1OTk0NDAsLTExNjM2NjAxMjMsNDUzODk4OTI0LDYyNDg0NjU2
+NCwtMTgxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3ODEsMT
+g0MzQ1OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLTE0NDQ2
+NjE5MTksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1NTk1OS
+wtODIwMDI3ODA5XX0=
 -->
