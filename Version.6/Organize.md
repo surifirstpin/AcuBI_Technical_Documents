@@ -55,8 +55,10 @@ Resultant would be displayed as follow;
 
 <b>c.</b> Select Background color for thumbnail.
 
-> Note: Visible for Folder V
 <b>d.</b> Select Icon and Font Color for dashboard or report .
+
+> Note: Visible under Folder View.
+
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
 
@@ -83,7 +85,7 @@ All Reports and dashboards are displayed in folder view as follow;
 
  <b><Font color = " black">Image 11</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU4NjE0OTUsLTE5MjE0NDAxNzEsNz
+eyJoaXN0b3J5IjpbLTE3Mzc5MDg0NDcsLTE5MjE0NDAxNzEsNz
 gxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3
 MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2Ni
 wxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYz
