@@ -28,7 +28,8 @@ This Section explains how to organize the reports and dashboard under specific n
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/20d14f3f25bb74d93059efb55c8ac118064c337a/images/New_version5/TD_Organize_Image6.png)
 
-<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b> It will pop up Upload Thumbnail window, Select following informat
+<b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b> It will pop up Upload Thumbnail window, Select following information to set a thumbnail from local device.
+
 
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
@@ -42,8 +43,8 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjQ4NDE2MCwtMTIyODcyNjc4LDE1Mj
-Q2NTE3MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUx
-Mjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5Mi
-wtOTYzNTg5NjU5LDcyODc4NTgyNV19
+eyJoaXN0b3J5IjpbMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyND
+Y1MTcxNiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEy
+OTY2LDE1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC
+05NjM1ODk2NTksNzI4Nzg1ODI1XX0=
 -->
