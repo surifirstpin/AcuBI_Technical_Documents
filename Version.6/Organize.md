@@ -32,7 +32,7 @@ This Section explains how to organize the reports and dashboard under specific n
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/UD_Acubi_Login7.png)
 
-<b> Browse</b>: Select image from local system.
+<b> a.</b> Select browse icon to set image from local system.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image7.png)
 
@@ -40,9 +40,9 @@ Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
 
-<b> Delete :</b> Click Delete to delete the thumbnail image.
+<b>b.</b> Select delete icon to delete the thumbnail image uploaded.
 
-<b> Background Color </b> Select Background color for thumbnail.
+<b>c.</b> Select Background color for thumbnail.
 
 <b> Icon & Font color </b>: Select Dashboard or report Icon and Font Color.
 
@@ -64,7 +64,7 @@ Resultant for above selection is displayed as follow:
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3Mzk3OTU4MywtMTkyMTQ0MDE3MSw3OD
+eyJoaXN0b3J5IjpbMTY0OTU5OTE3NCwtMTkyMTQ0MDE3MSw3OD
 EzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcx
 NiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LD
 E1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1
