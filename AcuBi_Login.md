@@ -34,9 +34,7 @@ Clicking on the link, will directly take you to our sign up page. Enter the logi
   
   - It will navigate to reset password screen. Enter email id and click <b> 
   
- ![
-](https://raw.githubusercontent.com/sv18042016/fp1/d64bc97c7d2aa0cb8e2c35fa8f9905bd274388f1/images/New_version5/ud_homepage_forgot%20password.png)
- 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d699fdaa0ce671092b5221c2b237a80837b2e442/images/New_version5/UD_Acubi_Login1.png)
  <b><font color = "Black"> Image 4</b>
 
 ## Logout
@@ -49,9 +47,10 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 3</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDU5OTQ0MCwtMTE2MzY2MDEyMyw0NT
-M4OTg5MjQsNjI0ODQ2NTY0LC0xODE3NDY4MDA0LDEwMzkzODU1
-OTUsMTcyOTU2Mzc4MSwxODQzNDU5MjA1LDIxMDgzMjAzNTMsLT
-Y4NjI4OTc1MSwtMTQ0NDY2MTkxOSwxMzM0NzAxNzc1LC03NTQy
-MzQ3MCwxNzkzMzU1OTU5LC04MjAwMjc4MDldfQ==
+eyJoaXN0b3J5IjpbLTUyNDIwMTk3NSwyMTI0NTk5NDQwLC0xMT
+YzNjYwMTIzLDQ1Mzg5ODkyNCw2MjQ4NDY1NjQsLTE4MTc0Njgw
+MDQsMTAzOTM4NTU5NSwxNzI5NTYzNzgxLDE4NDM0NTkyMDUsMj
+EwODMyMDM1MywtNjg2Mjg5NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3
+MDE3NzUsLTc1NDIzNDcwLDE3OTMzNTU5NTksLTgyMDAyNzgwOV
+19
 -->
