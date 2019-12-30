@@ -54,16 +54,16 @@ You will receive set new password request on your mail address, Click on Reset P
 
 Hit <b>Logout</b> button to logout from AcuBi homepage. This action will take you back to initial login screen.
 
-![
-](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6a62fda8b3b738ad00666329d14abbe62e3f8ee6/images/New_version5/UD_Acubi_Login6.png)
 
 <b><font color = "Black"> Image 6</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTAyMTEwMzcsLTIwNzg0MjY4ODEsOT
-Y0MzM1ODMsLTUyNDIwMTk3NSwyMTI0NTk5NDQwLC0xMTYzNjYw
-MTIzLDQ1Mzg5ODkyNCw2MjQ4NDY1NjQsLTE4MTc0NjgwMDQsMT
-AzOTM4NTU5NSwxNzI5NTYzNzgxLDE4NDM0NTkyMDUsMjEwODMy
-MDM1MywtNjg2Mjg5NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3MDE3Nz
-UsLTc1NDIzNDcwLDE3OTMzNTU5NTksLTgyMDAyNzgwOV19
+eyJoaXN0b3J5IjpbLTc2MTY3ODI4OSwtMTE5MDIxMTAzNywtMj
+A3ODQyNjg4MSw5NjQzMzU4MywtNTI0MjAxOTc1LDIxMjQ1OTk0
+NDAsLTExNjM2NjAxMjMsNDUzODk4OTI0LDYyNDg0NjU2NCwtMT
+gxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3ODEsMTg0MzQ1
+OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLTE0NDQ2NjE5MT
+ksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1NTk1OSwtODIw
+MDI3ODA5XX0=
 -->
