@@ -1,7 +1,7 @@
 
 <center><h2>Organize</h2></center>
 
-This Section explains how to organize the reports and dashboard under specific nested tag structure. To get started navigate to dashboard section. All the existing reports and dashboards are visible under *My Space* and can be viewed either in <b>Folder</b> or <b>List</b> view.
+This Section explains how to organize saved reports and dashboard under A. To get started navigate to dashboard section. All the existing reports and dashboards are visible under *My Space* and can be viewed either in <b>Folder</b> or <b>List</b> view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/18f509e51a93084b4774b4970dc8760ba105bb3d/images/New_version5/TD_Organize_Image2.png)
  
@@ -84,9 +84,9 @@ All Reports and dashboards are displayed in folder view as follow;
 -   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgzODIwMDksLTE3Mzc5MDg0NDcsLT
-E5MjE0NDAxNzEsNzgxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcy
-Njc4LDE1MjQ2NTE3MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNi
-wtMTI4NTUxMjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgz
-NzYzMjE5MiwtOTYzNTg5NjU5LDcyODc4NTgyNV19
+eyJoaXN0b3J5IjpbMTY1ODg2NDMyMiwtMTczNzkwODQ0NywtMT
+kyMTQ0MDE3MSw3ODEzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2
+NzgsMTUyNDY1MTcxNiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC
+0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3
+NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX0=
 -->
