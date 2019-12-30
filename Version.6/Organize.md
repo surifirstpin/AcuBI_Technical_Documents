@@ -31,7 +31,9 @@ This Section explains how to organize the reports and dashboard under specific n
 <b>4.</b> To set Thumbnail for a report or dashboard, click <b>Thumbnail Icon.</b> It will pop up Upload Thumbnail window, Select following information to set a thumbnail from local device.
 
 <b> Browse</b>: Select image from local system.
-<b> Delete :</
+<b> Delete :</b> Click Delete to delete the thumbnail image.
+<b> Background Color </b> Select Background color for thumnail.
+
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
 
@@ -44,8 +46,8 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTYwMTc1MywyOTU1NDY0NDUsLTEyMj
-g3MjY3OCwxNTI0NjUxNzE2LDEyNDg3NTUxODEsLTExOTE0NzQ2
-MjYsLTEyODU1MTI5NjYsMTU2NDI5OTE3OSwtMzQzOTMxOTM5LC
-04Mzc2MzIxOTIsLTk2MzU4OTY1OSw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbMzIzMzk4NDg0LDI5NTU0NjQ0NSwtMTIyOD
+cyNjc4LDE1MjQ2NTE3MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYy
+NiwtMTI4NTUxMjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLT
+gzNzYzMjE5MiwtOTYzNTg5NjU5LDcyODc4NTgyNV19
 -->
