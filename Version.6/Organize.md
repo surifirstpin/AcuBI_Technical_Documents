@@ -4,15 +4,20 @@
 This Section explains how to organize the reports and dashboard under specific nested tag structure. To get started navigate to dashboard section. All the existing reports and dashboards are visible under *My Space* and can be viewed either in <b>Folder</b> or <b>List</b> view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7cf68f6c7bf54d8d9a4a70104087c9f1618ace6e/images/New_version5/TD_Organize_Image1.png)
+ 
   <b><Font color = " black">Image 1</font></b>
   
 <b>1.</b>  Click on  <b>Set Home page</b>  Icon, to set dashboard on Home page.  This will display pop-up box with success message.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0bec2242e2916cda50b243dc8532006a4c45a72e/images/New_version5/TD_Organize_Image3.png)
+  
+  <b><Font color = " black">Image 2</font></b>
+  
+ <b>Note :</b> Dashboard or Report set to homepage displays Orange color Home Icon as shown below.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/0bec2242e2916cda50b243dc8532006a4c45a72e/images/New_version5/TD_Organize_Image4.png)
-
- > Note : Dashboard or Report which are set on homepage displays Orange color Home Icon.
+ 
+  <b><Font color = " black">Image 3</font></b>
 
 <b>2.</b> To delete a dashboard report  click  <b>Delete Icon</b>.
 
@@ -32,7 +37,7 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDM1NDIxMCwxMjQ4NzU1MTgxLC0xMT
+eyJoaXN0b3J5IjpbLTMwOTEwMTUwOSwxMjQ4NzU1MTgxLC0xMT
 kxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0Mzkz
 MTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX
 0=
