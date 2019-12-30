@@ -36,7 +36,7 @@ This Section explains how to organize the reports and dashboard under specific n
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image7.png)
 
-Resultant would be displayed as following;
+Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
 
@@ -44,9 +44,13 @@ Resultant would be displayed as following;
 
 <b> Background Color </b> Select Background color for thumbnail.
 
+<b> Icon & Font color </b>: Select Dashboard or report Icon and Font Color.
+
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
 
+Resultant for above selection is displayed as follow:
 
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image9.png)
 
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
@@ -60,7 +64,7 @@ Resultant would be displayed as following;
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjA4NDI1NCwtMTkyMTQ0MDE3MSw3OD
+eyJoaXN0b3J5IjpbLTU3Mzk3OTU4MywtMTkyMTQ0MDE3MSw3OD
 EzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcx
 NiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LD
 E1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1
