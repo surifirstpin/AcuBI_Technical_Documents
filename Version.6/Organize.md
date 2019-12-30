@@ -36,11 +36,13 @@ This Section explains how to organize the reports and dashboard under specific n
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image7.png)
 
+Resultant would be displayed as following;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
+
 <b> Delete :</b> Click Delete to delete the thumbnail image.
 
 <b> Background Color </b> Select Background color for thumbnail.
-
-
 
 <b> Icon & Font color </b>: Select Dashboard or report Icon and Font Color.
 
@@ -56,9 +58,9 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzM3NjUzOSw3ODEzMTAwOTksMjk1NT
-Q2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcxNiwxMjQ4NzU1MTgx
-LC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLT
-M0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1
-ODI1XX0=
+eyJoaXN0b3J5IjpbLTE5MjE0NDAxNzEsNzgxMzEwMDk5LDI5NT
+U0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3MTYsMTI0ODc1NTE4
+MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2NiwxNTY0Mjk5MTc5LC
+0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYzNTg5NjU5LDcyODc4
+NTgyNV19
 -->
