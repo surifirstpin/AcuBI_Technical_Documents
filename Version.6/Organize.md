@@ -55,6 +55,7 @@ Resultant would be displayed as follow;
 
 <b>c.</b> Select Background color for thumbnail.
 
+> Note: Visible for Folder V
 <b>d.</b> Select Icon and Font Color for dashboard or report .
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
@@ -76,11 +77,15 @@ Resultant for above selection is displayed as follow:
 
 ## Folder View
 
-All Reports and dashboards are 
+All Reports and dashboards are displayed in folder view as follow;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/360f7f7b4cdeff4cb5aae7d037c76d8b0564c54e/images/New_version5/TD_Organize_Image11.png)
+
+ <b><Font color = " black">Image 11</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MTIyNjc3MywtMTkyMTQ0MDE3MSw3OD
-EzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcx
-NiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LD
-E1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1
-ODk2NTksNzI4Nzg1ODI1XX0=
+eyJoaXN0b3J5IjpbLTExODU4NjE0OTUsLTE5MjE0NDAxNzEsNz
+gxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3
+MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2Ni
+wxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYz
+NTg5NjU5LDcyODc4NTgyNV19
 -->
