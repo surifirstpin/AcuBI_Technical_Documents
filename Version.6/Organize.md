@@ -44,7 +44,9 @@ Resultant would be displayed as following;
 
 <b> Background Color </b> Select Background color for thumbnail.
 
-<b> Icon & Font color </b>: Select Dashboard or report Icon and Font Color.
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
+
+
 
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
@@ -58,9 +60,9 @@ Resultant would be displayed as following;
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjE0NDAxNzEsNzgxMzEwMDk5LDI5NT
-U0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3MTYsMTI0ODc1NTE4
-MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2NiwxNTY0Mjk5MTc5LC
-0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYzNTg5NjU5LDcyODc4
-NTgyNV19
+eyJoaXN0b3J5IjpbMjA2MjA4NDI1NCwtMTkyMTQ0MDE3MSw3OD
+EzMTAwOTksMjk1NTQ2NDQ1LC0xMjI4NzI2NzgsMTUyNDY1MTcx
+NiwxMjQ4NzU1MTgxLC0xMTkxNDc0NjI2LC0xMjg1NTEyOTY2LD
+E1NjQyOTkxNzksLTM0MzkzMTkzOSwtODM3NjMyMTkyLC05NjM1
+ODk2NTksNzI4Nzg1ODI1XX0=
 -->
