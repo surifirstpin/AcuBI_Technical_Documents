@@ -43,11 +43,13 @@ This Section explains how to organize the reports and dashboard under specific n
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image7.png)
 
- <b><Font color = " black">Image </font></b>
+ <b><Font color = " black">Image 7</font></b>
 
 Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image8.png)
+
+ <b><Font color = " black">Image 8</font></b>
 
 <b>b.</b> Select delete icon to delete the thumbnail image uploaded.
 
@@ -57,9 +59,13 @@ Resultant would be displayed as follow;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6c5126e7a3365a91017739e8cb5c3130e67a407/images/New_version5/TD_Organize_Image10.png)
 
+ <b><Font color = " black">Image 9</font></b>
+
 Resultant for above selection is displayed as follow:
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f04580c65237586e452cd0cea80df439cff9157c/images/New_version5/TD_Organize_Image9.png)
+
+ <b><Font color = " black">Image 10</font></b>
 
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
@@ -69,9 +75,9 @@ Resultant for above selection is displayed as follow:
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2MjUzODc3LC0xOTIxNDQwMTcxLDc4MT
-MxMDA5OSwyOTU1NDY0NDUsLTEyMjg3MjY3OCwxNTI0NjUxNzE2
-LDEyNDg3NTUxODEsLTExOTE0NzQ2MjYsLTEyODU1MTI5NjYsMT
-U2NDI5OTE3OSwtMzQzOTMxOTM5LC04Mzc2MzIxOTIsLTk2MzU4
-OTY1OSw3Mjg3ODU4MjVdfQ==
+eyJoaXN0b3J5IjpbLTE4MTE2MDU2ODgsLTE5MjE0NDAxNzEsNz
+gxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3
+MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2Ni
+wxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYz
+NTg5NjU5LDcyODc4NTgyNV19
 -->
