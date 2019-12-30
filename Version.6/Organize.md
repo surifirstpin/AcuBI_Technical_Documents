@@ -30,7 +30,7 @@ This Section explains how to organize the reports and dashboard under specific n
 
 <b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/fb52c98e4e0d8753ac65f509d5bb179c853b962c/images/New_version5/TD_Organize_Image2.png)
+
 
  <b><Font color = " black">Image 4</font></b>
 
@@ -39,8 +39,8 @@ This Section explains how to organize the reports and dashboard under specific n
 -   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDY1MTcxNiwxMjQ4NzU1MTgxLC0xMT
-kxNDc0NjI2LC0xMjg1NTEyOTY2LDE1NjQyOTkxNzksLTM0Mzkz
-MTkzOSwtODM3NjMyMTkyLC05NjM1ODk2NTksNzI4Nzg1ODI1XX
-0=
+eyJoaXN0b3J5IjpbODQ5NTE3NjcxLDE1MjQ2NTE3MTYsMTI0OD
+c1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2NiwxNTY0Mjk5
+MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYzNTg5NjU5LD
+cyODc4NTgyNV19
 -->
