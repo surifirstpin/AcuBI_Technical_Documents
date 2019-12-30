@@ -70,13 +70,6 @@ Resultant for above selection is displayed as follow:
 
  <b><Font color = " black">Image 10</font></b>
 
-
-<b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
-
--   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
--   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
--   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
-
 ## Folder View
 
 All Reports and dashboards are displayed in folder view as follow;
@@ -84,10 +77,16 @@ All Reports and dashboards are displayed in folder view as follow;
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/360f7f7b4cdeff4cb5aae7d037c76d8b0564c54e/images/New_version5/TD_Organize_Image11.png)
 
  <b><Font color = " black">Image 11</font></b>
+
+<b>5.</b> All reports and dashboards are saved in privacy settings <i><b>Public, Private or Share</b></i> under share status. 
+
+-   <b>Green Map Icon</b> indicates dashboard or report saved under public section.
+-   <b>Orange Group Icon</b> indicates dashboard or report saved under shared section.
+-   <b>Grey Lock Icon</b> indicates dashboard or report saved under private section.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzc5MDg0NDcsLTE5MjE0NDAxNzEsNz
-gxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcyNjc4LDE1MjQ2NTE3
-MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNiwtMTI4NTUxMjk2Ni
-wxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgzNzYzMjE5MiwtOTYz
-NTg5NjU5LDcyODc4NTgyNV19
+eyJoaXN0b3J5IjpbLTEzNDgzODIwMDksLTE3Mzc5MDg0NDcsLT
+E5MjE0NDAxNzEsNzgxMzEwMDk5LDI5NTU0NjQ0NSwtMTIyODcy
+Njc4LDE1MjQ2NTE3MTYsMTI0ODc1NTE4MSwtMTE5MTQ3NDYyNi
+wtMTI4NTUxMjk2NiwxNTY0Mjk5MTc5LC0zNDM5MzE5MzksLTgz
+NzYzMjE5MiwtOTYzNTg5NjU5LDcyODc4NTgyNV19
 -->
