@@ -46,13 +46,13 @@ Clicking on the link, will directly take you to our sign up page. Enter the logi
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d4e2f8591d8f987195c49e386f89047fa0c3ebde/images/New_version5/UD_Acubi_Login4.png)
 
-You will receive Set new password request on your mail address, Click on Reset Password link to change your password.
+You will receive set new password request on your mail address, Click on Reset Password link to change your password.
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/00c10228ec99c2ee429306bf1259db8dc30e1665/images/New_version5/UD_Acubi_Login5.png)
 
 ## Logout
 
-Hit <b>Logout</b> button to logout from AcuBi homepage.
+Hit <b>Logout</b> button to logout from AcuBi homepage. This will take you back to initial login page.
 
 ![
 ](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/UD_Logout.png)
@@ -60,10 +60,10 @@ Hit <b>Logout</b> button to logout from AcuBi homepage.
 <b><font color = "Black"> Image 6</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDI1NjA2MjYsLTIwNzg0MjY4ODEsOT
-Y0MzM1ODMsLTUyNDIwMTk3NSwyMTI0NTk5NDQwLC0xMTYzNjYw
-MTIzLDQ1Mzg5ODkyNCw2MjQ4NDY1NjQsLTE4MTc0NjgwMDQsMT
-AzOTM4NTU5NSwxNzI5NTYzNzgxLDE4NDM0NTkyMDUsMjEwODMy
-MDM1MywtNjg2Mjg5NzUxLC0xNDQ0NjYxOTE5LDEzMzQ3MDE3Nz
-UsLTc1NDIzNDcwLDE3OTMzNTU5NTksLTgyMDAyNzgwOV19
+eyJoaXN0b3J5IjpbMTAwNDk5MzkzOSwtMjA3ODQyNjg4MSw5Nj
+QzMzU4MywtNTI0MjAxOTc1LDIxMjQ1OTk0NDAsLTExNjM2NjAx
+MjMsNDUzODk4OTI0LDYyNDg0NjU2NCwtMTgxNzQ2ODAwNCwxMD
+M5Mzg1NTk1LDE3Mjk1NjM3ODEsMTg0MzQ1OTIwNSwyMTA4MzIw
+MzUzLC02ODYyODk3NTEsLTE0NDQ2NjE5MTksMTMzNDcwMTc3NS
+wtNzU0MjM0NzAsMTc5MzM1NTk1OSwtODIwMDI3ODA5XX0=
 -->
