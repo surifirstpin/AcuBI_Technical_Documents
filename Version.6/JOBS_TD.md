@@ -44,8 +44,8 @@ On selecting query execute, it display following functionalities;
 
 - <b> Global Block:</b> on selecting the checkbox for global block, the global type condition is applied for multiple tasks available under existing Job.
 
-- <b>Block Type:</b> Choose the block type to get the specific data at time by avoiding data crashing. Following are list of block types applicable to get the data.
-
+- <b>Block Type:</b> Select block type using drop down to get specific range of data at time by avoiding data crashing. Following are list of block types applicable;
+- 
 
 
 - <b>Block From & To:</b>  Enter the start and the ending point of the data to be fetched.
@@ -267,11 +267,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDMwNTA1OSwtMTAyMDM5MjEyMiwtOD
-A2Nzk1NDYsLTE0Mzc3NDU0NDAsNDIwNDY3NDI0LDE1NzM2NTA4
-NTAsMTQ0NTMyNjkzOCwxNTczNjUwODUwLDg4OTE0NTIzMiw4OD
-kxNDUyMzIsLTE1NjQzNTQ1NjIsODI1MDAzMjQ2LDE0MTE0OTIz
-ODgsLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC05ODI1NzUwOTgsLT
-E3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2MTM5OTc4LDgwNzgx
-OTc2Nl19
+eyJoaXN0b3J5IjpbODk4MjU0NzgxLC03NzAzMDUwNTksLTEwMj
+AzOTIxMjIsLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQyMDQ2NzQy
+NCwxNTczNjUwODUwLDE0NDUzMjY5MzgsMTU3MzY1MDg1MCw4OD
+kxNDUyMzIsODg5MTQ1MjMyLC0xNTY0MzU0NTYyLDgyNTAwMzI0
+NiwxNDExNDkyMzg4LC0xNzg3MTYyNTA4LDY2ODI4OTAxMiwtOT
+gyNTc1MDk4LC0xNzU2MTM5OTc4LDg5MjA5NDUyNSwtMTc1NjEz
+OTk3OF19
 -->
