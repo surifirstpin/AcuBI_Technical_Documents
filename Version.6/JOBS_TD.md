@@ -45,7 +45,8 @@ On selecting query execute, it display following functionalities;
 - <b> Global Block:</b> on selecting the checkbox for global block, the global type condition is applied for multiple tasks available under existing Job.
 
 - <b>Block Type:</b> Select block type using drop down to get specific range of data at time by avoiding data crashing. Following are list of block types applicable;
-- 
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/481fb4c764374cf58150ced0707d94392d9bc2c2/images/New_version5/TD_JOBS_IMAGE1.png)
 
 
 - <b>Block From & To:</b>  Enter the start and the ending point of the data to be fetched.
@@ -73,6 +74,7 @@ Click on Task button to create multiple Task in Jobs.
 </b>1.</b> Click <b>Gear</b> Icon available next to existing Job name and Navigate to <b><i>Schedule.</i></b>
 
 ![Image 4](https://raw.githubusercontent.com/sv18042016/fp1/47f6e0897c275693ef1c3b372f71f513751c8641/images/New_version5/TD_JOBS_IMAGE4.png)
+
  <b><font color = "Black" >Image 4</font></b>
 
 Under Schedule Job Window, Enter Below details;
@@ -267,11 +269,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4MjU0NzgxLC03NzAzMDUwNTksLTEwMj
-AzOTIxMjIsLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQyMDQ2NzQy
-NCwxNTczNjUwODUwLDE0NDUzMjY5MzgsMTU3MzY1MDg1MCw4OD
-kxNDUyMzIsODg5MTQ1MjMyLC0xNTY0MzU0NTYyLDgyNTAwMzI0
-NiwxNDExNDkyMzg4LC0xNzg3MTYyNTA4LDY2ODI4OTAxMiwtOT
-gyNTc1MDk4LC0xNzU2MTM5OTc4LDg5MjA5NDUyNSwtMTc1NjEz
-OTk3OF19
+eyJoaXN0b3J5IjpbLTEyNTY4NTcxNzAsLTc3MDMwNTA1OSwtMT
+AyMDM5MjEyMiwtODA2Nzk1NDYsLTE0Mzc3NDU0NDAsNDIwNDY3
+NDI0LDE1NzM2NTA4NTAsMTQ0NTMyNjkzOCwxNTczNjUwODUwLD
+g4OTE0NTIzMiw4ODkxNDUyMzIsLTE1NjQzNTQ1NjIsODI1MDAz
+MjQ2LDE0MTE0OTIzODgsLTE3ODcxNjI1MDgsNjY4Mjg5MDEyLC
+05ODI1NzUwOTgsLTE3NTYxMzk5NzgsODkyMDk0NTI1LC0xNzU2
+MTM5OTc4XX0=
 -->
