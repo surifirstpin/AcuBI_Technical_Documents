@@ -36,7 +36,7 @@ Navigate to <b><i>SQL Runner Section</i></b>-->Jobs-->Click <b><i>Create Job</b>
   
 <b>For Instance:</b> in this document, i am creating a Job for task type-->Query Execute.
 
-On selecting Query Execute, it display following functionalities;
+On selecting query execute, it display following functionalities;
 
 - <b>Source Connection:</b> Select database source connection.
 
@@ -265,11 +265,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQyMD
-Q2NzQyNCwxNTczNjUwODUwLDE0NDUzMjY5MzgsMTU3MzY1MDg1
-MCw4ODkxNDUyMzIsODg5MTQ1MjMyLC0xNTY0MzU0NTYyLDgyNT
-AwMzI0NiwxNDExNDkyMzg4LC0xNzg3MTYyNTA4LDY2ODI4OTAx
-MiwtOTgyNTc1MDk4LC0xNzU2MTM5OTc4LDg5MjA5NDUyNSwtMT
-c1NjEzOTk3OCw4MDc4MTk3NjYsLTMyNzA3MTE4NCwtMTY3MDk1
-NzczOF19
+eyJoaXN0b3J5IjpbLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0xND
+M3NzQ1NDQwLDQyMDQ2NzQyNCwxNTczNjUwODUwLDE0NDUzMjY5
+MzgsMTU3MzY1MDg1MCw4ODkxNDUyMzIsODg5MTQ1MjMyLC0xNT
+Y0MzU0NTYyLDgyNTAwMzI0NiwxNDExNDkyMzg4LC0xNzg3MTYy
+NTA4LDY2ODI4OTAxMiwtOTgyNTc1MDk4LC0xNzU2MTM5OTc4LD
+g5MjA5NDUyNSwtMTc1NjEzOTk3OCw4MDc4MTk3NjYsLTMyNzA3
+MTE4NF19
 -->
