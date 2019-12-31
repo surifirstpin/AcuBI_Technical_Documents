@@ -53,9 +53,9 @@ On selecting query execute, it display following functionalities;
 
 - <b>Block Size:</b> Enter specific run time range.
 
-- <b>Block Key From & To:</b> it works as reference name ( applicable in case of where conditions)
+- <b>Block Key From & To:</b> It works as reference name ( applicable in case of where conditions)
 
-Click <b>Save,</b> to save the Job created.
+Click <b>Save,</b> to save Job created.
 
 
 > <b>Note: </b> Block type is applicable only for Date fields.
@@ -269,7 +269,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzYyMjgzNCwtMTI1Njg1NzE3MCwtNz
+eyJoaXN0b3J5IjpbMTc4MjAzNjg5MywtMTI1Njg1NzE3MCwtNz
 cwMzA1MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0NiwtMTQzNzc0
 NTQ0MCw0MjA0Njc0MjQsMTU3MzY1MDg1MCwxNDQ1MzI2OTM4LD
 E1NzM2NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2NDM1
