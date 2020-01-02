@@ -83,11 +83,12 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view or create multiple reports, you can still access the previously created report 
+In case if you are intended to view or create multiple reports, you can still access the previously created report as dashboard section saves all the report history on bottom of the scree
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxND
-c3NDE2NTAzLDE5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYz
-NTQ1LC00NDE3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMT
-gyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4
-NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1XX0=
+eyJoaXN0b3J5IjpbMTU1ODM3MTQzOCwtMjA0MzIwMTIyNSwxMj
+I0OTg2NDI5LDE0Nzc0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1
+MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLT
+MwOTI5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4
+MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MT
+VdfQ==
 -->
