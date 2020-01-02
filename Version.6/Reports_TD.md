@@ -219,6 +219,7 @@ On Applying pivot on month, it displays;
 ><b> Note : </b> To hide first column of pivoted data  in visualization table chart, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets. this is clearly explained in visualization document--> Table Chart--> Hide Pivot
 
 [Hide_Pivot](http://firstpin.in/documentation/acubi_technical_documentation.html#/Visualization?id=table-chart)
+> Note: (Refresh document to navigate to exact location)
 
 ## Pin or Remove Pin
 
@@ -377,11 +378,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTI3NTM3NiwtMTc2MTM1ODQzOCwtND
-A2NzQ4OTIzLC0xMjIxNTEyNDc3LC0yMTQyNjI4MjkyLDE1MTYx
-MTU5ODUsMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OTY3NTkwNi
-wtMTA1MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjEx
-OTYxNTE2NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyOD
-QzMSwxMDE1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDks
-MTc0MDM3MzY5MF19
+eyJoaXN0b3J5IjpbMTczNzMwOTE2NCwxNzI1Mjc1Mzc2LC0xNz
+YxMzU4NDM4LC00MDY3NDg5MjMsLTEyMjE1MTI0NzcsLTIxNDI2
+MjgyOTIsMTUxNjExNTk4NSwxNTE2MTE1OTg1LDE1NjI4MTkzOD
+MsNjk5Njc1OTA2LC0xMDUxMDM5MDIsLTE0NDg2MDAwMzIsLTgz
+NjM0MDY5NiwyMTE5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOT
+c5LC0xNjg4NTI4NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMs
+MTcxMzMwMTIwOV19
 -->
