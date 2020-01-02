@@ -81,12 +81,15 @@ To download a report in any of the following formats, click gear icon;
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
+## Report History
+
+In case if you are intended to view multiple repor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDk4NjQyOSwxNDc3NDE2NTAzLDE5Mj
-A3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2
-ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMT
-ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
-NTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OS
-wtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3NDU0NTM4NywtMzQ0
-NjcyNTMxXX0=
+eyJoaXN0b3J5IjpbMTIzOTIwMzE5NywxMjI0OTg2NDI5LDE0Nz
+c0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1MzYyMSw5MDkwNjM1
+NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMwOCwxOD
+IwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0
+NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MTUsLTQ0Mzg3ODY5Ni
+wxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMyNTU0NTExNiwtOTc0
+NTQ1Mzg3XX0=
 -->
