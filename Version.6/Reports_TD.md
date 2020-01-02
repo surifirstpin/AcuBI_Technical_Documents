@@ -216,8 +216,9 @@ On Applying pivot on month, it displays;
  
  <b><Font color = " black">Image 7</font></b>
 
-><b> Note : </b> To hide first column of pivoted data  in visualization table chart, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
+><b> Note : </b> To hide first column of pivoted data  in visualization table chart, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets. this is clearly explained in visualization document--> Table Chart--> Hide Pivot
 
+[Hide_Pivot](http://firstpin.in/documentation/acubi_technical_documentation.html#/Visualization?id=table-chart)
 
 ## Pin or Remove Pin
 
@@ -376,7 +377,7 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjA4OTcyMiwtMTc2MTM1ODQzOCwtND
+eyJoaXN0b3J5IjpbMTcyNTI3NTM3NiwtMTc2MTM1ODQzOCwtND
 A2NzQ4OTIzLC0xMjIxNTEyNDc3LC0yMTQyNjI4MjkyLDE1MTYx
 MTU5ODUsMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OTY3NTkwNi
 wtMTA1MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjEx
