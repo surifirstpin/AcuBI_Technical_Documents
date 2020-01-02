@@ -83,13 +83,13 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view a
+In case if you are intended to view or create multiple reports, you can still access the previously created report 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1ODE2MTM0LDEyMjQ5ODY0MjksMTQ3Nz
-QxNjUwMywxOTIwNzcxNzA1LC0yMDQ0NjUzNjIxLDkwOTA2MzU0
-NSwtNDQxNzcxNjg3LDYyMzA5Njc2OSwtMzA5Mjk0MzA4LDE4Mj
-AwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMTM3ODQ3
-NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQzODc4Njk2LD
-E2MDI5MzM1NjksLTIwMDIzMTcwNjMsMzI1NTQ1MTE2LC05NzQ1
-NDUzODddfQ==
+eyJoaXN0b3J5IjpbLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxND
+c3NDE2NTAzLDE5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYz
+NTQ1LC00NDE3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMT
+gyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4
+NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OT
+YsMTYwMjkzMzU2OSwtMjAwMjMxNzA2MywzMjU1NDUxMTYsLTk3
+NDU0NTM4N119
 -->
