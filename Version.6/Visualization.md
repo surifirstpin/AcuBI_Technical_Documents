@@ -485,6 +485,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Position </b> you can can align the y-axis to left or right side of the chart.
 
+- <b> Min Value</b> 
+
+#### Reference Lines
+
 <b>Reference Lines : </b> enables the creation of reference lines in a chart.
 
 - <b>Name </b> specify a reference name for specific information on y-axis.
@@ -550,11 +554,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMz
-IwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0
-MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MD
-g2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYwMCw5
-ODgwNDk2NjAsMTAyOTUyMTYzMCwxMTgzOTk3MzA2LC05OTQ5Nz
-k0MzAsMTI2ODUwODgyMiwxMjY4NTA4ODIyLC02MjY1NjE3MTUs
-LTEwNzA2NTU5MTBdfQ==
+eyJoaXN0b3J5IjpbLTU3ODkxODQ5MiwxMjgzNDQzNDg3LDY2MD
+Q4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1
+OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5Mz
+M0LC0yMDM2ODcwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4NjAs
+OTg5NDk5NjAwLDk4ODA0OTY2MCwxMDI5NTIxNjMwLDExODM5OT
+czMDYsLTk5NDk3OTQzMCwxMjY4NTA4ODIyLDEyNjg1MDg4MjIs
+LTYyNjU2MTcxNV19
 -->
