@@ -83,9 +83,11 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view or create multiple reports, you can still access the previously created report as dashboard section saves all the report history on bottom of the scree
+In case if you are intended to view multiple reports and still want to access the previous report, go to dashboard section saves all the report history on bottom of the screen as shown in below image;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1ODM3MTQzOCwtMjA0MzIwMTIyNSwxMj
+eyJoaXN0b3J5IjpbMTM0MTAzOTE2MSwtMjA0MzIwMTIyNSwxMj
 I0OTg2NDI5LDE0Nzc0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1
 MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLT
 MwOTI5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4
