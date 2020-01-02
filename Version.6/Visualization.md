@@ -463,7 +463,8 @@ Gauge chart displays current status in the context of goal.
 
 ## Y-Axis
 
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image22.png)
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6c2628d58b42d23d022e28b9b3bee1c44a10e73/images/New_version5/TD_Visu_Image22.png)
+
 <b><font color = "Black"> Image 24</b>
 
 - <b>Axis  </b> select the measures values on y-axis  to enable
@@ -554,11 +555,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzMzg5NTk0LDEzMjM2NzQwNTcsMTI4Mz
-Q0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOTQsLTE1NjAxMzQ1
-NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMTQ4MzQyMzExMC
-wtMTQxMDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMwNjAwOTk2LC0x
-OTk1MjYzODYwLDk4OTQ5OTYwMCw5ODgwNDk2NjAsMTAyOTUyMT
-YzMCwxMTgzOTk3MzA2LC05OTQ5Nzk0MzAsMTI2ODUwODgyMiwx
+eyJoaXN0b3J5IjpbMTMxNzk2MzkyNCwyNTMzODk1OTQsMTMyMz
+Y3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5
+NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC
+0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01
+MzA2MDA5OTYsLTE5OTUyNjM4NjAsOTg5NDk5NjAwLDk4ODA0OT
+Y2MCwxMDI5NTIxNjMwLDExODM5OTczMDYsLTk5NDk3OTQzMCwx
 MjY4NTA4ODIyXX0=
 -->
