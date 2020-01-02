@@ -212,7 +212,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
 ## Bar Chart
 
-Bar charts are used to compare data across different categories. You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
+Bar charts are used to compare data across different categories.hi You can build a bar chart by placing a dimension on the X-axis and a measure on the Y-axis.
 
  <b>7.</b>Choose chart type <b>BAR</b> from given drop-down list compare the data using Bar chart.
 
@@ -238,7 +238,7 @@ Table chart displays the data in series making it more feasible for comparing di
 
 ### Hide Pivot (Hide first, Hide last)
 
-To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
+To hide the first or last column field values in Visualization Table, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
 
 <b>For Example</b> : Apply subtraction for Quantity_Sum and derive the expression in calculated column as follow;
@@ -555,11 +555,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODQ3ODM3MiwxODI2MzE1MDk1LDI1Mz
-M4OTU5NCwxMzIzNjc0MDU3LDEyODM0NDM0ODcsNjYwNDgxMTc2
-LC0xMDMyMDM1MTk0LC0xNTYwMTM0NTU0LC00MjUwMjU5NzYsLT
-EyNDEwNDEzMzYsLTE0ODM0MjMxMTAsLTE0MTA1OTkzMzQsLTIw
-MzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5NTI2Mzg2MCw5ODk0OT
-k2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMwNiwt
-OTk0OTc5NDMwXX0=
+eyJoaXN0b3J5IjpbLTE0OTY5MzExNTUsLTY4ODQ3ODM3MiwxOD
+I2MzE1MDk1LDI1MzM4OTU5NCwxMzIzNjc0MDU3LDEyODM0NDM0
+ODcsNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNTYwMTM0NTU0LC
+00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0MjMxMTAsLTE0
+MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5NT
+I2Mzg2MCw5ODk0OTk2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAs
+MTE4Mzk5NzMwNl19
 -->
