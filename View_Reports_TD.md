@@ -81,10 +81,13 @@ To download a report in any of the following formats, click gear icon;
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard or report.
     
+## Report History
+
+In case if you are intended to view multiple reports, s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNDk4NjQyOSwxNDc3NDE2NTAzLDE5Mj
-A3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2
-ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMT
-ExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMy
-NTY5MSwxNTAxMTE3NzE1XX0=
+eyJoaXN0b3J5IjpbMzM0Njk0MjMxLDEyMjQ5ODY0MjksMTQ3Nz
+QxNjUwMywxOTIwNzcxNzA1LC0yMDQ0NjUzNjIxLDkwOTA2MzU0
+NSwtNDQxNzcxNjg3LDYyMzA5Njc2OSwtMzA5Mjk0MzA4LDE4Mj
+AwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NSwtMTM3ODQ3
+NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNV19
 -->
