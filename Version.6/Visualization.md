@@ -236,7 +236,7 @@ Table chart displays the data in series making it more feasible for comparing di
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08c494f9fa806d23afe1ace4e408a1f94d08d824/images/New_version5/TD_visu_image13.png)
 <b><font color = "Black"> Image 14</b>
 
-### Hide Pivot
+### Hide Pivot (Hide first, Hide last)
 
 To hide the first or last column field values in Visualization, Select hide first or hide last check box in Data section.
 To carry out this function you need to derive a expression in calculated column.
@@ -555,7 +555,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzk2MzkyNCwyNTMzODk1OTQsMTMyMz
+eyJoaXN0b3J5IjpbMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMz
 Y3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5
 NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC
 0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01
