@@ -61,7 +61,7 @@ To download a report in any of the following formats, click gear icon;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
 
-<b><font color = "Black"> Image 7</b>
+<b><font color = "Black"> Image 8</b>
 
 ## Download CSV, CSV ; or XLXS 
 
@@ -85,11 +85,12 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view multiple reports and still want to access the previous opened report, this report history are available on bottom of the screen as shown in below image;
+In case if you are intended to view multiple reports and still want to access the previous opened report, this report history are available on bottom of the dashboard section shown in below image;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
+<b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODE1NjE5MCwtMjA0MzIwMTIyNSwxMj
+eyJoaXN0b3J5IjpbMTQxODcyODAzNSwtMjA0MzIwMTIyNSwxMj
 I0OTg2NDI5LDE0Nzc0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1
 MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLT
 MwOTI5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4
