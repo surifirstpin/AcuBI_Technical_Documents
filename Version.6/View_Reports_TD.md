@@ -83,13 +83,15 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view or create multiple reports, you can still access the previously created report as dashboard section saves all the report history on bottom 
+In case if you are intended to view multiple reports and still want to access the previous report, go todashboard section saves all the report history on bottom of the screen as shown in below image;
+
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzI0NDc5MiwtMjA0MzIwMTIyNSwxMj
-I0OTg2NDI5LDE0Nzc0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1
-MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLT
-MwOTI5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4
-MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MT
-UsLTQ0Mzg3ODY5NiwxNjAyOTMzNTY5LC0yMDAyMzE3MDYzLDMy
-NTU0NTExNl19
+eyJoaXN0b3J5IjpbLTE3MTIyMjAyMzcsLTIwNDMyMDEyMjUsMT
+IyNDk4NjQyOSwxNDc3NDE2NTAzLDE5MjA3NzE3MDUsLTIwNDQ2
+NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2ODcsNjIzMDk2NzY5LC
+0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMTExNzg1ODQ5OCwxNTEy
+ODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MSwxNTAxMTE3Nz
+E1LC00NDM4Nzg2OTYsMTYwMjkzMzU2OSwtMjAwMjMxNzA2Mywz
+MjU1NDUxMTZdfQ==
 -->
