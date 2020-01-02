@@ -485,7 +485,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Position </b> you can can align the y-axis to left or right side of the chart.
 
-- <b> Min Value</b> 
+- <b> Min Value</b>  
 
 #### Reference Lines
 
@@ -554,7 +554,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODkxODQ5MiwxMjgzNDQzNDg3LDY2MD
+eyJoaXN0b3J5IjpbMTQ0NzY4NTY0NCwxMjgzNDQzNDg3LDY2MD
 Q4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1
 OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5Mz
 M0LC0yMDM2ODcwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4NjAs
