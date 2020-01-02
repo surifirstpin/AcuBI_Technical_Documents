@@ -543,7 +543,7 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
  
 
 
- To change the selected color or to edit the color, you can put <b>hexstring</b> such as <b>#6d9ac7,</b> or color name, such as darkblue into the color value box at the bottom of the picker.
+You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,</b> or color name, such as darkblue into the color value box at the bottom of the picker.
 
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/180ee79d0c233ce60042245d66c6a69bbed52fe2/images/New_version5/TD_Visu_Image27.png)
 
@@ -555,11 +555,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMz
-Y3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5
-NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC
-0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01
-MzA2MDA5OTYsLTE5OTUyNjM4NjAsOTg5NDk5NjAwLDk4ODA0OT
-Y2MCwxMDI5NTIxNjMwLDExODM5OTczMDYsLTk5NDk3OTQzMCwx
-MjY4NTA4ODIyXX0=
+eyJoaXN0b3J5IjpbLTY4ODQ3ODM3MiwxODI2MzE1MDk1LDI1Mz
+M4OTU5NCwxMzIzNjc0MDU3LDEyODM0NDM0ODcsNjYwNDgxMTc2
+LC0xMDMyMDM1MTk0LC0xNTYwMTM0NTU0LC00MjUwMjU5NzYsLT
+EyNDEwNDEzMzYsLTE0ODM0MjMxMTAsLTE0MTA1OTkzMzQsLTIw
+MzY4NzA4NjgsLTUzMDYwMDk5NiwtMTk5NTI2Mzg2MCw5ODk0OT
+k2MDAsOTg4MDQ5NjYwLDEwMjk1MjE2MzAsMTE4Mzk5NzMwNiwt
+OTk0OTc5NDMwXX0=
 -->
