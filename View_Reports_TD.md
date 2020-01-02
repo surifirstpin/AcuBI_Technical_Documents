@@ -85,15 +85,15 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view multiple reports and still want to access the previous opened report, this report history are available on bottom of the dashboard section shown in below image;
+In case if you are intended to view multiple reports and still want to access the previously accessed report, this report history are available on bottom of the dashboard section shown in below image;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODcyODAzNSwtMjA0MzIwMTIyNSwxMj
-I0OTg2NDI5LDE0Nzc0MTY1MDMsMTkyMDc3MTcwNSwtMjA0NDY1
-MzYyMSw5MDkwNjM1NDUsLTQ0MTc3MTY4Nyw2MjMwOTY3NjksLT
-MwOTI5NDMwOCwxODIwMDUzMjUwLC0xMTE3ODU4NDk4LDE1MTI4
-MzQ3NjUsLTEzNzg0NzU2NTEsNTI0MzI1NjkxLDE1MDExMTc3MT
-VdfQ==
+eyJoaXN0b3J5IjpbNzU0NzQzMTIwLDE0MTg3MjgwMzUsLTIwND
+MyMDEyMjUsMTIyNDk4NjQyOSwxNDc3NDE2NTAzLDE5MjA3NzE3
+MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3NzE2ODcsNj
+IzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MCwtMTExNzg1
+ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUyNDMyNTY5MS
+wxNTAxMTE3NzE1XX0=
 -->
