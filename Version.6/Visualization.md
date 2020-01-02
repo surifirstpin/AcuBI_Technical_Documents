@@ -485,7 +485,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Position </b>  align y-axis to left or right side of the chart.
 
-- <b> Min Value</b>  Displays Y-axis data strting from value specified in field <b>Min Value</b>
+- <b> Min Value</b>  Displays Y-axis data starting from value specified in field <b>Min Value</b>
 
 #### Reference Lines
 
@@ -554,11 +554,11 @@ To create Custom color, First click on <b> Custom Color</b>. Use the color picke
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MD
-Q4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1
-OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5Mz
-M0LC0yMDM2ODcwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4NjAs
-OTg5NDk5NjAwLDk4ODA0OTY2MCwxMDI5NTIxNjMwLDExODM5OT
-czMDYsLTk5NDk3OTQzMCwxMjY4NTA4ODIyLDEyNjg1MDg4MjIs
-LTYyNjU2MTcxNV19
+eyJoaXN0b3J5IjpbMjUzMzg5NTk0LDEzMjM2NzQwNTcsMTI4Mz
+Q0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOTQsLTE1NjAxMzQ1
+NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMTQ4MzQyMzExMC
+wtMTQxMDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMwNjAwOTk2LC0x
+OTk1MjYzODYwLDk4OTQ5OTYwMCw5ODgwNDk2NjAsMTAyOTUyMT
+YzMCwxMTgzOTk3MzA2LC05OTQ5Nzk0MzAsMTI2ODUwODgyMiwx
+MjY4NTA4ODIyXX0=
 -->
