@@ -216,7 +216,7 @@ On Applying pivot on month, it displays;
  
  <b><Font color = " black">Image 7</font></b>
 
-><b> Note : </b> To hide first column of pivoted data  in visualization, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
+><b> Note : </b> To hide first column of pivoted data  in visualization table chart, choose pivot hide first, to hide the last column data, choose pivot hide last in data section under data sets.
 
 
 ## Pin or Remove Pin
@@ -376,11 +376,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjEzNTg0MzgsLTQwNjc0ODkyMywtMT
-IyMTUxMjQ3NywtMjE0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYx
-MTU5ODUsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMi
-wtMTQ0ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3
-NDMxNzM5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNj
-c3OSwtMTQ1NzU2MDg3MywxNzEzMzAxMjA5LDE3NDAzNzM2OTAs
-MjExMTYyOTU0Nl19
+eyJoaXN0b3J5IjpbLTEwNjA4OTcyMiwtMTc2MTM1ODQzOCwtND
+A2NzQ4OTIzLC0xMjIxNTEyNDc3LC0yMTQyNjI4MjkyLDE1MTYx
+MTU5ODUsMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OTY3NTkwNi
+wtMTA1MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjEx
+OTYxNTE2NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyOD
+QzMSwxMDE1NTI2Nzc5LC0xNDU3NTYwODczLDE3MTMzMDEyMDks
+MTc0MDM3MzY5MF19
 -->
