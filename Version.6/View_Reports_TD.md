@@ -57,6 +57,13 @@ To delete a report, choose delete from list, it will display pop-up message as s
 
 To set report to full screen click full-screen from the list. (refer image 6)
 
+## Data Limit
+
+You can limit the report data to certain limit by select
+
+
+## Download
+
 To download a report in any of the following formats, click gear icon;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b258f4f2510be549d125601a7ae32a0c1945cca9/images/New_version5/td_view_report_image16.png)
@@ -91,11 +98,11 @@ In case if you are intended to view multiple reports and still want to access th
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTkyNTE2NSwxNDE4NzI4MDM1LC0yMD
-QzMjAxMjI1LDEyMjQ5ODY0MjksMTQ3NzQxNjUwMywxOTIwNzcx
-NzA1LC0yMDQ0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LD
-YyMzA5Njc2OSwtMzA5Mjk0MzA4LDE4MjAwNTMyNTAsLTExMTc4
-NTg0OTgsMTUxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1MjQzMjU2OT
-EsMTUwMTExNzcxNSwtNDQzODc4Njk2LDE2MDI5MzM1NjksLTIw
-MDIzMTcwNjNdfQ==
+eyJoaXN0b3J5IjpbMTA4OTI5NjAyMCwtNjA5OTI1MTY1LDE0MT
+g3MjgwMzUsLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxNDc3NDE2
+NTAzLDE5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC
+00NDE3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1
+MzI1MCwtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1Nj
+UxLDUyNDMyNTY5MSwxNTAxMTE3NzE1LC00NDM4Nzg2OTYsMTYw
+MjkzMzU2OV19
 -->
