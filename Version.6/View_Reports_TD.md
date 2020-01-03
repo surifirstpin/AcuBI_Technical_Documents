@@ -72,8 +72,6 @@ To download a report in any of the following formats, click gear icon;
 
 <b><font color = "Black"> Image 8</b>
 
-## Download CSV, CSV ; or XLXS 
-
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
 - <b>Download CSV; </b>  download the grouped list.
@@ -81,6 +79,8 @@ To download a report in any of the following formats, click gear icon;
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
 - <b> Download Image </b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
+
+## Show Data
 
 - <b> Show Data</b> Displays report data.
  
@@ -98,11 +98,11 @@ In case if you are intended to view multiple reports and still want to access th
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjYxNTA3Nyw3NDE4ODc1NTMsLTYwOT
-kyNTE2NSwxNDE4NzI4MDM1LC0yMDQzMjAxMjI1LDEyMjQ5ODY0
-MjksMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC0yMDQ0NjUzNjIxLD
-kwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5Njc2OSwtMzA5Mjk0
-MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NS
-wtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNSwtNDQz
-ODc4Njk2XX0=
+eyJoaXN0b3J5IjpbLTEyNTQzNDMxMTcsMTI1MjYxNTA3Nyw3ND
+E4ODc1NTMsLTYwOTkyNTE2NSwxNDE4NzI4MDM1LC0yMDQzMjAx
+MjI1LDEyMjQ5ODY0MjksMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC
+0yMDQ0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5
+Njc2OSwtMzA5Mjk0MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OT
+gsMTUxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUw
+MTExNzcxNV19
 -->
