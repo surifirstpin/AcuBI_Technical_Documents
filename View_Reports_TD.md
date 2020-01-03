@@ -74,11 +74,11 @@ To download a report in any of the following formats, click gear icon;
 
 -   <b>Download CSV </b>  download the dashboard report in CSV format.
 
-- <b>Download CSV; </b>  download the grouped list.
+-  <b>Download CSV; </b>  download the grouped list.
 
 - <b>Download XLXS </b>  download the dashboard report in Excel format.
 
-- <b> Download Image </b>  download the report in image format. ( applicable for dashboard report grid saved with visualization image)
+- <b> Download Image </b>  download the report in image format. (applicable for dashboard report grid saved with visualization image)
 
 ## Show Data
 
@@ -98,7 +98,7 @@ In case if you are intended to view multiple reports and want to access the prev
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjkwMTYxOCwtMTU0OTQwNDM5MywxMj
+eyJoaXN0b3J5IjpbMjAzMzA1MjI3NiwtMTU0OTQwNDM5MywxMj
 UyNjE1MDc3LDc0MTg4NzU1MywtNjA5OTI1MTY1LDE0MTg3Mjgw
 MzUsLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxNDc3NDE2NTAzLD
 E5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3
