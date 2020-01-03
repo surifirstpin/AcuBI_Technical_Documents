@@ -59,7 +59,7 @@ To set report to full screen click full-screen from the list. (refer image 6)
 
 ## Data Limit
 
-You can limit the report data to certain limit by select
+You can limit the report data to certain limit by selecting range for
 
 
 ## Download
@@ -98,7 +98,7 @@ In case if you are intended to view multiple reports and still want to access th
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTI5NjAyMCwtNjA5OTI1MTY1LDE0MT
+eyJoaXN0b3J5IjpbMTYzNzQxMzIyMiwtNjA5OTI1MTY1LDE0MT
 g3MjgwMzUsLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxNDc3NDE2
 NTAzLDE5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC
 00NDE3NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1
