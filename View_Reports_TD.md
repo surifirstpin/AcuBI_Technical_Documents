@@ -59,9 +59,9 @@ To set report to full screen click full-screen from the list. (refer image 6)
 
 ## Data Limit
 
-You can limit the report data to certain limit by selecting range for data display as shown in below image;
+You can limit report data to certain limit by selecting range for data display as shown in below image;
 
-
+![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/18cf44e3bc7c5feec070c69415d4cd9a0add3098/images/New_version5/td_view_report_image18.png)
 
 
 ## Download
@@ -84,8 +84,6 @@ To download a report in any of the following formats, click gear icon;
 
 - <b> Show Data</b> Displays report data.
  
-
-
 ## Refresh & Hard Refresh
 
 -   <b>Refresh</b>  displays the most recent data information of the report.
@@ -100,10 +98,10 @@ In case if you are intended to view multiple reports and still want to access th
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxODg3NTUzLC02MDk5MjUxNjUsMTQxOD
-cyODAzNSwtMjA0MzIwMTIyNSwxMjI0OTg2NDI5LDE0Nzc0MTY1
-MDMsMTkyMDc3MTcwNSwtMjA0NDY1MzYyMSw5MDkwNjM1NDUsLT
-Q0MTc3MTY4Nyw2MjMwOTY3NjksLTMwOTI5NDMwOCwxODIwMDUz
-MjUwLC0xMTE3ODU4NDk4LDE1MTI4MzQ3NjUsLTEzNzg0NzU2NT
-EsNTI0MzI1NjkxLDE1MDExMTc3MTVdfQ==
+eyJoaXN0b3J5IjpbMTI1MjYxNTA3Nyw3NDE4ODc1NTMsLTYwOT
+kyNTE2NSwxNDE4NzI4MDM1LC0yMDQzMjAxMjI1LDEyMjQ5ODY0
+MjksMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC0yMDQ0NjUzNjIxLD
+kwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5Njc2OSwtMzA5Mjk0
+MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OTgsMTUxMjgzNDc2NS
+wtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUwMTExNzcxNV19
 -->
