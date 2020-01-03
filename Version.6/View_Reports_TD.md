@@ -10,7 +10,7 @@ To view existing report in AcuBi, click on report name under <b>My Space </b>rep
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image11.png)
 <b><font color = "Black"> Image 1</b>
 
-As shown in below image, it navigates to report selected.
+As shown in below image, it navigates to report selected. Left panel of the report displays the filters applied to reports.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/094f156e76391d17f8f39e4a8f02b97cf71952d4/images/New_version5/td_view_report_image12.png)
 <b><font color = "Black"> Image 2</b>
@@ -98,11 +98,11 @@ In case if you are intended to view multiple reports and want to access the prev
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDk0MDQzOTMsMTI1MjYxNTA3Nyw3ND
-E4ODc1NTMsLTYwOTkyNTE2NSwxNDE4NzI4MDM1LC0yMDQzMjAx
-MjI1LDEyMjQ5ODY0MjksMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC
-0yMDQ0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5
-Njc2OSwtMzA5Mjk0MzA4LDE4MjAwNTMyNTAsLTExMTc4NTg0OT
-gsMTUxMjgzNDc2NSwtMTM3ODQ3NTY1MSw1MjQzMjU2OTEsMTUw
-MTExNzcxNV19
+eyJoaXN0b3J5IjpbLTU2NjkwMTYxOCwtMTU0OTQwNDM5MywxMj
+UyNjE1MDc3LDc0MTg4NzU1MywtNjA5OTI1MTY1LDE0MTg3Mjgw
+MzUsLTIwNDMyMDEyMjUsMTIyNDk4NjQyOSwxNDc3NDE2NTAzLD
+E5MjA3NzE3MDUsLTIwNDQ2NTM2MjEsOTA5MDYzNTQ1LC00NDE3
+NzE2ODcsNjIzMDk2NzY5LC0zMDkyOTQzMDgsMTgyMDA1MzI1MC
+wtMTExNzg1ODQ5OCwxNTEyODM0NzY1LC0xMzc4NDc1NjUxLDUy
+NDMyNTY5MV19
 -->
