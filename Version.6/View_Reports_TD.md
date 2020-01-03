@@ -92,13 +92,13 @@ To download a report in any of the following formats, click gear icon;
     
 ## Report History
 
-In case if you are intended to view multiple reports and still want to access the previously accessed report, the report history displayed on bottom of the dashboard section will maintain this history and this will easily navigate to other reports with single click as shown in below image;
+In case if you are intended to view multiple reports and want to access the previously accessed report, the report history displayed on bottom of the dashboard section will maintain this history and this will easily navigate to other reports with single click on report name, as shown in below image;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/ecb4f0f16b2129205eec0956ab06dc804f988097/images/New_version5/td_view_report_image17.png)
 
 <b><font color = "Black"> Image 9</b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjkyNjA2MTUsMTI1MjYxNTA3Nyw3ND
+eyJoaXN0b3J5IjpbLTE1NDk0MDQzOTMsMTI1MjYxNTA3Nyw3ND
 E4ODc1NTMsLTYwOTkyNTE2NSwxNDE4NzI4MDM1LC0yMDQzMjAx
 MjI1LDEyMjQ5ODY0MjksMTQ3NzQxNjUwMywxOTIwNzcxNzA1LC
 0yMDQ0NjUzNjIxLDkwOTA2MzU0NSwtNDQxNzcxNjg3LDYyMzA5
