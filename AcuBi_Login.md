@@ -40,15 +40,20 @@ Clicking on the activation link, will directly take you to our sign up page. Ent
   To reset your password, Click <b>Forgot Password.</b>
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d699fdaa0ce671092b5221c2b237a80837b2e442/images/New_version5/UD_Acubi_Login1.png)
+ 
  <b><font color = "Black"> Image 5</b>
 
   It will navigate to reset password screen. Enter your email address, then click <b>Reset Password link</b> .
   
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/d4e2f8591d8f987195c49e386f89047fa0c3ebde/images/New_version5/UD_Acubi_Login4.png)
 
+<b><font color = "Black"> Image 6</b>
+
 You will receive set new password request on your mail address, Click on Reset Password link to change your password.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/00c10228ec99c2ee429306bf1259db8dc30e1665/images/New_version5/UD_Acubi_Login5.png)
+
+<b><font color = "Black"> Image 7</b>
 
 ## Logout
 
@@ -56,14 +61,14 @@ Hit <b>Logout</b> button to logout from AcuBi homepage. This action will take yo
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/6a62fda8b3b738ad00666329d14abbe62e3f8ee6/images/New_version5/UD_Acubi_Login6.png)
 
-<b><font color = "Black"> Image 6</b>
+<b><font color = "Black"> Image 8</b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjE4MjMwNSwtMTE5MDIxMTAzNywtMj
-A3ODQyNjg4MSw5NjQzMzU4MywtNTI0MjAxOTc1LDIxMjQ1OTk0
-NDAsLTExNjM2NjAxMjMsNDUzODk4OTI0LDYyNDg0NjU2NCwtMT
-gxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1NjM3ODEsMTg0MzQ1
-OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NTEsLTE0NDQ2NjE5MT
-ksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5MzM1NTk1OSwtODIw
-MDI3ODA5XX0=
+eyJoaXN0b3J5IjpbLTE2ODYyMjU2NzIsMjA5MjE4MjMwNSwtMT
+E5MDIxMTAzNywtMjA3ODQyNjg4MSw5NjQzMzU4MywtNTI0MjAx
+OTc1LDIxMjQ1OTk0NDAsLTExNjM2NjAxMjMsNDUzODk4OTI0LD
+YyNDg0NjU2NCwtMTgxNzQ2ODAwNCwxMDM5Mzg1NTk1LDE3Mjk1
+NjM3ODEsMTg0MzQ1OTIwNSwyMTA4MzIwMzUzLC02ODYyODk3NT
+EsLTE0NDQ2NjE5MTksMTMzNDcwMTc3NSwtNzU0MjM0NzAsMTc5
+MzM1NTk1OV19
 -->
