@@ -236,7 +236,7 @@ To exit Full screen, press ESC (escape) on your keyboard.
  
  ## Maximize/Minimize
   
-a). To maximize a report in dashboard click<b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
+a). To maximize a report in dashboard click <b>Maximize icon </b> similarly to minimize a dashboard report hit minimize button as shown in image below.
 
 b). Select drop-down button and choose number of rows to display in output.
 
@@ -270,8 +270,6 @@ To download dashboard, click gear icon;
     
 -   <b>Hard Refresh</b>  displays the most recent data information by clearing the cache for specific dashboard.
     
-
-
 ## List View
 
 To view the list of reports and dashboards in List View click on <b>List View.</b>
@@ -279,8 +277,6 @@ To view the list of reports and dashboards in List View click on <b>List View.</
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f7c768a770140dd07c91dc44078f61241b248d14/images/New_version5/TD_Dashboard_image13.png)
 
  <B><font color = " Black"> Image 22</font></b>
-
-
 
 ## Edit  (List View)
 
@@ -399,11 +395,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTA4NzMxNjEsLTcwMDc5MzQ3NCw1Nj
-g2ODcwMjIsNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5LDcz
-NDUzMDI4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxOD
-czNTYsLTc1NzA1NzUxNywxOTMzNTIzMjQ0LDU3OTc1MTM3OCwx
-OTIxNjg2MDU5LC0xMTIzNzc3ODM5LDE5ODQxMjY3MzAsLTMwNz
-c1NzAwNCwtNDA1Njc2MzgxLDY4NTkyMTQyMiwtMjI4Mjk2NDg2
+eyJoaXN0b3J5IjpbMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNz
+AwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0
+LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNz
+M4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMyNDQs
+NTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4MzksMTk4ND
+EyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNjg1OTIxNDIy
 XX0=
 -->
