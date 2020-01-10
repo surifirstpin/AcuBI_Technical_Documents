@@ -370,19 +370,21 @@ used (Phone) for area code SS_z2, it will display the Phone numbers that fall un
 ## Visualization charts
 
 Pictorial representation of data obtained is visible under charts sections. Kindly follow below link for more detail information on charts.
+
 [Visulization Charts](http://ec2-18-196-122-102.eu-central-1.compute.amazonaws.com/documentation/acubi_technical_documentation.html#/Visualization)
 
 ## Save Reports
 
 All the reports created are saved under specific tag. Kindly follow the below link for more detailed information on saving reports.
+
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzMwOTE2NCwxNzI1Mjc1Mzc2LC0xNz
-YxMzU4NDM4LC00MDY3NDg5MjMsLTEyMjE1MTI0NzcsLTIxNDI2
-MjgyOTIsMTUxNjExNTk4NSwxNTE2MTE1OTg1LDE1NjI4MTkzOD
-MsNjk5Njc1OTA2LC0xMDUxMDM5MDIsLTE0NDg2MDAwMzIsLTgz
-NjM0MDY5NiwyMTE5NjE1MTY1LDQ2NzQzMTczOSwxNjY2MjQyOT
-c5LC0xNjg4NTI4NDMxLDEwMTU1MjY3NzksLTE0NTc1NjA4NzMs
-MTcxMzMwMTIwOV19
+eyJoaXN0b3J5IjpbLTQyNDYxOTQxMiwxNzM3MzA5MTY0LDE3Mj
+UyNzUzNzYsLTE3NjEzNTg0MzgsLTQwNjc0ODkyMywtMTIyMTUx
+MjQ3NywtMjE0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYxMTU5OD
+UsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMiwtMTQ0
+ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNz
+M5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwt
+MTQ1NzU2MDg3M119
 -->
