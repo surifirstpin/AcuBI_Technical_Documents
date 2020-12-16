@@ -8,7 +8,7 @@
 - [Visualization](Visualization.md)
 - [Dashboard](Dashboard.md)
 - [SQL Runner](SQL_Runner_TD.md)
-- [JOBS](JOBS_TD.md)
+<!-- - [JOBS](JOBS_TD.md) -->
 - [Organize](Organize.md)
 - [Tags](Tag_TD.md)
 - [Admin Settings](Admin_Settings_TD.md)
