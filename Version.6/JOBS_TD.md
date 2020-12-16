@@ -120,38 +120,38 @@ Under Schedule Job Window, Enter Below details;
 ![Image 6](https://raw.githubusercontent.com/sv18042016/fp1/55af9eb09c6a72584a5902b13b37994e4d3dc29d/images/New_version5/TD_JOBS_IMAGE6.png)
  <b><font color = "Black" >Image 6</font></b>
 
-## Job Email Reports
+<!-- ## Job Email Reports --> 
 
-Similarly, for <b>Task Type:</b>  Email Report.
+<!-- Similarly, for <b>Task Type:</b>  Email Report.
 
-![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
+<!-- ![Image 7](https://raw.githubusercontent.com/sv18042016/fp1/30a4df6cf495b3da7f81c2ab2804d82ce4d30d49/images/New_version5/TD_JOBS_IMAGE8.png)
  <b><font color = "Black" >Image 7</font></b>
 
-<b><i>Enter following details in Create job window;</b></i>
+<!-- <b><i>Enter following details in Create job window;</b></i>
 
-- <b>Task Type:</b> choose Email report from drop-down list.
+<!-- - <b>Task Type:</b> choose Email report from drop-down list.
 
-- <b>Select Reports:</b> on selecting report checkbox, it will email the report result to specified email id.
+<!-- - <b>Select Reports:</b> on selecting report checkbox, it will email the report result to specified email id.
 
-> <b>Note</b> : you can select multiple reports at a time.
+<!-- > <b>Note</b> : you can select multiple reports at a time.
 
-- <b>Select Dashboard:</b> on selecting dashboard checkbox, it will email the dashboard result to specified email id.
+<!-- - <b>Select Dashboard:</b> on selecting dashboard checkbox, it will email the dashboard result to specified email id.
 
-- <b>Report Layout</b>: Select the report layout using drop down list.
+<!-- - <b>Report Layout</b>: Select the report layout using drop down list.
 
-![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
+<!-- ![Image 8](https://raw.githubusercontent.com/sv18042016/fp1/59ffca65d9d61668e0299295f8bf5d33f89eafe3/images/New_version5/TD_JOBS_IMAGE9.png)
 
- <b><font color = "Black" >Image 8</font></b>
+<!--  <b><font color = "Black" >Image 8</font></b>
 
-- <b>Report Width:</b> choose report from drop down list ( large,medium and small)
+<!-- - <b>Report Width:</b> choose report from drop down list ( large,medium and small)
 
-- <b>Email Id</b> Enter email address to whom you would like to send the report.
+<!-- - <b>Email Id</b> Enter email address to whom you would like to send the report.
 
-- <b>Save:</b> Click on save button to save the task created.
+<!-- - <b>Save:</b> Click on save button to save the task created.
 
-<b> Note 1: </b> Navigate to <b>Gear</b> icon and click Schedule as explained above ( Refer image 5 ) and click run.
+<!-- <b> Note 1: </b> Navigate to <b>Gear</b> icon and click Schedule as explained above ( Refer image 5 ) and click run.
 
-<b>Note 2:</b> Email recipient will receive the mail displaying the result for the report selected.
+<!-- <b>Note 2:</b> Email recipient will receive the mail displaying the result for the report selected.
 
 ## Job task type ( Query Sync Full)
 
