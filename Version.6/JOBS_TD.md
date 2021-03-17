@@ -267,13 +267,25 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 <b>6.</b> Click <b>Delete</b> icon to delete the job.
 
-Clone Job
+## Clone Job
+
+**Functionality:** Job cloning allows you to create an exact copy of any backup or replication job available in the job list.In addition to performing job editing tasks, you can add new jobs by means of job cloning.
+
+  
+
+**Interpretation:** While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
+
+this purpose we can clone the job we created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
+
+  
+
+This also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxNDg0NTEsLTUzNjg3MTA3NSwtMT
-Y1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MTcwLC03NzAz
-MDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0xNDM3NzQ1ND
-QwLDQyMDQ2NzQyNCwxNTczNjUwODUwLDE0NDUzMjY5MzgsMTU3
-MzY1MDg1MCw4ODkxNDUyMzIsODg5MTQ1MjMyLC0xNTY0MzU0NT
-YyLDgyNTAwMzI0NiwxNDExNDkyMzg4LC0xNzg3MTYyNTA4LDY2
-ODI4OTAxMl19
+eyJoaXN0b3J5IjpbNjA1OTk5NzU0LC01MzY4NzEwNzUsLTE2NT
+IxNjEyMzIsMTc4MjAzNjg5MywtMTI1Njg1NzE3MCwtNzcwMzA1
+MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0NiwtMTQzNzc0NTQ0MC
+w0MjA0Njc0MjQsMTU3MzY1MDg1MCwxNDQ1MzI2OTM4LDE1NzM2
+NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2NDM1NDU2Mi
+w4MjUwMDMyNDYsMTQxMTQ5MjM4OCwtMTc4NzE2MjUwOCw2Njgy
+ODkwMTJdfQ==
 -->
