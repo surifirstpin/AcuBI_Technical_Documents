@@ -279,13 +279,13 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 In fact this also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
 
-  <b>Navigation : </b>navigate to SQL Jobs list page.
+  <b>Navigation : </b>Navigate to SQL Jobs list page.
 
  <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTE4MDM1MTAsLTE5MzUzNzI4NjUsMT
+eyJoaXN0b3J5IjpbLTEyNDUzOTE3MDIsLTE5MzUzNzI4NjUsMT
 kyODc1MTc0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3
 MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MT
 cwLC03NzAzMDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0x
