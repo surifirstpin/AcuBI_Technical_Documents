@@ -273,9 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
   
 
- <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
-
-this purpose we can clone the job we created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
+ <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In this purpose we can clone the job we created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
 
   
 
@@ -287,11 +285,11 @@ This also nullifies the human error while mapping the reference fields from sour
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzUzNzI4NjUsMTkyODc1MTc0MywxMT
-AzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3MTA3NSwtMTY1MjE2
-MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MTcwLC03NzAzMDUwNT
-ksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQy
-MDQ2NzQyNCwxNTczNjUwODUwLDE0NDUzMjY5MzgsMTU3MzY1MD
-g1MCw4ODkxNDUyMzIsODg5MTQ1MjMyLC0xNTY0MzU0NTYyLDgy
-NTAwMzI0Nl19
+eyJoaXN0b3J5IjpbLTMwMTQ4MTQ1MSwtMTkzNTM3Mjg2NSwxOT
+I4NzUxNzQzLDExMDMwODc5ODksMTM3OTc2NTkxNSwtNTM2ODcx
+MDc1LC0xNjUyMTYxMjMyLDE3ODIwMzY4OTMsLTEyNTY4NTcxNz
+AsLTc3MDMwNTA1OSwtMTAyMDM5MjEyMiwtODA2Nzk1NDYsLTE0
+Mzc3NDU0NDAsNDIwNDY3NDI0LDE1NzM2NTA4NTAsMTQ0NTMyNj
+kzOCwxNTczNjUwODUwLDg4OTE0NTIzMiw4ODkxNDUyMzIsLTE1
+NjQzNTQ1NjJdfQ==
 -->
