@@ -269,7 +269,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 ## Clone Job
 
-<b> Functionality : </b> Job cloning allows you to create an exact copy of any backup or replication job available in the job list.In addition to performing job editing tasks, you can add new jobs by means of job cloning.
+<b> Functionality : </b> Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to performing job editing tasks, you can add new jobs by means of job cloning.
 
   
 
@@ -285,7 +285,7 @@ This also nullifies the human error while mapping the reference fields from sour
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTUwNDU1NTIsLTE5MzUzNzI4NjUsMT
+eyJoaXN0b3J5IjpbLTE4MDk0MzEzNTIsLTE5MzUzNzI4NjUsMT
 kyODc1MTc0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3
 MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MT
 cwLC03NzAzMDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0x
