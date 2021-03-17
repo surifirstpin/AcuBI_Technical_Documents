@@ -273,11 +273,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
   
 
- <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In this purpose we can clone the job which is created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
+ <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In this purpose we can clone the job which is created for one aggregator  to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
 
   
 
-This also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
+In fact this also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
 
   <b>Navigation : </b>navigate to SQL Jobs list page.
 
@@ -285,11 +285,11 @@ This also nullifies the human error while mapping the reference fields from sour
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU5NjI2NDU3LC0xOTM1MzcyODY1LDE5Mj
-g3NTE3NDMsMTEwMzA4Nzk4OSwxMzc5NzY1OTE1LC01MzY4NzEw
-NzUsLTE2NTIxNjEyMzIsMTc4MjAzNjg5MywtMTI1Njg1NzE3MC
-wtNzcwMzA1MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0NiwtMTQz
-Nzc0NTQ0MCw0MjA0Njc0MjQsMTU3MzY1MDg1MCwxNDQ1MzI2OT
-M4LDE1NzM2NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2
-NDM1NDU2Ml19
+eyJoaXN0b3J5IjpbLTIwMTE4MDM1MTAsLTE5MzUzNzI4NjUsMT
+kyODc1MTc0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3
+MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MT
+cwLC03NzAzMDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0x
+NDM3NzQ1NDQwLDQyMDQ2NzQyNCwxNTczNjUwODUwLDE0NDUzMj
+Y5MzgsMTU3MzY1MDg1MCw4ODkxNDUyMzIsODg5MTQ1MjMyLC0x
+NTY0MzU0NTYyXX0=
 -->
