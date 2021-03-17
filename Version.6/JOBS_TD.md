@@ -283,11 +283,11 @@ This also nullifies the human error while mapping the reference fields from sour
 
 **Navigation**: navigate to SQL Jobs list page.
 
-**1. Go to settings and click **Clone** on required job
+ 1. Go to settings and click **Clone** on required job
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjc2NDg2MywxMzc5NzY1OTE1LC01Mz
+eyJoaXN0b3J5IjpbMTEwMzA4Nzk4OSwxMzc5NzY1OTE1LC01Mz
 Y4NzEwNzUsLTE2NTIxNjEyMzIsMTc4MjAzNjg5MywtMTI1Njg1
 NzE3MCwtNzcwMzA1MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0Ni
 wtMTQzNzc0NTQ0MCw0MjA0Njc0MjQsMTU3MzY1MDg1MCwxNDQ1
