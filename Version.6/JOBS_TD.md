@@ -280,12 +280,18 @@ this purpose we can clone the job we created for one aggregator and clone the jo
   
 
 This also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
+
+**Navigation**: navigate to SQL Jobs list page.
+
+**1.**Go to settings and click **Clone** on required job
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA1OTk5NzU0LC01MzY4NzEwNzUsLTE2NT
-IxNjEyMzIsMTc4MjAzNjg5MywtMTI1Njg1NzE3MCwtNzcwMzA1
-MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0NiwtMTQzNzc0NTQ0MC
-w0MjA0Njc0MjQsMTU3MzY1MDg1MCwxNDQ1MzI2OTM4LDE1NzM2
-NTA4NTAsODg5MTQ1MjMyLDg4OTE0NTIzMiwtMTU2NDM1NDU2Mi
-w4MjUwMDMyNDYsMTQxMTQ5MjM4OCwtMTc4NzE2MjUwOCw2Njgy
-ODkwMTJdfQ==
+eyJoaXN0b3J5IjpbMTM3OTc2NTkxNSwtNTM2ODcxMDc1LC0xNj
+UyMTYxMjMyLDE3ODIwMzY4OTMsLTEyNTY4NTcxNzAsLTc3MDMw
+NTA1OSwtMTAyMDM5MjEyMiwtODA2Nzk1NDYsLTE0Mzc3NDU0ND
+AsNDIwNDY3NDI0LDE1NzM2NTA4NTAsMTQ0NTMyNjkzOCwxNTcz
+NjUwODUwLDg4OTE0NTIzMiw4ODkxNDUyMzIsLTE1NjQzNTQ1Nj
+IsODI1MDAzMjQ2LDE0MTE0OTIzODgsLTE3ODcxNjI1MDgsNjY4
+Mjg5MDEyXX0=
 -->
