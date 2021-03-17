@@ -273,7 +273,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
   
 
-**Interpretation:** While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
+ <b>Interpretation:  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
 
 this purpose we can clone the job we created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
 
@@ -287,7 +287,7 @@ This also nullifies the human error while mapping the reference fields from sour
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjIwMDAyNCwxMTAzMDg3OTg5LDEzNz
+eyJoaXN0b3J5IjpbMTkyODc1MTc0MywxMTAzMDg3OTg5LDEzNz
 k3NjU5MTUsLTUzNjg3MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2
 ODkzLC0xMjU2ODU3MTcwLC03NzAzMDUwNTksLTEwMjAzOTIxMj
 IsLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQyMDQ2NzQyNCwxNTcz
