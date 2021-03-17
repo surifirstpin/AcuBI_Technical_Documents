@@ -269,11 +269,11 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 ## Clone Job
 
-<b> Functionality: </b> Job cloning allows you to create an exact copy of any backup or replication job available in the job list.In addition to performing job editing tasks, you can add new jobs by means of job cloning.
+<b> Functionality : </b> Job cloning allows you to create an exact copy of any backup or replication job available in the job list.In addition to performing job editing tasks, you can add new jobs by means of job cloning.
 
   
 
- <b>Interpretation:  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
+ <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In
 
 this purpose we can clone the job we created for one aggregator and clone the job to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
 
@@ -281,17 +281,17 @@ this purpose we can clone the job we created for one aggregator and clone the jo
 
 This also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
 
-**Navigation**: navigate to SQL Jobs list page.
+  <b>Navigation : </b>navigate to SQL Jobs list page.
 
  1. Go to settings and click **Clone** on required job
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODc1MTc0MywxMTAzMDg3OTg5LDEzNz
-k3NjU5MTUsLTUzNjg3MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2
-ODkzLC0xMjU2ODU3MTcwLC03NzAzMDUwNTksLTEwMjAzOTIxMj
-IsLTgwNjc5NTQ2LC0xNDM3NzQ1NDQwLDQyMDQ2NzQyNCwxNTcz
-NjUwODUwLDE0NDUzMjY5MzgsMTU3MzY1MDg1MCw4ODkxNDUyMz
-IsODg5MTQ1MjMyLC0xNTY0MzU0NTYyLDgyNTAwMzI0NiwxNDEx
-NDkyMzg4XX0=
+eyJoaXN0b3J5IjpbMTUyOTIyNDkyNCwxOTI4NzUxNzQzLDExMD
+MwODc5ODksMTM3OTc2NTkxNSwtNTM2ODcxMDc1LC0xNjUyMTYx
+MjMyLDE3ODIwMzY4OTMsLTEyNTY4NTcxNzAsLTc3MDMwNTA1OS
+wtMTAyMDM5MjEyMiwtODA2Nzk1NDYsLTE0Mzc3NDU0NDAsNDIw
+NDY3NDI0LDE1NzM2NTA4NTAsMTQ0NTMyNjkzOCwxNTczNjUwOD
+UwLDg4OTE0NTIzMiw4ODkxNDUyMzIsLTE1NjQzNTQ1NjIsODI1
+MDAzMjQ2XX0=
 -->
