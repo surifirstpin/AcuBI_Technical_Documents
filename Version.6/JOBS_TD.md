@@ -286,9 +286,15 @@ In fact this also nullifies the human error while mapping the reference fields f
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I1.png?raw=true)
 <b>Image. </b> 
 
-<b>2. </b>Now give the name and click Clone for the  <b>Clone Job . </b>
+<b>2. </b>Now give the name and click Clone for the  <b>Clone Job</b>.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I2.png?raw=true)
+<b>Image. </b> 
+
+
+<b>3. </b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTkwMDI0MywtNzYzODk3NjYwLC0xNT
+eyJoaXN0b3J5IjpbLTI0NzIzNDE5NywtNzYzODk3NjYwLC0xNT
 c4MjYxNDIwLDE0MjA3MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIw
 NTUwLC0xMjQ1MzkxNzAyLC0xOTM1MzcyODY1LDE5Mjg3NTE3ND
 MsMTEwMzA4Nzk4OSwxMzc5NzY1OTE1LC01MzY4NzEwNzUsLTE2
