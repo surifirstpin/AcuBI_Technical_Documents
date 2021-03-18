@@ -292,9 +292,13 @@ In fact this also nullifies the human error while mapping the reference fields f
 <b>Image. </b> 
 
 
-<b>3. </b>
+<b>3. </b>  <b>Clone job </b> is created and can schedule to run the job.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
+<b>Image. </b> 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NzIzNDE5NywtNzYzODk3NjYwLC0xNT
+eyJoaXN0b3J5IjpbLTgwMzY0MjMwMywtNzYzODk3NjYwLC0xNT
 c4MjYxNDIwLDE0MjA3MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIw
 NTUwLC0xMjQ1MzkxNzAyLC0xOTM1MzcyODY1LDE5Mjg3NTE3ND
 MsMTEwMzA4Nzk4OSwxMzc5NzY1OTE1LC01MzY4NzEwNzUsLTE2
