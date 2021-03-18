@@ -283,10 +283,10 @@ In fact this also nullifies the human error while mapping the reference fields f
 
  <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
 
-
+![enter image description here](!%5Benter%20image%20description%20here%5D%28https://
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDcwNzc4MSwxMzEzNjIwNTUwLDE0Mj
-A3MDc3ODEsLTEyNDUzOTE3MDIsLTE5MzUzNzI4NjUsMTkyODc1
+eyJoaXN0b3J5IjpbMTQ4Nzc5NTkzNCwxNDIwNzA3NzgxLDEzMT
+M2MjA1NTAsLTEyNDUzOTE3MDIsLTE5MzUzNzI4NjUsMTkyODc1
 MTc0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3MTA3NS
 wtMTY1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2ODU3MTcwLC03
 NzAzMDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2LC0xNDM3Nz
