@@ -283,8 +283,7 @@ In fact this also nullifies the human error while mapping the reference fields f
 
  <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
 
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I1.png?raw=true)
-<b><font color = "Black" >Image </font></b>
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I1.png?raw=true)<b><font color = "Black" >Image </font></b>
 
 <b>2. </b>Now give the name and click Clone for the  <b>Clone Job</b>.
 
@@ -297,11 +296,11 @@ In fact this also nullifies the human error while mapping the reference fields f
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxMzQwNTMzLDEzNzg5ODIxNTcsMTM1Nj
-k1OTY0MywtNzYzODk3NjYwLC0xNTc4MjYxNDIwLDE0MjA3MDc3
-ODEsMTQyMDcwNzc4MSwxMzEzNjIwNTUwLC0xMjQ1MzkxNzAyLC
-0xOTM1MzcyODY1LDE5Mjg3NTE3NDMsMTEwMzA4Nzk4OSwxMzc5
-NzY1OTE1LC01MzY4NzEwNzUsLTE2NTIxNjEyMzIsMTc4MjAzNj
-g5MywtMTI1Njg1NzE3MCwtNzcwMzA1MDU5LC0xMDIwMzkyMTIy
-LC04MDY3OTU0Nl19
+eyJoaXN0b3J5IjpbMTA0NDA0NTc5LDM3MTM0MDUzMywxMzc4OT
+gyMTU3LDEzNTY5NTk2NDMsLTc2Mzg5NzY2MCwtMTU3ODI2MTQy
+MCwxNDIwNzA3NzgxLDE0MjA3MDc3ODEsMTMxMzYyMDU1MCwtMT
+I0NTM5MTcwMiwtMTkzNTM3Mjg2NSwxOTI4NzUxNzQzLDExMDMw
+ODc5ODksMTM3OTc2NTkxNSwtNTM2ODcxMDc1LC0xNjUyMTYxMj
+MyLDE3ODIwMzY4OTMsLTEyNTY4NTcxNzAsLTc3MDMwNTA1OSwt
+MTAyMDM5MjEyMl19
 -->
