@@ -269,7 +269,7 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 ## Clone Job
 
-<b> Functionality  </b>:Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to perform job editing tasks, you can add new jobs by means of job cloning.
+<b> Functionality :  </b>Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to perform job editing tasks, you can add new jobs by means of job cloning.
 
   
 
@@ -298,11 +298,11 @@ In fact this also nullifies the human error while mapping the reference fields f
 <b>Image. </b> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1Njk1OTY0MywtNzYzODk3NjYwLC0xNT
-c4MjYxNDIwLDE0MjA3MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIw
-NTUwLC0xMjQ1MzkxNzAyLC0xOTM1MzcyODY1LDE5Mjg3NTE3ND
-MsMTEwMzA4Nzk4OSwxMzc5NzY1OTE1LC01MzY4NzEwNzUsLTE2
-NTIxNjEyMzIsMTc4MjAzNjg5MywtMTI1Njg1NzE3MCwtNzcwMz
-A1MDU5LC0xMDIwMzkyMTIyLC04MDY3OTU0NiwtMTQzNzc0NTQ0
-MCw0MjA0Njc0MjRdfQ==
+eyJoaXN0b3J5IjpbMTM3ODk4MjE1NywxMzU2OTU5NjQzLC03Nj
+M4OTc2NjAsLTE1NzgyNjE0MjAsMTQyMDcwNzc4MSwxNDIwNzA3
+NzgxLDEzMTM2MjA1NTAsLTEyNDUzOTE3MDIsLTE5MzUzNzI4Nj
+UsMTkyODc1MTc0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUz
+Njg3MTA3NSwtMTY1MjE2MTIzMiwxNzgyMDM2ODkzLC0xMjU2OD
+U3MTcwLC03NzAzMDUwNTksLTEwMjAzOTIxMjIsLTgwNjc5NTQ2
+LC0xNDM3NzQ1NDQwXX0=
 -->
