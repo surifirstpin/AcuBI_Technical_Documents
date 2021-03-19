@@ -22,6 +22,15 @@
 
 and then Click on <b> Display now </b> 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%201.png?raw=true)
+
+
+-   It generates a bar code as shown below .
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%202.png?raw=true)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjE2OTQ4NiwtNTYyNDU1MjkwXX0=
+eyJoaXN0b3J5IjpbMTA0MTY4MTEzOCwtNTYyNDU1MjkwXX0=
 -->
