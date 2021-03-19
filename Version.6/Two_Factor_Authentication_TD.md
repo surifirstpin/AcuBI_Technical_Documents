@@ -23,28 +23,29 @@
 and then Click on <b> Display now </b> 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%201.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 -   It generates a bar code as shown below .
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%202.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 -   Through Google authenticator app we need register the account by scanning the bar code .
 
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%203.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
   
 
 -   This 6 digit code is applied in 2FA as shown below.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%204.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 
 -   Once the code is applied can access ACUBI site.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODMyMTk3NiwtNTYyNDU1MjkwXX0=
+eyJoaXN0b3J5IjpbLTEyMTMxNzM2MzAsMTYwODMyMTk3NiwtNT
+YyNDU1MjkwXX0=
 -->
