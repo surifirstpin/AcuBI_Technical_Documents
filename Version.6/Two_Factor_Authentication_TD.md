@@ -33,6 +33,14 @@ and then Click on <b> Display now </b>
 -   Through Google authenticator app we need register the account by scanning the bar code .
 
 
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%203.png?raw=true)
+
+  
+
+-   This 6 digit code is applied in 2FA as shown below.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%204.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MDAwNDAxLC01NjI0NTUyOTBdfQ==
+eyJoaXN0b3J5IjpbOTI3MjMzODM4LC01NjI0NTUyOTBdfQ==
 -->
