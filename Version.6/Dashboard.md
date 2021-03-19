@@ -1,4 +1,4 @@
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%203.png?raw=true)
 <center><h1>Dashboard</h1></center>
 
 Dashboard provides access to view multiple reports in single dashboard layout and provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. User can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
@@ -395,11 +395,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNz
-AwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0
-LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNz
-M4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMyNDQs
-NTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMjM3Nzc4MzksMTk4ND
-EyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYzODEsNjg1OTIxNDIy
-XX0=
+eyJoaXN0b3J5IjpbLTE5NDkxMTc2NzMsMTYzMzgyNjU2OSwtMT
+I5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3
+MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OT
+EyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3
+LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMj
+M3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYz
+ODFdfQ==
 -->
