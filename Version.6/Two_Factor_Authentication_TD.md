@@ -41,6 +41,10 @@ and then Click on <b> Display now </b>
 -   This 6 digit code is applied in 2FA as shown below.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%204.png?raw=true)
+
+
+
+-   Once the code is applied can access ACUBI site.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI3MjMzODM4LC01NjI0NTUyOTBdfQ==
+eyJoaXN0b3J5IjpbMTYwODMyMTk3NiwtNTYyNDU1MjkwXX0=
 -->
