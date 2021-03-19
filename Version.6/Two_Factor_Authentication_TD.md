@@ -30,7 +30,9 @@ and then Click on <b> Display now </b>
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/2FA%202.png?raw=true)
 
 
+-   Through Google authenticator app we need register the account by scanning the bar code .
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTY4MTEzOCwtNTYyNDU1MjkwXX0=
+eyJoaXN0b3J5IjpbLTQ0MDAwNDAxLC01NjI0NTUyOTBdfQ==
 -->
