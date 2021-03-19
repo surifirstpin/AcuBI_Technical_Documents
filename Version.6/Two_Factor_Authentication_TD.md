@@ -1,4 +1,4 @@
-**Two Factor Authentication**
+<h1><center>Two Factor Authentication</center> </h1>
 
   
 
@@ -22,5 +22,5 @@
 
 and then Click on **Display now**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MjQ1NTI5MF19
+eyJoaXN0b3J5IjpbMTEwODQ2NjQ1NCwtNTYyNDU1MjkwXX0=
 -->
