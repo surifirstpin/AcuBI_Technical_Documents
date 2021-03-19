@@ -20,7 +20,7 @@
 -   Once 2FA is enabled for an account sysytem generates a email as shown in below figure
     
 
-and then Click on **Display now**
+and then Click on <b> Display now </b> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzgzNTMwOSwtNTYyNDU1MjkwXX0=
+eyJoaXN0b3J5IjpbNTI0NjYyMjEyLC01NjI0NTUyOTBdfQ==
 -->
