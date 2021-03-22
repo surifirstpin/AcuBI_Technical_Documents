@@ -395,7 +395,7 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 
 
-## Disabled Check Box  :
+## Disabled Check Box  
 
 <b>Functionality :  </b>This feature allows us to control the data visibility in a report. When some data validation is going on or a maintainence on DB is insisted, we can stop the report display without any change to the exsisiting navigation, access control etc. Untill this option is removed the data shared with stake holders will not be displayed.Once the data is expected the data is enabled by removing the option.
 
@@ -420,11 +420,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Disabled3.png?raw=true)
  <b><font color = "Black" >Image 3</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMT
-I4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0
-ODIsMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkzNDc0LD
-U2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0LDcyNDU1Mjks
-NzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NT
-E4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4
-XX0=
+eyJoaXN0b3J5IjpbLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMT
+M1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0
+MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC
+03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMjMy
+ODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcxNz
+M3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMzI0
+NF19
 -->
