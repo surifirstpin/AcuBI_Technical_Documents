@@ -441,7 +441,7 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 -   Select <b>Check Data </b> (Today)
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C1.png?raw=true)
- <b><font color = "Black" >Image 1</font></b>
+<b><font color = "Black" >Image 1</font></b>
 
 - Enable the check box and also select the Check Data Field.
 
@@ -454,11 +454,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C3.png?raw=true)
  <b><font color = "Black" >Image 3</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MT
-U0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5
-LDE1OTcxMTE5MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNj
-MzODI2NTY5LC0xMjkwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3
-MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1Mz
-AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
-XX0=
+eyJoaXN0b3J5IjpbNzE5NDM3NTgxLC02NzI5OTg4OTMsODc4OT
+E0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwt
+MTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYwNDMsLTExOD
+A0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkz
+NDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0LDcyND
+U1MjksNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNzM4MF19
+
 -->
