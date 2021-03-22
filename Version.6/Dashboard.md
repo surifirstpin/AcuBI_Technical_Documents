@@ -397,11 +397,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 ## Disabled Check Box  :
 
-**Functionality** : This feature allows us to control the data visibility in a report. When some data validation is going on or a maintainence on DB is insisted, we can stop the report display without any change to the exsisiting navigation, access control etc. Untill this option is removed the data shared with stake holders will not be displayed.Once the data is expected the data is enabled by removing the option.
+<b>Functionality :  </b>This feature allows us to control the data visibility in a report. When some data validation is going on or a maintainence on DB is insisted, we can stop the report display without any change to the exsisiting navigation, access control etc. Untill this option is removed the data shared with stake holders will not be displayed.Once the data is expected the data is enabled by removing the option.
 
   
 
-**Interpretention :** In some circumstances we need to change the report in urgent bases and give appropriate data or else need to disable the report at certain point of time where we can use disable option.
+<b>Interpretention : </b> In some circumstances we need to change the report in urgent bases and give appropriate data or else need to disable the report at certain point of time where we can use disable option.
 
 1.Edit the report and click on save to view the disabled option.
 
@@ -420,11 +420,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Disabled3.png?raw=true)
  <b><font color = "Black" >Image 3</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OT
-cxMTE5MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2
-NTY5LC0xMjkwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLD
-Q3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYs
-MTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NT
-cwNTc1MTcsMTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1
-OV19
+eyJoaXN0b3J5IjpbNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMT
+I4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0
+ODIsMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkzNDc0LD
+U2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0LDcyNDU1Mjks
+NzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NT
+E4NzM1NiwtNzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4
+XX0=
 -->
