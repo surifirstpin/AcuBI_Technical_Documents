@@ -393,9 +393,8 @@ The sharing status displays type of privacy setting enabled for a dashboard.
     
 -   **Private:**  Grey color with 'lock icon' indicates dashboard  saved under private section.
 
-**Disabled Check Box**
 
-  
+<h1><center>Disabled Check Box</center> </h1>
 
 **Functionality** : This feature allows us to control the data visibility in a report. When some data validation is going on or a maintainence on DB is insisted, we can stop the report display without any change to the exsisiting navigation, access control etc. Untill this option is removed the data shared with stake holders will not be displayed.Once the data is expected the data is enabled by removing the option.
 
@@ -410,11 +409,11 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 2.Disabled Text – to disable the report give the relevent information.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzU3OTU0MiwxNjMzODI2NTY5LC0xMj
-kwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcx
-NCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MT
-IxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcs
-MTkzMzUyMzI0NCw1Nzk3NTEzNzgsMTkyMTY4NjA1OSwtMTEyMz
-c3NzgzOSwxOTg0MTI2NzMwLC0zMDc3NTcwMDQsLTQwNTY3NjM4
-MV19
+eyJoaXN0b3J5IjpbLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMT
+I5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3
+MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OT
+EyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3
+LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMj
+M3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYz
+ODFdfQ==
 -->
