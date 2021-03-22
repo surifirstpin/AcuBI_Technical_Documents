@@ -428,23 +428,23 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
   
 
-<b>Interpretation :<b>Dealing with check data every user wants to know whether the data shown in dashboard is todays or yesterday so that every user will have clarity .
+<b>Interpretation :<b> Dealing with check data every user wants to know whether the data shown in dashboard is todays or yesterday so that every user will have clarity .
 
   
 
   
 
-**Navigation :** To carry out this function enable check data with today or yesterday as shown below
+<b>Navigation :<b> To carry out this function enable check data with today or yesterday as shown below
 
   
 
--   Select **Check Data** (Today)
+-   Select <b>Check Data <b> (Today)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDEzNDMxOTIsLTM3MTU0NDAzMyw2MT
-c5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5
-MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC
-0xMjkwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgw
-NzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Nj
-g5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1
-MTddfQ==
+eyJoaXN0b3J5IjpbODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OT
+k3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1
+LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMT
+I5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3
+MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OT
+EyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3
+XX0=
 -->
