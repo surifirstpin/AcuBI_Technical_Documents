@@ -408,12 +408,17 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 2.Disabled Text – to disable the report give the relevent information.
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Disabled1.png?raw=true)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMT
-I5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3
-MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OT
-EyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1NiwtNzU3MDU3NTE3
-LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5MjE2ODYwNTksLTExMj
-M3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3MDA0LC00MDU2NzYz
-ODFdfQ==
+eyJoaXN0b3J5IjpbLTE5ODQ2MDQ5MDYsLTExODA0MjU0ODIsMT
+YzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4
+NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NT
+MwMjg2LDEyODY4OTEyMTMsMTI3MTczNzM4MCwtMTU5NTE4NzM1
+NiwtNzU3MDU3NTE3LDE5MzM1MjMyNDQsNTc5NzUxMzc4LDE5Mj
+E2ODYwNTksLTExMjM3Nzc4MzksMTk4NDEyNjczMCwtMzA3NzU3
+MDA0XX0=
 -->
