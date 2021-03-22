@@ -424,40 +424,41 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
   
 
-<b>Functionality : <b> To Know whether data extracted in the reports contains **Today** or **Yesterdays** information in list.
+<b>Functionality : </b> To Know whether data extracted in the reports contains **Today** or **Yesterdays** information in list.
 
   
 
-<b>Interpretation :<b> Dealing with check data every user wants to know whether the data shown in dashboard is todays or yesterday so that every user will have clarity .
+<b>Interpretation :</b> Dealing with check data every user wants to know whether the data shown in dashboard is todays or yesterday so that every user will have clarity .
 
   
 
   
 
-<b>Navigation :<b> To carry out this function enable check data with today or yesterday as shown below
+<b>Navigation :</b> To carry out this function enable check data with today or yesterday as shown below
 
   
 
--   Select <b>Check Data <b> (Today)
+-   Select <b>Check Data </b> (Today)
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C1.png?raw=true)
-
+ <b><font color = "Black" >Image 1</font></b>
 
 - Enable the check box and also select the Check Data Field.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C2.png?raw=true)
-
+ <b><font color = "Black" >Image 2</font></b>
 
 
 -   Now its reflected in dashboard as shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C3.png?raw=true)
+ <b><font color = "Black" >Image 3</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4Njg1ODUxLDg3ODkxNDQyMiwtMzcxNT
-Q0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyODE0NDks
-MTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1NDgyLDE2Mz
-M4MjY1NjksLTEyOTA4NzMxNjEsLTcwMDc5MzQ3NCw1Njg2ODcw
-MjIsNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5LDczNDUzMD
-I4NiwxMjg2ODkxMjEzLDEyNzE3MzczODAsLTE1OTUxODczNTZd
-fQ==
+eyJoaXN0b3J5IjpbLTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MT
+U0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5
+LDE1OTcxMTE5MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNj
+MzODI2NTY5LC0xMjkwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3
+MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1Mz
+AyODYsMTI4Njg5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2
+XX0=
 -->
