@@ -419,12 +419,32 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Disabled3.png?raw=true)
  <b><font color = "Black" >Image 3</font></b>
+
+## Check Data
+
+  
+
+<b>Functionality : <b> To Know whether data extracted in the reports contains **Today** or **Yesterdays** information in list.
+
+  
+
+<b>Interpretation :<b>Dealing with check data every user wants to know whether the data shown in dashboard is todays or yesterday so that every user will have clarity .
+
+  
+
+  
+
+**Navigation :** To carry out this function enable check data with today or yesterday as shown below
+
+  
+
+-   Select **Check Data** (Today)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMT
-M1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0
-MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC
-03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMjMy
-ODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxMywxMjcxNz
-M3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1MTcsMTkzMzUyMzI0
-NF19
+eyJoaXN0b3J5IjpbLTE3MDEzNDMxOTIsLTM3MTU0NDAzMyw2MT
+c5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5
+MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC
+0xMjkwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgw
+NzcxNCw0NjEyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Nj
+g5MTIxMywxMjcxNzM3MzgwLC0xNTk1MTg3MzU2LC03NTcwNTc1
+MTddfQ==
 -->
