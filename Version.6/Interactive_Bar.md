@@ -11,7 +11,10 @@
 <b> Navigation :  </b> First we need to define interactive fields in Model as shown below:
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB1.png?raw=true)
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB3.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyOTg1MDcxXX0=
+eyJoaXN0b3J5IjpbLTkzMTAxNjU5XX0=
 -->
