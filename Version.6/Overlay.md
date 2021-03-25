@@ -69,7 +69,7 @@
 
 
 
-**Lets see in detail using a query :**
+<b>Lets see in detail using a query :</b>
 
   
 
@@ -110,6 +110,7 @@ c. Then join the two queries using left join and finally gives the output result
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O5.png?raw=true)
 <b><font color = "Black" >Image 5 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNzk5NTg5MiwtMTg3MDkzMzQ1MSwxNj
-M3ODg3MjIxLC0yMTA4ODE0NiwtMTM4MjQ2MzQ1OV19
+eyJoaXN0b3J5IjpbLTExMTA5MzQ3MjUsMTAwNzk5NTg5MiwtMT
+g3MDkzMzQ1MSwxNjM3ODg3MjIxLC0yMTA4ODE0NiwtMTM4MjQ2
+MzQ1OV19
 -->
