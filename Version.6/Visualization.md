@@ -242,10 +242,14 @@ Table chart displays the data in series making it more feasible for comparing di
  Header Flipping which is applied to dimension field and for Table chart view.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H1.png?raw=true)
+<b><font color = "Black"> Image 15</b>
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H2.png?raw=true)
+<b><font color = "Black"> Image 16</b>
 
 
-
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H3.png?raw=true)
+<b><font color = "Black"> Image 17</b>
 
 
 
@@ -574,11 +578,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIxMjg5MDcsLTIyMDM5NTAzNSwtMT
-Q5NjkzMTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5
-NTk0LDEzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLT
-EwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0
-MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNj
-g3MDg2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYw
-MCw5ODgwNDk2NjBdfQ==
+eyJoaXN0b3J5IjpbMTY1NTU4MDYyMywtMjIwMzk1MDM1LC0xND
+k2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMxNTA5NSwyNTMzODk1
+OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMT
+AzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQx
+MDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2OD
+cwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4NjAsOTg5NDk5NjAw
+LDk4ODA0OTY2MF19
 -->
