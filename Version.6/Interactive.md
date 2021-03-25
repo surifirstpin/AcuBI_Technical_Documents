@@ -18,7 +18,7 @@
 
 -   Adding Interactive to the dashboard provides the dimensions in drop down list which can be enabled in the check box.
 
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i1.png?raw=true)
+
 <b><font color = "Black" >Image 1 </font></b>
 
 
@@ -47,5 +47,5 @@
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i4.png?raw=true)
 <b><font color = "Black" >Image 4 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjgxODk5MTRdfQ==
+eyJoaXN0b3J5IjpbNTE1MTc4MDc5LC0xNjY4MTg5OTE0XX0=
 -->
