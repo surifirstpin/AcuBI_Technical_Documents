@@ -22,8 +22,7 @@
   
 <b> Navigation :  </b> Go to Model section firstly, we need to define the overlay fields as shown below:
 
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O1.png?raw=true)
-<b><font color = "Black" >Image1 </font></b>
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O1.png?raw=true)<b><font color = "Black" >Image1 </font></b>
 
   
 
@@ -111,6 +110,6 @@ c. Then join the two queries using left join and finally gives the output result
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O5.png?raw=true)
 <b><font color = "Black" >Image 5 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc2NTMzMTcsLTE4NzA5MzM0NTEsMT
-YzNzg4NzIyMSwtMjEwODgxNDYsLTEzODI0NjM0NTldfQ==
+eyJoaXN0b3J5IjpbMjM3MzkxODQ5LC0xODcwOTMzNDUxLDE2Mz
+c4ODcyMjEsLTIxMDg4MTQ2LC0xMzgyNDYzNDU5XX0=
 -->
