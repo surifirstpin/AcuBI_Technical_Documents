@@ -1,6 +1,6 @@
 <h1><center>Interactive </center> </h1>
 
-<b> Functionality :  </b> : It reacts to the information and instructions given while creating the dashboard. Implies the same dimension field data to all the chart view in a single shot.
+<b> Functionality :  </b>  It reacts to the information and instructions given while creating the dashboard. Implies the same dimension field data to all the chart view in a single shot.
 
   
 
@@ -48,6 +48,6 @@
 <b><font color = "Black" >Image 4</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NTc1NDIsMTE0OTE1NjcwOCwtMTY2OD
-E4OTkxNCwtMTY2ODE4OTkxNF19
+eyJoaXN0b3J5IjpbMTQwMTQzMTQ0LDgxNDU3NTQyLDExNDkxNT
+Y3MDgsLTE2NjgxODk5MTQsLTE2NjgxODk5MTRdfQ==
 -->
