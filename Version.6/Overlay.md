@@ -30,11 +30,11 @@
 -   Operate to **Reports** section and select the desired project and Model based on the field which is mentioned in the overlay dimensions
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O2.png?raw=true)
- <b><font color = "Black" >Image </font></b>
+ <b><font color = "Black" >Image 2 </font></b>
 
 -   In case take dimension field which is not mentioned in overlay dimension as shown below it gives no data.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O3.png?raw=true)
-
+<b><font color = "Black" >Image 3</font></b>
 
 
 **Overlay Dimensions Rules:**
@@ -66,6 +66,9 @@
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O4.png?raw=true)
+<b><font color = "Black" >Image 4 </font></b>
+
+
 
 **Lets see in detail using a query :**
 
@@ -106,7 +109,8 @@ c. Then join the two queries using left join and finally gives the output result
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O5.png?raw=true)
+<b><font color = "Black" >Image 5 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3OTYzMzUzMywxNjM3ODg3MjIxLC0yMT
-A4ODE0NiwtMTM4MjQ2MzQ1OV19
+eyJoaXN0b3J5IjpbLTE4NzA5MzM0NTEsMTYzNzg4NzIyMSwtMj
+EwODgxNDYsLTEzODI0NjM0NTldfQ==
 -->
