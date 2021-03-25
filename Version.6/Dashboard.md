@@ -453,12 +453,30 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/C3.png?raw=true)
  <b><font color = "Black" >Image 3</font></b>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NDM3NTgxLC02NzI5OTg4OTMsODc4OT
-E0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwt
-MTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYwNDMsLTExOD
-A0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkz
-NDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsNDYxMjIzMjg0LDcyND
-U1MjksNzM0NTMwMjg2LDEyODY4OTEyMTMsMTI3MTczNzM4MF19
 
+## **Clear Cache**
+
+<b> Functionality :  </b> Clear cache displays the most recent data information by clearing the cache for specific dashboard.
+
+  
+
+**Interpretation :** If you are working with tool and making changes to the site. It is important to clear your cache so you are able to see the changes as they will appear to anyone viewing the page.
+
+  
+
+  
+
+**Navigation :** Click on dashboard .
+
+  
+
+-   Go to **Clear Cache** and click on it.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE1Nzc1OTAxNDcsNzE5NDM3NTgxLC02Nz
+I5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgx
+LDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMj
+UzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3
+MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsND
+YxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OTEyMTNd
+fQ==
 -->
