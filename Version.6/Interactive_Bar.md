@@ -20,7 +20,7 @@
 
 
 
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB4.png?raw=true)
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB3.png?raw=true)
 <b><font color = "Black" >Image 3 </font></b>
 
 
@@ -47,5 +47,5 @@
 <b><font color = "Black" >Image 6 </font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2ODIyNDkzNl19
+eyJoaXN0b3J5IjpbLTYxMzAxMzk3NywyMDY4MjI0OTM2XX0=
 -->
