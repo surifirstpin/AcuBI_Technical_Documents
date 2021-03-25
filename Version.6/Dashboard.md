@@ -473,13 +473,13 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 -   Go to **Clear Cache** and click on it.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Cl1.png?raw=true)
-<b><font color = "Black" >Image</font></b>
+ <b><font color = "Black" >Image</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5ND
-M3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMs
-NjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MT
-ExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2
-OSwtMTI5MDg3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0Nz
-U4MDc3MTQsNDYxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2XX0=
+eyJoaXN0b3J5IjpbNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMjE3OT
+A0NDM3LDcxOTQzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQyMiwt
+MzcxNTQ0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyOD
+E0NDksMTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1NDgy
+LDE2MzM4MjY1NjksLTEyOTA4NzMxNjEsLTcwMDc5MzQ3NCw1Nj
+g2ODcwMjIsNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5XX0=
 
 -->
