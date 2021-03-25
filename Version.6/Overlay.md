@@ -36,7 +36,7 @@
 <b><font color = "Black" >Image 3</font></b>
 
 
-**Overlay Dimensions Rules:**
+<b>Overlay Dimensions Rules:</b>
 
   
 
@@ -110,6 +110,6 @@ c. Then join the two queries using left join and finally gives the output result
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O5.png?raw=true)
 <b><font color = "Black" >Image 5 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MzkxODQ5LC0xODcwOTMzNDUxLDE2Mz
-c4ODcyMjEsLTIxMDg4MTQ2LC0xMzgyNDYzNDU5XX0=
+eyJoaXN0b3J5IjpbMTAwNzk5NTg5MiwtMTg3MDkzMzQ1MSwxNj
+M3ODg3MjIxLC0yMTA4ODE0NiwtMTM4MjQ2MzQ1OV19
 -->
