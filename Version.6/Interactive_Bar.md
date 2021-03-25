@@ -27,7 +27,9 @@
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB6.png?raw=true)
 <b><font color = "Black" >Image 4 </font></b>
 
+
   
+
 
 **NOTE**: We need to use one default measure and one default dimension in model which is mandatory.
 
@@ -47,5 +49,5 @@
 <b><font color = "Black" >Image 6 </font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzAxMzk3NywyMDY4MjI0OTM2XX0=
+eyJoaXN0b3J5IjpbLTQyMTM5NDEsMjA2ODIyNDkzNl19
 -->
