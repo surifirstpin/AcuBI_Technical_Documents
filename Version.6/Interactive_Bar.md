@@ -15,6 +15,16 @@
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB3.png?raw=true)
 
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB4.png?raw=true)
+
+  
+
+**NOTE**: We need to use one default measure and one default dimension in model which is mandatory.
+
+-   To display the Interactive Bars in Dashboards first we need to create report and select one measure field and one dimension field . Later what ever field is selected in Interactive bar it is displayed in the dashboard as shown below
+
+https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/IB5.png?raw=true
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTAxNjU5XX0=
+eyJoaXN0b3J5IjpbNTQ1Nzc0OTVdfQ==
 -->
