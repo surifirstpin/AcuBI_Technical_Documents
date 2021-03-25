@@ -24,6 +24,8 @@
 
 
 
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i4.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTY5MzE5N119
+eyJoaXN0b3J5IjpbLTU2NTMyOTA0M119
 -->
