@@ -28,8 +28,14 @@
   
 
 -   Operate to **Reports** section and select the desired project and Model based on the field which is mentioned in the overlay dimensions
-- 
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O2.png?raw=true)
+
+  
+
+-   In case take dimension field which is not mentioned in overlay dimension as shown below it gives no data.
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O3.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTM2MDk3MywxNjM3ODg3MjIxLC0yMT
-A4ODE0NiwtMTM4MjQ2MzQ1OV19
+eyJoaXN0b3J5IjpbNTA0ODU1MTc2LDE2Mzc4ODcyMjEsLTIxMD
+g4MTQ2LC0xMzgyNDYzNDU5XX0=
 -->
