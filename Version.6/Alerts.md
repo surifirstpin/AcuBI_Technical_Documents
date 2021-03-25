@@ -15,7 +15,35 @@
 <b>Navigation : </b>  Navigate to Settings and click on **Alert**
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/A1.png?raw=true)
+
+
+
+**Getting Started**
+
+  
+
+Navigate to **Settings** **-->** Alerts **-->** Click on  Add Alert
+
+  
+
+-   Content – give relevant notification
+    
+-   Expied Date – show date and time
+    
+-   Color - mention any color
+    
+-   Is Public - whether notification to be displayed to everyone or not
+    
+-   Shar User - whether notification to be displayed to particular user
+    
+-   Restrict Close – notification is closed after mentioned time is given
+    
+-   Alert Stop – immediately the alert message is stoped when the check box is enabled and saved.
+
+Click on Save and the alert is saved and shown in the Workspace as below Image but after 5mins of time it is displayed
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/A2.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjg2MzkyMTcsLTE2OTc3NTk5MzBdfQ
-==
+eyJoaXN0b3J5IjpbLTQxOTg3NiwtMTY5Nzc1OTkzMF19
 -->
