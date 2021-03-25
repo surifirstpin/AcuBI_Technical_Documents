@@ -24,7 +24,9 @@
 
 
 
+  
 
+-   Now click on the dashboard and apply the filters, so that it will intimated in all the charts as shown below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i2.png?raw=true)
 <b><font color = "Black" >Image 2 </font></b>
@@ -32,13 +34,13 @@
 
 
 
-
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i3.png?raw=true)
+<b><font color = "Black" >Image 3</font></b>
 
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i4.png?raw=true)
-<b><font color = "Black" >Image 3 </font></b>
+<b><font color = "Black" >Image 4 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYwOTA3ODNdfQ==
+eyJoaXN0b3J5IjpbMTUwNjk3NjQwOF19
 -->
