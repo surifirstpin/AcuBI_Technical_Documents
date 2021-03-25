@@ -32,15 +32,20 @@
 <b><font color = "Black" >Image 2 </font></b>
 
 
-
+-   In another case uncheck the checklist box as shown below:
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i3.png?raw=true)
 <b><font color = "Black" >Image 3</font></b>
 
 
 
+
+  
+
+-   This is how the dashboard is displayed if the checklist box is unchecked.
+
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i4.png?raw=true)
 <b><font color = "Black" >Image 4 </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjk3NjQwOF19
+eyJoaXN0b3J5IjpbLTE2NjgxODk5MTRdfQ==
 -->
