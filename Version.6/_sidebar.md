@@ -16,3 +16,5 @@
 - [Global Parameters](Global_Parameters_TD.md)
 - [Global Functions](Global_Functions.md)
 - [Overlay](Overlay.md)
+- [Interactive Bar](Interactive_Bar.md)
+- [Interactive](Interactive.md)
