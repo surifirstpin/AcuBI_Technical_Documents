@@ -35,7 +35,41 @@
 
 -   In case take dimension field which is not mentioned in overlay dimension as shown below it gives no data.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O3.png?raw=true)
+
+
+
+**Overlay Dimensions Rules:**
+
+  
+
+1. Format for overlay_table_column_name need to mention as destination_table_column_name
+
+  
+
+  
+
+  
+
+  
+
+2. For report While selecting the field (Dimension only) , need to mention the alias name from destination table (Alias name will get from SQL tab after selecting the field) as shown in **Image 3.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O4.png?raw=true)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA0ODU1MTc2LDE2Mzc4ODcyMjEsLTIxMD
-g4MTQ2LC0xMzgyNDYzNDU5XX0=
+eyJoaXN0b3J5IjpbLTE0ODU5MTU5ODksMTYzNzg4NzIyMSwtMj
+EwODgxNDYsLTEzODI0NjM0NTldfQ==
 -->
