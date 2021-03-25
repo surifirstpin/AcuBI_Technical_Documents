@@ -25,8 +25,11 @@
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O1.png?raw=true)
 
 
+  
 
+-   Operate to **Reports** section and select the desired project and Model based on the field which is mentioned in the overlay dimensions
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU2Nzk5MDM5LDE2Mzc4ODcyMjEsLTIxMD
-g4MTQ2LC0xMzgyNDYzNDU5XX0=
+eyJoaXN0b3J5IjpbLTI4MTM2MDk3MywxNjM3ODg3MjIxLC0yMT
+A4ODE0NiwtMTM4MjQ2MzQ1OV19
 -->
