@@ -23,15 +23,14 @@
 <b> Navigation :  </b> Go to Model section firstly, we need to define the overlay fields as shown below:
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O1.png?raw=true)
-
+<b><font color = "Black" >Image1 </font></b>
 
   
 
 -   Operate to **Reports** section and select the desired project and Model based on the field which is mentioned in the overlay dimensions
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O2.png?raw=true)
-
-  
+ <b><font color = "Black" >Image </font></b>
 
 -   In case take dimension field which is not mentioned in overlay dimension as shown below it gives no data.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O3.png?raw=true)
@@ -68,8 +67,46 @@
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O4.png?raw=true)
 
+**Lets see in detail using a query :**
 
+  
+
+a. Take the sql from the report section that is image 4. and give the alias name as a
+
+  
+
+(SELECT
+
+game_kpi.partner AS partner,
+
+(select distinct count(bs.ngr) as summary_NGR from pragmatic_staging.bi_summary bs) AS summary_NGR
+
+FROM pragmatic_staging.game_kpi AS game_kpi
+
+GROUP BY (game_kpi.partner))a
+
+  
+
+b. Now take the sql from model section mentioned in image1 and consider the alias name as b.
+
+  
+
+(select distinct partnerid as partner, count(bs.ngr) as summary_NGR from pragmatic_staging.bi_summary bs group by partnerid) b
+
+  
+
+c. Then join the two queries using left join and finally gives the output result.
+
+
+
+
+
+
+
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O5.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODU5MTU5ODksMTYzNzg4NzIyMSwtMj
-EwODgxNDYsLTEzODI0NjM0NTldfQ==
+eyJoaXN0b3J5IjpbLTc3OTYzMzUzMywxNjM3ODg3MjIxLC0yMT
+A4ODE0NiwtMTM4MjQ2MzQ1OV19
 -->
