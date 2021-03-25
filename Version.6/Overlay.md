@@ -1,8 +1,8 @@
-**OVERLAY**
+<h1><center>Overlay</center> </h1>
 
   
 
-**Functionality :** Overlay is implemented to bring the particular field from one table to the another table excluding joins with in the database.
+<b> Functionality :  </b> Overlay is implemented to bring the particular field from one table to the another table excluding joins with in the database.
 
   
 
@@ -17,11 +17,10 @@
 -   It is essential to use atleast one dimension field which are defined in overlay_dimensions
     
 
-**Interpretation :** During the time of proceeding using joins makes the database server has to do more work, which means that it is more time consuming process to retrieve data. In this objective we can use overlay to fetch the particular field from one table to the another table.
+<b> Interpretation :  </b> During the time of proceeding using joins makes the database server has to do more work, which means that it is more time consuming process to retrieve data. In this objective we can use overlay to fetch the particular field from one table to the another table.
 
   
-
-**Navigation :** Go to Model section firstly, we need to define the overlay fields as shown below:
+<b> Navigation :  </b> Go to Model section firstly, we need to define the overlay fields as shown below:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODI0NjM0NTldfQ==
+eyJoaXN0b3J5IjpbLTIxMDg4MTQ2LC0xMzgyNDYzNDU5XX0=
 -->
