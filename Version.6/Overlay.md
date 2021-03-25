@@ -21,6 +21,9 @@
 
   
 <b> Navigation :  </b> Go to Model section firstly, we need to define the overlay fields as shown below:
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/O1.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg4MTQ2LC0xMzgyNDYzNDU5XX0=
+eyJoaXN0b3J5IjpbMTYzNzg4NzIyMSwtMjEwODgxNDYsLTEzOD
+I0NjM0NTldfQ==
 -->
