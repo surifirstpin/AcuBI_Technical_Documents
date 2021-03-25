@@ -13,6 +13,9 @@
   
 
 <b>Navigation : </b>  Navigate to Settings and click on **Alert**
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/A1.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3NTk5MzBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjg2MzkyMTcsLTE2OTc3NTk5MzBdfQ
+==
 -->
