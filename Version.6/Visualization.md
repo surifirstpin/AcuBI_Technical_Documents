@@ -236,6 +236,25 @@ Table chart displays the data in series making it more feasible for comparing di
   ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08c494f9fa806d23afe1ace4e408a1f94d08d824/images/New_version5/TD_visu_image13.png)
 <b><font color = "Black"> Image 14</b>
 
+
+## Header Flipping
+
+ Header Flipping which is applied to dimension field and for Table chart view.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H1.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hide Pivot (Hide first, Hide last)
 
 To hide the first or last column field values in Visualization Table, Select hide first or hide last check box in Data section.
@@ -555,11 +574,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMDM5NTAzNSwtMTQ5NjkzMTE1NSwtNj
-g4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LDEzMjM2NzQw
-NTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOTQsLT
-E1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMTQ4
-MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MDg2OCwtNTMwNj
-AwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYwMCw5ODgwNDk2NjAs
-MTAyOTUyMTYzMF19
+eyJoaXN0b3J5IjpbLTExOTIxMjg5MDcsLTIyMDM5NTAzNSwtMT
+Q5NjkzMTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5
+NTk0LDEzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLT
+EwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0
+MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNj
+g3MDg2OCwtNTMwNjAwOTk2LC0xOTk1MjYzODYwLDk4OTQ5OTYw
+MCw5ODgwNDk2NjBdfQ==
 -->
