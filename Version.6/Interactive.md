@@ -45,8 +45,9 @@
 -   This is how the dashboard is displayed if the checklist box is unchecked.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/i4.png?raw=true)
+<b><font color = "Black" >Image 4</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0OTE1NjcwOCwtMTY2ODE4OTkxNCwtMT
-Y2ODE4OTkxNF19
+eyJoaXN0b3J5IjpbODE0NTc1NDIsMTE0OTE1NjcwOCwtMTY2OD
+E4OTkxNCwtMTY2ODE4OTkxNF19
 -->
