@@ -460,23 +460,23 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
   
 
-**Interpretation :** If you are working with tool and making changes to the site. It is important to clear your cache so you are able to see the changes as they will appear to anyone viewing the page.
+<b> Interpretation :  </b> If you are working with tool and making changes to the site. It is important to clear your cache so you are able to see the changes as they will appear to anyone viewing the page.
 
   
 
   
 
-**Navigation :** Click on dashboard .
+<b>Navigation : <b/>Click on dashboard .
 
   
 
 -   Go to **Clear Cache** and click on it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc1OTAxNDcsNzE5NDM3NTgxLC02Nz
-I5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgx
-LDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMj
-UzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3
-MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3MTQsND
-YxMjIzMjg0LDcyNDU1MjksNzM0NTMwMjg2LDEyODY4OTEyMTNd
-fQ==
+eyJoaXN0b3J5IjpbMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mj
+k5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEs
+NzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNT
+M4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODcz
+MTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcxNCw0Nj
+EyMjMyODQsNzI0NTUyOSw3MzQ1MzAyODYsMTI4Njg5MTIxM119
+
 -->
