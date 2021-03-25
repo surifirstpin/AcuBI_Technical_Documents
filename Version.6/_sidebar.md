@@ -9,7 +9,7 @@
 - [Dashboard](Dashboard.md)
 - [SQL Runner](SQL_Runner_TD.md)
 - [JOBS](JOBS_TD.md)
-- [Alert](Alert.md)
+- [Alerts](Alerts.md)
 - [Two Factor Authentication](Two_Factor_Authentication_TD.md)
 - [Organize](Organize.md)
 - [Tags](Tag_TD.md)
