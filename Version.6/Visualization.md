@@ -158,7 +158,6 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  - <b>Field Type</b> select the field type measure or dimension.
 
 - <b>Value</b> select value for first measure field.
-
 - <b>Format</b> select the number format for the measure field.
 
 - <b>Previous value</b> select the second measure value for widget.
@@ -176,6 +175,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 - <b>Theme</b> Select the suitable theme for widget chart.
 
 - <b>Widget Icon</b> Select suitable icon for widget values.
+
 
 - <b>BG Colour</b> Select back ground color for widget chart.
 
@@ -580,7 +580,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzk5MjMyMCwtMTk0MjM1MDE1MSwtOT
+eyJoaXN0b3J5IjpbLTYxNzk3MjAzMiwtMTk0MjM1MDE1MSwtOT
 M3NTI4MjczLC0yMjAzOTUwMzUsLTE0OTY5MzExNTUsLTY4ODQ3
 ODM3MiwxODI2MzE1MDk1LDI1MzM4OTU5NCwxMzIzNjc0MDU3LD
 EyODM0NDM0ODcsNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNTYw
