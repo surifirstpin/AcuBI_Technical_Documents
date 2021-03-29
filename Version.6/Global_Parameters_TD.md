@@ -110,12 +110,19 @@ time and helps you avoid accidental errors.
 
 2. By selecting above Key Name click on **Add Column** and **OK**
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP2.png?raw=true)
+
+
+**3.** Now by selecting above Key Name click on another **Add Column** and **OK**
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NjcyODk0LDE5NzgyOTUyMTIsNTcwMz
-QzNjYzLC0xOTUxNTM0NzAyLDE1NTkyMTc1OTksLTQ0NTU3ODcw
-MCwtOTMxODczNTM4LC0zMjMyNTkxMDYsLTgzNjQyMzQyNywtMT
-AwNzkzNzU5NywyMDY5NTc2NzIxLDczMjI2NjkxMywxMjg1OTg0
-MDI3LDkzMzg0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMT
-E4MDAzNzgyOF19
+eyJoaXN0b3J5IjpbMTM5MDc1MjU2NywxOTc4Mjk1MjEyLDU3MD
+M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
+MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
+EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
+NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLT
+ExODAwMzc4MjhdfQ==
 -->
