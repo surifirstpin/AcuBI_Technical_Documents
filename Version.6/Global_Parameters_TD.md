@@ -89,9 +89,9 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
 
-**Global Keys**
+## Global Keys
 
-<b>Functionality: </b>Through Global Parameters we can run cluster of jobs using Global Params and this Global params are reused in many jobs .
+<b>Functionality : </b>Through Global Parameters we can run cluster of jobs using Global Params and this Global params are reused in many jobs .
 
   
 
@@ -128,13 +128,13 @@ time and helps you avoid accidental errors.
 **5.** Now through jobs we need to call the global parameters. By using #KeyName.ColumnName we mention this format in Block From and Block To as shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP5.png?raw=true)
- <b><font color = "black">Image 9</font></b>
+ <b><font color = "black">Image 5</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzU5NjgwOTQsMTk3ODI5NTIxMiw1Nz
-AzNDM2NjMsLTE5NTE1MzQ3MDIsMTU1OTIxNzU5OSwtNDQ1NTc4
-NzAwLC05MzE4NzM1MzgsLTMyMzI1OTEwNiwtODM2NDIzNDI3LC
-0xMDA3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLDEyODU5
-ODQwMjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC
-0xMTgwMDM3ODI4XX0=
+eyJoaXN0b3J5IjpbLTc1MjgzMjk3OCwxOTc4Mjk1MjEyLDU3MD
+M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
+MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
+EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
+NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLT
+ExODAwMzc4MjhdfQ==
 -->
