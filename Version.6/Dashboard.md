@@ -512,12 +512,23 @@ a. The Layout Split Width is displayed in dashboard and it avails when more than
 
 
 
+b. If the Layout Split Width is adjusted by clicking the up arrow or down arrow.
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L3.png?raw=true)
+
+c. Once updated the Layout Split Width is represented in dashboard and can observe the difference in the width.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L4.png?raw=true)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzIwNzE3NTUsLTE0Mjg0MzYzOTksMj
-ExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5MjYsODQyNDY0OTAy
-LDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02NzI5OTg4OTMsODc4OT
-E0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwt
-MTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYwNDMsLTExOD
-A0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3MzE2MSwtNzAwNzkz
-NDc0XX0=
+eyJoaXN0b3J5IjpbMTU1NDA4NjM3NywtMTQyODQzNjM5OSwyMT
+E3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5MDIs
+MTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4Nzg5MT
+Q0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUxLC0x
+NTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0MywtMTE4MD
+QyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC03MDA3OTM0
+NzRdfQ==
 -->
