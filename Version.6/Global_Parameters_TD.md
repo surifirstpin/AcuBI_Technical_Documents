@@ -106,30 +106,35 @@ time and helps you avoid accidental errors.
 **1.** Go to Settings→Global Parameters and click on Add Key to give Key Name.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP1.png?raw=true)
+ <b><font color = "black">Image 1</font></b>
 
 
 **2.** By selecting above Key Name click on **Add Column** and **OK**
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP2.png?raw=true)
+ <b><font color = "black">Image 2</font></b>
 
 
 **3.** Now by selecting above Key Name click on another **Add Column** and **OK**
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP3.png?raw=true)
+ <b><font color = "black">Image 3</font></b>
 
 
 **4.** Double click on underneath the Blockfrom and Blockto to mention the required date formats to save.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP4.png?raw=true)
+ <b><font color = "black">Image 4</font></b>
 
 **5.** Now through jobs we need to call the global parameters. By using #KeyName.ColumnName we mention this format in Block From and Block To as shown in below image.
 
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP5.png?raw=true)
+ <b><font color = "black">Image 9</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMTc4OTA0MiwxOTc4Mjk1MjEyLDU3MD
-M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
-MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
-EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
-NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLT
-ExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMzU5NjgwOTQsMTk3ODI5NTIxMiw1Nz
+AzNDM2NjMsLTE5NTE1MzQ3MDIsMTU1OTIxNzU5OSwtNDQ1NTc4
+NzAwLC05MzE4NzM1MzgsLTMyMzI1OTEwNiwtODM2NDIzNDI3LC
+0xMDA3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2OTEzLDEyODU5
+ODQwMjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC
+0xMTgwMDM3ODI4XX0=
 -->
