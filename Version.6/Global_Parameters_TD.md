@@ -115,11 +115,11 @@ time and helps you avoid accidental errors.
 
 **3.** Now by selecting above Key Name click on another **Add Column** and **OK**
 
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP3.png?raw=true)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MDc1MjU2NywxOTc4Mjk1MjEyLDU3MD
+eyJoaXN0b3J5IjpbMTUxODg4NTYyOCwxOTc4Mjk1MjEyLDU3MD
 M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
 MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
 EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
