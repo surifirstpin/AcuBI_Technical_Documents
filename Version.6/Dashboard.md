@@ -526,12 +526,18 @@ c. Once updated the Layout Split Width is represented in dashboard and can obser
  <b><font color = "Black" >Image</font></b>
 
 
-## STAGNATION**
+## STAGNATION
+
+It displays all the fields which is required in dashboard .This applies to all the charts excluding Table chart and steps are clearly shown as follows:
+
+  
+
+-   If at all we enable the box of any filter in the dashboard as shown in below image
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY0MjU0NjksLTE0Mjg0MzYzOTksMj
+eyJoaXN0b3J5IjpbLTE5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMj
 ExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5MjYsODQyNDY0OTAy
 LDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02NzI5OTg4OTMsODc4OT
 E0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwt
