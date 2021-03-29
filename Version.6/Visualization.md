@@ -153,9 +153,11 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Widget1.png?raw=true)
 <b><font color = "Black"> Image 9</b>
 
+**Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step
+
  - <b>Field Type</b> select the field type measure or dimension.
 
-- <b>Value</b> select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
+- <b>Value</b> select value for first measure field.
 
 - <b>Format</b> select the number format for the measure field.
 
@@ -578,11 +580,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDIzNTAxNTEsLTkzNzUyODI3MywtMj
-IwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMx
-NTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LD
-Y2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1
-MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNT
-k5MzM0LC0yMDM2ODcwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4
-NjAsOTg5NDk5NjAwXX0=
+eyJoaXN0b3J5IjpbLTE1Mzk5MjMyMCwtMTk0MjM1MDE1MSwtOT
+M3NTI4MjczLC0yMjAzOTUwMzUsLTE0OTY5MzExNTUsLTY4ODQ3
+ODM3MiwxODI2MzE1MDk1LDI1MzM4OTU5NCwxMzIzNjc0MDU3LD
+EyODM0NDM0ODcsNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNTYw
+MTM0NTU0LC00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0Mj
+MxMTAsLTE0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMDk5
+NiwtMTk5NTI2Mzg2MF19
 -->
