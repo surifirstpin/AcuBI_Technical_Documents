@@ -526,7 +526,7 @@ c. Once updated the Layout Split Width is represented in dashboard and can obser
  <b><font color = "Black" >Image</font></b>
 
 
-## STAGNATION
+##  STAGNATION
 
 It displays all the fields which is required in dashboard .This applies to all the charts excluding Table chart and steps are clearly shown as follows:
 
@@ -535,6 +535,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 -   If at all we enable the box of any filter in the dashboard as shown in below image
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag1.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 
 
@@ -542,20 +543,21 @@ It displays all the fields which is required in dashboard .This applies to all t
 -   It wont dispaly any chart except table chart.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag2.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 
 
-
-
+-   Now go to Filters and apply Hub field in the dashboard section, it displays all the chart view.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MjAwMjUyLC0xOTc3NjY2ODQxLC0xND
-I4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4OTI2
-LDg0MjQ2NDkwMiwxMjE3OTA0NDM3LDcxOTQzNzU4MSwtNjcyOT
-k4ODkzLDg3ODkxNDQyMiwtMzcxNTQ0MDMzLDYxNzk5NzQ4MSw3
-ODAxMzUwNTEsLTE1MzEyODE0NDksMTU5NzExMTkyNSwxMDI1Mz
-g2MDQzLC0xMTgwNDI1NDgyLDE2MzM4MjY1NjksLTEyOTA4NzMx
-NjFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLT
+E0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5
+MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02Nz
+I5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgx
+LDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMj
+UzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3
+MzE2MV19
 -->
