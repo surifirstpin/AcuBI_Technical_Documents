@@ -476,12 +476,18 @@ The sharing status displays type of privacy setting enabled for a dashboard.
  <b><font color = "Black" >Image</font></b>
 
 **In widget showing the First value , Second value and Growth Value**
+
+In widget displaying first value and second value in one report.
+
+  
+
+-   Let us see only one value in a report by selecting in report section and displays the same in dashboard.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0Nj
-Q5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4
-Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MD
-UxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0Mywt
-MTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC03MD
-A3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODRd
-fQ==
+eyJoaXN0b3J5IjpbLTE5Mjg4MDA0MzQsMjQwNjIzMTgwLDUyNT
+I1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEs
+LTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OT
+c0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUs
+MTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMj
+kwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcx
+NF19
 -->
