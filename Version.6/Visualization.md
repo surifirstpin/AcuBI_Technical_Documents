@@ -237,9 +237,13 @@ It is used to display the data in circles. We can define each bubble using dimen
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
  <b>9.</b> Choose chart type <b>Table</b> from drop-down list.
-  
+  ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Table1.png?raw=true)
 <b><font color = "Black"> Image 14</b>
 
+-   Now click on  Bets EUR in Datasets
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Table%202.png?raw=true)
+<b><font color = "Black"> Image 1</b>
 
 ## Header Flipping
 
@@ -580,11 +584,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLT
-kzNzUyODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0
-NzgzNzIsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1Ny
-wxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2
-MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzND
-IzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01MzA2MDA5
-OTYsLTE5OTUyNjM4NjBdfQ==
+eyJoaXN0b3J5IjpbMTgxMDE4MTM5LC0xMjEwNTQwMDU0LC0xOT
+QyMzUwMTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNSwtMTQ5Njkz
+MTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LD
+EzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIw
+MzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MT
+MzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MDg2
+OCwtNTMwNjAwOTk2XX0=
 -->
