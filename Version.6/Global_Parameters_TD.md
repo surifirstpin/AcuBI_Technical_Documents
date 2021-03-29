@@ -103,12 +103,12 @@ time and helps you avoid accidental errors.
 
   
 
-1. Go to Settings→Global Parameters and click on Add Key to give Key Name.
+**1. Go to Settings→Global Parameters and click on Add Key to give Key Name.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP1.png?raw=true)
 
 
-2. By selecting above Key Name click on **Add Column** and **OK**
+**2.** By selecting above Key Name click on **Add Column** and **OK**
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP2.png?raw=true)
 
@@ -119,10 +119,10 @@ time and helps you avoid accidental errors.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODg4NTYyOCwxOTc4Mjk1MjEyLDU3MD
-M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
-MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
-EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
-NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLT
-ExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbODgwNzkxMTAwLDE5NzgyOTUyMTIsNTcwMz
+QzNjYzLC0xOTUxNTM0NzAyLDE1NTkyMTc1OTksLTQ0NTU3ODcw
+MCwtOTMxODczNTM4LC0zMjMyNTkxMDYsLTgzNjQyMzQyNywtMT
+AwNzkzNzU5NywyMDY5NTc2NzIxLDczMjI2NjkxMywxMjg1OTg0
+MDI3LDkzMzg0MjY1LDQ1NjQ1MjUwNiwtMjAyOTgzNTYwNCwtMT
+E4MDAzNzgyOF19
 -->
