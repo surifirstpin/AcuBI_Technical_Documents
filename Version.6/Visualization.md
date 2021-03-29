@@ -150,8 +150,10 @@ It displays one or more data series as a data graph. Widget chart is used to dis
 
  <b>5.</b> Choose chart type <b>Widget</b> from drop-down list to compare the data using widget chart.
  
-![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/4da95044ccb29a41476cf9fe318aeead3a4ef0b6/images/New_version5/TD_Visu_Image8.png)
+ ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Widget1.png?raw=true)
 <b><font color = "Black"> Image 9</b>
+
+ - <b>Field Type</b> select the field type measure or dimension.
 
 - <b>Value</b> select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step.
 
@@ -576,11 +578,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzUyODI3MywtMjIwMzk1MDM1LC0xND
-k2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMxNTA5NSwyNTMzODk1
-OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMT
-AzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQx
-MDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2OD
-cwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4NjAsOTg5NDk5NjAw
-LDk4ODA0OTY2MF19
+eyJoaXN0b3J5IjpbLTE5NDIzNTAxNTEsLTkzNzUyODI3MywtMj
+IwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMx
+NTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LD
+Y2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1
+MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNT
+k5MzM0LC0yMDM2ODcwODY4LC01MzA2MDA5OTYsLTE5OTUyNjM4
+NjAsOTg5NDk5NjAwXX0=
 -->
