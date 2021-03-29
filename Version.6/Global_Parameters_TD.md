@@ -129,12 +129,13 @@ time and helps you avoid accidental errors.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/GP5.png?raw=true)
  <b><font color = "black">Image 5</font></b>
-
+ 
+**6.** Finally save the job and in case if the date needs to be changed can navigate to Global Parameters for further use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjgzMjk3OCwxOTc4Mjk1MjEyLDU3MD
-M0MzY2MywtMTk1MTUzNDcwMiwxNTU5MjE3NTk5LC00NDU1Nzg3
-MDAsLTkzMTg3MzUzOCwtMzIzMjU5MTA2LC04MzY0MjM0MjcsLT
-EwMDc5Mzc1OTcsMjA2OTU3NjcyMSw3MzIyNjY5MTMsMTI4NTk4
-NDAyNyw5MzM4NDI2NSw0NTY0NTI1MDYsLTIwMjk4MzU2MDQsLT
-ExODAwMzc4MjhdfQ==
+eyJoaXN0b3J5IjpbMTk4MTkzNzY2LC03NTI4MzI5NzgsMTk3OD
+I5NTIxMiw1NzAzNDM2NjMsLTE5NTE1MzQ3MDIsMTU1OTIxNzU5
+OSwtNDQ1NTc4NzAwLC05MzE4NzM1MzgsLTMyMzI1OTEwNiwtOD
+M2NDIzNDI3LC0xMDA3OTM3NTk3LDIwNjk1NzY3MjEsNzMyMjY2
+OTEzLDEyODU5ODQwMjcsOTMzODQyNjUsNDU2NDUyNTA2LC0yMD
+I5ODM1NjA0LC0xMTgwMDM3ODI4XX0=
 -->
