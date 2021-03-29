@@ -474,12 +474,14 @@ The sharing status displays type of privacy setting enabled for a dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Cl1.png?raw=true)
  <b><font color = "Black" >Image</font></b>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMjE3OT
-A0NDM3LDcxOTQzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQyMiwt
-MzcxNTQ0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyOD
-E0NDksMTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1NDgy
-LDE2MzM4MjY1NjksLTEyOTA4NzMxNjEsLTcwMDc5MzQ3NCw1Nj
-g2ODcwMjIsNDc1ODA3NzE0LDQ2MTIyMzI4NCw3MjQ1NTI5XX0=
 
+**In widget showing the First value , Second value and Growth Value**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0Nj
+Q5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4
+Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MD
+UxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0Mywt
+MTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC03MD
+A3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcxNCw0NjEyMjMyODRd
+fQ==
 -->
