@@ -484,21 +484,28 @@ In widget displaying first value and second value in one report.
 -   Let us see only one value in a report by selecting in report section and displays the same in dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W1.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
+
 
 
 -   Now select second value in the report section and it displays first value and second value as shown in figure.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W2.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 
 
+-   Another feature of Widget is it displays growth value only for previous value and not for second value.In report section select growth value under previous value and reflects same in dashboard.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W3.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQyODY0ODgsMjQwNjIzMTgwLDUyNT
-I1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEs
-LTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OT
-c0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUs
-MTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2NTY5LC0xMj
-kwODczMTYxLC03MDA3OTM0NzQsNTY4Njg3MDIyLDQ3NTgwNzcx
-NF19
+eyJoaXN0b3J5IjpbMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNT
+g5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02
+NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3ND
+gxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEw
+MjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MD
+g3MzE2MSwtNzAwNzkzNDc0LDU2ODY4NzAyMiw0NzU4MDc3MTRd
+fQ==
 -->
