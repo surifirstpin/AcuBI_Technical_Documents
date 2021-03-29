@@ -482,8 +482,19 @@ In widget displaying first value and second value in one report.
   
 
 -   Let us see only one value in a report by selecting in report section and displays the same in dashboard.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W1.png?raw=true)
+
+
+-   Now select second value in the report section and it displays first value and second value as shown in figure.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W2.png?raw=true)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg4MDA0MzQsMjQwNjIzMTgwLDUyNT
+eyJoaXN0b3J5IjpbLTE0OTQyODY0ODgsMjQwNjIzMTgwLDUyNT
 I1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEs
 LTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OT
 c0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OTcxMTE5MjUs
