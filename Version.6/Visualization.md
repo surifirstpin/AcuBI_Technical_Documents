@@ -243,7 +243,37 @@ Table chart displays the data in series making it more feasible for comparing di
 -   Now click on  Bets EUR in Datasets
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Table%202.png?raw=true)
-<b><font color = "Black"> Image 1</b>
+<b><font color = "Black"> Image 15</b>
+
+
+-   **Header Color** displays the color which is choosed in drop down.
+    
+
+  
+
+-   **Hfont-weight** enables the font size of the header
+    
+
+  
+
+-   **Footer-FontWeight** enables the font size of the footer
+    
+
+  
+
+-   **Format** choose the number format for measure value.
+    
+
+  
+
+-   **Currency** choose the currency format for measure value.
+    
+
+  
+
+  
+
+-   **Column Agg** Type of aggregate value to be displayed for a measure.
 
 ## Header Flipping
 
@@ -584,11 +614,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDE4MTM5LC0xMjEwNTQwMDU0LC0xOT
-QyMzUwMTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNSwtMTQ5Njkz
-MTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LD
-EzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIw
-MzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MT
-MzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMzNCwtMjAzNjg3MDg2
-OCwtNTMwNjAwOTk2XX0=
+eyJoaXN0b3J5IjpbLTE4NTQ3OTg2MTEsLTEyMTA1NDAwNTQsLT
+E5NDIzNTAxNTEsLTkzNzUyODI3MywtMjIwMzk1MDM1LC0xNDk2
+OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMxNTA5NSwyNTMzODk1OT
+QsMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAz
+MjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMD
+QxMzM2LC0xNDgzNDIzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcw
+ODY4LC01MzA2MDA5OTZdfQ==
 -->
