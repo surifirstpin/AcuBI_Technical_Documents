@@ -88,10 +88,27 @@ After importing the file, data is reflected in global parameter section. <b>(Ref
 ## Check Case Functionality On / Off
 
 If check case is enabled, global parameters become case sensitive for key mapping in calculated column.
+
+**Global Keys**
+
+<b>Functionality: </b>Through Global Parameters we can run cluster of jobs using Global Params and this Global params are reused in many jobs .
+
+  
+
+<b>Interpretention : </b> Always editing the jobs and changing the dates leads to failure of job. So to overcome this situation we are calling the date functionalities through Global parameters .This Global Params which are created are used in Job and called through Block From and Block To. This interface enables you to avoid opening and editing the file. As a result the application saves your
+
+time and helps you avoid accidental errors.
+
+  
+
+  
+
+1. Go to Settings→Global Parameters and click on Add Key to give Key Name.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMzQzNjYzLC0xOTUxNTM0NzAyLDE1NT
-kyMTc1OTksLTQ0NTU3ODcwMCwtOTMxODczNTM4LC0zMjMyNTkx
-MDYsLTgzNjQyMzQyNywtMTAwNzkzNzU5NywyMDY5NTc2NzIxLD
-czMjI2NjkxMywxMjg1OTg0MDI3LDkzMzg0MjY1LDQ1NjQ1MjUw
-NiwtMjAyOTgzNTYwNCwtMTE4MDAzNzgyOF19
+eyJoaXN0b3J5IjpbMTk3ODI5NTIxMiw1NzAzNDM2NjMsLTE5NT
+E1MzQ3MDIsMTU1OTIxNzU5OSwtNDQ1NTc4NzAwLC05MzE4NzM1
+MzgsLTMyMzI1OTEwNiwtODM2NDIzNDI3LC0xMDA3OTM3NTk3LD
+IwNjk1NzY3MjEsNzMyMjY2OTEzLDEyODU5ODQwMjcsOTMzODQy
+NjUsNDU2NDUyNTA2LC0yMDI5ODM1NjA0LC0xMTgwMDM3ODI4XX
+0=
 -->
