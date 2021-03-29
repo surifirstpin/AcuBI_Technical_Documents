@@ -505,10 +505,12 @@ In widget displaying first value and second value in one report.
 It describes the width between the reports which represents in dashboard.Default Layout Split Width is 8 which is shown while saving the dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L1.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 a. The Layout Split Width is displayed in dashboard and it avails when more than one report is added in dasboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L2.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 
 
@@ -516,19 +518,21 @@ b. If the Layout Split Width is adjusted by clicking the up arrow or down arrow.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L3.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 c. Once updated the Layout Split Width is represented in dashboard and can observe the difference in the width.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/L4.png?raw=true)
+ <b><font color = "Black" >Image</font></b>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDA4NjM3NywtMTQyODQzNjM5OSwyMT
-E3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5MDIs
-MTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4Nzg5MT
-Q0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUxLC0x
-NTMxMjgxNDQ5LDE1OTcxMTE5MjUsMTAyNTM4NjA0MywtMTE4MD
-QyNTQ4MiwxNjMzODI2NTY5LC0xMjkwODczMTYxLC03MDA3OTM0
-NzRdfQ==
+eyJoaXN0b3J5IjpbNTUxNzc1OTgxLC0xNDI4NDM2Mzk5LDIxMT
+cyMDc1MywyNDA2MjMxODAsNTI1MjU4OTI2LDg0MjQ2NDkwMiwx
+MjE3OTA0NDM3LDcxOTQzNzU4MSwtNjcyOTk4ODkzLDg3ODkxND
+QyMiwtMzcxNTQ0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1
+MzEyODE0NDksMTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwND
+I1NDgyLDE2MzM4MjY1NjksLTEyOTA4NzMxNjEsLTcwMDc5MzQ3
+NF19
 -->
