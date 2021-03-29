@@ -237,7 +237,7 @@ It is used to display the data in circles. We can define each bubble using dimen
 Table chart displays the data in series making it more feasible for comparing dimensions and measure values.
  
  <b>9.</b> Choose chart type <b>Table</b> from drop-down list.
-  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/08c494f9fa806d23afe1ace4e408a1f94d08d824/images/New_version5/TD_visu_image13.png)
+  
 <b><font color = "Black"> Image 14</b>
 
 
@@ -580,11 +580,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzk3MjAzMiwtMTk0MjM1MDE1MSwtOT
-M3NTI4MjczLC0yMjAzOTUwMzUsLTE0OTY5MzExNTUsLTY4ODQ3
-ODM3MiwxODI2MzE1MDk1LDI1MzM4OTU5NCwxMzIzNjc0MDU3LD
-EyODM0NDM0ODcsNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNTYw
-MTM0NTU0LC00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0Mj
-MxMTAsLTE0MTA1OTkzMzQsLTIwMzY4NzA4NjgsLTUzMDYwMDk5
-NiwtMTk5NTI2Mzg2MF19
+eyJoaXN0b3J5IjpbLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLT
+kzNzUyODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0
+NzgzNzIsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1Ny
+wxMjgzNDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2
+MDEzNDU1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzND
+IzMTEwLC0xNDEwNTk5MzM0LC0yMDM2ODcwODY4LC01MzA2MDA5
+OTYsLTE5OTUyNjM4NjBdfQ==
 -->
