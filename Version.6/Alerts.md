@@ -44,8 +44,7 @@ Click on Save and the alert is saved and shown in the Workspace as below Image b
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/A2.png?raw=true)
-<b><font color = "Black" >Image 2</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTI0MjU0OTEsLTE2OTc3NTk5MzBdfQ
-==
+eyJoaXN0b3J5IjpbLTg3MDc4MTg3NSwtMjA5MjQyNTQ5MSwtMT
+Y5Nzc1OTkzMF19
 -->
