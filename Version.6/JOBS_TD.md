@@ -3,13 +3,18 @@
 
 <h1><center>Jobs</center> </h1>
 
-Jobs are used for scheduling tasks to run on the server. They are most commonly used                                                                                                                                                                                                                                                                                                         for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
+Jobs are used for scheduling tasks to run on the server. They are most commonly used for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
 
-## Functionalities
+## **Functionalities**
 
-- Jobs can be set to run in time interval such as by minute, hour, month, year or any of these combinations.
+-   Jobs can be set to run in time interval such as by minute, hour, month, year or any of these combinations.
+    
+-   You can run jobs as many times as desired.
+    
 
-- You can run jobs as many times as desired.
+**Interpretention**
+
+Proceeding with jobs can run repetitive tasks or can be scheduled insted of manual process and we can run job manually or you can configure it to run according to a schedule or in response to alerts. By generating alerts we can automatically get notification to users through job.
 
 ## Getting Started 
 
@@ -297,11 +302,11 @@ In fact this also nullifies the human error while mapping the reference fields f
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE1MTEyMTUsLTE2NDA2NzU4NzQsMT
-A0NDA0NTc5LDM3MTM0MDUzMywxMzc4OTgyMTU3LDEzNTY5NTk2
-NDMsLTc2Mzg5NzY2MCwtMTU3ODI2MTQyMCwxNDIwNzA3NzgxLD
-E0MjA3MDc3ODEsMTMxMzYyMDU1MCwtMTI0NTM5MTcwMiwtMTkz
-NTM3Mjg2NSwxOTI4NzUxNzQzLDExMDMwODc5ODksMTM3OTc2NT
-kxNSwtNTM2ODcxMDc1LC0xNjUyMTYxMjMyLDE3ODIwMzY4OTMs
-LTEyNTY4NTcxNzBdfQ==
+eyJoaXN0b3J5IjpbLTEyOTk5NzQ1NTUsLTIxMjE1MTEyMTUsLT
+E2NDA2NzU4NzQsMTA0NDA0NTc5LDM3MTM0MDUzMywxMzc4OTgy
+MTU3LDEzNTY5NTk2NDMsLTc2Mzg5NzY2MCwtMTU3ODI2MTQyMC
+wxNDIwNzA3NzgxLDE0MjA3MDc3ODEsMTMxMzYyMDU1MCwtMTI0
+NTM5MTcwMiwtMTkzNTM3Mjg2NSwxOTI4NzUxNzQzLDExMDMwOD
+c5ODksMTM3OTc2NTkxNSwtNTM2ODcxMDc1LC0xNjUyMTYxMjMy
+LDE3ODIwMzY4OTNdfQ==
 -->
