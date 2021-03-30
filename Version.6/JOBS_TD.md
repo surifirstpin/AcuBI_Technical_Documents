@@ -5,14 +5,14 @@
 
 Jobs are used for scheduling tasks to run on the server. They are most commonly used for automating system maintenance or administration at a specified time and date. Jobs are scheduled task itself, which are useful to automate repetitive tasks.
 
-## **Functionalities**
+<b> Functionalities </b>
 
 -   Jobs can be set to run in time interval such as by minute, hour, month, year or any of these combinations.
     
 -   You can run jobs as many times as desired.
     
 
-**Interpretention**
+<b> Interpretention </b>
 
 Proceeding with jobs can run repetitive tasks or can be scheduled insted of manual process and we can run job manually or you can configure it to run according to a schedule or in response to alerts. By generating alerts we can automatically get notification to users through job.
 
@@ -302,11 +302,11 @@ In fact this also nullifies the human error while mapping the reference fields f
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk5NzQ1NTUsLTIxMjE1MTEyMTUsLT
-E2NDA2NzU4NzQsMTA0NDA0NTc5LDM3MTM0MDUzMywxMzc4OTgy
-MTU3LDEzNTY5NTk2NDMsLTc2Mzg5NzY2MCwtMTU3ODI2MTQyMC
-wxNDIwNzA3NzgxLDE0MjA3MDc3ODEsMTMxMzYyMDU1MCwtMTI0
-NTM5MTcwMiwtMTkzNTM3Mjg2NSwxOTI4NzUxNzQzLDExMDMwOD
-c5ODksMTM3OTc2NTkxNSwtNTM2ODcxMDc1LC0xNjUyMTYxMjMy
-LDE3ODIwMzY4OTNdfQ==
+eyJoaXN0b3J5IjpbMTkyNjMwNTgzNywtMjEyMTUxMTIxNSwtMT
+Y0MDY3NTg3NCwxMDQ0MDQ1NzksMzcxMzQwNTMzLDEzNzg5ODIx
+NTcsMTM1Njk1OTY0MywtNzYzODk3NjYwLC0xNTc4MjYxNDIwLD
+E0MjA3MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIwNTUwLC0xMjQ1
+MzkxNzAyLC0xOTM1MzcyODY1LDE5Mjg3NTE3NDMsMTEwMzA4Nz
+k4OSwxMzc5NzY1OTE1LC01MzY4NzEwNzUsLTE2NTIxNjEyMzIs
+MTc4MjAzNjg5M119
 -->
