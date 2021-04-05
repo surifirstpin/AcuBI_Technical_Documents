@@ -1,1 +1,32 @@
+## Clone Job
 
+<b> Functionality :  </b>Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to perform job editing tasks, you can add new jobs by means of job cloning.
+
+  
+
+ <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In this purpose we can clone the job which is created for one aggregator  to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
+
+  
+
+In fact this also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
+
+  <b>Navigation : navigate to SQL Jobs list page.
+
+ <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I1.png?raw=true)<b><font color = "Black" >Image </font></b>
+
+<b>2. </b>Now give the name and click Clone for the  <b>Clone Job</b>.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I2.png?raw=true)
+<b><font color = "Black" >Image</font></b>
+
+
+<b>3. </b>  <b>Clone job </b> is created and can schedule to run the job.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
+<b><font color = "Black" >Image </font></b>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNTA3MjcwNDBdfQ==
+-->
