@@ -50,11 +50,31 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL5.png?raw=true)
 
+
+**Note:** The dashboard is rendered by clicking on **Daily View** or **Monthly View** without using **Apply** button also.
+
+  
+
+  
+
+  
+
+  
+
+5.In another instance if we wont checklist the **box**.
+
+
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL6.png?raw=true)
 
 
+6. It reflects the same in the dashboard as unchecked Daily View and Monthly View
+
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL7.png?raw=true)
 
+
+
+
+8. In another way can get the data by clicking on the checkbox and apply in Filters.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL8.png?raw=true)
@@ -62,5 +82,5 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc4MjQ3NjQsMTQ0NjU2NjE2MF19
+eyJoaXN0b3J5IjpbOTgzODQyOTU1LDE0NDY1NjYxNjBdfQ==
 -->
