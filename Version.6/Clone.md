@@ -43,6 +43,13 @@ To task clone an existing job:
 <b>1.</b> Select the required job and **Edit**
 
 <b>2.</b> Now go to **Settings** icon in task list
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/tc1.png?raw=true)
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC2.png?raw=true)
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC3.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDA2MjYxNThdfQ==
+eyJoaXN0b3J5IjpbMjAxODk2NjU1MiwtMTc0MDYyNjE1OF19
 -->
