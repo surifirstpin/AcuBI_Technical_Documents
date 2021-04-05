@@ -280,22 +280,23 @@ Search option makes the user to work more easier as they are number of jobs in t
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JS1.png?raw=true)
+  <b><font color = "Black" >Image</font></b>
 
 
 
-
+-   Go to the search bar and give the job name which is needed and displays the relevent job as below.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JS2.png?raw=true)
-
+  <b><font color = "Black" >Image </font></b>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5OTE1MzAwNSwtNjQwMDUwMTI0LC0zOT
-czMTc0NjUsMTkyNjMwNTgzNywtMjEyMTUxMTIxNSwtMTY0MDY3
-NTg3NCwxMDQ0MDQ1NzksMzcxMzQwNTMzLDEzNzg5ODIxNTcsMT
-M1Njk1OTY0MywtNzYzODk3NjYwLC0xNTc4MjYxNDIwLDE0MjA3
-MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIwNTUwLC0xMjQ1MzkxNz
-AyLC0xOTM1MzcyODY1LDE5Mjg3NTE3NDMsMTEwMzA4Nzk4OSwx
-Mzc5NzY1OTE1XX0=
+eyJoaXN0b3J5IjpbLTE5NjE4ODgxODIsLTY0MDA1MDEyNCwtMz
+k3MzE3NDY1LDE5MjYzMDU4MzcsLTIxMjE1MTEyMTUsLTE2NDA2
+NzU4NzQsMTA0NDA0NTc5LDM3MTM0MDUzMywxMzc4OTgyMTU3LD
+EzNTY5NTk2NDMsLTc2Mzg5NzY2MCwtMTU3ODI2MTQyMCwxNDIw
+NzA3NzgxLDE0MjA3MDc3ODEsMTMxMzYyMDU1MCwtMTI0NTM5MT
+cwMiwtMTkzNTM3Mjg2NSwxOTI4NzUxNzQzLDExMDMwODc5ODks
+MTM3OTc2NTkxNV19
 -->
