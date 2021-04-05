@@ -13,6 +13,8 @@
 1. Go to Dashboard and click on add **Global Filters** to set Date in filter **Type**.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL1.png?raw=true)
+<b><font color = "Black" >Image 1. </font></b>
+
 
 To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
@@ -34,21 +36,25 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 2.Click on add **Group Column** in Timeline Grouping
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL2.png?raw=true)
+<b><font color = "Black" >Image 2.</font></b>
 
   
 
 -   From below image we can see Group Column fields are listed which can be preffered according to the report
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Tl3.png?raw=true)
+<b><font color = "Black" >Image 3. </font></b>
 
 3. Now checklist the **box**  so that it will be imitated in dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL4.png?raw=true)
+<b><font color = "Black" >Image 4. </font></b>
 
 
 4.Checklisted Group Column **Date** field format is reflected in the dashboard as **DailyView** in Orange Colour and refers the Timeline Grouping in the dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL5.png?raw=true)
+<b><font color = "Black" >Image 5. </font></b>
 
 
 **Note:** The dashboard is rendered by clicking on **Daily View** or **Monthly View** without using **Apply** button also.
@@ -65,6 +71,7 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL6.png?raw=true)
+<b><font color = "Black" >Image  5.</font></b>
 
 
 6. It reflects the same in the dashboard as unchecked Daily View and Monthly View
@@ -82,5 +89,5 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgzODQyOTU1LDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbLTEyMTkyNTI1OTMsMTQ0NjU2NjE2MF19
 -->
