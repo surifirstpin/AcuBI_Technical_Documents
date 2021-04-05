@@ -42,7 +42,7 @@ To task clone an existing job:
 
 <b>1.</b> Select the required job and **Edit**
 
-2.Now go to **Settings** icon in task list
+<b>2.</b> Now go to **Settings** icon in task list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODgxMjQ2MV19
+eyJoaXN0b3J5IjpbLTE3NDA2MjYxNThdfQ==
 -->
