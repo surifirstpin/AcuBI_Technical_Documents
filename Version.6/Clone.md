@@ -50,6 +50,11 @@ To task clone an existing job:
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC2.png?raw=true)
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC3.png?raw=true)
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC4.png?raw=true)
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC5.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODk2NjU1MiwtMTc0MDYyNjE1OF19
+eyJoaXN0b3J5IjpbNDMxMTQyNTc3LC0xNzQwNjI2MTU4XX0=
 -->
