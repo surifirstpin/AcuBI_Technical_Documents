@@ -45,23 +45,28 @@ To task clone an existing job:
 <b>2.</b> Now go to **Settings** icon in task list
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/tc1.png?raw=true)
+<b><font color = "Black" >Image </font></b>
 
 3.Click on **Clone**
+
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC2.png?raw=true)
+<b><font color = "Black" >Image </font></b>
+
 
 
 4.Now click **Clone** to clone a task.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC3.png?raw=true)
 
 
+5.Task cloned is successfull.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC4.png?raw=true)
 
 
-
+6.Finally **Task Cloned** is shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC5.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUzOTk4OTk3LDQzMTE0MjU3NywtMTc0MD
+eyJoaXN0b3J5IjpbNTk5NzkxMjM1LDQzMTE0MjU3NywtMTc0MD
 YyNjE1OF19
 -->
