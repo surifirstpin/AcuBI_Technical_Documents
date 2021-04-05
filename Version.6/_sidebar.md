@@ -20,4 +20,3 @@
 - [Interactive Bar](Interactive_Bar.md)
 - [Interactive](Interactive.md)
 - [Clone](Clone.md)
-- [Timeline Grouping](TimeLine_Grouping.md)
