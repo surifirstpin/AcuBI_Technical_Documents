@@ -71,12 +71,13 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL6.png?raw=true)
-<b><font color = "Black" >Image  5.</font></b>
+<b><font color = "Black" >Image  6.</font></b>
 
 
 6. It reflects the same in the dashboard as unchecked Daily View and Monthly View
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL7.png?raw=true)
+<b><font color = "Black" >Image  7.</font></b>
 
 
 
@@ -85,9 +86,10 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL8.png?raw=true)
+<b><font color = "Black" >Image  8.</font></b>
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTkyNTI1OTMsMTQ0NjU2NjE2MF19
+eyJoaXN0b3J5IjpbLTIwNzg2NjI1MzUsMTQ0NjU2NjE2MF19
 -->
