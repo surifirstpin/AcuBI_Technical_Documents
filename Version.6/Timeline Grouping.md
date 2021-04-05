@@ -67,7 +67,7 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
   
 
-5.In another instance if we wont checklist the **box**.
+5. In another instance if we wont checklist the **box**.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL6.png?raw=true)
@@ -91,5 +91,5 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg2NjI1MzUsMTQ0NjU2NjE2MF19
+eyJoaXN0b3J5IjpbLTEwNTk3NTU4MzEsMTQ0NjU2NjE2MF19
 -->
