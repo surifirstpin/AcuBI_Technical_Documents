@@ -4,7 +4,7 @@
 
   
 
-**Functionality**
+<b> Functionality :  </b>
 
 Application Programming interface (‘API’) is a computing interface that defines interactions between multiple software intermediaries.This feature allows to extract data stored in the form of an xml in the given API as data columns and allows to map to a target table column name.Using this API extraction to a data table we can only read the data in the API.
 
@@ -14,9 +14,9 @@ Under this task type data is transmitted from URL to target destination by using
 
   
 
-**Interpretention**
+<b>Interpretation :  </b>
 
 Approaching with Task type API allows you to interact with the tables and data inside the url and provides the exact data provided in the url to the client by using Get method.We involve Get Method in this Task type API which is used to request data from a specified resource and it cannot modify data as well.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTkyODkwN119
+eyJoaXN0b3J5IjpbLTgwNjQ1MTkyNV19
 -->
