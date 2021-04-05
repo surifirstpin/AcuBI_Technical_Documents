@@ -272,14 +272,20 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 <b>6.</b> Click <b>Delete</b> icon to delete the job.
 
+## Jobs Search option
+
+  
+
+Search option makes the user to work more easier as they are number of jobs in the SQL Jobs.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzMxNzQ2NSwxOTI2MzA1ODM3LC0yMT
-IxNTExMjE1LC0xNjQwNjc1ODc0LDEwNDQwNDU3OSwzNzEzNDA1
-MzMsMTM3ODk4MjE1NywxMzU2OTU5NjQzLC03NjM4OTc2NjAsLT
-E1NzgyNjE0MjAsMTQyMDcwNzc4MSwxNDIwNzA3NzgxLDEzMTM2
-MjA1NTAsLTEyNDUzOTE3MDIsLTE5MzUzNzI4NjUsMTkyODc1MT
-c0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3MTA3NSwt
-MTY1MjE2MTIzMl19
+eyJoaXN0b3J5IjpbLTY0MDA1MDEyNCwtMzk3MzE3NDY1LDE5Mj
+YzMDU4MzcsLTIxMjE1MTEyMTUsLTE2NDA2NzU4NzQsMTA0NDA0
+NTc5LDM3MTM0MDUzMywxMzc4OTgyMTU3LDEzNTY5NTk2NDMsLT
+c2Mzg5NzY2MCwtMTU3ODI2MTQyMCwxNDIwNzA3NzgxLDE0MjA3
+MDc3ODEsMTMxMzYyMDU1MCwtMTI0NTM5MTcwMiwtMTkzNTM3Mj
+g2NSwxOTI4NzUxNzQzLDExMDMwODc5ODksMTM3OTc2NTkxNSwt
+NTM2ODcxMDc1XX0=
 -->
