@@ -1,4 +1,6 @@
-## Clone Job
+
+
+<h1><center>Clone Job</center> </h1>
 
 <b> Functionality :  </b>Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to perform job editing tasks, you can add new jobs by means of job cloning.
 
@@ -71,6 +73,6 @@ To task clone an existing job:
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC5.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjM3NTQ5Nyw0MzExNDI1NzcsLTE3ND
-A2MjYxNThdfQ==
+eyJoaXN0b3J5IjpbLTE3MTM0OTY2MTMsMTAyMjM3NTQ5Nyw0Mz
+ExNDI1NzcsLTE3NDA2MjYxNThdfQ==
 -->
