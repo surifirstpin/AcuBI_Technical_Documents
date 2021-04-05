@@ -12,7 +12,7 @@
 
 In fact this also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
 
-  <b>Navigation : navigate to SQL Jobs list page.
+  <b>Navigation : </b> navigate to SQL Jobs list page.
 
  <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
 
@@ -73,6 +73,6 @@ To task clone an existing job:
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TC5.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTM0OTY2MTMsMTAyMjM3NTQ5Nyw0Mz
+eyJoaXN0b3J5IjpbLTEwMTMyMjY0NjIsMTAyMjM3NTQ5Nyw0Mz
 ExNDI1NzcsLTE3NDA2MjYxNThdfQ==
 -->
