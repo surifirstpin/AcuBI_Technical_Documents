@@ -272,41 +272,14 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 
 <b>6.</b> Click <b>Delete</b> icon to delete the job.
 
-## Clone Job
-
-<b> Functionality :  </b>Job cloning allows you to create an exact copy of any backup or replication job available in the job list. In addition to perform job editing tasks, you can add new jobs by means of job cloning.
-
-  
-
- <b>Interpretation :  </b> While we are dealing with many jobs with different aggregations, we need to aggregate the data with many common columns but a different aggregator. In this purpose we can clone the job which is created for one aggregator  to get the same replica and then change dimensions as per new creteria. This minimise the effort and saves the bussiness time in creating a new job which is almost to previous job but with small differences.
-
-  
-
-In fact this also nullifies the human error while mapping the reference fields from source SQL to target table coloumns.
-
-  <b>Navigation : navigate to SQL Jobs list page.
-
- <b>1. </b>Go to settings and click  <b> Clone </b> on required job.
 
 
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I1.png?raw=true)<b><font color = "Black" >Image </font></b>
-
-<b>2. </b>Now give the name and click Clone for the  <b>Clone Job</b>.
-
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I2.png?raw=true)
-<b><font color = "Black" >Image</font></b>
-
-
-<b>3. </b>  <b>Clone job </b> is created and can schedule to run the job.
-
-![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
-<b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjMwNTgzNywtMjEyMTUxMTIxNSwtMT
-Y0MDY3NTg3NCwxMDQ0MDQ1NzksMzcxMzQwNTMzLDEzNzg5ODIx
-NTcsMTM1Njk1OTY0MywtNzYzODk3NjYwLC0xNTc4MjYxNDIwLD
-E0MjA3MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIwNTUwLC0xMjQ1
-MzkxNzAyLC0xOTM1MzcyODY1LDE5Mjg3NTE3NDMsMTEwMzA4Nz
-k4OSwxMzc5NzY1OTE1LC01MzY4NzEwNzUsLTE2NTIxNjEyMzIs
-MTc4MjAzNjg5M119
+eyJoaXN0b3J5IjpbLTM5NzMxNzQ2NSwxOTI2MzA1ODM3LC0yMT
+IxNTExMjE1LC0xNjQwNjc1ODc0LDEwNDQwNDU3OSwzNzEzNDA1
+MzMsMTM3ODk4MjE1NywxMzU2OTU5NjQzLC03NjM4OTc2NjAsLT
+E1NzgyNjE0MjAsMTQyMDcwNzc4MSwxNDIwNzA3NzgxLDEzMTM2
+MjA1NTAsLTEyNDUzOTE3MDIsLTE5MzUzNzI4NjUsMTkyODc1MT
+c0MywxMTAzMDg3OTg5LDEzNzk3NjU5MTUsLTUzNjg3MTA3NSwt
+MTY1MjE2MTIzMl19
 -->
