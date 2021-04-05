@@ -27,6 +27,22 @@ In fact this also nullifies the human error while mapping the reference fields f
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/I3.png?raw=true)
 <b><font color = "Black" >Image </font></b>
+
+## Task Cloning
+
+  
+
+Cloning a task takes the contents of the task and re-creates it as a new task with a different name. This is helpful for when you want to change parts of an existing task without any possible side effects.
+
+  
+
+  
+
+To task clone an existing job:
+
+<b>1.</b> Select the required job and **Edit**
+
+2.Now go to **Settings** icon in task list
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTA3MjcwNDBdfQ==
+eyJoaXN0b3J5IjpbLTI2ODgxMjQ2MV19
 -->
