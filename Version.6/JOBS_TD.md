@@ -285,12 +285,17 @@ Search option makes the user to work more easier as they are number of jobs in t
 
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JS2.png?raw=true)
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY4MDIwNjA5LC02NDAwNTAxMjQsLTM5Nz
-MxNzQ2NSwxOTI2MzA1ODM3LC0yMTIxNTExMjE1LC0xNjQwNjc1
-ODc0LDEwNDQwNDU3OSwzNzEzNDA1MzMsMTM3ODk4MjE1NywxMz
-U2OTU5NjQzLC03NjM4OTc2NjAsLTE1NzgyNjE0MjAsMTQyMDcw
-Nzc4MSwxNDIwNzA3NzgxLDEzMTM2MjA1NTAsLTEyNDUzOTE3MD
-IsLTE5MzUzNzI4NjUsMTkyODc1MTc0MywxMTAzMDg3OTg5LDEz
-Nzk3NjU5MTVdfQ==
+eyJoaXN0b3J5IjpbMTA5OTE1MzAwNSwtNjQwMDUwMTI0LC0zOT
+czMTc0NjUsMTkyNjMwNTgzNywtMjEyMTUxMTIxNSwtMTY0MDY3
+NTg3NCwxMDQ0MDQ1NzksMzcxMzQwNTMzLDEzNzg5ODIxNTcsMT
+M1Njk1OTY0MywtNzYzODk3NjYwLC0xNTc4MjYxNDIwLDE0MjA3
+MDc3ODEsMTQyMDcwNzc4MSwxMzEzNjIwNTUwLC0xMjQ1MzkxNz
+AyLC0xOTM1MzcyODY1LDE5Mjg3NTE3NDMsMTEwMzA4Nzk4OSwx
+Mzc5NzY1OTE1XX0=
 -->
