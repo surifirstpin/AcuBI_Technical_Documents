@@ -14,6 +14,30 @@
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL1.png?raw=true)
 
+To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
+
+  
+
+-   **Timeline Grouping name** : name of the timeline grouping
+    
+-   **Apply to field** : applies filter options to available field list in the report
+    
+-   **Group Column** : adds filter to the report
+    
+-   **Group Column Style** : applies add filter in required format.
+    
+
+  
+
+  
+
+2.Click on add **Group Column** in Timeline Grouping
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL2.png?raw=true)
+
+  
+
+-   From below image we can see Group Column fields are listed which can be preffered according to the report
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTE5MTc2LDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbNjE5MjQxMzcwLDE0NDY1NjYxNjBdfQ==
 -->
