@@ -38,6 +38,15 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
   
 
 -   From below image we can see Group Column fields are listed which can be preffered according to the report
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Tl3.png?raw=true)
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL4.png?raw=true)
+
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL5.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MjQxMzcwLDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbMjM1MDEyMzM3LDE0NDY1NjYxNjBdfQ==
 -->
