@@ -21,6 +21,64 @@ Approaching with Task type API allows you to interact with the tables and data i
 <b>Navigation : </b> Navigate to Sql runner -> Create Job**
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JA1.png?raw=true)
 
+**Select Task Type: API from drop-down list.**
+
+Enter following details in create Job window:
+
+-   **URL :**https://go.affiliatexe.com/api/admin/?fkp_username=ssssss&api_password=gPM1Onbv^O&command=report&fromdate=${key_start}&todate=${key_end}
+    
+
+-   **Method :** GET
+    
+-   **Key :** command
+    
+-   **Value :** commissions
+    
+
+  
+  
+
+-   **Block type:** Select **Date** from drop-down list.
+    
+
+-   **Block From & To:** enter start date and end date till where the data to fetched.
+    
+
+> **Block From** : 2020-11-08 YYYY|MM|DD **Block To** : 2020-11-09 YYYY|MM|DD
+
+-   **Block Size:** Enter specific run time range.
+    
+
+> **Note: Block size:** 3 ( on selecting 1 runs daily, 2-runs once in two days and so on)
+
+-   **Block Key From & To:** it works as reference name ( applicable in case of where conditions)
+    
+
+> **Block Key From:** Block Key: ${key_start} **Block Key To:** Block Key: ${key_end}
+
+-   **Target Connection:**Select target database connection.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JA2.png?raw=true)
+
+-   **Schema:** Select schema from drop down list.
+    
+-   **Table:** Select the target table from drop down list.
+    
+    -   **Insert/Update:** Insert or update target table.
+        
+    -   **Delete before insert:** Delete existing data before inserting target data.
+        
+    -   **Truncate Table before insert:** delete entire table before inserting target data.
+        
+-   **Delete Reference Query:**Deletes previously existing records for blocks and reloads fresh data.
+    
+-   **Update Reference Fields:** it is a primary key based on given combination, data over writes the existing data.
+    
+
+-   **Field Mapping:** enable field mapping for source and target data.
+    
+-   Click on **Save** button to save the job.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY0MzYzMTMsLTU0NDE3MjIwNl19
+eyJoaXN0b3J5IjpbLTMyMDU0NDUxMiwtNTQ0MTcyMjA2XX0=
 -->
