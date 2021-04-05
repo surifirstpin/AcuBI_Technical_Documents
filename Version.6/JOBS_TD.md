@@ -279,13 +279,18 @@ SELECT * FROM pragmatic.casino_summary where summary between  '2019-03-01' and '
 Search option makes the user to work more easier as they are number of jobs in the SQL Jobs.
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/JS1.png?raw=true)
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDA1MDEyNCwtMzk3MzE3NDY1LDE5Mj
-YzMDU4MzcsLTIxMjE1MTEyMTUsLTE2NDA2NzU4NzQsMTA0NDA0
-NTc5LDM3MTM0MDUzMywxMzc4OTgyMTU3LDEzNTY5NTk2NDMsLT
-c2Mzg5NzY2MCwtMTU3ODI2MTQyMCwxNDIwNzA3NzgxLDE0MjA3
-MDc3ODEsMTMxMzYyMDU1MCwtMTI0NTM5MTcwMiwtMTkzNTM3Mj
-g2NSwxOTI4NzUxNzQzLDExMDMwODc5ODksMTM3OTc2NTkxNSwt
-NTM2ODcxMDc1XX0=
+eyJoaXN0b3J5IjpbNTY4MDIwNjA5LC02NDAwNTAxMjQsLTM5Nz
+MxNzQ2NSwxOTI2MzA1ODM3LC0yMTIxNTExMjE1LC0xNjQwNjc1
+ODc0LDEwNDQwNDU3OSwzNzEzNDA1MzMsMTM3ODk4MjE1NywxMz
+U2OTU5NjQzLC03NjM4OTc2NjAsLTE1NzgyNjE0MjAsMTQyMDcw
+Nzc4MSwxNDIwNzA3NzgxLDEzMTM2MjA1NTAsLTEyNDUzOTE3MD
+IsLTE5MzUzNzI4NjUsMTkyODc1MTc0MywxMTAzMDg3OTg5LDEz
+Nzk3NjU5MTVdfQ==
 -->
