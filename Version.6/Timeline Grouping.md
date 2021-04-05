@@ -41,10 +41,12 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Tl3.png?raw=true)
 
+3. Now checklist the **box**  so that it will be imitated in dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL4.png?raw=true)
 
 
+4.Checklisted Group Column **Date** field format is reflected in the dashboard as **DailyView** in Orange Colour and refers the Timeline Grouping in the dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL5.png?raw=true)
 
@@ -52,6 +54,13 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL7.png?raw=true)
+
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL8.png?raw=true)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMTI0NTY4LDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc4MjQ3NjQsMTQ0NjU2NjE2MF19
 -->
