@@ -10,7 +10,10 @@
   
 
  <b>Navigation : </b> 
+1. Go to Dashboard and click on add **Global Filters** to set Date in filter **Type**.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL1.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk0MjE0NDQ5LDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbLTI0NTE5MTc2LDE0NDY1NjYxNjBdfQ==
 -->
