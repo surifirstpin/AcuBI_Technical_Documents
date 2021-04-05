@@ -47,6 +47,11 @@ To add new **Timeline Grouping** to dashboard click on add Timeline Grouping
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL5.png?raw=true)
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL6.png?raw=true)
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/TL7.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1MDEyMzM3LDE0NDY1NjYxNjBdfQ==
+eyJoaXN0b3J5IjpbNzQxMTI0NTY4LDE0NDY1NjYxNjBdfQ==
 -->
