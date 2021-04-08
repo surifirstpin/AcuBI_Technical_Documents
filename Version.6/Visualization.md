@@ -501,12 +501,12 @@ Gauge chart displays current status in the context of goal.
 
  ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/05951e453ff2bcd8b3afd29f0b02b488113e0025/images/New_version5/td_visu_image28.png)
 
-<b><font color = "Black"> Image 22</b>
+<b><font color = "Black"> Image 28</b>
 
 ## X-Axis 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image21.png)
-<b><font color = "Black"> Image 23</b>
+<b><font color = "Black"> Image 29</b>
 
 - <b>Axis type </b> specifies the how x-axis scale for Line, Bar,Bubble is calculated and displayed.
 
@@ -542,7 +542,7 @@ Gauge chart displays current status in the context of goal.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b6c2628d58b42d23d022e28b9b3bee1c44a10e73/images/New_version5/TD_Visu_Image22.png)
 
-<b><font color = "Black"> Image 24</b>
+<b><font color = "Black"> Image 30</b>
 
 - <b>Axis  </b> select the measures values on y-axis  to enable
 editing options for y-axis in Line, Bar and bubble chart.
@@ -586,7 +586,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 > Note:  Consider below image, which displays the format section for table chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-<b><font color = "Black"> Image 25</b>
+<b><font color = "Black"> Image 31</b>
 
 - <b>Condition : </b> Specify any of the following condition types  
    - Greater than
@@ -632,7 +632,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY0NDg2MCw3NDQ1NTU1NzcsLTE4NT
+eyJoaXN0b3J5IjpbMTQzNjk5MTE1MCw3NDQ1NTU1NzcsLTE4NT
 Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
 ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
 IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
