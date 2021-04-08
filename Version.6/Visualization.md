@@ -335,7 +335,7 @@ The resultant for this expression would be seen in green color;
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. (Applicable only for table chart). 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/9364e4dc946533da5edb31847a634646c86b3ae5/images/New_version5/TD_Visu_Image16.png)
-<b><font color = "Black"> Image 17</b>
+<b><font color = "Black"> Image 23</b>
 
 Similarly, to hide last column, select check_bob Hide_Last.
 
@@ -348,7 +348,7 @@ Funnels helps to visualize a process that has stages and items flow sequentially
  <b>10.</b> Choose chart type <b>Funnel</b> from drop down-list.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/2f2fb255d5529d8fd300f252e2ce61aba3985755/images/New_version5/TD_Visu_Image17.png)
-<b><font color = "Black"> Image 18</b>
+<b><font color = "Black"> Image 24</b>
 
 <b><i> You can view the funnel charts in following formats by enabling checkbox for below mentioned fields;</i></b>
 
@@ -376,12 +376,12 @@ Gauge chart displays current status in the context of goal.
 - <b>Green</b> color in gauge chart indicates the value attained is closer to target.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b4838dece9a608f6372b8e6e1ad4c52a8955d4ec/images/New_version5/TD_Visu_Image18.png)
-<b><font color = "Black"> Image 19</b>
+<b><font color = "Black"> Image 25</b>
 
 - <b>Orange</b> color indicates the maximum value attained is half the way to target and <b>Red</b> color indicates the maximum value attained is at initial state or lower side of the target. 
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/master/images/New_version5/TD_Visu_Image19.png)
-<b><font color = "Black"> Image 20</b>
+<b><font color = "Black"> Image 26</b>
 
 - <b>Value</b> select one of the available measure values from the drop down.
 
@@ -425,7 +425,7 @@ Gauge chart displays current status in the context of goal.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/f6b12c66e409436d4be04517aaa3b98f09dc668f/images/New_version5/td_visu4.png)
 
-<b><font color = "Black"> Image 21</b>
+<b><font color = "Black"> Image 27</b>
 
 - <b>Grouped Tooltips</b> if more than one measure field is selected, it displays both the measure values on moving the hover over the column.
 
@@ -632,7 +632,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODQ2OTE4MSw3NDQ1NTU1NzcsLTE4NT
+eyJoaXN0b3J5IjpbLTc2MjY0NDg2MCw3NDQ1NTU1NzcsLTE4NT
 Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
 ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
 IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
