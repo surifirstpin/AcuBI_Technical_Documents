@@ -582,21 +582,25 @@ editing options for y-axis in Line, Bar and bubble chart.
  1.Click on Add Reference Line.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref1.png?raw=true)
+<b><font color = "Black"> Image 31</b>
 
 <b>Note:</b> Y-Axis is enabled only for Line, Bar and Bubble chart only.
 
  2.  Showing the **Reference Line 1** by selecting the Data Field (Bets Euro) for Type (Linear)
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref2.png?raw=true)
+<b><font color = "Black"> Image 32</b>
 
  3. Showing the **Reference Line 2** by selecting the Data Field (Wins Euro) for Type (Polynomial)
  
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref3.png?raw=true)
+<b><font color = "Black"> Image 33</b>
 
 
  4. Showing the **Reference Line 3** by selecting the Data Field (Total) for Type (Exponential)
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref4.png?raw=true)
+<b><font color = "Black"> Image 34</b>
 
  
 # Format   
@@ -652,11 +656,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDU2MDYzMTgsNzM0NzI5OTc0LDE0Mz
-Y5OTExNTAsNzQ0NTU1NTc3LC0xODU0Nzk4NjExLC0xMjEwNTQw
-MDU0LC0xOTQyMzUwMTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNS
-wtMTQ5NjkzMTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUz
-Mzg5NTk0LDEzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNz
-YsLTEwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3Niwt
-MTI0MTA0MTMzNl19
+eyJoaXN0b3J5IjpbMTAxNzI2ODI4MCwtMTg0NTYwNjMxOCw3Mz
+Q3Mjk5NzQsMTQzNjk5MTE1MCw3NDQ1NTU1NzcsLTE4NTQ3OTg2
+MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUyODI3My
+wtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgy
+NjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgzNDQzND
+g3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwt
+NDI1MDI1OTc2XX0=
 -->
