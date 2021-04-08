@@ -553,9 +553,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
 
-# Showing  visualizations of the report are shown on the dashboard. Reference Line of Report
+# Showing  visualizations of the Reference Line of Report on the dashboard. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODU1ODc3MzMsLTE2MDg1MzY2NjksLT
+eyJoaXN0b3J5IjpbLTE3NjQ2NjgxMDIsLTE2MDg1MzY2NjksLT
 E5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYy
 MzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNz
 E5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQw
