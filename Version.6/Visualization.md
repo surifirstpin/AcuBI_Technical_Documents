@@ -610,7 +610,7 @@ editing options for y-axis in Line, Bar and bubble chart.
 > Note:  Consider below image, which displays the format section for table chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/1199f45790ebb995f76c92d0d25a8beacade92cf/images/New_version5/TD_Visu_Image20.png)
-<b><font color = "Black"> Image 31</b>
+<b><font color = "Black"> Image 35</b>
 
 - <b>Condition : </b> Specify any of the following condition types  
    - Greater than
@@ -656,7 +656,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzI2ODI4MCwtMTg0NTYwNjMxOCw3Mz
+eyJoaXN0b3J5IjpbMTM3NzU5Njk4OCwtMTg0NTYwNjMxOCw3Mz
 Q3Mjk5NzQsMTQzNjk5MTE1MCw3NDQ1NTU1NzcsLTE4NTQ3OTg2
 MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUyODI3My
 wtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgy
