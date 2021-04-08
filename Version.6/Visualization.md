@@ -105,13 +105,14 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 -   **Show value** on enabling this checkbox, it displays value for each measure in pie chart. If disabled it displays dimension name.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/P1.png?raw=true)
-
+<b><font color = "Black"> Image 7</b>
   
 
 -   **Value & Percent** on selecting this checkbox, it displays value and percentage value for each measure in pie chart. If disabled it displays dimension name.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/P2.png?raw=true)
+<b><font color = "Black"> Image 8</b>
 
 
 
@@ -122,7 +123,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 -  <b>Donut</b> donut chart are equal to pie chart. They show relationships of parts to a whole. To enable this, choose <b>Check Box</b> for donut view.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/79a4c25fef2c47376b4eb788dd65249da7297afa/images/New_version5/TD_Visu_Image7.png)
-<b><font color = "Black"> Image 7</b>
+<b><font color = "Black"> Image 9</b>
 
 ## Radar chart 
 
@@ -132,7 +133,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
  <b>4.</b> Choose chart type <b>RADAR</b> from given drop-down list compare the data using Radar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/7482c4048b2b436faf52562e46d69819e6ac9484/images/New_version5/TD_Visu_Image10.png)
-<b><font color = "Black"> Image 8</b>
+<b><font color = "Black"> Image 10</b>
 
 - <b>Points (General)</b> on selecting the checkbox it enables pointers for the data range in line chart.
 
@@ -168,7 +169,7 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  <b>5.</b> Choose chart type <b>Widget</b> from drop-down list to compare the data using widget chart.
  
  ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Widget1.png?raw=true)
-<b><font color = "Black"> Image 9</b>
+<b><font color = "Black"> Image 11</b>
 
 **Value** select the measure to show in the widget. you can use this field to specify the measure field if you have multiple measure value defined in the underlying step
 
@@ -631,7 +632,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjUyMjQ5NCw3NDQ1NTU1NzcsLTE4NT
+eyJoaXN0b3J5IjpbMjAyNTQ2NTQ5Nyw3NDQ1NTU1NzcsLTE4NT
 Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
 ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
 IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
