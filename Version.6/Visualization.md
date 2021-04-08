@@ -577,13 +577,17 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 - <b>Theme </b> enables color for reference line.
  
-  <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+  
  
  1.Click on Add Reference Line.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref1.png?raw=true)
 
 <b>Note:</b> Y-Axis is enabled only for Line, Bar and Bubble chart only.
+
+ 2.  Showing the **Reference Line 1** by selecting the Data Field (Bets Euro) for Type (Linear)
+
+
 
  
 # Format   
@@ -639,7 +643,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzY5NTg5LDczNDcyOTk3NCwxNDM2OT
+eyJoaXN0b3J5IjpbMTM0OTYyOTcyLDczNDcyOTk3NCwxNDM2OT
 kxMTUwLDc0NDU1NTU3NywtMTg1NDc5ODYxMSwtMTIxMDU0MDA1
 NCwtMTk0MjM1MDE1MSwtOTM3NTI4MjczLC0yMjAzOTUwMzUsLT
 E0OTY5MzExNTUsLTY4ODQ3ODM3MiwxODI2MzE1MDk1LDI1MzM4
