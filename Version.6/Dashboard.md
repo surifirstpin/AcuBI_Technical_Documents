@@ -555,19 +555,19 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 # Showing  visualizations of the Reference Line of Report on the dashboard. 
 
-1.  The  visualizations of the report are shown on the dashboard.
+ **1.**   The  visualizations of the report are shown on the dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref5.png?raw=true)
  <b><font color = "Black" >Image 1</font></b>
 
- 6. In other way to change the **Type** of the chart and the **Reference Line**
+ **2.**  In other way to change the **Type** of the chart and the **Reference Line**
 
 -   > Navigate to the settings icon as shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref6.png?raw=true)
  <b><font color = "Black" >Image 2</font></b>
 
-** 7.** Now click on the More settings where the data field , Type and Reference Line are visible.
+ **3.**  Now click on the More settings where the data field , Type and Reference Line are visible.
 
  **Note**: Type and Reference Line can be changed for each **Data Field**
 
@@ -575,16 +575,16 @@ It displays all the fields which is required in dashboard .This applies to all t
  <b><font color = "Black" >Image 3</font></b>
 
 
- **8.** Visualizations of the particular data field can be hidden as shown in below image.
+ **4.** Visualizations of the particular data field can be hidden as shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref8.png?raw=true)
  <b><font color = "Black" >Image 4</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjkyMzgyOTYsLTE2MDg1MzY2NjksLT
-E5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYy
-MzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNz
-E5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQw
-MzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNT
-k3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgy
-NjU2OV19
+eyJoaXN0b3J5IjpbMTM4ODA1NTc0LC0xMzI5MjM4Mjk2LC0xNj
+A4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mzk5LDIxMTcy
+MDc1MywyNDA2MjMxODAsNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMj
+E3OTA0NDM3LDcxOTQzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQy
+MiwtMzcxNTQ0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1Mz
+EyODE0NDksMTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1
+NDgyXX0=
 -->
