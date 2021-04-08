@@ -1,7 +1,15 @@
 
 <h1><center>Dashboard</center> </h1>
 
-Dashboard provides access to view multiple reports in single dashboard layout and provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. User can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
+<b> Functionality :  </b> Dashboard provides access to view multiple reports in single dashboard layout and provides a quick view on related data. In order to make it more feasible to users, it is provided with set of global filters by making dashboard more interactive and can re-arrange the titles. After configuring a dashboard to your interest, you can share it with your team. User can create as many dashboards as you want, so you can alter each dashboard as per your business requirement.
+
+  
+
+<b>Interpretation :  </b> Looking into one report we cannot conclude the business needs, for that we need multiple reports to view. For this we need dashboard which can display multiple reports in a single dashboard where we can get clarity of business data . This dashboard displays values of business which are used in order to change the business dynamics in one screen. Dashboard displays decision making facts to run a business also.
+
+  
+
+**Note :** Dashboards and reports are dependent on each other because of the values that can be drop down report level.
 
 ## View Dashboard
 
@@ -580,11 +588,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref8.png?raw=true)
  <b><font color = "Black" >Image 4</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwODAxOTczNSwxMzg4MDU1NzQsLTEzMj
-kyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0Mjg0
-MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5MjYsOD
-QyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02NzI5OTg4
-OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MD
-EzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYw
-NDNdfQ==
+eyJoaXN0b3J5IjpbMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4OD
+A1NTc0LC0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2
+ODQxLC0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMxODAsNT
+I1MjU4OTI2LDg0MjQ2NDkwMiwxMjE3OTA0NDM3LDcxOTQzNzU4
+MSwtNjcyOTk4ODkzLDg3ODkxNDQyMiwtMzcxNTQ0MDMzLDYxNz
+k5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyODE0NDksMTU5NzExMTky
+NV19
 -->
