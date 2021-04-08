@@ -105,6 +105,9 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/P1.png?raw=true)
+
+
 
 
 
@@ -624,11 +627,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTU1NTc3LC0xODU0Nzk4NjExLC0xMj
-EwNTQwMDU0LC0xOTQyMzUwMTUxLC05Mzc1MjgyNzMsLTIyMDM5
-NTAzNSwtMTQ5NjkzMTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOT
-UsMjUzMzg5NTk0LDEzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0
-ODExNzYsLTEwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNT
-k3NiwtMTI0MTA0MTMzNiwtMTQ4MzQyMzExMCwtMTQxMDU5OTMz
-NCwtMjAzNjg3MDg2OF19
+eyJoaXN0b3J5IjpbNjEzMjkwMDExLDc0NDU1NTU3NywtMTg1ND
+c5ODYxMSwtMTIxMDU0MDA1NCwtMTk0MjM1MDE1MSwtOTM3NTI4
+MjczLC0yMjAzOTUwMzUsLTE0OTY5MzExNTUsLTY4ODQ3ODM3Mi
+wxODI2MzE1MDk1LDI1MzM4OTU5NCwxMzIzNjc0MDU3LDEyODM0
+NDM0ODcsNjYwNDgxMTc2LC0xMDMyMDM1MTk0LC0xNTYwMTM0NT
+U0LC00MjUwMjU5NzYsLTEyNDEwNDEzMzYsLTE0ODM0MjMxMTAs
+LTE0MTA1OTkzMzRdfQ==
 -->
