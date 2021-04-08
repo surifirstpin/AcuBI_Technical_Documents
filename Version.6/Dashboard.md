@@ -552,12 +552,13 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLT
-E0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5
-MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02Nz
-I5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgx
-LDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMj
-UzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2OSwtMTI5MDg3
-MzE2MV19
+eyJoaXN0b3J5IjpbNzk4MDU3NjMsLTE2MDg1MzY2NjksLTE5Nz
+c2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4
+MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5ND
+M3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMs
+NjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MT
+ExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2
+OV19
 -->
