@@ -589,9 +589,15 @@ editing options for y-axis in Line, Bar and bubble chart.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref2.png?raw=true)
 
- 3.Showing the **Reference Line 2** by selecting the Data Field (Wins Euro) for Type (Polynomial)
+ 3. Showing the **Reference Line 2** by selecting the Data Field (Wins Euro) for Type (Polynomial)
  
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref3.png?raw=true)
+
+
+ 4. Showing the **Reference Line 3** by selecting the Data Field (Total) for Type (Exponential)
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref4.png?raw=true)
+
  
 # Format   
       
@@ -646,11 +652,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDMyMjMxNiw3MzQ3Mjk5NzQsMTQzNj
-k5MTE1MCw3NDQ1NTU1NzcsLTE4NTQ3OTg2MTEsLTEyMTA1NDAw
-NTQsLTE5NDIzNTAxNTEsLTkzNzUyODI3MywtMjIwMzk1MDM1LC
-0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMxNTA5NSwyNTMz
-ODk1OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3Ni
-wtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0x
-MjQxMDQxMzM2XX0=
+eyJoaXN0b3J5IjpbLTE4NDU2MDYzMTgsNzM0NzI5OTc0LDE0Mz
+Y5OTExNTAsNzQ0NTU1NTc3LC0xODU0Nzk4NjExLC0xMjEwNTQw
+MDU0LC0xOTQyMzUwMTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNS
+wtMTQ5NjkzMTE1NSwtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUz
+Mzg5NTk0LDEzMjM2NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNz
+YsLTEwMzIwMzUxOTQsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3Niwt
+MTI0MTA0MTMzNl19
 -->
