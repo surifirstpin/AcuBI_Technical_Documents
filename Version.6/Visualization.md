@@ -111,7 +111,7 @@ Pie Chart are divided into slices to illustrate numerical proportions of the dat
 -   **Value & Percent** on selecting this checkbox, it displays value and percentage value for each measure in pie chart. If disabled it displays dimension name.
 
 
-
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/P2.png?raw=true)
 
 
 
@@ -631,11 +631,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc3MzIzNDUsNzQ0NTU1NTc3LC0xOD
-U0Nzk4NjExLC0xMjEwNTQwMDU0LC0xOTQyMzUwMTUxLC05Mzc1
-MjgyNzMsLTIyMDM5NTAzNSwtMTQ5NjkzMTE1NSwtNjg4NDc4Mz
-cyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LDEzMjM2NzQwNTcsMTI4
-MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOTQsLTE1NjAxMz
-Q1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwtMTQ4MzQyMzEx
-MCwtMTQxMDU5OTMzNF19
+eyJoaXN0b3J5IjpbMTM4NjUyMjQ5NCw3NDQ1NTU1NzcsLTE4NT
+Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
+ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
+IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
+NDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzND
+U1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEw
+LC0xNDEwNTk5MzM0XX0=
 -->
