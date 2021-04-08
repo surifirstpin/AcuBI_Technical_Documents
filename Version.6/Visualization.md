@@ -578,6 +578,10 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>Theme </b> enables color for reference line.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+
+
+
+
  
 # Format   
       
@@ -632,11 +636,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjk5MTE1MCw3NDQ1NTU1NzcsLTE4NT
-Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
-ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
-IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
-NDQzNDg3LDY2MDQ4MTE3NiwtMTAzMjAzNTE5NCwtMTU2MDEzND
-U1NCwtNDI1MDI1OTc2LC0xMjQxMDQxMzM2LC0xNDgzNDIzMTEw
-LC0xNDEwNTk5MzM0XX0=
+eyJoaXN0b3J5IjpbNzM0NzI5OTc0LDE0MzY5OTExNTAsNzQ0NT
+U1NTc3LC0xODU0Nzk4NjExLC0xMjEwNTQwMDU0LC0xOTQyMzUw
+MTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNSwtMTQ5NjkzMTE1NS
+wtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LDEzMjM2
+NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOT
+QsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwt
+MTQ4MzQyMzExMF19
 -->
