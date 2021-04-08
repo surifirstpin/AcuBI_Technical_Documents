@@ -555,13 +555,17 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 # Showing  visualizations of the Reference Line of Report on the dashboard. 
 
+1.  The  visualizations of the report are shown on the dashboard.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref5.png?raw=true)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjQ2NjgxMDIsLTE2MDg1MzY2NjksLT
-E5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYy
-MzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNz
-E5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQw
-MzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNT
-k3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgy
-NjU2OV19
+eyJoaXN0b3J5IjpbOTQzMTkyMzIzLC0xNjA4NTM2NjY5LC0xOT
+c3NjY2ODQxLC0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMx
+ODAsNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMjE3OTA0NDM3LDcxOT
+QzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQyMiwtMzcxNTQ0MDMz
+LDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyODE0NDksMTU5Nz
+ExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1NDgyLDE2MzM4MjY1
+NjldfQ==
 -->
