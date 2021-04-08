@@ -1,7 +1,11 @@
 
 <center><h1>Reports</h1></center>
 
-<b>Reports</b> are the starting point for building a query.  It is designed in such a way that it retrieves the data in desired combinations as per your business needs and explore particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
+<b> Functionality :  </b>  Reports  are the starting point for building a query. It is designed in such a way that it retrieves the data in desired combinations as per your business needs and explore particular subject area it self. It also provides an ability on how to pull the data and how to modify the report and drill down deeper into the report for more insight. Reports in AcuBi fetches an impressive and good looking charts with the data obtained in fraction of seconds.
+
+  
+
+<b>Interpretation :  </b> Dealing with reports we need to submit the business data in required understandable format  and these reports are based on the data of a particular business and the reports are displayed in bar graphs , charts table etc. Looking into the chart visualisation it makes end user to understand the data for the businees needs.
  
 <b><i>Let see in detail, How AcuBi helps you in retrieving the data as per your business needs : </i></b>
  
@@ -380,11 +384,11 @@ All the reports created are saved under specific tag. Kindly follow the below li
 [Saving Report](http://firstpin.in/documentation/acubi_technical_documentation.html#/Saving_Report_TD)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDYxOTQxMiwxNzM3MzA5MTY0LDE3Mj
-UyNzUzNzYsLTE3NjEzNTg0MzgsLTQwNjc0ODkyMywtMTIyMTUx
-MjQ3NywtMjE0MjYyODI5MiwxNTE2MTE1OTg1LDE1MTYxMTU5OD
-UsMTU2MjgxOTM4Myw2OTk2NzU5MDYsLTEwNTEwMzkwMiwtMTQ0
-ODYwMDAzMiwtODM2MzQwNjk2LDIxMTk2MTUxNjUsNDY3NDMxNz
-M5LDE2NjYyNDI5NzksLTE2ODg1Mjg0MzEsMTAxNTUyNjc3OSwt
-MTQ1NzU2MDg3M119
+eyJoaXN0b3J5IjpbMTA0OTUxMjMxNSwtNDI0NjE5NDEyLDE3Mz
+czMDkxNjQsMTcyNTI3NTM3NiwtMTc2MTM1ODQzOCwtNDA2NzQ4
+OTIzLC0xMjIxNTEyNDc3LC0yMTQyNjI4MjkyLDE1MTYxMTU5OD
+UsMTUxNjExNTk4NSwxNTYyODE5MzgzLDY5OTY3NTkwNiwtMTA1
+MTAzOTAyLC0xNDQ4NjAwMDMyLC04MzYzNDA2OTYsMjExOTYxNT
+E2NSw0Njc0MzE3MzksMTY2NjI0Mjk3OSwtMTY4ODUyODQzMSwx
+MDE1NTI2Nzc5XX0=
 -->
