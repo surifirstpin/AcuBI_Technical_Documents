@@ -204,12 +204,12 @@ It displays one or more data series as a data graph. Widget chart is used to dis
  > <b>Note :</b> The values you want to define in world chart, should be defined in model section. On defining in model the data field values will be displayed here.  
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image24.png)
- <b><font color = "Black"> Image 10</b>
+ <b><font color = "Black"> Image 12</b>
 
 <b>6.</b> Choose chart type <b>World</b> from drop-down list to compare the data using world chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/330a0df31c356ab5fcfde28fddd009f959e5f10d/images/New_version5/TD_Visu_Image23.png)
-<b><font color = "Black"> Image 11</b>
+<b><font color = "Black"> Image 13</b>
  
 
 - <b>Title</b> specify a title for world map.
@@ -239,7 +239,7 @@ Bar charts are used to compare data across different categories.hi You can build
  <b>7.</b>Choose chart type <b>BAR</b> from given drop-down list compare the data using Bar chart.
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/94ba4dbdd16bfef4193c756dfae1a0dbef16d9fb/images/New_version5/TD_Visu_Image11.png)
-<b><font color = "Black"> Image 12</b>
+<b><font color = "Black"> Image 14</b>
 
 ## Bubble chart 
 
@@ -248,7 +248,7 @@ It is used to display the data in circles. We can define each bubble using dimen
  <b>8.</b> Choose chart type <b>BUBBLE</b> from given drop-down list compare the data.
  
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/91b2a584b941b19f94d1c93e5a856b8de3ebe51c/images/New_version5/TD_Visu_Image12.png)
-<b><font color = "Black"> Image 13</b>
+<b><font color = "Black"> Image 15</b>
 
 ## Table chart 
  
@@ -256,12 +256,12 @@ Table chart displays the data in series making it more feasible for comparing di
  
  <b>9.</b> Choose chart type <b>Table</b> from drop-down list.
   ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Table1.png?raw=true)
-<b><font color = "Black"> Image 14</b>
+<b><font color = "Black"> Image 16</b>
 
 -   Now click on  Bets EUR in Datasets
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Table%202.png?raw=true)
-<b><font color = "Black"> Image 15</b>
+<b><font color = "Black"> Image 17</b>
 
 
 -   **Header Color** displays the color which is choosed in drop down.
@@ -298,19 +298,19 @@ Table chart displays the data in series making it more feasible for comparing di
  Header Flipping which is applied to dimension field and for Table chart view.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H1.png?raw=true)
-<b><font color = "Black"> Image 15</b>
+<b><font color = "Black"> Image 18</b>
 
 -   Select Format Column in dropdown list and that is displayed in the header as shown in below image.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H2.png?raw=true)
-<b><font color = "Black"> Image 16</b>
+<b><font color = "Black"> Image 19</b>
 
 **Note:** Header Flipping in not applicable for any chart except Table chart.
 
 -   It is reflected the same in the dashboard.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/H3.png?raw=true)
-<b><font color = "Black"> Image 17</b>
+<b><font color = "Black"> Image 20</b>
 
 
 ### Hide Pivot (Hide first, Hide last)
@@ -325,12 +325,12 @@ pivot_offset(#{biplus.orders.sum_quantity},0,-1)
 ```
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b297a288ba4fa4e9db7a19c43c2f2751ad0f1130/images/New_version5/TD_Visu_Image14.png)
-<b><font color = "Black"> Image 15</b>
+<b><font color = "Black"> Image 21</b>
 
 The resultant for this expression would be seen in green color;
 
 ![enter image description here](https://raw.githubusercontent.com/sv18042016/fp1/b08a20448157551a2870e258c70ea7f81adf4b1d/images/New_version5/TD_Visu_Image15.png)
-<b><font color = "Black"> Image 16</b>
+<b><font color = "Black"> Image 22</b>
 
 In the above image you can see, hide_pivot 1st column is seen empty, so in order to hide this you need to select checkbox <b>pivot hide first</b> in <b>Data Section</b> to hide it in visualization charts. (Applicable only for table chart). 
 
@@ -632,7 +632,7 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTQ2NTQ5Nyw3NDQ1NTU1NzcsLTE4NT
+eyJoaXN0b3J5IjpbMTUzODQ2OTE4MSw3NDQ1NTU1NzcsLTE4NT
 Q3OTg2MTEsLTEyMTA1NDAwNTQsLTE5NDIzNTAxNTEsLTkzNzUy
 ODI3MywtMjIwMzk1MDM1LC0xNDk2OTMxMTU1LC02ODg0NzgzNz
 IsMTgyNjMxNTA5NSwyNTMzODk1OTQsMTMyMzY3NDA1NywxMjgz
