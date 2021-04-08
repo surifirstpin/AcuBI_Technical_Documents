@@ -553,7 +553,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
 
-# Showing  visualizations of the Reference Line of Report on the dashboard. 
+# Reference Line 
 
  **1.**   The  visualizations of the report are shown on the dashboard.
 
@@ -580,11 +580,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref8.png?raw=true)
  <b><font color = "Black" >Image 4</font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4ODA1NTc0LC0xMzI5MjM4Mjk2LC0xNj
-A4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mzk5LDIxMTcy
-MDc1MywyNDA2MjMxODAsNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMj
-E3OTA0NDM3LDcxOTQzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQy
-MiwtMzcxNTQ0MDMzLDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1Mz
-EyODE0NDksMTU5NzExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1
-NDgyXX0=
+eyJoaXN0b3J5IjpbLTcwODAxOTczNSwxMzg4MDU1NzQsLTEzMj
+kyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0Mjg0
+MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5MjYsOD
+QyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02NzI5OTg4
+OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMsNjE3OTk3NDgxLDc4MD
+EzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MTExOTI1LDEwMjUzODYw
+NDNdfQ==
 -->
