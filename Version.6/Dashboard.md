@@ -565,13 +565,22 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref6.png?raw=true)
 
+ 7. Now click on the More settings where the data field , Type and Reference Line are visible.
+
+ **Note**: Type and Reference Line can be changed for each **Data Field**
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref7.png?raw=true)
+
+
+ **8.** Visualizations of the particular data field can be hidden as shown in below image.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTAwMzEyOCwtMTYwODUzNjY2OSwtMT
-k3NzY2Njg0MSwtMTQyODQzNjM5OSwyMTE3MjA3NTMsMjQwNjIz
-MTgwLDUyNTI1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MT
-k0Mzc1ODEsLTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAz
-Myw2MTc5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OT
-cxMTE5MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2
-NTY5XX0=
+eyJoaXN0b3J5IjpbLTEyNjQ3NTIxNDYsLTE2MDg1MzY2NjksLT
+E5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYy
+MzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNz
+E5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQw
+MzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNT
+k3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgy
+NjU2OV19
 -->
