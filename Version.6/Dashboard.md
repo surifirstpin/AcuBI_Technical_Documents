@@ -552,13 +552,14 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
- 
+
+# Showing  visualizations of the report are shown on the dashboard. Reference Line of Report
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk4MDU3NjMsLTE2MDg1MzY2NjksLTE5Nz
-c2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4
-MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5ND
-M3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQwMzMs
-NjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNTk3MT
-ExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgyNjU2
-OV19
+eyJoaXN0b3J5IjpbLTE4ODU1ODc3MzMsLTE2MDg1MzY2NjksLT
+E5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYy
+MzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0MzcsNz
+E5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNzE1NDQw
+MzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0OSwxNT
+k3MTExOTI1LDEwMjUzODYwNDMsLTExODA0MjU0ODIsMTYzMzgy
+NjU2OV19
 -->
