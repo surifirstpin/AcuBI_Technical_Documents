@@ -559,13 +559,19 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref5.png?raw=true)
 
+ 6. In other way to change the **Type** of the chart and the **Reference Line**
+
+-   > Navigate to the settings icon as shown in below image.
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref6.png?raw=true)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzMTkyMzIzLC0xNjA4NTM2NjY5LC0xOT
-c3NjY2ODQxLC0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMx
-ODAsNTI1MjU4OTI2LDg0MjQ2NDkwMiwxMjE3OTA0NDM3LDcxOT
-QzNzU4MSwtNjcyOTk4ODkzLDg3ODkxNDQyMiwtMzcxNTQ0MDMz
-LDYxNzk5NzQ4MSw3ODAxMzUwNTEsLTE1MzEyODE0NDksMTU5Nz
-ExMTkyNSwxMDI1Mzg2MDQzLC0xMTgwNDI1NDgyLDE2MzM4MjY1
-NjldfQ==
+eyJoaXN0b3J5IjpbMTc2OTAwMzEyOCwtMTYwODUzNjY2OSwtMT
+k3NzY2Njg0MSwtMTQyODQzNjM5OSwyMTE3MjA3NTMsMjQwNjIz
+MTgwLDUyNTI1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MT
+k0Mzc1ODEsLTY3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAz
+Myw2MTc5OTc0ODEsNzgwMTM1MDUxLC0xNTMxMjgxNDQ5LDE1OT
+cxMTE5MjUsMTAyNTM4NjA0MywtMTE4MDQyNTQ4MiwxNjMzODI2
+NTY5XX0=
 -->
