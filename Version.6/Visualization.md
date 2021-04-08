@@ -578,9 +578,12 @@ editing options for y-axis in Line, Bar and bubble chart.
 - <b>Theme </b> enables color for reference line.
  
  > <b>Note:</b>  Y-Axis is enabled only for Line, Bar and Bubble chart only.
+ 
+ 1.Click on Add Reference Line.
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Ref1.png?raw=true)
 
-
+> **Note: Y-Axis is enabled only for Line, Bar and Bubble chart only.
 
  
 # Format   
@@ -636,11 +639,11 @@ You can either change the color by placing <b>hexstring</b> such as <b>#6d9ac7,<
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0NzI5OTc0LDE0MzY5OTExNTAsNzQ0NT
-U1NTc3LC0xODU0Nzk4NjExLC0xMjEwNTQwMDU0LC0xOTQyMzUw
-MTUxLC05Mzc1MjgyNzMsLTIyMDM5NTAzNSwtMTQ5NjkzMTE1NS
-wtNjg4NDc4MzcyLDE4MjYzMTUwOTUsMjUzMzg5NTk0LDEzMjM2
-NzQwNTcsMTI4MzQ0MzQ4Nyw2NjA0ODExNzYsLTEwMzIwMzUxOT
-QsLTE1NjAxMzQ1NTQsLTQyNTAyNTk3NiwtMTI0MTA0MTMzNiwt
-MTQ4MzQyMzExMF19
+eyJoaXN0b3J5IjpbMTIwNDQ2MTc1NCw3MzQ3Mjk5NzQsMTQzNj
+k5MTE1MCw3NDQ1NTU1NzcsLTE4NTQ3OTg2MTEsLTEyMTA1NDAw
+NTQsLTE5NDIzNTAxNTEsLTkzNzUyODI3MywtMjIwMzk1MDM1LC
+0xNDk2OTMxMTU1LC02ODg0NzgzNzIsMTgyNjMxNTA5NSwyNTMz
+ODk1OTQsMTMyMzY3NDA1NywxMjgzNDQzNDg3LDY2MDQ4MTE3Ni
+wtMTAzMjAzNTE5NCwtMTU2MDEzNDU1NCwtNDI1MDI1OTc2LC0x
+MjQxMDQxMzM2XX0=
 -->
