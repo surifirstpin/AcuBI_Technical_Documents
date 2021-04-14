@@ -4,7 +4,8 @@
 
   
 
-<b> Functionality :  </b>
+
+ Functionality :  </b>
 
 Application Programming interface (‘API’) is a computing interface that defines interactions between multiple software intermediaries.This feature allows to extract data stored in the form of an xml in the given API as data columns and allows to map to a target table column name.Using this API extraction to a data table we can only read the data in the API.
 
@@ -79,7 +80,7 @@ Enter following details in create Job window:
     
 -   Click on **Save** button to save the job.
 
-**NOTE :** In Source database either PostgreSQL or Vertica the destination database should be Vertica only then
+<b>NOTE : </b> In Source database either PostgreSQL or Vertica the destination database should be Vertica only then
 
   
 
@@ -91,5 +92,6 @@ Enter following details in create Job window:
 2. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTMzNTY0NSwtMTQwMTI5NzY2NF19
+eyJoaXN0b3J5IjpbMTgxNzczNjIyMCwtNTQ5MzM1NjQ1LC0xND
+AxMjk3NjY0XX0=
 -->
