@@ -79,6 +79,17 @@ Enter following details in create Job window:
     
 -   Click on **Save** button to save the job.
 
+**NOTE**: In Source database either PostgreSQL or Vertica the destination database should be Vertica only then
+
+  
+
+1. In Source Query need to add the ORDER BY with Primay key or Uniquer key columns (**original column names not column alias**)
+
+  
+  
+
+2. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEyOTc2NjRdfQ==
+eyJoaXN0b3J5IjpbMjAwMDM3OTk5OSwtMTQwMTI5NzY2NF19
 -->
