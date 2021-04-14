@@ -84,15 +84,14 @@ Enter following details in create Job window:
 
   
 
-1. In Source Query need to add the ORDER BY with Primay key or Uniquer key columns (**original column name
-2. s not column alias**)
+1. In Source Query need to add the ORDER BY with Primay key or Uniquer key columns (**original column name s not column alias**)
 
   
   
 
-3. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
+2. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTM4MDU1MDMsLTU0OTMzNTY0NSwtMT
-QwMTI5NzY2NF19
+eyJoaXN0b3J5IjpbMTE1MDYxNzY3OCwtMTA1MzgwNTUwMywtNT
+Q5MzM1NjQ1LC0xNDAxMjk3NjY0XX0=
 -->
