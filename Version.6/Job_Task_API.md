@@ -71,7 +71,7 @@ Enter following details in create Job window:
         
     -   **Truncate Table before insert:** delete entire table before inserting target data.
         
-- **Delete Reference :** Deletes previously existing records for blocks and reloads fresh data.
+- **Delete Reference Query :** Deletes previously existing records for blocks and reloads fresh data.
     
 -   **Update Reference Fields :** it is a primary key based on given combination, data over writes the existing data.
     
@@ -92,6 +92,6 @@ Enter following details in create Job window:
 2. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3ODc2MTQsLTEwNTM4MDU1MDMsLTU0OT
-MzNTY0NSwtMTQwMTI5NzY2NF19
+eyJoaXN0b3J5IjpbMTkzNzMzMjI2MiwtMTA1MzgwNTUwMywtNT
+Q5MzM1NjQ1LC0xNDAxMjk3NjY0XX0=
 -->
