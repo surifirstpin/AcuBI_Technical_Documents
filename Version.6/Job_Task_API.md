@@ -79,7 +79,7 @@ Enter following details in create Job window:
     
 -   Click on **Save** button to save the job.
 
-**NOTE**: In Source database either PostgreSQL or Vertica the destination database should be Vertica only then
+**NOTE :** In Source database either PostgreSQL or Vertica the destination database should be Vertica only then
 
   
 
@@ -91,5 +91,5 @@ Enter following details in create Job window:
 2. Need not specify the keywords like limit , offset , ; (semi -column) in source query and delete reference query
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDM3OTk5OSwtMTQwMTI5NzY2NF19
+eyJoaXN0b3J5IjpbLTU0OTMzNTY0NSwtMTQwMTI5NzY2NF19
 -->
