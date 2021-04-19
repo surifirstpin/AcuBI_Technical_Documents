@@ -594,12 +594,16 @@ It displays all the fields which is required in dashboard .This applies to all t
   
 
 -   The dashboard consists of one or more charts in single dashboard. To have a clear view on single chart we have an option of Maximise as shown in below image.
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM1.png?raw=true)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzU3MTU5NiwzOTcwODI4MDUsLTcwOD
-AxOTczNSwxMzg4MDU1NzQsLTEzMjkyMzgyOTYsLTE2MDg1MzY2
-NjksLTE5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLD
-I0MDYyMzE4MCw1MjUyNTg5MjYsODQyNDY0OTAyLDEyMTc5MDQ0
-MzcsNzE5NDM3NTgxLC02NzI5OTg4OTMsODc4OTE0NDIyLC0zNz
-E1NDQwMzMsNjE3OTk3NDgxLDc4MDEzNTA1MSwtMTUzMTI4MTQ0
-OV19
+eyJoaXN0b3J5IjpbLTMzMDQ1MTA5MywyMDI3NTcxNTk2LDM5Nz
+A4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5
+NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OS
+wyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5
+MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4Nz
+g5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUx
+XX0=
 -->
