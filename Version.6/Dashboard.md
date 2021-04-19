@@ -642,22 +642,29 @@ It displays all the fields which is required in dashboard .This applies to all t
 -   To disable the Charts and Grid view, first edit the dashboard and click on the checkbox as shown in below image and save it
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG2.png?raw=true)
+<b><font color = "Black" >Image </font></b>
+
+
+
+  
+
+-   Now the dashboard is displayed as below image
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG3.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG4.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG5.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
-
+<b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzU2NTkyMSwxMjMxMjgxMzcyLDIwMj
+eyJoaXN0b3J5IjpbLTI0MDY0MTAzNiwxMjMxMjgxMzcyLDIwMj
 c1NzE1OTYsMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0
 LC0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC
 0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4
