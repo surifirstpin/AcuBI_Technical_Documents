@@ -635,7 +635,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
-## **Dashboard Mandatory filter to grid report **
+## Dashboard Mandatory filter to grid report 
 
   
 
@@ -670,7 +670,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MTgwMjQxNiwxMzQ4NzQzNjAwLC01Nj
+eyJoaXN0b3J5IjpbMTM0ODc0MzYwMCwxMzQ4NzQzNjAwLC01Nj
 Q4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMjAyNzU3MTU5
 NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1NzQsLTEzMj
 kyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0Mjg0
