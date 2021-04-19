@@ -654,6 +654,8 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
+-   To disable the Lookup Values, first edit the dashboard and click on the checkbox as shown in below image and save it
+
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG4.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
@@ -664,11 +666,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDY0MTAzNiwxMjMxMjgxMzcyLDIwMj
-c1NzE1OTYsMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0
-LC0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC
-0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4
-OTI2LDg0MjQ2NDkwMiwxMjE3OTA0NDM3LDcxOTQzNzU4MSwtNj
-cyOTk4ODkzLDg3ODkxNDQyMiwtMzcxNTQ0MDMzLDYxNzk5NzQ4
-MV19
+eyJoaXN0b3J5IjpbNjI4MDM5MzUsMTIzMTI4MTM3MiwyMDI3NT
+cxNTk2LDM5NzA4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwt
+MTMyOTIzODI5NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMT
+QyODQzNjM5OSwyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODky
+Niw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mj
+k5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODFd
+fQ==
 -->
