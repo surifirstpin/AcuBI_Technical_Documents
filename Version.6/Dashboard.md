@@ -589,7 +589,7 @@ It displays all the fields which is required in dashboard .This applies to all t
  <b><font color = "Black" >Image 4</font></b>
 
 
-## Dashboard maximise
+# Dashboard maximise
 
   
 
@@ -608,7 +608,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
-## Dashboard fading
+# Dashboard fading
 
   
 
@@ -635,7 +635,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
-## Dashboard Mandatory filter to grid report 
+# Dashboard Mandatory filter to grid report 
 
   
 
@@ -670,11 +670,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODc0MzYwMCwxMzQ4NzQzNjAwLC01Nj
-Q4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMjAyNzU3MTU5
-NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1NzQsLTEzMj
-kyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0Mjg0
-MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUyNTg5MjYsOD
-QyNDY0OTAyLDEyMTc5MDQ0MzcsNzE5NDM3NTgxLC02NzI5OTg4
-OTNdfQ==
+eyJoaXN0b3J5IjpbMTIwMzE3NDY0OSwxMzQ4NzQzNjAwLDEzND
+g3NDM2MDAsLTU2NDg2ODU5Miw5NTE5NjY4OTYsMTIzMTI4MTM3
+MiwyMDI3NTcxNTk2LDM5NzA4MjgwNSwtNzA4MDE5NzM1LDEzOD
+gwNTU3NCwtMTMyOTIzODI5NiwtMTYwODUzNjY2OSwtMTk3NzY2
+Njg0MSwtMTQyODQzNjM5OSwyMTE3MjA3NTMsMjQwNjIzMTgwLD
+UyNTI1ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1
+ODFdfQ==
 -->
