@@ -629,11 +629,13 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
--   Once the changes are done to the exsisting dashboard then uncheck the Disabled option.As shown in below image now the dashboard is ready to use.
+-   Once the changes are done to the exsisting dashboard then uncheck the Disabled option. As shown in below image now the dashboard is ready to use.
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Df.png?raw=true)
+<b><font color = "Black" >Image </font></b>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDk1NDcwNCwyMDI3NTcxNTk2LDM5Nz
+eyJoaXN0b3J5IjpbMTIzMTI4MTM3MiwyMDI3NTcxNTk2LDM5Nz
 A4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5
 NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OS
 wyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5
