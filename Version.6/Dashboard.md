@@ -597,9 +597,13 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM1.png?raw=true)
+<b><font color = "Black" >Image </font></b>
 
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDQ1MTA5MywyMDI3NTcxNTk2LDM5Nz
+eyJoaXN0b3J5IjpbLTM3ODMwNjI4NywyMDI3NTcxNTk2LDM5Nz
 A4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5
 NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OS
 wyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5
