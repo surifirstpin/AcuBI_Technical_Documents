@@ -625,10 +625,13 @@ It displays all the fields which is required in dashboard .This applies to all t
 -   Now the dasboard is faded as shown below. It signifies that the dashboard is not in use which cannot be opened.
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DF3.png?raw=true)
+<b><font color = "Black" >Image </font></b>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2NjgzMTk2NSwyMDI3NTcxNTk2LDM5Nz
+eyJoaXN0b3J5IjpbMTE3NzU1NTY2MSwyMDI3NTcxNTk2LDM5Nz
 A4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5
 NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OS
 wyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5
