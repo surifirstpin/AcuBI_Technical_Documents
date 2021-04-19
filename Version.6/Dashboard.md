@@ -647,10 +647,17 @@ It displays all the fields which is required in dashboard .This applies to all t
 
 
 
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG4.png?raw=true)
 
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG5.png?raw=true)
+
+
+![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODc0MzM5NSwxMjMxMjgxMzcyLDIwMj
+eyJoaXN0b3J5IjpbMTU0MzU2NTkyMSwxMjMxMjgxMzcyLDIwMj
 c1NzE1OTYsMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0
 LC0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC
 0xNDI4NDM2Mzk5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4
