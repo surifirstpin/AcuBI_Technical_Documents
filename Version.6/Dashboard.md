@@ -634,12 +634,21 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Df.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
+
+## Dashboard Mandatory filter to grid report
+
+  
+
+-   To disable the Charts and Grid view, first edit the dashboard and click on the checkbox as shown in below image and save it
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMTI4MTM3MiwyMDI3NTcxNTk2LDM5Nz
-A4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5
-NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OS
-wyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5
-MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLTY3Mjk5ODg5Myw4Nz
-g5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0ODEsNzgwMTM1MDUx
-XX0=
+eyJoaXN0b3J5IjpbLTIxNDAwMDk5MzYsMTIzMTI4MTM3MiwyMD
+I3NTcxNTk2LDM5NzA4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3
+NCwtMTMyOTIzODI5NiwtMTYwODUzNjY2OSwtMTk3NzY2Njg0MS
+wtMTQyODQzNjM5OSwyMTE3MjA3NTMsMjQwNjIzMTgwLDUyNTI1
+ODkyNiw4NDI0NjQ5MDIsMTIxNzkwNDQzNyw3MTk0Mzc1ODEsLT
+Y3Mjk5ODg5Myw4Nzg5MTQ0MjIsLTM3MTU0NDAzMyw2MTc5OTc0
+ODFdfQ==
 -->
