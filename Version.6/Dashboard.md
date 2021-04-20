@@ -534,7 +534,7 @@ c. Once updated the Layout Split Width is represented in dashboard and can obser
  <b><font color = "Black" >Image</font></b>
 
 
-## **STAGNATION **
+##  STAGNATION
 
 It displays all the fields which is required in dashboard .This applies to all the charts excluding Table chart and steps are clearly shown as follows:
 
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjUyMDgzNTUsMTIwMzE3NDY0OSwxMz
-Q4NzQzNjAwLDEzNDg3NDM2MDAsLTU2NDg2ODU5Miw5NTE5NjY4
-OTYsMTIzMTI4MTM3MiwyMDI3NTcxNTk2LDM5NzA4MjgwNSwtNz
-A4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5NiwtMTYwODUz
-NjY2OSwtMTk3NzY2Njg0MSwtMTQyODQzNjM5OSwyMTE3MjA3NT
-MsMjQwNjIzMTgwLDUyNTI1ODkyNiw4NDI0NjQ5MDIsMTIxNzkw
-NDQzN119
+eyJoaXN0b3J5IjpbLTQ2MDQ1ODU2NywtMTkyNTIwODM1NSwxMj
+AzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4
+NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMz
+k3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4
+Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mz
+k5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4OTI2LDg0MjQ2
+NDkwMl19
 -->
