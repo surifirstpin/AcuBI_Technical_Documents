@@ -534,7 +534,8 @@ c. Once updated the Layout Split Width is represented in dashboard and can obser
  <b><font color = "Black" >Image</font></b>
 
 
-##  STAGNATION
+## Stagnation
+
 
 It displays all the fields which is required in dashboard .This applies to all the charts excluding Table chart and steps are clearly shown as follows:
 
@@ -561,7 +562,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
 
-##  Reference Line
+## Reference Line
 
  **1.**   The  visualizations of the report are shown on the dashboard.
 
@@ -589,7 +590,7 @@ It displays all the fields which is required in dashboard .This applies to all t
  <b><font color = "Black" >Image 4</font></b>
 
 
-##  Dashboard Maximise
+## Dashboard Maximise
 
   
 
@@ -634,7 +635,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
-##  Dashboard Mandatory Field to Grid View
+## Dashboard Mandatory Field to Grid View
   
 
 -   To disable the Charts and Grid view, first edit the dashboard and click on the checkbox as shown in below image and save it
@@ -668,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzEyOTY4OCwtMTkyNTIwODM1NSwxMj
-AzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4
-NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMz
-k3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4
-Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mz
-k5LDIxMTcyMDc1MywyNDA2MjMxODAsNTI1MjU4OTI2LDg0MjQ2
-NDkwMl19
+eyJoaXN0b3J5IjpbMTY2OTE0OTMxNiwtODIzMTI5Njg4LC0xOT
+I1MjA4MzU1LDEyMDMxNzQ2NDksMTM0ODc0MzYwMCwxMzQ4NzQz
+NjAwLC01NjQ4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMj
+AyNzU3MTU5NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1
+NzQsLTEzMjkyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4ND
+EsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUy
+NTg5MjZdfQ==
 -->
