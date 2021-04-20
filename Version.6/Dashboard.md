@@ -634,7 +634,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
-##  Dashboard Mandatory Fie
+##  Dashboard Mandatory Field to Grid View
   
 
 -   To disable the Charts and Grid view, first edit the dashboard and click on the checkbox as shown in below image and save it
@@ -668,7 +668,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjU3NzAzNCwtMTkyNTIwODM1NSwxMj
+eyJoaXN0b3J5IjpbLTgyMzEyOTY4OCwtMTkyNTIwODM1NSwxMj
 AzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4
 NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMz
 k3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4
