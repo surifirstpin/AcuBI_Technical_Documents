@@ -561,7 +561,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/Stag3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
 
-## **Reference Line **
+##  Reference Line
 
  **1.**   The  visualizations of the report are shown on the dashboard.
 
@@ -589,7 +589,7 @@ It displays all the fields which is required in dashboard .This applies to all t
  <b><font color = "Black" >Image 4</font></b>
 
 
-## **Dashboard maximise**
+##  Dashboard Maximise
 
   
 
@@ -608,12 +608,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
-## **Dashboard fading**
+## Dashboard Fading
 
   
 
-  
-
+ 
 -   If at all need to do some changes on the dashboard according to business needs or else disabling the dashboard for certain period of time then we need to click on check box beside the Disabled as shown in below image 1 and click on update
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DF2.png?raw=true)
@@ -635,7 +634,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 <b><font color = "Black" >Image </font></b>
 
 
-## **Dashboard Mandatory filter to grid report **
+##  Dashboard Mandatory Fie
   
 
 -   To disable the Charts and Grid view, first edit the dashboard and click on the checkbox as shown in below image and save it
@@ -669,7 +668,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MDQ1ODU2NywtMTkyNTIwODM1NSwxMj
+eyJoaXN0b3J5IjpbLTk5NjU3NzAzNCwtMTkyNTIwODM1NSwxMj
 AzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4
 NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMz
 k3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4
