@@ -609,7 +609,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
-<b> Dasboard Fading</b>
+##asboard Fading</b>
 
    If at all need to do some changes on the dashboard according to business needs or else disabling the dashboard for certain period of time then we need to click on check box beside the Disabled as shown in below image 1 and click on update
 
@@ -666,11 +666,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4NzI0MTgyLC0xMTQyMzM5Njc0LC0xND
-kzMTc5NDIxLC02OTY1NjQzMTAsLTUyMTU5MjAxMSwxNjY5MTQ5
-MzE2LC04MjMxMjk2ODgsLTE5MjUyMDgzNTUsMTIwMzE3NDY0OS
-wxMzQ4NzQzNjAwLDEzNDg3NDM2MDAsLTU2NDg2ODU5Miw5NTE5
-NjY4OTYsMTIzMTI4MTM3MiwyMDI3NTcxNTk2LDM5NzA4MjgwNS
-wtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5NiwtMTYw
-ODUzNjY2OV19
+eyJoaXN0b3J5IjpbLTExMTcyMDM3NDAsNDk4NzI0MTgyLC0xMT
+QyMzM5Njc0LC0xNDkzMTc5NDIxLC02OTY1NjQzMTAsLTUyMTU5
+MjAxMSwxNjY5MTQ5MzE2LC04MjMxMjk2ODgsLTE5MjUyMDgzNT
+UsMTIwMzE3NDY0OSwxMzQ4NzQzNjAwLDEzNDg3NDM2MDAsLTU2
+NDg2ODU5Miw5NTE5NjY4OTYsMTIzMTI4MTM3MiwyMDI3NTcxNT
+k2LDM5NzA4MjgwNSwtNzA4MDE5NzM1LDEzODgwNTU3NCwtMTMy
+OTIzODI5Nl19
 -->
