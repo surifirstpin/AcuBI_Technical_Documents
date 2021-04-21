@@ -590,7 +590,7 @@ It displays all the fields which is required in dashboard .This applies to all t
  <b><font color = "Black" >Image 4</font></b>
 
 
-<b> Dashboard Maximise</b>
+## Dashboard Maximise 
 
   
 
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTU5MjAxMSwxNjY5MTQ5MzE2LC04Mj
-MxMjk2ODgsLTE5MjUyMDgzNTUsMTIwMzE3NDY0OSwxMzQ4NzQz
-NjAwLDEzNDg3NDM2MDAsLTU2NDg2ODU5Miw5NTE5NjY4OTYsMT
-IzMTI4MTM3MiwyMDI3NTcxNTk2LDM5NzA4MjgwNSwtNzA4MDE5
-NzM1LDEzODgwNTU3NCwtMTMyOTIzODI5NiwtMTYwODUzNjY2OS
-wtMTk3NzY2Njg0MSwtMTQyODQzNjM5OSwyMTE3MjA3NTMsMjQw
-NjIzMTgwXX0=
+eyJoaXN0b3J5IjpbLTY5NjU2NDMxMCwtNTIxNTkyMDExLDE2Nj
+kxNDkzMTYsLTgyMzEyOTY4OCwtMTkyNTIwODM1NSwxMjAzMTc0
+NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4NTkyLD
+k1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMzk3MDgy
+ODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4Mjk2LC
+0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mzk5LDIx
+MTcyMDc1M119
 -->
