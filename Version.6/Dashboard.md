@@ -609,7 +609,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
-## Dasboard Fading
+<b> Dasboard Fading<b>
 
   
 
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTMxNzk0MjEsLTY5NjU2NDMxMCwtNT
-IxNTkyMDExLDE2NjkxNDkzMTYsLTgyMzEyOTY4OCwtMTkyNTIw
-ODM1NSwxMjAzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMC
-wtNTY0ODY4NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1
-NzE1OTYsMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC
-0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0x
-NDI4NDM2Mzk5XX0=
+eyJoaXN0b3J5IjpbLTU2Mjc3NjIwMywtMTQ5MzE3OTQyMSwtNj
+k2NTY0MzEwLC01MjE1OTIwMTEsMTY2OTE0OTMxNiwtODIzMTI5
+Njg4LC0xOTI1MjA4MzU1LDEyMDMxNzQ2NDksMTM0ODc0MzYwMC
+wxMzQ4NzQzNjAwLC01NjQ4Njg1OTIsOTUxOTY2ODk2LDEyMzEy
+ODEzNzIsMjAyNzU3MTU5NiwzOTcwODI4MDUsLTcwODAxOTczNS
+wxMzg4MDU1NzQsLTEzMjkyMzgyOTYsLTE2MDg1MzY2NjksLTE5
+Nzc2NjY4NDFdfQ==
 -->
