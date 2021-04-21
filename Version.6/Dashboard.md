@@ -508,7 +508,7 @@ In widget displaying first value and second value in one report.
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/W3.png?raw=true)
  <b><font color = "Black" >Image</font></b>
 
-## **Layout Split Width**
+## Layout Split Width**
 
 It describes the width between the reports which represents in dashboard.Default Layout Split Width is 8 which is shown while saving the dashboard.
 
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2OTE0OTMxNiwtODIzMTI5Njg4LC0xOT
-I1MjA4MzU1LDEyMDMxNzQ2NDksMTM0ODc0MzYwMCwxMzQ4NzQz
-NjAwLC01NjQ4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMj
-AyNzU3MTU5NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1
-NzQsLTEzMjkyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4ND
-EsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0MDYyMzE4MCw1MjUy
-NTg5MjZdfQ==
+eyJoaXN0b3J5IjpbLTEwODc3ODY2MjAsMTY2OTE0OTMxNiwtOD
+IzMTI5Njg4LC0xOTI1MjA4MzU1LDEyMDMxNzQ2NDksMTM0ODc0
+MzYwMCwxMzQ4NzQzNjAwLC01NjQ4Njg1OTIsOTUxOTY2ODk2LD
+EyMzEyODEzNzIsMjAyNzU3MTU5NiwzOTcwODI4MDUsLTcwODAx
+OTczNSwxMzg4MDU1NzQsLTEzMjkyMzgyOTYsLTE2MDg1MzY2Nj
+ksLTE5Nzc2NjY4NDEsLTE0Mjg0MzYzOTksMjExNzIwNzUzLDI0
+MDYyMzE4MF19
 -->
