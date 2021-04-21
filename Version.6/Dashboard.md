@@ -609,12 +609,12 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DM2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 
-## Dashboard Fading
+## Dasboard Fading
 
   
 
  
--   If at all need to do some changes on the dashboard according to business needs or else disabling the dashboard for certain period of time then we need to click on check box beside the Disabled as shown in below image 1 and click on update
+   If at all need to do some changes on the dashboard according to business needs or else disabling the dashboard for certain period of time then we need to click on check box beside the Disabled as shown in below image 1 and click on update
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DF2.png?raw=true)
 <b><font color = "Black" >Image </font></b>
@@ -622,7 +622,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 
   
 
--   Now the dasboard is faded as shown below. It signifies that the dashboard is not in use which cannot be opened.
+  Now the dasboard is faded as shown below. It signifies that the dashboard is not in use which cannot be opened.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DF3.png?raw=true)
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjU2NDMxMCwtNTIxNTkyMDExLDE2Nj
-kxNDkzMTYsLTgyMzEyOTY4OCwtMTkyNTIwODM1NSwxMjAzMTc0
-NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMCwtNTY0ODY4NTkyLD
-k1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1NzE1OTYsMzk3MDgy
-ODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC0xMzI5MjM4Mjk2LC
-0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0xNDI4NDM2Mzk5LDIx
-MTcyMDc1M119
+eyJoaXN0b3J5IjpbMTU2MzQxNjE0NCwtNjk2NTY0MzEwLC01Mj
+E1OTIwMTEsMTY2OTE0OTMxNiwtODIzMTI5Njg4LC0xOTI1MjA4
+MzU1LDEyMDMxNzQ2NDksMTM0ODc0MzYwMCwxMzQ4NzQzNjAwLC
+01NjQ4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMjAyNzU3
+MTU5NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1NzQsLT
+EzMjkyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0
+Mjg0MzYzOTldfQ==
 -->
