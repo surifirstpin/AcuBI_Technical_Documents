@@ -622,7 +622,7 @@ It displays all the fields which is required in dashboard .This applies to all t
 
   
 
-  Now the dasboard is faded as shown below. It signifies that the dashboard is not in use which cannot be opened.
+- Now the dasboard is faded as shown below. It signifies that the dashboard is not in use which cannot be opened.
 
 
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DF3.png?raw=true)
@@ -669,11 +669,11 @@ It displays all the fields which is required in dashboard .This applies to all t
 ![enter image description here](https://github.com/surifirstpin/AcuBI_Technical_Documents/blob/master/images/DG1.png?raw=true)
 <b><font color = "Black" >Image </font></b>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzQxNjE0NCwtNjk2NTY0MzEwLC01Mj
-E1OTIwMTEsMTY2OTE0OTMxNiwtODIzMTI5Njg4LC0xOTI1MjA4
-MzU1LDEyMDMxNzQ2NDksMTM0ODc0MzYwMCwxMzQ4NzQzNjAwLC
-01NjQ4Njg1OTIsOTUxOTY2ODk2LDEyMzEyODEzNzIsMjAyNzU3
-MTU5NiwzOTcwODI4MDUsLTcwODAxOTczNSwxMzg4MDU1NzQsLT
-EzMjkyMzgyOTYsLTE2MDg1MzY2NjksLTE5Nzc2NjY4NDEsLTE0
-Mjg0MzYzOTldfQ==
+eyJoaXN0b3J5IjpbLTE0OTMxNzk0MjEsLTY5NjU2NDMxMCwtNT
+IxNTkyMDExLDE2NjkxNDkzMTYsLTgyMzEyOTY4OCwtMTkyNTIw
+ODM1NSwxMjAzMTc0NjQ5LDEzNDg3NDM2MDAsMTM0ODc0MzYwMC
+wtNTY0ODY4NTkyLDk1MTk2Njg5NiwxMjMxMjgxMzcyLDIwMjc1
+NzE1OTYsMzk3MDgyODA1LC03MDgwMTk3MzUsMTM4ODA1NTc0LC
+0xMzI5MjM4Mjk2LC0xNjA4NTM2NjY5LC0xOTc3NjY2ODQxLC0x
+NDI4NDM2Mzk5XX0=
 -->
